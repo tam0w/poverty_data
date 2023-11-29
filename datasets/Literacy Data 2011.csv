@@ -1,0 +1,641 @@
+,District,State,Literacy
+1, Thane, Maharashtra, 84.53
+2, North Twenty Four Parganas, West Bengal, 84.06
+3, Bangalore, Karnataka, 87.67
+4, Pune, Maharashtra, 86.15
+5, Mumbai Suburban, Maharashtra, 89.91
+6, South Twenty Four Parganas, West Bengal, 77.51
+7, Barddhaman, West Bengal, 76.21
+8, Ahmadabad, Gujarat, 85.31
+9, Murshidabad, West Bengal, 66.59
+10, Jaipur, Rajasthan, 75.51
+11, Nashik, Maharashtra, 82.31
+12, Surat, Gujarat, 85.53
+13, Allahabad, Uttar Pradesh, 72.32
+14, Paschim Medinipur, West Bengal, 78.00
+15, Patna, Bihar, 70.68
+16, Hugli, West Bengal, 81.80
+17, Rangareddy, Andhra Pradesh, 75.87
+18, Nadia, West Bengal, 74.97
+19, East Godavari, Andhra Pradesh, 70.99
+20, Purbi Champaran, Bihar, 55.79
+21, Purba Medinipur, West Bengal, 87.02
+22, Guntur, Andhra Pradesh, 67.40
+23, Haora, West Bengal, 83.31
+24, Muzaffarpur, Bihar, 63.43
+25, Belgaum, Karnataka, 73.48
+26, Moradabad, Uttar Pradesh, 56.77
+27, Ghaziabad, Uttar Pradesh, 78.07
+28, Nagpur, Maharashtra, 88.39
+29, Chennai, Tamil Nadu, 90.18
+30, Azamgarh, Uttar Pradesh, 70.93
+31, Lucknow, Uttar Pradesh, 77.29
+32, Kanpur Nagar, Uttar Pradesh, 79.65
+33, Ahmadnagar, Maharashtra, 79.05
+34, Krishna, Andhra Pradesh, 73.74
+35, Kolkata, West Bengal, 86.31
+36, Jaunpur, Uttar Pradesh, 71.55
+37, Madhubani, Bihar, 58.62
+38, Sitapur, Uttar Pradesh, 61.12
+39, Bareilly, Uttar Pradesh, 58.49
+40, Gorakhpur, Uttar Pradesh, 70.83
+41, Agra, Uttar Pradesh, 71.58
+42, Gaya, Bihar, 63.67
+43, Solapur, Maharashtra, 77.02
+44, Visakhapatnam, Andhra Pradesh, 66.91
+45, Samastipur, Bihar, 61.86
+46, Jalgaon, Maharashtra, 78.20
+47, Chittoor, Andhra Pradesh, 71.53
+48, Vadodara, Gujarat, 78.92
+49, Muzaffarnagar, Uttar Pradesh, 69.12
+50, Malappuram, Kerala, 93.57
+51, Hardoi, Uttar Pradesh, 64.57
+52, Anantapur, Andhra Pradesh, 63.57
+53, Raipur, Chhattisgarh, 75.56
+54, Kurnool, Andhra Pradesh, 59.97
+55, Mahbubnagar, Andhra Pradesh, 55.04
+56, Kheri, Uttar Pradesh, 60.56
+57, Kancheepuram, Tamil Nadu, 84.49
+58, Maldah, West Bengal, 61.73
+59, Saran, Bihar, 65.96
+60, Hyderabad, Andhra Pradesh, 83.25
+61, Darbhanga, Bihar, 56.56
+62, West Godavari, Andhra Pradesh, 74.63
+63, Vellore, Tamil Nadu, 79.17
+64, Pashchim Champaran, Bihar, 55.70
+65, Kolhapur, Maharashtra, 81.51
+66, Jalpaiguri, West Bengal, 73.25
+67, Rajkot, Gujarat, 80.96
+68, Sultanpur, Uttar Pradesh, 69.27
+69, Karimnagar, Andhra Pradesh, 64.15
+70, Thiruvallur, Tamil Nadu, 84.03
+71, Aurangabad, Maharashtra, 79.02
+72, Jodhpur, Rajasthan, 65.94
+73, Bijnor, Uttar Pradesh, 68.48
+74, Budaun, Uttar Pradesh, 51.29
+75, Varanasi, Uttar Pradesh, 75.60
+76, Alwar, Rajasthan, 70.72
+77, Aligarh, Uttar Pradesh, 67.52
+78, North West Delhi, Delhi, 84.45
+79, Ghazipur, Uttar Pradesh, 71.78
+80, Bankura, West Bengal, 70.26
+81, Kushinagar, Uttar Pradesh, 65.25
+82, Ganjam, Orissa, 71.09
+83, Warangal, Andhra Pradesh, 65.11
+84, Birbhum, West Bengal, 70.68
+85, Bulandshahar, Uttar Pradesh, 68.88
+86, Ludhiana, Punjab, 82.20
+87, Vaishali, Bihar, 66.60
+88, Nalgonda, Andhra Pradesh, 64.20
+89, Bahraich, Uttar Pradesh, 49.36
+90, Salem, Tamil Nadu, 72.86
+91, Saharanpur, Uttar Pradesh, 70.49
+92, Viluppuram, Tamil Nadu, 71.88
+93, Coimbatore, Tamil Nadu, 83.98
+94, Meerut, Uttar Pradesh, 72.84
+95, Gonda, Uttar Pradesh, 58.71
+96, Sitamarhi, Bihar, 52.05
+97, Rae Bareli, Uttar Pradesh, 67.25
+98, Prakasam, Andhra Pradesh, 63.08
+99, Nanded, Maharashtra, 75.45
+100, Durg, Chhattisgarh, 79.06
+101, Siwan, Bihar, 69.45
+102, Nagaur, Rajasthan, 62.80
+103, Thiruvananthapuram, Kerala, 93.02
+104, Ernakulam, Kerala, 95.89
+105, Indore, Madhya Pradesh, 80.87
+106, Purnia, Bihar, 51.08
+107, Barabanki, Uttar Pradesh, 61.75
+108, Ballia, Uttar Pradesh, 70.94
+109, Pratapgarh, Uttar Pradesh, 70.09
+110, Thrissur, Kerala, 95.08
+111, Banaskantha, Gujarat, 65.32
+112, Unnao, Uttar Pradesh, 66.37
+113, Deoria, Uttar Pradesh, 71.13
+114, Kozhikode, Kerala, 95.08
+115, Mumbai City, Maharashtra, 89.21
+116, Tirunelveli, Tamil Nadu, 82.50
+117, Katihar, Bihar, 52.24
+118, Udaipur, Rajasthan, 61.82
+119, Madurai, Tamil Nadu, 83.45
+120, Bhagalpur, Bihar, 63.14
+121, Medak, Andhra Pradesh, 61.42
+122, Uttar Dinajpur, West Bengal, 59.07
+123, Shahjahanpur, Uttar Pradesh, 59.54
+124, Satara, Maharashtra, 82.87
+125, Mysore, Karnataka, 72.79
+126, Begusarai, Bihar, 63.87
+127, Sri Potti Sriramulu Nellore, Andhra Pradesh, 68.90
+128, Rohtas, Bihar, 73.37
+129, Puruliya, West Bengal, 64.48
+130, Ranchi, Jharkhand, 76.06
+131, Amravati, Maharashtra, 87.38
+132, YSR, Andhra Pradesh, 67.30
+133, Bhavnagar, Gujarat, 75.52
+134, Nalanda, Bihar, 64.43
+135, Nagaon, Assam, 72.37
+136, Sangli, Maharashtra, 81.48
+137, Koch Bihar, West Bengal, 74.78
+138, Araria, Bihar, 53.53
+139, Palakkad, Kerala, 89.31
+140, Khammam, Andhra Pradesh, 64.81
+141, Yavatmal, Maharashtra, 82.82
+142, Junagadh, Gujarat, 75.80
+143, Adilabad, Andhra Pradesh, 61.01
+144, South Delhi, Delhi, 86.57
+145, Bhojpur, Bihar, 70.47
+146, Tiruchirappalli, Tamil Nadu, 83.23
+147, Srikakulam, Andhra Pradesh, 61.74
+148, Maharajganj, Uttar Pradesh, 62.76
+149, Dhanbad, Jharkhand, 74.52
+150, Tumkur, Karnataka, 75.14
+151, Sikar, Rajasthan, 71.91
+152, Bilaspur, Chhattisgarh, 70.78
+153, Kollam, Kerala, 94.09
+154, Raigarh, Maharashtra, 83.14
+155, Fatehpur, Uttar Pradesh, 67.43
+156, Cuttack, Orissa, 85.50
+157, Cuddalore, Tamil Nadu, 78.04
+158, Barmer, Rajasthan, 56.53
+159, Buldana, Maharashtra, 83.40
+160, Bid, Maharashtra, 76.99
+161, Ajmer, Rajasthan, 69.33
+162, Gulbarga, Karnataka, 64.85
+163, Gopalganj, Bihar, 65.47
+164, Siddharth Nagar, Uttar Pradesh, 59.25
+165, Nizamabad, Andhra Pradesh, 61.25
+166, Bharatpur, Rajasthan, 70.11
+167, Mathura, Uttar Pradesh, 70.36
+168, West Delhi, Delhi, 86.98
+169, Aurangabad, Bihar, 70.32
+170, Kannur, Kerala, 95.10
+171, Mayurbhanj, Orissa, 63.17
+172, Firozabad, Uttar Pradesh, 71.92
+173, Mirzapur, Uttar Pradesh, 68.48
+174, Amritsar, Punjab, 76.27
+175, Tiruppur, Tamil Nadu, 78.68
+176, Faizabad, Uttar Pradesh, 68.73
+177, Tiruvannamalai, Tamil Nadu, 74.21
+178, Basti, Uttar Pradesh, 67.22
+179, Jabalpur, Madhya Pradesh, 81.07
+180, Latur, Maharashtra, 77.26
+181, Bellary, Karnataka, 67.43
+182, Giridih, Jharkhand, 63.14
+183, Sabarkantha, Gujarat, 75.79
+184, Bhilwara, Rajasthan, 61.37
+185, Thanjavur, Tamil Nadu, 82.64
+186, Ambedkar Nagar, Uttar Pradesh, 72.23
+187, PanchMahal, Gujarat, 70.99
+188, Sagar, Madhya Pradesh, 76.46
+189, Bhopal, Madhya Pradesh, 80.37
+190, Rewa, Madhya Pradesh, 71.62
+191, Bikaner, Rajasthan, 65.13
+192, Surguja, Chhattisgarh, 60.01
+193, Vizianagaram, Andhra Pradesh, 58.89
+194, Rampur, Uttar Pradesh, 53.34
+195, Baleshwar, Orissa, 79.79
+196, Kheda, Gujarat, 82.65
+197, Gurdaspur, Punjab, 79.95
+198, Purbi Singhbhum, Jharkhand, 75.49
+199, South West Delhi, Delhi, 88.28
+200, Erode, Tamil Nadu, 72.58
+201, Khordha, Orissa, 86.88
+202, North East Delhi, Delhi, 83.09
+203, Supaul, Bihar, 57.67
+204, Satna, Madhya Pradesh, 72.26
+205, Nawada, Bihar, 59.76
+206, Mau, Uttar Pradesh, 73.09
+207, Chandrapur, Maharashtra, 80.01
+208, Jalandhar, Punjab, 82.48
+209, Dhar, Madhya Pradesh, 59.00
+210, Bijapur, Karnataka, 67.15
+211, Jamnagar, Gujarat, 73.65
+212, Dindigul, Tamil Nadu, 76.26
+213, Balrampur, Uttar Pradesh, 49.51
+214, Jhunjhunun, Rajasthan, 74.13
+215, Alappuzha, Kerala, 95.72
+216, Dohad, Gujarat, 58.82
+217, Sundargarh, Orissa, 73.34
+218, Anand, Gujarat, 84.37
+219, Kachchh, Gujarat, 70.59
+220, Chhindwara, Madhya Pradesh, 71.16
+221, Dakshina Kannada, Karnataka, 88.57
+222, Bokaro, Jharkhand, 72.01
+223, Dhule, Maharashtra, 72.80
+224, Churu, Rajasthan, 66.75
+225, Pali, Rajasthan, 62.39
+226, Mahesana, Gujarat, 83.61
+227, Banka, Bihar, 58.17
+228, Gwalior, Madhya Pradesh, 76.65
+229, Pilibhit, Uttar Pradesh, 61.47
+230, Firozpur, Punjab, 68.92
+231, Madhepura, Bihar, 52.25
+232, Jhansi, Uttar Pradesh, 75.05
+233, Ujjain, Madhya Pradesh, 72.34
+234, Kottayam, Kerala, 97.21
+235, Ganganagar, Rajasthan, 69.64
+236, Morena, Madhya Pradesh, 71.03
+237, Jalna, Maharashtra, 71.52
+238, Chandauli, Uttar Pradesh, 71.48
+239, Kota, Rajasthan, 76.56
+240, Dhubri, Assam, 58.34
+241, Davanagere, Karnataka, 75.74
+242, Virudhunagar, Tamil Nadu, 80.15
+243, Palamu, Jharkhand, 63.63
+244, Raichur, Karnataka, 59.56
+245, Sonitpur, Assam, 67.34
+246, Saharsa, Bihar, 53.20
+247, Patiala, Punjab, 75.28
+248, Haridwar, Uttarakhand, 73.43
+249, Bagalkot, Karnataka, 68.82
+250, Farrukhabad, Uttar Pradesh, 69.04
+251, Krishnagiri, Tamil Nadu, 71.46
+252, West Nimar, Madhya Pradesh, 62.70
+253, Kanniyakumari, Tamil Nadu, 91.75
+254, Mainpuri, Uttar Pradesh, 75.99
+255, Sonbhadra, Uttar Pradesh, 64.03
+256, Dharwad, Karnataka, 80.00
+257, Darjiling, West Bengal, 79.56
+258, Jyotiba Phule Nagar, Uttar Pradesh, 63.84
+259, Parbhani, Maharashtra, 73.34
+260, Jalor, Rajasthan, 54.86
+261, Jajapur, Orissa, 80.13
+262, Akola, Maharashtra, 88.05
+263, Faridabad, Haryana, 81.70
+264, Mandya, Karnataka, 70.40
+265, Kendujhar, Orissa, 68.24
+266, Banda, Uttar Pradesh, 66.67
+267, Banswara, Rajasthan, 56.33
+268, Ramabai Nagar, Uttar Pradesh, 75.78
+269, Hassan, Karnataka, 76.07
+270, Hanumangarh, Rajasthan, 67.13
+271, Etah, Uttar Pradesh, 70.81
+272, Chhattarpur, Madhya Pradesh, 63.74
+273, Jamui, Bihar, 59.79
+274, Surendranagar, Gujarat, 72.13
+275, Shimoga, Karnataka, 80.45
+276, Thoothukkudi, Tamil Nadu, 86.16
+277, Hisar, Haryana, 72.89
+278, Cachar, Assam, 79.34
+279, Hazaribagh, Jharkhand, 69.75
+280, Namakkal, Tamil Nadu, 74.63
+281, Shivpuri, Madhya Pradesh, 62.55
+282, West Tripura, Tripura, 88.69
+283, Sant Kabir Nagar, Uttar Pradesh, 66.72
+284, East Delhi, Delhi, 89.31
+285, Buxar, Bihar, 70.14
+286, Valsad, Gujarat, 78.55
+287, Bidar, Karnataka, 70.51
+288, Bhind, Madhya Pradesh, 75.26
+289, Balaghat, Madhya Pradesh, 77.09
+290, Puri, Orissa, 84.67
+291, Dehradun, Uttarakhand, 84.25
+292, Barpeta, Assam, 63.81
+293, Kishanganj, Bihar, 55.46
+294, Jalaun, Uttar Pradesh, 73.75
+295, Dakshin Dinajpur, West Bengal, 72.82
+296, Khagaria, Bihar, 57.92
+297, Chitradurga, Karnataka, 73.71
+298, Osmanabad, Maharashtra, 78.44
+299, Kannauj, Uttar Pradesh, 72.70
+300, Sangrur, Punjab, 67.99
+301, Balangir, Orissa, 64.72
+302, Udham Singh Nagar, Uttarakhand, 73.10
+303, Nandurbar, Maharashtra, 64.38
+304, Gautam Buddha Nagar, Uttar Pradesh, 80.12
+305, Bhiwani, Haryana, 75.21
+306, Dausa, Rajasthan, 68.16
+307, Kaimur, Bihar, 69.34
+308, Janjgir Champa, Chhattisgarh, 73.07
+309, Pudukkottai, Tamil Nadu, 77.19
+310, Nagapattinam, Tamil Nadu, 83.59
+311, Ratnagiri, Maharashtra, 82.18
+312, Kaushambi, Uttar Pradesh, 61.28
+313, Haveri, Karnataka, 77.40
+314, Hoshiarpur, Punjab, 84.59
+315, Etawah, Uttar Pradesh, 78.41
+316, Sant Ravidas Nagar, Uttar Pradesh, 68.97
+317, Kalahandi, Orissa, 59.22
+318, Betul, Madhya Pradesh, 68.90
+319, Mahamaya Nagar, Uttar Pradesh, 71.59
+320, Dewas, Madhya Pradesh, 69.35
+321, Bharuch, Gujarat, 81.51
+322, Rajgarh, Madhya Pradesh, 61.21
+323, Chittaurgarh, Rajasthan, 61.71
+324, Rajnandgaon, Chhattisgarh, 75.96
+325, Kolar, Karnataka, 74.39
+326, Jammu, Jammu and Kashmir, 83.45
+327, Kamrup, Assam, 75.55
+328, Gurgaon, Haryana, 84.70
+329, Amreli, Gujarat, 74.25
+330, Shajapur, Madhya Pradesh, 69.09
+331, Kangra, Himachal Pradesh, 85.67
+332, Dharmapuri, Tamil Nadu, 68.54
+333, Bhadrak, Orissa, 82.78
+334, Karnal, Haryana, 74.73
+335, Pashchimi Singhbhum, Jharkhand, 58.63
+336, Raigarh, Chhattisgarh, 73.26
+337, Deoghar, Jharkhand, 64.85
+338, Bargarh, Orissa, 74.62
+339, Vidisha, Madhya Pradesh, 70.53
+340, Karauli, Rajasthan, 66.22
+341, Ratlam, Madhya Pradesh, 66.78
+342, Sonipat, Haryana, 79.12
+343, Tikamgarh, Madhya Pradesh, 61.43
+344, Kendrapara, Orissa, 85.15
+345, Uttara Kannada, Karnataka, 84.06
+346, Kanshiram Nagar, Uttar Pradesh, 61.02
+347, Tonk, Rajasthan, 61.58
+348, Bastar, Chhattisgarh, 54.40
+349, Jhalawar, Rajasthan, 61.50
+350, Gandhinagar, Gujarat, 84.16
+351, Koppal, Karnataka, 68.09
+352, Dungarpur, Rajasthan, 59.46
+353, Bathinda, Punjab, 68.28
+354, Barwani, Madhya Pradesh, 49.08
+355, Koraput, Orissa, 49.21
+356, Auraiya, Uttar Pradesh, 78.95
+357, Seoni, Madhya Pradesh, 72.12
+358, Munger, Bihar, 70.46
+359, Ramanathapuram, Tamil Nadu, 80.72
+360, Patan, Gujarat, 72.30
+361, Mandsaur, Madhya Pradesh, 71.78
+362, Sivaganga, Tamil Nadu, 79.85
+363, Sawai Madhopur, Rajasthan, 65.39
+364, Jind, Haryana, 71.44
+365, Raisen, Madhya Pradesh, 72.98
+366, Navsari, Gujarat, 83.88
+367, Tinsukia, Assam, 69.66
+368, Dibrugarh, Assam, 76.05
+369, Garhwa, Jharkhand, 60.33
+370, Gondiya, Maharashtra, 84.95
+371, Dumka, Jharkhand, 61.02
+372, Godda, Jharkhand, 56.40
+373, Sehore, Madhya Pradesh, 70.06
+374, East Nimar, Madhya Pradesh, 66.39
+375, Kasaragod, Kerala, 90.09
+376, Baghpat, Uttar Pradesh, 72.01
+377, Wardha, Maharashtra, 86.99
+378, Sirsa, Haryana, 68.82
+379, Katni, Madhya Pradesh, 71.98
+380, Anugul, Orissa, 77.53
+381, Thiruvarur, Tamil Nadu, 82.86
+382, Damoh, Madhya Pradesh, 69.73
+383, Chikkaballapura, Karnataka, 69.76
+384, Kamrup Metropolitan, Assam, 88.71
+385, Theni, Tamil Nadu, 77.26
+386, Guna, Madhya Pradesh, 63.23
+387, Hoshangabad, Madhya Pradesh, 75.29
+388, Srinagar, Jammu and Kashmir, 69.41
+389, Karimganj, Assam, 78.22
+390, Baran, Rajasthan, 66.66
+391, Lalitpur, Uttar Pradesh, 63.52
+392, Nabarangapur, Orissa, 46.43
+393, Yamunanagar, Haryana, 77.99
+394, Korba, Chhattisgarh, 72.37
+395, Dhaulpur, Rajasthan, 69.08
+396, Panipat, Haryana, 75.94
+397, Bhandara, Maharashtra, 83.76
+398, Pathanamthitta, Kerala, 96.55
+399, Washim, Maharashtra, 83.25
+400, Dhenkanal, Orissa, 78.76
+401, Singrauli, Madhya Pradesh, 60.41
+402, Udupi, Karnataka, 86.24
+403, Hingoli, Maharashtra, 78.17
+404, Yadgir, Karnataka, 51.83
+405, Rajsamand, Rajasthan, 63.14
+406, Sivasagar, Assam, 80.41
+407, Sahibganj, Jharkhand, 52.04
+408, Chikmagalur, Karnataka, 79.25
+409, Jagatsinghapur, Orissa, 86.59
+410, Ambala, Haryana, 81.75
+411, Sidhi, Madhya Pradesh, 64.43
+412, Jehanabad, Bihar, 66.80
+413, Tarn Taran, Punjab, 67.81
+414, Shrawasti, Uttar Pradesh, 46.74
+415, Bundi, Rajasthan, 61.52
+416, Idukki, Kerala, 91.99
+417, Hamirpur, Uttar Pradesh, 68.77
+418, Jorhat, Assam, 82.15
+419, Narsimhapur, Madhya Pradesh, 75.69
+420, Mewat, Haryana, 54.08
+421, Ramanagara, Karnataka, 69.22
+422, Anantnag, Jammu and Kashmir, 62.69
+423, Kaithal, Haryana, 69.15
+424, Gadchiroli, Maharashtra, 74.36
+425, Golaghat, Assam, 77.43
+426, Shahdol, Madhya Pradesh, 66.67
+427, Saraikela Kharsawan, Jharkhand, 67.70
+428, Gadag, Karnataka, 75.12
+429, Karur, Tamil Nadu, 75.60
+430, Rohtak, Haryana, 80.22
+431, Chandigarh, Chandigarh, 86.05
+432, Mandla, Madhya Pradesh, 66.87
+433, Chatra, Jharkhand, 60.18
+434, Palwal, Haryana, 69.32
+435, Lakhimpur, Assam, 77.20
+436, Sambalpur, Orissa, 76.22
+437, Sirohi, Rajasthan, 55.25
+438, Mahasamund, Chhattisgarh, 71.02
+439, Gumla, Jharkhand, 65.73
+440, Jhabua, Madhya Pradesh, 43.30
+441, Chamarajanagar, Karnataka, 61.43
+442, Panna, Madhya Pradesh, 64.79
+443, Goalpara, Assam, 67.37
+444, Baramula, Jammu and Kashmir, 64.63
+445, Lakhisarai, Bihar, 62.42
+446, Mandi, Himachal Pradesh, 81.53
+447, Moga, Punjab, 70.68
+448, Mohali, Punjab, 83.80
+449, Chitrakoot, Uttar Pradesh, 65.05
+450, Bangalore Rural, Karnataka, 77.93
+451, Rayagada, Orissa, 49.76
+452, Kurukshetra, Haryana, 76.31
+453, Nayagarh, Orissa, 80.42
+454, Jhajjar, Haryana, 80.65
+455, Morigaon, Assam, 68.03
+456, Karbi Anglong, Assam, 69.25
+457, Nainital, Uttarakhand, 83.88
+458, Puducherry, Puducherry, 85.44
+459, Baksa, Assam, 69.25
+460, Ramgarh, Jharkhand, 73.17
+461, Fatehabad, Haryana, 67.92
+462, Darrang, Assam, 63.08
+463, Mahendragarh, Haryana, 77.72
+464, Muktsar, Punjab, 65.81
+465, Pakur, Jharkhand, 48.82
+466, Rewari, Haryana, 80.99
+467, North Delhi, Delhi, 86.85
+468, Kokrajhar, Assam, 65.22
+469, South Tripura, Tripura, 84.66
+470, Mahoba, Uttar Pradesh, 65.27
+471, Kupwara, Jammu and Kashmir, 64.51
+472, Pratapgarh, Rajasthan, 55.97
+473, Jashpur, Chhattisgarh, 67.92
+474, Sindhudurg, Maharashtra, 85.56
+475, Ashoknagar, Madhya Pradesh, 66.42
+476, Udalguri, Assam, 65.41
+477, Neemuch, Madhya Pradesh, 70.80
+478, East Khasi Hills, Meghalaya, 84.15
+479, Kabirdham, Chhattisgarh, 60.85
+480, North Goa, Goa, 89.57
+481, Wayanad, Kerala, 89.03
+482, Kapurthala, Punjab, 79.07
+483, Shimla, Himachal Pradesh, 83.64
+484, Tapi, Gujarat, 68.26
+485, Dhamtari, Chhattisgarh, 78.36
+486, Jamtara, Jharkhand, 64.59
+487, Datia, Madhya Pradesh, 72.63
+488, Nalbari, Assam, 78.63
+489, Mansa, Punjab, 61.83
+490, Burhanpur, Madhya Pradesh, 64.36
+491, Ariyalur, Tamil Nadu, 71.34
+492, Badgam, Jammu and Kashmir, 56.08
+493, Anuppur, Madhya Pradesh, 67.88
+494, Kanker, Chhattisgarh, 70.29
+495, Bongaigaon, Assam, 69.74
+496, The Nilgiris, Tamil Nadu, 85.20
+497, Kandhamal, Orissa, 64.13
+498, Alirajpur, Madhya Pradesh, 36.10
+499, Latehar, Jharkhand, 59.51
+500, Kodarma, Jharkhand, 66.84
+501, Dindori, Madhya Pradesh, 63.90
+502, Arwal, Bihar, 67.43
+503, North Tripura, Tripura, 87.50
+504, Sheopur, Madhya Pradesh, 57.43
+505, Pauri Garhwal, Uttarakhand, 82.02
+506, Dhemaji, Assam, 72.70
+507, Rupnagar, Punjab, 82.19
+508, Jaisalmer, Rajasthan, 57.22
+509, Hailakandi, Assam, 74.33
+510, Korea, Chhattisgarh, 70.64
+511, Sheohar, Bihar, 53.78
+512, Umaria, Madhya Pradesh, 65.89
+513, West Garo Hills, Meghalaya, 67.58
+514, Rajouri, Jammu and Kashmir, 68.17
+515, South Goa, Goa, 87.59
+516, Sheikhpura, Bihar, 63.86
+517, Almora, Uttarakhand, 80.47
+518, Tehri Garhwal, Uttarakhand, 76.36
+519, Faridkot, Punjab, 69.55
+520, Kathua, Jammu and Kashmir, 73.09
+521, Malkangiri, Orissa, 48.54
+522, Shahid Bhagat Singh Nagar, Punjab, 79.78
+523, Nuapada, Orissa, 57.35
+524, Subarnapur, Orissa, 74.42
+525, Fatehgarh Sahib, Punjab, 79.35
+526, Simdega, Jharkhand, 67.99
+527, Barnala, Punjab, 67.82
+528, Narmada, Gujarat, 72.31
+529, Porbandar, Gujarat, 75.78
+530, Central Delhi, Delhi, 85.14
+531, Solan, Himachal Pradesh, 83.68
+532, Jharsuguda, Orissa, 78.86
+533, Gajapati, Orissa, 53.49
+534, Harda, Madhya Pradesh, 72.50
+535, Perambalur, Tamil Nadu, 74.32
+536, Panchkula, Haryana, 81.88
+537, Pulwama, Jammu and Kashmir, 63.48
+538, Udhampur, Jammu and Kashmir, 68.49
+539, Kodagu, Karnataka, 82.61
+540, Dantewada, Chhattisgarh, 42.12
+541, Khunti, Jharkhand, 63.86
+542, Sirmaur, Himachal Pradesh, 78.80
+543, Una, Himachal Pradesh, 86.53
+544, Chamba, Himachal Pradesh, 72.17
+545, Imphal West, Manipur, 86.08
+546, Pithoragarh, Uttarakhand, 82.25
+547, Chirang, Assam, 63.55
+548, Senapati, Manipur, 63.60
+549, Punch, Jammu and Kashmir, 66.74
+550, Lohardaga, Jharkhand, 67.61
+551, Imphal East, Manipur, 81.95
+552, Hamirpur, Himachal Pradesh, 88.15
+553, Baudh, Orissa, 71.61
+554, Kullu, Himachal Pradesh, 79.40
+555, Kulgam, Jammu and Kashmir, 59.23
+556, Thoubal, Manipur, 74.47
+557, Doda, Jammu and Kashmir, 64.68
+558, Aizawl, Mizoram, 97.89
+559, Jaintia Hills, Meghalaya, 61.64
+560, Bandipora, Jammu and Kashmir, 56.28
+561, Chamoli, Uttarakhand, 82.65
+562, West Khasi Hills, Meghalaya, 77.87
+563, Bilaspur, Himachal Pradesh, 84.59
+564, Dimapur, Nagaland, 84.79
+565, Dhalai, Tripura, 85.72
+566, Dadra and Nagar Haveli, Dadra and Nagar Haveli, 76.24
+567, Uttarkashi, Uttarakhand, 75.81
+568, Samba, Jammu and Kashmir, 81.41
+569, East Garo Hills, Meghalaya, 73.95
+570, Reasi, Jammu and Kashmir, 58.15
+571, Debagarh, Orissa, 72.57
+572, Ganderbal, Jammu and Kashmir, 58.04
+573, Ramban, Jammu and Kashmir, 54.27
+574, East Sikkim, Sikkim, 83.85
+575, Churachandpur, Manipur, 82.78
+576, Kohima, Nagaland, 85.23
+577, Shupiyan, Jammu and Kashmir, 60.76
+578, Bageshwar, Uttarakhand, 80.01
+579, Champawat, Uttarakhand, 79.83
+580, Ri Bhoi, Meghalaya, 75.67
+581, Bijapur, Chhattisgarh, 40.86
+582, Mon, Nagaland, 56.99
+583, Rudraprayag, Uttarakhand, 81.30
+584, South Andaman, Andaman And Nicobar Islands, 89.13
+585, Bishnupur, Manipur, 75.85
+586, Kishtwar, Jammu and Kashmir, 56.20
+587, The Dangs, Gujarat, 75.16
+588, Dima Hasao, Assam, 77.54
+589, Karaikal, Puducherry, 87.05
+590, Tuensang, Nagaland, 73.08
+591, Mokokchung, Nagaland, 91.62
+592, Daman, Daman and Diu, 88.07
+593, Ukhrul, Manipur, 81.35
+594, Papumpare, Arunachal Pradesh, 79.95
+595, Wokha, Nagaland, 87.69
+596, Phek, Nagaland, 78.05
+597, Lunglei, Mizoram, 88.86
+598, Changlang, Arunachal Pradesh, 59.80
+599, South Sikkim, Sikkim, 81.42
+600, Lohit, Arunachal Pradesh, 68.18
+601, Chandel, Manipur, 71.11
+602, South Garo Hills, Meghalaya, 71.72
+603, New Delhi, Delhi, 88.34
+604, Kargil, Jammu and Kashmir, 71.34
+605, Zunheboto, Nagaland, 85.26
+606, Tamenglong, Manipur, 70.05
+607, Narayanpur, Chhattisgarh, 48.62
+608, West Sikkim, Sikkim, 77.39
+609, Leh, Jammu and Kashmir, 77.20
+610, Champhai, Mizoram, 95.91
+611, Lawngtlai, Mizoram, 65.88
+612, West Siang, Arunachal Pradesh, 66.46
+613, Tirap, Arunachal Pradesh, 52.19
+614, North And Middle Andaman, Andaman And Nicobar Islands, 83.91
+615, East Siang, Arunachal Pradesh, 72.54
+616, Peren, Nagaland, 77.95
+617, Kurung Kumey, Arunachal Pradesh, 48.75
+618, Mamit, Mizoram, 84.93
+619, Kinnaur, Himachal Pradesh, 80.00
+620, Kolasib, Mizoram, 93.50
+621, West Kameng, Arunachal Pradesh, 67.07
+622, Upper Subansiri, Arunachal Pradesh, 63.80
+623, Lower Subansiri, Arunachal Pradesh, 74.35
+624, East Kameng, Arunachal Pradesh, 60.02
+625, Kiphire, Nagaland, 69.54
+626, Serchhip, Mizoram, 97.91
+627, Lakshadweep, Lakshadweep, 91.85
+628, Saiha, Mizoram, 90.01
+629, Yanam, Puducherry, 79.47
+630, Lower Dibang Valley, Arunachal Pradesh, 69.13
+631, Diu, Daman and Diu, 83.46
+632, Longleng, Nagaland, 72.17
+633, Tawang, Arunachal Pradesh, 59.00
+634, North Sikkim, Sikkim, 78.01
+635, Mahe, Puducherry, 97.87
+636, Nicobars, Andaman And Nicobar Islands, 78.06
+637, Upper Siang, Arunachal Pradesh, 59.99
+638, Lahul and Spiti, Himachal Pradesh, 76.81
+639, Anjaw, Arunachal Pradesh, 56.46
+640, Dibang Valley, Arunachal Pradesh, 64.10

@@ -1,0 +1,448 @@
+state_name,year,convicts_admitted,habitual_offenders
+Andhra Pradesh,2001,17345,1063
+Andhra Pradesh,2002,13322,318
+Andhra Pradesh,2003,15682,536
+Andhra Pradesh,2004,14397,399
+Andhra Pradesh,2005,12389,977
+Andhra Pradesh,2006,13869,3625
+Andhra Pradesh,2007,15550,1267
+Andhra Pradesh,2008,13999,1231
+Andhra Pradesh,2009,12644,898
+Andhra Pradesh,2010,13122,1094
+Andhra Pradesh,2011,14577,1501
+Andhra Pradesh,2012,9700,1328
+Arunachal Pradesh,2009,2,0
+Arunachal Pradesh,2010,9,0
+Arunachal Pradesh,2011,9,0
+Arunachal Pradesh,2012,9,0
+Assam,2001,2249,25
+Assam,2002,2712,19
+Assam,2003,2297,38
+Assam,2004,2594,336
+Assam,2005,2459,187
+Assam,2006,3721,38
+Assam,2007,3022,56
+Assam,2008,2907,64
+Assam,2009,2397,189
+Assam,2010,1941,9
+Assam,2011,1802,31
+Assam,2012,2152,126
+Bihar,2001,19469,1204
+Bihar,2002,12078,259
+Bihar,2003,663,257
+Bihar,2004,8089,2254
+Bihar,2005,10184,319
+Bihar,2006,11833,238
+Bihar,2007,13148,217
+Bihar,2008,14918,193
+Bihar,2009,12136,72
+Bihar,2010,12658,57
+Bihar,2011,8165,232
+Bihar,2012,8013,69
+Chhattisgarh,2012,3559,62
+Chhattisgarh,2001,5327,1
+Chhattisgarh,2002,5794,0
+Chhattisgarh,2003,10965,153
+Chhattisgarh,2004,6078,9
+Chhattisgarh,2005,2450,6
+Chhattisgarh,2006,2946,0
+Chhattisgarh,2007,3467,0
+Chhattisgarh,2008,3118,0
+Chhattisgarh,2009,3784,0
+Chhattisgarh,2010,3733,417
+Chhattisgarh,2011,4274,41
+Goa,2001,156,7
+Goa,2002,161,2
+Goa,2003,100,4
+Goa,2004,160,0
+Goa,2005,89,0
+Goa,2006,103,0
+Goa,2007,80,0
+Goa,2008,85,0
+Goa,2009,103,0
+Goa,2010,128,4
+Goa,2011,138,3
+Goa,2012,135,4
+Gujarat,2001,5068,24
+Gujarat,2002,5834,4
+Gujarat,2003,8014,2
+Gujarat,2004,10700,12
+Gujarat,2005,8440,15
+Gujarat,2006,13474,12
+Gujarat,2007,10577,27
+Gujarat,2008,5562,13
+Gujarat,2009,6878,6
+Gujarat,2010,7348,0
+Gujarat,2011,7842,0
+Gujarat,2012,6885,0
+Haryana,2001,3380,46
+Haryana,2002,3341,0
+Haryana,2003,5589,73
+Haryana,2004,4810,67
+Haryana,2005,4911,75
+Haryana,2006,2269,67
+Haryana,2007,23300,99
+Haryana,2008,5844,75
+Haryana,2009,4284,83
+Haryana,2010,4893,42
+Haryana,2011,4752,267
+Haryana,2012,4383,102
+Himachal Pradesh,2001,400,0
+Himachal Pradesh,2002,286,8
+Himachal Pradesh,2003,134,3
+Himachal Pradesh,2004,197,1
+Himachal Pradesh,2005,0,0
+Himachal Pradesh,2006,208,3
+Himachal Pradesh,2007,691,18
+Himachal Pradesh,2008,555,3
+Himachal Pradesh,2009,406,1
+Himachal Pradesh,2010,473,0
+Himachal Pradesh,2011,454,0
+Himachal Pradesh,2012,615,0
+Jammu & Kashmir,2001,216,2
+Jammu & Kashmir,2002,197,2
+Jammu & Kashmir,2003,212,0
+Jammu & Kashmir,2004,363,2
+Jammu & Kashmir,2005,352,2
+Jammu & Kashmir,2006,496,1
+Jammu & Kashmir,2007,0,0
+Jammu & Kashmir,2008,324,0
+Jammu & Kashmir,2009,160,0
+Jammu & Kashmir,2010,232,4
+Jammu & Kashmir,2011,245,2
+Jammu & Kashmir,2012,451,1
+Jharkhand,2001,4693,138
+Jharkhand,2002,4419,583
+Jharkhand,2003,11168,271
+Jharkhand,2004,12097,149
+Jharkhand,2005,7183,140
+Jharkhand,2006,8304,168
+Jharkhand,2007,6183,172
+Jharkhand,2008,6628,309
+Jharkhand,2009,5059,149
+Jharkhand,2010,3836,112
+Jharkhand,2011,3723,195
+Jharkhand,2012,3518,733
+Karnataka,2001,532,4
+Karnataka,2002,6732,3
+Karnataka,2003,7129,3
+Karnataka,2004,7248,0
+Karnataka,2005,7791,1
+Karnataka,2006,7633,3
+Karnataka,2007,37046,4
+Karnataka,2008,7414,3
+Karnataka,2009,13414,3
+Karnataka,2010,31473,4
+Karnataka,2011,27303,4
+Karnataka,2012,31173,19
+Kerala,2001,2856,731
+Kerala,2002,2760,612
+Kerala,2003,2853,721
+Kerala,2004,2788,748
+Kerala,2005,2806,718
+Kerala,2006,4655,1047
+Kerala,2007,4369,1152
+Kerala,2008,4952,975
+Kerala,2009,5833,761
+Kerala,2010,9452,487
+Kerala,2011,6890,767
+Kerala,2012,7912,862
+Madhya Pradesh,2001,17941,40
+Madhya Pradesh,2002,16325,632
+Madhya Pradesh,2003,17804,634
+Madhya Pradesh,2004,20461,678
+Madhya Pradesh,2005,21285,186
+Madhya Pradesh,2006,23087,162
+Madhya Pradesh,2007,21450,139
+Madhya Pradesh,2008,19217,278
+Madhya Pradesh,2009,14991,175
+Madhya Pradesh,2010,15984,126
+Madhya Pradesh,2011,12838,126
+Madhya Pradesh,2012,14402,128
+Maharashtra,2001,32851,246
+Maharashtra,2002,37396,251
+Maharashtra,2003,30384,172
+Maharashtra,2004,31777,57
+Maharashtra,2005,31284,68
+Maharashtra,2006,32230,32
+Maharashtra,2007,29471,8
+Maharashtra,2008,24572,4
+Maharashtra,2009,22555,55
+Maharashtra,2010,26289,20
+Maharashtra,2011,20823,18
+Maharashtra,2012,21355,0
+Manipur,2001,5,0
+Manipur,2002,21,0
+Manipur,2003,9,0
+Manipur,2004,28,0
+Manipur,2005,7,0
+Manipur,2006,12,0
+Manipur,2007,30,0
+Manipur,2008,20,0
+Manipur,2009,46,0
+Manipur,2010,45,0
+Manipur,2011,30,0
+Manipur,2012,98,0
+Meghalaya,2001,62,15
+Meghalaya,2002,98,7
+Meghalaya,2003,83,63
+Meghalaya,2004,73,47
+Meghalaya,2005,59,0
+Meghalaya,2006,136,24
+Meghalaya,2007,53,30
+Meghalaya,2008,98,25
+Meghalaya,2009,115,28
+Meghalaya,2010,37,2
+Meghalaya,2011,17,3
+Meghalaya,2012,56,0
+Mizoram,2001,1844,460
+Mizoram,2002,102,25
+Mizoram,2003,4003,1275
+Mizoram,2004,4208,981
+Mizoram,2005,3205,840
+Mizoram,2006,2556,673
+Mizoram,2007,2127,396
+Mizoram,2008,2799,546
+Mizoram,2009,2805,321
+Mizoram,2010,2278,169
+Mizoram,2011,1884,155
+Mizoram,2012,2122,218
+Nagaland,2001,8,1
+Nagaland,2002,17,0
+Nagaland,2003,15,0
+Nagaland,2004,73,0
+Nagaland,2005,44,0
+Nagaland,2006,12,0
+Nagaland,2007,32,23
+Nagaland,2008,51,13
+Nagaland,2009,72,18
+Nagaland,2010,21,13
+Nagaland,2011,118,13
+Nagaland,2012,152,20
+Orissa,2001,3014,70
+Orissa,2002,3400,35
+Orissa,2003,2811,43
+Orissa,2004,3539,33
+Orissa,2005,3634,45
+Orissa,2006,1948,12
+Orissa,2007,2223,15
+Orissa,2008,2088,31
+Orissa,2009,2690,23
+Orissa,2010,2412,19
+Orissa,2011,1928,17
+Orissa,2012,2146,170
+Punjab,2001,575,118
+Punjab,2002,3203,336
+Punjab,2003,5092,195
+Punjab,2004,5275,206
+Punjab,2005,4850,218
+Punjab,2006,4798,238
+Punjab,2007,4691,193
+Punjab,2008,4566,176
+Punjab,2009,6320,183
+Punjab,2010,6266,90
+Punjab,2011,7524,187
+Punjab,2012,8713,421
+Rajasthan,2001,10895,489
+Rajasthan,2002,12405,186
+Rajasthan,2003,13314,176
+Rajasthan,2004,10782,192
+Rajasthan,2005,10288,206
+Rajasthan,2006,11476,181
+Rajasthan,2007,11365,237
+Rajasthan,2008,9906,240
+Rajasthan,2009,8889,312
+Rajasthan,2010,7687,149
+Rajasthan,2011,9326,360
+Rajasthan,2012,6083,261
+Sikkim,2001,77,6
+Sikkim,2002,240,5
+Sikkim,2003,29,17
+Sikkim,2004,43,12
+Sikkim,2005,40,10
+Sikkim,2006,96,4
+Sikkim,2007,86,6
+Sikkim,2008,40,4
+Sikkim,2009,143,14
+Sikkim,2010,126,18
+Sikkim,2011,58,5
+Sikkim,2012,98,17
+Tamilnadu,2001,5232,1348
+Tamilnadu,2002,9362,4371
+Tamilnadu,2003,10361,5371
+Tamilnadu,2004,10415,5375
+Tamilnadu,2005,9583,1845
+Tamilnadu,2006,9475,1764
+Tamilnadu,2007,4955,1426
+Tamilnadu,2008,7450,454
+Tamilnadu,2009,4828,427
+Tamilnadu,2010,4958,288
+Tamilnadu,2011,4112,72
+Tamilnadu,2012,3046,127
+Tripura,2001,295,7
+Tripura,2002,591,0
+Tripura,2003,84,0
+Tripura,2004,203,46
+Tripura,2005,554,28
+Tripura,2006,926,16
+Tripura,2007,1163,7
+Tripura,2008,312,49
+Tripura,2009,1395,47
+Tripura,2010,1245,15
+Tripura,2011,1311,18
+Tripura,2012,1359,22
+Uttar Pradesh,2001,20458,722
+Uttar Pradesh,2002,44180,2648
+Uttar Pradesh,2003,38215,4182
+Uttar Pradesh,2004,8787,183
+Uttar Pradesh,2005,42541,2213
+Uttar Pradesh,2006,54865,2008
+Uttar Pradesh,2007,58832,5023
+Uttar Pradesh,2008,64450,3433
+Uttar Pradesh,2009,61076,3678
+Uttar Pradesh,2010,62338,3628
+Uttar Pradesh,2011,61291,3603
+Uttar Pradesh,2012,60909,4245
+Uttaranchal,2001,836,7
+Uttaranchal,2002,913,19
+Uttaranchal,2003,882,0
+Uttaranchal,2004,916,0
+Uttaranchal,2005,1144,46
+Uttaranchal,2006,986,18
+Uttaranchal,2007,787,86
+Uttaranchal,2008,1067,81
+Uttaranchal,2009,1253,6
+Uttaranchal,2010,1465,5
+Uttaranchal,2011,1500,4
+Uttaranchal,2012,1644,2
+West Bengal,2001,30165,1811
+West Bengal,2002,24614,1253
+West Bengal,2003,29625,1712
+West Bengal,2004,29115,1803
+West Bengal,2005,3412,1867
+West Bengal,2006,31395,1657
+West Bengal,2007,31300,1700
+West Bengal,2008,31700,1950
+West Bengal,2009,10890,2100
+West Bengal,2010,12150,1940
+West Bengal,2011,10259,1470
+West Bengal,2012,8650,1207
+A & N Islands,2001,383,19
+A & N Islands,2002,0,19
+A & N Islands,2003,397,17
+A & N Islands,2004,418,15
+A & N Islands,2005,390,43
+A & N Islands,2006,390,43
+A & N Islands,2007,562,28
+A & N Islands,2008,574,23
+A & N Islands,2009,340,32
+A & N Islands,2010,318,47
+A & N Islands,2011,350,15
+A & N Islands,2012,1398,25
+Chandigarh,2001,137,12
+Chandigarh,2002,204,8
+Chandigarh,2003,211,15
+Chandigarh,2004,168,7
+Chandigarh,2005,157,66
+Chandigarh,2006,232,49
+Chandigarh,2007,267,8
+Chandigarh,2008,226,6
+Chandigarh,2009,260,11
+Chandigarh,2010,199,7
+Chandigarh,2011,204,12
+Chandigarh,2012,280,26
+D & N Haveli,2001,0,0
+D & N Haveli,2002,0,0
+D & N Haveli,2003,0,0
+D & N Haveli,2004,0,0
+D & N Haveli,2005,0,0
+D & N Haveli,2006,0,0
+D & N Haveli,2007,0,0
+D & N Haveli,2008,11,0
+D & N Haveli,2009,2,0
+D & N Haveli,2010,5,1
+D & N Haveli,2011,15,0
+D & N Haveli,2012,13,2
+Daman & Diu,2001,10,0
+Daman & Diu,2002,8,0
+Daman & Diu,2003,9,0
+Daman & Diu,2004,2,0
+Daman & Diu,2005,2,0
+Daman & Diu,2006,1,0
+Daman & Diu,2007,2,0
+Daman & Diu,2008,0,0
+Daman & Diu,2009,0,0
+Daman & Diu,2010,0,0
+Daman & Diu,2011,0,0
+Daman & Diu,2012,2,0
+Delhi,2001,9115,594
+Delhi,2002,9607,615
+Delhi,2003,9939,807
+Delhi,2004,9234,702
+Delhi,2005,11532,474
+Delhi,2006,10432,955
+Delhi,2007,11531,1529
+Delhi,2008,6767,1595
+Delhi,2009,6774,1491
+Delhi,2010,8440,1728
+Delhi,2011,8367,1335
+Delhi,2012,8046,1899
+Lakshadweep,2001,0,0
+Lakshadweep,2002,2,0
+Lakshadweep,2003,0,0
+Lakshadweep,2004,0,0
+Lakshadweep,2005,0,0
+Lakshadweep,2006,0,0
+Lakshadweep,2007,0,0
+Lakshadweep,2008,0,0
+Lakshadweep,2009,1,0
+Lakshadweep,2010,0,0
+Lakshadweep,2011,0,0
+Lakshadweep,2012,0,0
+Pondicherry,2001,470,54
+Pondicherry,2002,585,44
+Pondicherry,2003,620,58
+Pondicherry,2004,483,47
+Pondicherry,2005,545,58
+Pondicherry,2006,337,46
+Pondicherry,2007,455,38
+Pondicherry,2008,412,27
+Pondicherry,2009,240,35
+Pondicherry,2010,431,42
+Pondicherry,2011,262,86
+Pondicherry,2012,252,39
+Andhra Pradesh,2013,12135,1023
+Arunachal Pradesh,2013,21,0
+Assam,2013,2090,11
+Bihar,2013,9264,95
+Chhattisgarh,2013,3950,60
+Goa,2013,116,6
+Gujarat,2013,7096,3
+Haryana,2013,4527,58
+Himachal Pradesh,2013,650,4
+Jammu And Kashmir,2013,431,1
+Jharkhand,2013,2863,499
+Karnataka,2013,31573,13
+Kerala,2013,6861,220
+Madhya Pradesh,2013,14602,117
+Maharashtra,2013,21270,0
+Manipur,2013,52,0
+Meghalaya,2013,87,3
+Mizoram,2013,2540,491
+Nagaland,2013,119,5
+Odisha,2013,2136,64
+Punjab,2013,7863,340
+Rajasthan,2013,5995,297
+Sikkim,2013,125,5
+Tamil Nadu,2013,3905,29
+Tripura,2013,1485,28
+Uttar Pradesh,2013,30159,1081
+Uttarakhand,2013,2176,5
+West Bengal,2013,9152,982
+Andaman And Nicobar Islands,2013,382,31
+Chandigarh,2013,329,23
+Dadra And Nagar Haveli,2013,0,0
+Daman And Diu,2013,9,0
+Delhi,2013,7015,1103
+Lakshadweep,2013,0,0
+Puducherry,2013,166,39

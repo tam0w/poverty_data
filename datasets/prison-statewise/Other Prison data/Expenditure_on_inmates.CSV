@@ -1,0 +1,2395 @@
+TimePeriod,Area_Name,Indicator_Name,Data_Value
+2001, Jammu & Kashmir,Food Expenditure,15763500
+2001, Himachal Pradesh,Food Expenditure,5910000
+2001, Punjab,Food Expenditure,54787000
+2001,Chandigarh,Food Expenditure,3400000
+2001, Uttarakhand,Food Expenditure,9881280
+2001, Haryana,Food Expenditure,58182493
+2001,Delhi,Food Expenditure,46519912
+2001, Rajasthan,Food Expenditure,76915000
+2001, Uttar Pradesh,Food Expenditure,222868000
+2001, Bihar,Food Expenditure,217820000
+2001, Sikkim,Food Expenditure,2861131
+2001, Nagaland,Food Expenditure,16379000
+2001, Manipur,Food Expenditure,5951361
+2001, Mizoram,Food Expenditure,12748699
+2001, Tripura,Food Expenditure,8477208
+2001, Meghalaya,Food Expenditure,4721467
+2001, Assam,Food Expenditure,45700000
+2001, West Bengal,Food Expenditure,87794480
+2001, Jharkhand,Food Expenditure,107814000
+2001, Odisha,Food Expenditure,105600000
+2001, Chhattisgarh,Food Expenditure,57492046
+2001, Madhya Pradesh,Food Expenditure,160886000
+2001, Gujarat,Food Expenditure,60496000
+2001,Daman & Diu,Food Expenditure,327434
+2001,Dadra & Nagar Haveli,Food Expenditure,348812
+2001, Maharashtra,Food Expenditure,96188000
+2001, Andhra Pradesh,Food Expenditure,100452000
+2001, Karnataka,Food Expenditure,64927396
+2001, Goa,Food Expenditure,2189416
+2001,Lakshadweep,Food Expenditure,0
+2001, Kerala,Food Expenditure,45182824
+2001, Tamil Nadu,Food Expenditure,112597136
+2001,Puducherry,Food Expenditure,2312780
+2001,Andaman & Nicobar Islands,Food Expenditure,5000000
+2002, Jammu & Kashmir,Food Expenditure,18555300
+2002, Himachal Pradesh,Food Expenditure,6211000
+2002, Punjab,Food Expenditure,34864358
+2002,Chandigarh,Food Expenditure,3725000
+2002, Uttarakhand,Food Expenditure,10148418
+2002, Haryana,Food Expenditure,63922336
+2002,Delhi,Food Expenditure,51043404
+2002, Rajasthan,Food Expenditure,70274000
+2002, Uttar Pradesh,Food Expenditure,266317000
+2002, Bihar,Food Expenditure,242975000
+2002, Sikkim,Food Expenditure,2861131
+2002, Nagaland,Food Expenditure,16487000
+2002, Manipur,Food Expenditure,6529873
+2002, Mizoram,Food Expenditure,11600000
+2002, Tripura,Food Expenditure,9401924
+2002, Meghalaya,Food Expenditure,4347604
+2002, Assam,Food Expenditure,49206000
+2002, West Bengal,Food Expenditure,104686477
+2002, Jharkhand,Food Expenditure,102885000
+2002, Odisha,Food Expenditure,84944000
+2002, Chhattisgarh,Food Expenditure,59048105
+2002, Madhya Pradesh,Food Expenditure,170520000
+2002, Gujarat,Food Expenditure,56500000
+2002,Daman & Diu,Food Expenditure,301974
+2002,Dadra & Nagar Haveli,Food Expenditure,300000
+2002, Maharashtra,Food Expenditure,138137000
+2002, Andhra Pradesh,Food Expenditure,109500000
+2002, Karnataka,Food Expenditure,61243933
+2002, Goa,Food Expenditure,2805699
+2002,Lakshadweep,Food Expenditure,19302
+2002, Kerala,Food Expenditure,52667000
+2002, Tamil Nadu,Food Expenditure,105682993
+2002,Puducherry,Food Expenditure,2142000
+2002,Andaman & Nicobar Islands,Food Expenditure,7000000
+2003, Jammu & Kashmir,Food Expenditure,22153300
+2003, Himachal Pradesh,Food Expenditure,6189000
+2003, Punjab,Food Expenditure,327861713
+2003,Chandigarh,Food Expenditure,3310000
+2003, Uttarakhand,Food Expenditure,11621426
+2003, Haryana,Food Expenditure,71808612
+2003,Delhi,Food Expenditure,50653026
+2003, Rajasthan,Food Expenditure,71790000
+2003, Uttar Pradesh,Food Expenditure,250000000
+2003, Bihar,Food Expenditure,246366000
+2003, Sikkim,Food Expenditure,1602724
+2003, Nagaland,Food Expenditure,8700000
+2003, Manipur,Food Expenditure,6946800
+2003, Mizoram,Food Expenditure,13000000
+2003, Tripura,Food Expenditure,7949500
+2003, Meghalaya,Food Expenditure,5666575
+2003, Assam,Food Expenditure,61090000
+2003, West Bengal,Food Expenditure,166967994
+2003, Jharkhand,Food Expenditure,94638806
+2003, Odisha,Food Expenditure,84382000
+2003, Chhattisgarh,Food Expenditure,47998264
+2003, Madhya Pradesh,Food Expenditure,164336000
+2003, Gujarat,Food Expenditure,55815000
+2003,Daman & Diu,Food Expenditure,348930
+2003,Dadra & Nagar Haveli,Food Expenditure,300000
+2003, Maharashtra,Food Expenditure,123786000
+2003, Andhra Pradesh,Food Expenditure,102301000
+2003, Karnataka,Food Expenditure,66128000
+2003, Goa,Food Expenditure,3584384
+2003,Lakshadweep,Food Expenditure,3937
+2003, Kerala,Food Expenditure,51231884
+2003, Tamil Nadu,Food Expenditure,112512923
+2003,Puducherry,Food Expenditure,2067000
+2003,Andaman & Nicobar Islands,Food Expenditure,2393000
+2004, Jammu & Kashmir,Food Expenditure,25658600
+2004, Himachal Pradesh,Food Expenditure,8679000
+2004, Punjab,Food Expenditure,73546000
+2004,Chandigarh,Food Expenditure,4000000
+2004, Uttarakhand,Food Expenditure,12025530
+2004, Haryana,Food Expenditure,81136561
+2004,Delhi,Food Expenditure,60232520
+2004, Rajasthan,Food Expenditure,70635000
+2004, Uttar Pradesh,Food Expenditure,274192000
+2004, Bihar,Food Expenditure,250124691
+2004, Sikkim,Food Expenditure,2141144
+2004, Nagaland,Food Expenditure,16330000
+2004, Manipur,Food Expenditure,6861394
+2004, Mizoram,Food Expenditure,14000000
+2004, Tripura,Food Expenditure,9965230
+2004, Meghalaya,Food Expenditure,4926354
+2004, Assam,Food Expenditure,76651000
+2004, West Bengal,Food Expenditure,181022375
+2004, Jharkhand,Food Expenditure,100186087
+2004, Odisha,Food Expenditure,93799000
+2004, Chhattisgarh,Food Expenditure,61452561
+2004, Madhya Pradesh,Food Expenditure,167169000
+2004, Gujarat,Food Expenditure,56825000
+2004,Daman & Diu,Food Expenditure,399750
+2004,Dadra & Nagar Haveli,Food Expenditure,300000
+2004, Maharashtra,Food Expenditure,112159479
+2004, Andhra Pradesh,Food Expenditure,112226000
+2004, Karnataka,Food Expenditure,63717909
+2004, Goa,Food Expenditure,3571522
+2004,Lakshadweep,Food Expenditure,0
+2004, Kerala,Food Expenditure,63353633
+2004, Tamil Nadu,Food Expenditure,138311000
+2004,Puducherry,Food Expenditure,2089851
+2004,Andaman & Nicobar Islands,Food Expenditure,5221100
+2005, Jammu & Kashmir,Food Expenditure,28034000
+2005, Himachal Pradesh,Food Expenditure,10721000
+2005, Punjab,Food Expenditure,79661000
+2005,Chandigarh,Food Expenditure,4354500
+2005, Uttarakhand,Food Expenditure,13176964
+2005, Haryana,Food Expenditure,61000000
+2005,Delhi,Food Expenditure,72384883
+2005, Rajasthan,Food Expenditure,72685000
+2005, Uttar Pradesh,Food Expenditure,300000000
+2005, Bihar,Food Expenditure,280433476
+2005, Sikkim,Food Expenditure,2307736
+2005, Nagaland,Food Expenditure,15500000
+2005, Manipur,Food Expenditure,7350479
+2005, Mizoram,Food Expenditure,18050000
+2005, Tripura,Food Expenditure,12354336
+2005, Meghalaya,Food Expenditure,5416783
+2005, Assam,Food Expenditure,79528000
+2005, West Bengal,Food Expenditure,190073494
+2005, Jharkhand,Food Expenditure,137463739
+2005, Odisha,Food Expenditure,99600000
+2005, Chhattisgarh,Food Expenditure,63934038
+2005, Madhya Pradesh,Food Expenditure,204495000
+2005, Gujarat,Food Expenditure,77724000
+2005,Daman & Diu,Food Expenditure,489884
+2005,Dadra & Nagar Haveli,Food Expenditure,400000
+2005, Maharashtra,Food Expenditure,173076265
+2005, Andhra Pradesh,Food Expenditure,114071000
+2005, Karnataka,Food Expenditure,10033000
+2005, Goa,Food Expenditure,4051949
+2005,Lakshadweep,Food Expenditure,0
+2005, Kerala,Food Expenditure,62693005
+2005, Tamil Nadu,Food Expenditure,126091000
+2005,Puducherry,Food Expenditure,1847301
+2005,Andaman & Nicobar Islands,Food Expenditure,2200000
+2006, Jammu & Kashmir,Food Expenditure,28891000
+2006, Himachal Pradesh,Food Expenditure,8719000
+2006, Punjab,Food Expenditure,97190000
+2006,Chandigarh,Food Expenditure,3650000
+2006, Uttarakhand,Food Expenditure,14825711
+2006, Haryana,Food Expenditure,81347171
+2006,Delhi,Food Expenditure,69292499
+2006, Rajasthan,Food Expenditure,75728000
+2006, Uttar Pradesh,Food Expenditure,359000000
+2006, Bihar,Food Expenditure,359670405
+2006, Sikkim,Food Expenditure,1866919
+2006, Nagaland,Food Expenditure,15500000
+2006, Manipur,Food Expenditure,6579300
+2006, Mizoram,Food Expenditure,10301650
+2006, Tripura,Food Expenditure,13689066
+2006, Meghalaya,Food Expenditure,5649463
+2006, Assam,Food Expenditure,91521000
+2006, West Bengal,Food Expenditure,199577169
+2006, Jharkhand,Food Expenditure,150713344
+2006, Odisha,Food Expenditure,120869000
+2006, Chhattisgarh,Food Expenditure,84188756
+2006, Madhya Pradesh,Food Expenditure,237329000
+2006, Gujarat,Food Expenditure,71258000
+2006,Daman & Diu,Food Expenditure,559000
+2006,Dadra & Nagar Haveli,Food Expenditure,500000
+2006, Maharashtra,Food Expenditure,172273000
+2006, Andhra Pradesh,Food Expenditure,121871500
+2006, Karnataka,Food Expenditure,64959586
+2006, Goa,Food Expenditure,4299768
+2006,Lakshadweep,Food Expenditure,0
+2006, Kerala,Food Expenditure,68827364
+2006, Tamil Nadu,Food Expenditure,106042000
+2006,Puducherry,Food Expenditure,2388487
+2006,Andaman & Nicobar Islands,Food Expenditure,3613000
+2007, Jammu & Kashmir,Food Expenditure,33369700
+2007, Himachal Pradesh,Food Expenditure,46653777
+2007, Punjab,Food Expenditure,108948000
+2007,Chandigarh,Food Expenditure,4074000
+2007, Uttarakhand,Food Expenditure,15872125
+2007, Haryana,Food Expenditure,191387049
+2007,Delhi,Food Expenditure,78015282
+2007, Rajasthan,Food Expenditure,104679000
+2007, Uttar Pradesh,Food Expenditure,402612000
+2007, Bihar,Food Expenditure,437006118
+2007, Sikkim,Food Expenditure,2562166
+2007, Nagaland,Food Expenditure,17800000
+2007, Manipur,Food Expenditure,6495868
+2007, Mizoram,Food Expenditure,29821000
+2007, Tripura,Food Expenditure,13848239
+2007, Meghalaya,Food Expenditure,7073542
+2007, Assam,Food Expenditure,91629000
+2007, West Bengal,Food Expenditure,181093881
+2007, Jharkhand,Food Expenditure,133003538
+2007, Odisha,Food Expenditure,170876000
+2007, Chhattisgarh,Food Expenditure,91274869
+2007, Madhya Pradesh,Food Expenditure,269851000
+2007, Gujarat,Food Expenditure,86447000
+2007,Daman & Diu,Food Expenditure,719000
+2007,Dadra & Nagar Haveli,Food Expenditure,289000
+2007, Maharashtra,Food Expenditure,192776000
+2007, Andhra Pradesh,Food Expenditure,137896000
+2007, Karnataka,Food Expenditure,113671423
+2007, Goa,Food Expenditure,4463000
+2007,Lakshadweep,Food Expenditure,16338
+2007, Kerala,Food Expenditure,71723481
+2007, Tamil Nadu,Food Expenditure,131158000
+2007,Puducherry,Food Expenditure,2799299
+2007,Andaman & Nicobar Islands,Food Expenditure,4634000
+2001, Jammu & Kashmir,Clothing Expenditure,639900
+2001, Himachal Pradesh,Clothing Expenditure,1289000
+2001, Punjab,Clothing Expenditure,1721000
+2001,Chandigarh,Clothing Expenditure,300000
+2001, Uttarakhand,Clothing Expenditure,0
+2001, Haryana,Clothing Expenditure,2373159
+2001,Delhi,Clothing Expenditure,356508
+2001, Rajasthan,Clothing Expenditure,3498000
+2001, Uttar Pradesh,Clothing Expenditure,0
+2001, Bihar,Clothing Expenditure,14841000
+2001, Sikkim,Clothing Expenditure,111000
+2001, Nagaland,Clothing Expenditure,1309104
+2001, Manipur,Clothing Expenditure,699824
+2001, Mizoram,Clothing Expenditure,815300
+2001, Tripura,Clothing Expenditure,147826
+2001, Meghalaya,Clothing Expenditure,0
+2001, Assam,Clothing Expenditure,800000
+2001, West Bengal,Clothing Expenditure,2735113
+2001, Jharkhand,Clothing Expenditure,0
+2001, Odisha,Clothing Expenditure,1640000
+2001, Chhattisgarh,Clothing Expenditure,572756
+2001, Madhya Pradesh,Clothing Expenditure,12000000
+2001, Gujarat,Clothing Expenditure,2009196
+2001,Daman & Diu,Clothing Expenditure,21315
+2001,Dadra & Nagar Haveli,Clothing Expenditure,15380
+2001, Maharashtra,Clothing Expenditure,674000
+2001, Andhra Pradesh,Clothing Expenditure,13938000
+2001, Karnataka,Clothing Expenditure,0
+2001, Goa,Clothing Expenditure,39375
+2001,Lakshadweep,Clothing Expenditure,0
+2001, Kerala,Clothing Expenditure,4196421
+2001, Tamil Nadu,Clothing Expenditure,400984
+2001,Puducherry,Clothing Expenditure,40000
+2001,Andaman & Nicobar Islands,Clothing Expenditure,150000
+2002, Jammu & Kashmir,Clothing Expenditure,568200
+2002, Himachal Pradesh,Clothing Expenditure,1355000
+2002, Punjab,Clothing Expenditure,1994840
+2002,Chandigarh,Clothing Expenditure,475000
+2002, Uttarakhand,Clothing Expenditure,0
+2002, Haryana,Clothing Expenditure,1635317
+2002,Delhi,Clothing Expenditure,9746701
+2002, Rajasthan,Clothing Expenditure,3801000
+2002, Uttar Pradesh,Clothing Expenditure,0
+2002, Bihar,Clothing Expenditure,17502000
+2002, Sikkim,Clothing Expenditure,111000
+2002, Nagaland,Clothing Expenditure,788000
+2002, Manipur,Clothing Expenditure,408984
+2002, Mizoram,Clothing Expenditure,400000
+2002, Tripura,Clothing Expenditure,166738
+2002, Meghalaya,Clothing Expenditure,33400
+2002, Assam,Clothing Expenditure,710000
+2002, West Bengal,Clothing Expenditure,3271268
+2002, Jharkhand,Clothing Expenditure,0
+2002, Odisha,Clothing Expenditure,1690000
+2002, Chhattisgarh,Clothing Expenditure,4058512
+2002, Madhya Pradesh,Clothing Expenditure,8953000
+2002, Gujarat,Clothing Expenditure,2800000
+2002,Daman & Diu,Clothing Expenditure,32630
+2002,Dadra & Nagar Haveli,Clothing Expenditure,0
+2002, Maharashtra,Clothing Expenditure,100000
+2002, Andhra Pradesh,Clothing Expenditure,24040000
+2002, Karnataka,Clothing Expenditure,4112000
+2002, Goa,Clothing Expenditure,5629
+2002,Lakshadweep,Clothing Expenditure,0
+2002, Kerala,Clothing Expenditure,4584000
+2002, Tamil Nadu,Clothing Expenditure,0
+2002,Puducherry,Clothing Expenditure,20000
+2002,Andaman & Nicobar Islands,Clothing Expenditure,300000
+2003, Jammu & Kashmir,Clothing Expenditure,399800
+2003, Himachal Pradesh,Clothing Expenditure,1350000
+2003, Punjab,Clothing Expenditure,199537367
+2003,Chandigarh,Clothing Expenditure,385000
+2003, Uttarakhand,Clothing Expenditure,646892
+2003, Haryana,Clothing Expenditure,1595263
+2003,Delhi,Clothing Expenditure,251732
+2003, Rajasthan,Clothing Expenditure,5147000
+2003, Uttar Pradesh,Clothing Expenditure,0
+2003, Bihar,Clothing Expenditure,14471000
+2003, Sikkim,Clothing Expenditure,72460
+2003, Nagaland,Clothing Expenditure,400000
+2003, Manipur,Clothing Expenditure,401200
+2003, Mizoram,Clothing Expenditure,4715000
+2003, Tripura,Clothing Expenditure,620500
+2003, Meghalaya,Clothing Expenditure,226020
+2003, Assam,Clothing Expenditure,1115000
+2003, West Bengal,Clothing Expenditure,15342647
+2003, Jharkhand,Clothing Expenditure,4453729
+2003, Odisha,Clothing Expenditure,1888000
+2003, Chhattisgarh,Clothing Expenditure,2497411
+2003, Madhya Pradesh,Clothing Expenditure,5480000
+2003, Gujarat,Clothing Expenditure,2000000
+2003,Daman & Diu,Clothing Expenditure,0
+2003,Dadra & Nagar Haveli,Clothing Expenditure,0
+2003, Maharashtra,Clothing Expenditure,0
+2003, Andhra Pradesh,Clothing Expenditure,13211000
+2003, Karnataka,Clothing Expenditure,0
+2003, Goa,Clothing Expenditure,138780
+2003,Lakshadweep,Clothing Expenditure,0
+2003, Kerala,Clothing Expenditure,4813200
+2003, Tamil Nadu,Clothing Expenditure,0
+2003,Puducherry,Clothing Expenditure,0
+2003,Andaman & Nicobar Islands,Clothing Expenditure,52000
+2004, Jammu & Kashmir,Clothing Expenditure,632100
+2004, Himachal Pradesh,Clothing Expenditure,1894000
+2004, Punjab,Clothing Expenditure,2268000
+2004,Chandigarh,Clothing Expenditure,34000
+2004, Uttarakhand,Clothing Expenditure,740900
+2004, Haryana,Clothing Expenditure,5067875
+2004,Delhi,Clothing Expenditure,1166175
+2004, Rajasthan,Clothing Expenditure,5598000
+2004, Uttar Pradesh,Clothing Expenditure,0
+2004, Bihar,Clothing Expenditure,0
+2004, Sikkim,Clothing Expenditure,43800
+2004, Nagaland,Clothing Expenditure,3300000
+2004, Manipur,Clothing Expenditure,583244
+2004, Mizoram,Clothing Expenditure,300000
+2004, Tripura,Clothing Expenditure,349695
+2004, Meghalaya,Clothing Expenditure,83500
+2004, Assam,Clothing Expenditure,1255000
+2004, West Bengal,Clothing Expenditure,16065870
+2004, Jharkhand,Clothing Expenditure,9944652
+2004, Odisha,Clothing Expenditure,1654000
+2004, Chhattisgarh,Clothing Expenditure,980267
+2004, Madhya Pradesh,Clothing Expenditure,13352000
+2004, Gujarat,Clothing Expenditure,2100000
+2004,Daman & Diu,Clothing Expenditure,0
+2004,Dadra & Nagar Haveli,Clothing Expenditure,0
+2004, Maharashtra,Clothing Expenditure,123192
+2004, Andhra Pradesh,Clothing Expenditure,5901109
+2004, Karnataka,Clothing Expenditure,0
+2004, Goa,Clothing Expenditure,654920
+2004,Lakshadweep,Clothing Expenditure,0
+2004, Kerala,Clothing Expenditure,19382364
+2004, Tamil Nadu,Clothing Expenditure,0
+2004,Puducherry,Clothing Expenditure,24583
+2004,Andaman & Nicobar Islands,Clothing Expenditure,20000
+2005, Jammu & Kashmir,Clothing Expenditure,755000
+2005, Himachal Pradesh,Clothing Expenditure,2488000
+2005, Punjab,Clothing Expenditure,2386000
+2005,Chandigarh,Clothing Expenditure,780000
+2005, Uttarakhand,Clothing Expenditure,183668
+2005, Haryana,Clothing Expenditure,14000000
+2005,Delhi,Clothing Expenditure,4247113
+2005, Rajasthan,Clothing Expenditure,5204000
+2005, Uttar Pradesh,Clothing Expenditure,0
+2005, Bihar,Clothing Expenditure,3297678
+2005, Sikkim,Clothing Expenditure,33000
+2005, Nagaland,Clothing Expenditure,4000000
+2005, Manipur,Clothing Expenditure,446811
+2005, Mizoram,Clothing Expenditure,1300000
+2005, Tripura,Clothing Expenditure,227160
+2005, Meghalaya,Clothing Expenditure,0
+2005, Assam,Clothing Expenditure,205000
+2005, West Bengal,Clothing Expenditure,16869164
+2005, Jharkhand,Clothing Expenditure,9522504
+2005, Odisha,Clothing Expenditure,1888000
+2005, Chhattisgarh,Clothing Expenditure,6821092
+2005, Madhya Pradesh,Clothing Expenditure,14896000
+2005, Gujarat,Clothing Expenditure,8177000
+2005,Daman & Diu,Clothing Expenditure,0
+2005,Dadra & Nagar Haveli,Clothing Expenditure,0
+2005, Maharashtra,Clothing Expenditure,175141
+2005, Andhra Pradesh,Clothing Expenditure,34295000
+2005, Karnataka,Clothing Expenditure,6600000
+2005, Goa,Clothing Expenditure,156800
+2005,Lakshadweep,Clothing Expenditure,0
+2005, Kerala,Clothing Expenditure,10818450
+2005, Tamil Nadu,Clothing Expenditure,120000
+2005,Puducherry,Clothing Expenditure,95177
+2005,Andaman & Nicobar Islands,Clothing Expenditure,125000
+2006, Jammu & Kashmir,Clothing Expenditure,81000
+2006, Himachal Pradesh,Clothing Expenditure,1902000
+2006, Punjab,Clothing Expenditure,6193000
+2006,Chandigarh,Clothing Expenditure,465200
+2006, Uttarakhand,Clothing Expenditure,5885504
+2006, Haryana,Clothing Expenditure,1222866
+2006,Delhi,Clothing Expenditure,1034765
+2006, Rajasthan,Clothing Expenditure,5416000
+2006, Uttar Pradesh,Clothing Expenditure,0
+2006, Bihar,Clothing Expenditure,4397326
+2006, Sikkim,Clothing Expenditure,0
+2006, Nagaland,Clothing Expenditure,3097591
+2006, Manipur,Clothing Expenditure,449864
+2006, Mizoram,Clothing Expenditure,845600
+2006, Tripura,Clothing Expenditure,451200
+2006, Meghalaya,Clothing Expenditure,103597
+2006, Assam,Clothing Expenditure,793000
+2006, West Bengal,Clothing Expenditure,17712623
+2006, Jharkhand,Clothing Expenditure,9053402
+2006, Odisha,Clothing Expenditure,1897000
+2006, Chhattisgarh,Clothing Expenditure,3790567
+2006, Madhya Pradesh,Clothing Expenditure,13267000
+2006, Gujarat,Clothing Expenditure,3528000
+2006,Daman & Diu,Clothing Expenditure,35000
+2006,Dadra & Nagar Haveli,Clothing Expenditure,0
+2006, Maharashtra,Clothing Expenditure,139000
+2006, Andhra Pradesh,Clothing Expenditure,67000
+2006, Karnataka,Clothing Expenditure,7000000
+2006, Goa,Clothing Expenditure,173005
+2006,Lakshadweep,Clothing Expenditure,0
+2006, Kerala,Clothing Expenditure,2952794
+2006, Tamil Nadu,Clothing Expenditure,145033
+2006,Puducherry,Clothing Expenditure,12506
+2006,Andaman & Nicobar Islands,Clothing Expenditure,80000
+2007, Jammu & Kashmir,Clothing Expenditure,1226300
+2007, Himachal Pradesh,Clothing Expenditure,808940
+2007, Punjab,Clothing Expenditure,3641000
+2007,Chandigarh,Clothing Expenditure,650500
+2007, Uttarakhand,Clothing Expenditure,717000
+2007, Haryana,Clothing Expenditure,7999972
+2007,Delhi,Clothing Expenditure,3516464
+2007, Rajasthan,Clothing Expenditure,20703000
+2007, Uttar Pradesh,Clothing Expenditure,0
+2007, Bihar,Clothing Expenditure,6977630
+2007, Sikkim,Clothing Expenditure,206358
+2007, Nagaland,Clothing Expenditure,4000000
+2007, Manipur,Clothing Expenditure,449946
+2007, Mizoram,Clothing Expenditure,1875826
+2007, Tripura,Clothing Expenditure,558796
+2007, Meghalaya,Clothing Expenditure,69509
+2007, Assam,Clothing Expenditure,2985000
+2007, West Bengal,Clothing Expenditure,10109000
+2007, Jharkhand,Clothing Expenditure,6513251
+2007, Odisha,Clothing Expenditure,2388000
+2007, Chhattisgarh,Clothing Expenditure,7258570
+2007, Madhya Pradesh,Clothing Expenditure,15302000
+2007, Gujarat,Clothing Expenditure,3654000
+2007,Daman & Diu,Clothing Expenditure,38000
+2007,Dadra & Nagar Haveli,Clothing Expenditure,0
+2007, Maharashtra,Clothing Expenditure,70000
+2007, Andhra Pradesh,Clothing Expenditure,9060000
+2007, Karnataka,Clothing Expenditure,5000000
+2007, Goa,Clothing Expenditure,195000
+2007,Lakshadweep,Clothing Expenditure,0
+2007, Kerala,Clothing Expenditure,5241210
+2007, Tamil Nadu,Clothing Expenditure,0
+2007,Puducherry,Clothing Expenditure,10500
+2007,Andaman & Nicobar Islands,Clothing Expenditure,103000
+2001, Jammu & Kashmir,Medical Expenditure,5026800
+2001, Himachal Pradesh,Medical Expenditure,2471000
+2001, Punjab,Medical Expenditure,13253000
+2001,Chandigarh,Medical Expenditure,2500000
+2001, Uttarakhand,Medical Expenditure,1504828
+2001, Haryana,Medical Expenditure,3484364
+2001,Delhi,Medical Expenditure,21811592
+2001, Rajasthan,Medical Expenditure,0
+2001, Uttar Pradesh,Medical Expenditure,16123000
+2001, Bihar,Medical Expenditure,13866000
+2001, Sikkim,Medical Expenditure,181770
+2001, Nagaland,Medical Expenditure,88300
+2001, Manipur,Medical Expenditure,1672620
+2001, Mizoram,Medical Expenditure,699700
+2001, Tripura,Medical Expenditure,191901
+2001, Meghalaya,Medical Expenditure,167433
+2001, Assam,Medical Expenditure,3300000
+2001, West Bengal,Medical Expenditure,45242921
+2001, Jharkhand,Medical Expenditure,6484000
+2001, Odisha,Medical Expenditure,2350000
+2001, Chhattisgarh,Medical Expenditure,5305770
+2001, Madhya Pradesh,Medical Expenditure,20200000
+2001, Gujarat,Medical Expenditure,956000
+2001,Daman & Diu,Medical Expenditure,17313
+2001,Dadra & Nagar Haveli,Medical Expenditure,0
+2001, Maharashtra,Medical Expenditure,4449000
+2001, Andhra Pradesh,Medical Expenditure,2273000
+2001, Karnataka,Medical Expenditure,3100500
+2001, Goa,Medical Expenditure,174631
+2001,Lakshadweep,Medical Expenditure,0
+2001, Kerala,Medical Expenditure,787746
+2001, Tamil Nadu,Medical Expenditure,6213993
+2001,Puducherry,Medical Expenditure,1500
+2001,Andaman & Nicobar Islands,Medical Expenditure,60000
+2002, Jammu & Kashmir,Medical Expenditure,3585200
+2002, Himachal Pradesh,Medical Expenditure,2597000
+2002, Punjab,Medical Expenditure,1085773
+2002,Chandigarh,Medical Expenditure,1250000
+2002, Uttarakhand,Medical Expenditure,2118322
+2002, Haryana,Medical Expenditure,9409381
+2002,Delhi,Medical Expenditure,11219417
+2002, Rajasthan,Medical Expenditure,0
+2002, Uttar Pradesh,Medical Expenditure,16486000
+2002, Bihar,Medical Expenditure,0
+2002, Sikkim,Medical Expenditure,181770
+2002, Nagaland,Medical Expenditure,800000
+2002, Manipur,Medical Expenditure,862517
+2002, Mizoram,Medical Expenditure,650000
+2002, Tripura,Medical Expenditure,465000
+2002, Meghalaya,Medical Expenditure,283831
+2002, Assam,Medical Expenditure,4000000
+2002, West Bengal,Medical Expenditure,52508579
+2002, Jharkhand,Medical Expenditure,5220000
+2002, Odisha,Medical Expenditure,7422000
+2002, Chhattisgarh,Medical Expenditure,6141943
+2002, Madhya Pradesh,Medical Expenditure,26800000
+2002, Gujarat,Medical Expenditure,1300000
+2002,Daman & Diu,Medical Expenditure,18516
+2002,Dadra & Nagar Haveli,Medical Expenditure,0
+2002, Maharashtra,Medical Expenditure,6502000
+2002, Andhra Pradesh,Medical Expenditure,3600000
+2002, Karnataka,Medical Expenditure,5136000
+2002, Goa,Medical Expenditure,163620
+2002,Lakshadweep,Medical Expenditure,0
+2002, Kerala,Medical Expenditure,780440
+2002, Tamil Nadu,Medical Expenditure,6494962
+2002,Puducherry,Medical Expenditure,1000
+2002,Andaman & Nicobar Islands,Medical Expenditure,80000
+2003, Jammu & Kashmir,Medical Expenditure,3098900
+2003, Himachal Pradesh,Medical Expenditure,2588000
+2003, Punjab,Medical Expenditure,32001030
+2003,Chandigarh,Medical Expenditure,1335000
+2003, Uttarakhand,Medical Expenditure,1146745
+2003, Haryana,Medical Expenditure,8844896
+2003,Delhi,Medical Expenditure,20385585
+2003, Rajasthan,Medical Expenditure,0
+2003, Uttar Pradesh,Medical Expenditure,16500000
+2003, Bihar,Medical Expenditure,0
+2003, Sikkim,Medical Expenditure,145607
+2003, Nagaland,Medical Expenditure,250000
+2003, Manipur,Medical Expenditure,400000
+2003, Mizoram,Medical Expenditure,820000
+2003, Tripura,Medical Expenditure,330000
+2003, Meghalaya,Medical Expenditure,411914
+2003, Assam,Medical Expenditure,1700000
+2003, West Bengal,Medical Expenditure,87521027
+2003, Jharkhand,Medical Expenditure,5256499
+2003, Odisha,Medical Expenditure,4372000
+2003, Chhattisgarh,Medical Expenditure,6255158
+2003, Madhya Pradesh,Medical Expenditure,26576000
+2003, Gujarat,Medical Expenditure,327000
+2003,Daman & Diu,Medical Expenditure,1000
+2003,Dadra & Nagar Haveli,Medical Expenditure,0
+2003, Maharashtra,Medical Expenditure,0
+2003, Andhra Pradesh,Medical Expenditure,4162000
+2003, Karnataka,Medical Expenditure,0
+2003, Goa,Medical Expenditure,188035
+2003,Lakshadweep,Medical Expenditure,0
+2003, Kerala,Medical Expenditure,819462
+2003, Tamil Nadu,Medical Expenditure,7144458
+2003,Puducherry,Medical Expenditure,0
+2003,Andaman & Nicobar Islands,Medical Expenditure,56000
+2004, Jammu & Kashmir,Medical Expenditure,3686700
+2004, Himachal Pradesh,Medical Expenditure,3629000
+2004, Punjab,Medical Expenditure,32387000
+2004,Chandigarh,Medical Expenditure,652000
+2004, Uttarakhand,Medical Expenditure,1241615
+2004, Haryana,Medical Expenditure,12596864
+2004,Delhi,Medical Expenditure,30866297
+2004, Rajasthan,Medical Expenditure,0
+2004, Uttar Pradesh,Medical Expenditure,16500000
+2004, Bihar,Medical Expenditure,14870409
+2004, Sikkim,Medical Expenditure,137267
+2004, Nagaland,Medical Expenditure,300000
+2004, Manipur,Medical Expenditure,7142890
+2004, Mizoram,Medical Expenditure,720000
+2004, Tripura,Medical Expenditure,1685075
+2004, Meghalaya,Medical Expenditure,402017
+2004, Assam,Medical Expenditure,1173000
+2004, West Bengal,Medical Expenditure,90850775
+2004, Jharkhand,Medical Expenditure,5524992
+2004, Odisha,Medical Expenditure,4777000
+2004, Chhattisgarh,Medical Expenditure,8491236
+2004, Madhya Pradesh,Medical Expenditure,35138037
+2004, Gujarat,Medical Expenditure,325000
+2004,Daman & Diu,Medical Expenditure,1200
+2004,Dadra & Nagar Haveli,Medical Expenditure,0
+2004, Maharashtra,Medical Expenditure,5255634
+2004, Andhra Pradesh,Medical Expenditure,5435000
+2004, Karnataka,Medical Expenditure,0
+2004, Goa,Medical Expenditure,236707
+2004,Lakshadweep,Medical Expenditure,0
+2004, Kerala,Medical Expenditure,0
+2004, Tamil Nadu,Medical Expenditure,4048000
+2004,Puducherry,Medical Expenditure,0
+2004,Andaman & Nicobar Islands,Medical Expenditure,0
+2005, Jammu & Kashmir,Medical Expenditure,4011000
+2005, Himachal Pradesh,Medical Expenditure,4595000
+2005, Punjab,Medical Expenditure,41653000
+2005,Chandigarh,Medical Expenditure,1000000
+2005, Uttarakhand,Medical Expenditure,2183989
+2005, Haryana,Medical Expenditure,12000000
+2005,Delhi,Medical Expenditure,15313545
+2005, Rajasthan,Medical Expenditure,0
+2005, Uttar Pradesh,Medical Expenditure,20000000
+2005, Bihar,Medical Expenditure,18766492
+2005, Sikkim,Medical Expenditure,66494
+2005, Nagaland,Medical Expenditure,300000
+2005, Manipur,Medical Expenditure,4381713
+2005, Mizoram,Medical Expenditure,1513000
+2005, Tripura,Medical Expenditure,1505104
+2005, Meghalaya,Medical Expenditure,376968
+2005, Assam,Medical Expenditure,3120000
+2005, West Bengal,Medical Expenditure,95393314
+2005, Jharkhand,Medical Expenditure,7189014
+2005, Odisha,Medical Expenditure,6264000
+2005, Chhattisgarh,Medical Expenditure,8193753
+2005, Madhya Pradesh,Medical Expenditure,53944000
+2005, Gujarat,Medical Expenditure,1364000
+2005,Daman & Diu,Medical Expenditure,4000
+2005,Dadra & Nagar Haveli,Medical Expenditure,0
+2005, Maharashtra,Medical Expenditure,7073800
+2005, Andhra Pradesh,Medical Expenditure,5072000
+2005, Karnataka,Medical Expenditure,5810000
+2005, Goa,Medical Expenditure,345629
+2005,Lakshadweep,Medical Expenditure,0
+2005, Kerala,Medical Expenditure,6809386
+2005, Tamil Nadu,Medical Expenditure,3915000
+2005,Puducherry,Medical Expenditure,0
+2005,Andaman & Nicobar Islands,Medical Expenditure,0
+2006, Jammu & Kashmir,Medical Expenditure,3949000
+2006, Himachal Pradesh,Medical Expenditure,3646000
+2006, Punjab,Medical Expenditure,19430000
+2006,Chandigarh,Medical Expenditure,1774000
+2006, Uttarakhand,Medical Expenditure,1963577
+2006, Haryana,Medical Expenditure,9687461
+2006,Delhi,Medical Expenditure,62125904
+2006, Rajasthan,Medical Expenditure,5495000
+2006, Uttar Pradesh,Medical Expenditure,35961000
+2006, Bihar,Medical Expenditure,21603251
+2006, Sikkim,Medical Expenditure,134033
+2006, Nagaland,Medical Expenditure,312402
+2006, Manipur,Medical Expenditure,498302
+2006, Mizoram,Medical Expenditure,1171110
+2006, Tripura,Medical Expenditure,1937496
+2006, Meghalaya,Medical Expenditure,516395
+2006, Assam,Medical Expenditure,914000
+2006, West Bengal,Medical Expenditure,100162980
+2006, Jharkhand,Medical Expenditure,6593736
+2006, Odisha,Medical Expenditure,7200000
+2006, Chhattisgarh,Medical Expenditure,8457950
+2006, Madhya Pradesh,Medical Expenditure,47842000
+2006, Gujarat,Medical Expenditure,1240000
+2006,Daman & Diu,Medical Expenditure,5000
+2006,Dadra & Nagar Haveli,Medical Expenditure,0
+2006, Maharashtra,Medical Expenditure,5787000
+2006, Andhra Pradesh,Medical Expenditure,6307000
+2006, Karnataka,Medical Expenditure,6300000
+2006, Goa,Medical Expenditure,425593
+2006,Lakshadweep,Medical Expenditure,0
+2006, Kerala,Medical Expenditure,4482269
+2006, Tamil Nadu,Medical Expenditure,3921000
+2006,Puducherry,Medical Expenditure,0
+2006,Andaman & Nicobar Islands,Medical Expenditure,10000
+2007, Jammu & Kashmir,Medical Expenditure,5912200
+2007, Himachal Pradesh,Medical Expenditure,4888914
+2007, Punjab,Medical Expenditure,44993000
+2007,Chandigarh,Medical Expenditure,195000
+2007, Uttarakhand,Medical Expenditure,2233939
+2007, Haryana,Medical Expenditure,19063067
+2007,Delhi,Medical Expenditure,73715000
+2007, Rajasthan,Medical Expenditure,8712000
+2007, Uttar Pradesh,Medical Expenditure,34988000
+2007, Bihar,Medical Expenditure,25602809
+2007, Sikkim,Medical Expenditure,177475
+2007, Nagaland,Medical Expenditure,0
+2007, Manipur,Medical Expenditure,683625
+2007, Mizoram,Medical Expenditure,1125000
+2007, Tripura,Medical Expenditure,3239009
+2007, Meghalaya,Medical Expenditure,370803
+2007, Assam,Medical Expenditure,886000
+2007, West Bengal,Medical Expenditure,40664333
+2007, Jharkhand,Medical Expenditure,6626050
+2007, Odisha,Medical Expenditure,7175000
+2007, Chhattisgarh,Medical Expenditure,12478644
+2007, Madhya Pradesh,Medical Expenditure,30946000
+2007, Gujarat,Medical Expenditure,3612000
+2007,Daman & Diu,Medical Expenditure,7000
+2007,Dadra & Nagar Haveli,Medical Expenditure,10000
+2007, Maharashtra,Medical Expenditure,8907000
+2007, Andhra Pradesh,Medical Expenditure,6548000
+2007, Karnataka,Medical Expenditure,11000000
+2007, Goa,Medical Expenditure,670000
+2007,Lakshadweep,Medical Expenditure,0
+2007, Kerala,Medical Expenditure,3205225
+2007, Tamil Nadu,Medical Expenditure,4066000
+2007,Puducherry,Medical Expenditure,0
+2007,Andaman & Nicobar Islands,Medical Expenditure,13000
+2001, Jammu & Kashmir,Vocational / Educational Expenditure,2208700
+2001, Himachal Pradesh,Vocational / Educational Expenditure,537000
+2001, Punjab,Vocational / Educational Expenditure,0
+2001,Chandigarh,Vocational / Educational Expenditure,1200000
+2001, Uttarakhand,Vocational / Educational Expenditure,0
+2001, Haryana,Vocational / Educational Expenditure,1851857
+2001,Delhi,Vocational / Educational Expenditure,303675
+2001, Rajasthan,Vocational / Educational Expenditure,0
+2001, Uttar Pradesh,Vocational / Educational Expenditure,0
+2001, Bihar,Vocational / Educational Expenditure,43475000
+2001, Sikkim,Vocational / Educational Expenditure,65000
+2001, Nagaland,Vocational / Educational Expenditure,0
+2001, Manipur,Vocational / Educational Expenditure,0
+2001, Mizoram,Vocational / Educational Expenditure,200000
+2001, Tripura,Vocational / Educational Expenditure,0
+2001, Meghalaya,Vocational / Educational Expenditure,0
+2001, Assam,Vocational / Educational Expenditure,1600000
+2001, West Bengal,Vocational / Educational Expenditure,192739
+2001, Jharkhand,Vocational / Educational Expenditure,0
+2001, Odisha,Vocational / Educational Expenditure,1050000
+2001, Chhattisgarh,Vocational / Educational Expenditure,397182
+2001, Madhya Pradesh,Vocational / Educational Expenditure,16508000
+2001, Gujarat,Vocational / Educational Expenditure,50000
+2001,Daman & Diu,Vocational / Educational Expenditure,0
+2001,Dadra & Nagar Haveli,Vocational / Educational Expenditure,0
+2001, Maharashtra,Vocational / Educational Expenditure,0
+2001, Andhra Pradesh,Vocational / Educational Expenditure,13146000
+2001, Karnataka,Vocational / Educational Expenditure,0
+2001, Goa,Vocational / Educational Expenditure,69949
+2001,Lakshadweep,Vocational / Educational Expenditure,0
+2001, Kerala,Vocational / Educational Expenditure,4370
+2001, Tamil Nadu,Vocational / Educational Expenditure,567225
+2001,Puducherry,Vocational / Educational Expenditure,0
+2001,Andaman & Nicobar Islands,Vocational / Educational Expenditure,50000
+2002, Jammu & Kashmir,Vocational / Educational Expenditure,2225000
+2002, Himachal Pradesh,Vocational / Educational Expenditure,565000
+2002, Punjab,Vocational / Educational Expenditure,0
+2002,Chandigarh,Vocational / Educational Expenditure,1850000
+2002, Uttarakhand,Vocational / Educational Expenditure,0
+2002, Haryana,Vocational / Educational Expenditure,537760
+2002,Delhi,Vocational / Educational Expenditure,0
+2002, Rajasthan,Vocational / Educational Expenditure,0
+2002, Uttar Pradesh,Vocational / Educational Expenditure,0
+2002, Bihar,Vocational / Educational Expenditure,0
+2002, Sikkim,Vocational / Educational Expenditure,66500
+2002, Nagaland,Vocational / Educational Expenditure,0
+2002, Manipur,Vocational / Educational Expenditure,0
+2002, Mizoram,Vocational / Educational Expenditure,460000
+2002, Tripura,Vocational / Educational Expenditure,345000
+2002, Meghalaya,Vocational / Educational Expenditure,0
+2002, Assam,Vocational / Educational Expenditure,1169000
+2002, West Bengal,Vocational / Educational Expenditure,79274
+2002, Jharkhand,Vocational / Educational Expenditure,0
+2002, Odisha,Vocational / Educational Expenditure,1250000
+2002, Chhattisgarh,Vocational / Educational Expenditure,353188
+2002, Madhya Pradesh,Vocational / Educational Expenditure,17058000
+2002, Gujarat,Vocational / Educational Expenditure,90000
+2002,Daman & Diu,Vocational / Educational Expenditure,0
+2002,Dadra & Nagar Haveli,Vocational / Educational Expenditure,0
+2002, Maharashtra,Vocational / Educational Expenditure,0
+2002, Andhra Pradesh,Vocational / Educational Expenditure,4009000
+2002, Karnataka,Vocational / Educational Expenditure,0
+2002, Goa,Vocational / Educational Expenditure,201042
+2002,Lakshadweep,Vocational / Educational Expenditure,0
+2002, Kerala,Vocational / Educational Expenditure,2954000
+2002, Tamil Nadu,Vocational / Educational Expenditure,300070
+2002,Puducherry,Vocational / Educational Expenditure,0
+2002,Andaman & Nicobar Islands,Vocational / Educational Expenditure,60000
+2003, Jammu & Kashmir,Vocational / Educational Expenditure,1196900
+2003, Himachal Pradesh,Vocational / Educational Expenditure,563000
+2003, Punjab,Vocational / Educational Expenditure,0
+2003,Chandigarh,Vocational / Educational Expenditure,1950000
+2003, Uttarakhand,Vocational / Educational Expenditure,0
+2003, Haryana,Vocational / Educational Expenditure,338526
+2003,Delhi,Vocational / Educational Expenditure,0
+2003, Rajasthan,Vocational / Educational Expenditure,0
+2003, Uttar Pradesh,Vocational / Educational Expenditure,0
+2003, Bihar,Vocational / Educational Expenditure,0
+2003, Sikkim,Vocational / Educational Expenditure,0
+2003, Nagaland,Vocational / Educational Expenditure,120000
+2003, Manipur,Vocational / Educational Expenditure,0
+2003, Mizoram,Vocational / Educational Expenditure,540000
+2003, Tripura,Vocational / Educational Expenditure,0
+2003, Meghalaya,Vocational / Educational Expenditure,0
+2003, Assam,Vocational / Educational Expenditure,1377000
+2003, West Bengal,Vocational / Educational Expenditure,8730520
+2003, Jharkhand,Vocational / Educational Expenditure,896500
+2003, Odisha,Vocational / Educational Expenditure,1288000
+2003, Chhattisgarh,Vocational / Educational Expenditure,1314992
+2003, Madhya Pradesh,Vocational / Educational Expenditure,3598000
+2003, Gujarat,Vocational / Educational Expenditure,50000
+2003,Daman & Diu,Vocational / Educational Expenditure,0
+2003,Dadra & Nagar Haveli,Vocational / Educational Expenditure,0
+2003, Maharashtra,Vocational / Educational Expenditure,0
+2003, Andhra Pradesh,Vocational / Educational Expenditure,14382000
+2003, Karnataka,Vocational / Educational Expenditure,60000
+2003, Goa,Vocational / Educational Expenditure,33447
+2003,Lakshadweep,Vocational / Educational Expenditure,0
+2003, Kerala,Vocational / Educational Expenditure,4800000
+2003, Tamil Nadu,Vocational / Educational Expenditure,330077
+2003,Puducherry,Vocational / Educational Expenditure,10000
+2003,Andaman & Nicobar Islands,Vocational / Educational Expenditure,485000
+2004, Jammu & Kashmir,Vocational / Educational Expenditure,943000
+2004, Himachal Pradesh,Vocational / Educational Expenditure,790000
+2004, Punjab,Vocational / Educational Expenditure,0
+2004,Chandigarh,Vocational / Educational Expenditure,525000
+2004, Uttarakhand,Vocational / Educational Expenditure,0
+2004, Haryana,Vocational / Educational Expenditure,2383675
+2004,Delhi,Vocational / Educational Expenditure,0
+2004, Rajasthan,Vocational / Educational Expenditure,0
+2004, Uttar Pradesh,Vocational / Educational Expenditure,0
+2004, Bihar,Vocational / Educational Expenditure,0
+2004, Sikkim,Vocational / Educational Expenditure,0
+2004, Nagaland,Vocational / Educational Expenditure,300000
+2004, Manipur,Vocational / Educational Expenditure,0
+2004, Mizoram,Vocational / Educational Expenditure,600000
+2004, Tripura,Vocational / Educational Expenditure,32569
+2004, Meghalaya,Vocational / Educational Expenditure,0
+2004, Assam,Vocational / Educational Expenditure,2000000
+2004, West Bengal,Vocational / Educational Expenditure,8543085
+2004, Jharkhand,Vocational / Educational Expenditure,1332500
+2004, Odisha,Vocational / Educational Expenditure,1305000
+2004, Chhattisgarh,Vocational / Educational Expenditure,211200
+2004, Madhya Pradesh,Vocational / Educational Expenditure,7745798
+2004, Gujarat,Vocational / Educational Expenditure,75000
+2004,Daman & Diu,Vocational / Educational Expenditure,0
+2004,Dadra & Nagar Haveli,Vocational / Educational Expenditure,0
+2004, Maharashtra,Vocational / Educational Expenditure,0
+2004, Andhra Pradesh,Vocational / Educational Expenditure,5052000
+2004, Karnataka,Vocational / Educational Expenditure,100518
+2004, Goa,Vocational / Educational Expenditure,12095
+2004,Lakshadweep,Vocational / Educational Expenditure,0
+2004, Kerala,Vocational / Educational Expenditure,120000
+2004, Tamil Nadu,Vocational / Educational Expenditure,130000
+2004,Puducherry,Vocational / Educational Expenditure,427807
+2004,Andaman & Nicobar Islands,Vocational / Educational Expenditure,56576
+2005, Jammu & Kashmir,Vocational / Educational Expenditure,937000
+2005, Himachal Pradesh,Vocational / Educational Expenditure,2708000
+2005, Punjab,Vocational / Educational Expenditure,0
+2005,Chandigarh,Vocational / Educational Expenditure,1055000
+2005, Uttarakhand,Vocational / Educational Expenditure,0
+2005, Haryana,Vocational / Educational Expenditure,5400000
+2005,Delhi,Vocational / Educational Expenditure,0
+2005, Rajasthan,Vocational / Educational Expenditure,0
+2005, Uttar Pradesh,Vocational / Educational Expenditure,0
+2005, Bihar,Vocational / Educational Expenditure,14928383
+2005, Sikkim,Vocational / Educational Expenditure,0
+2005, Nagaland,Vocational / Educational Expenditure,0
+2005, Manipur,Vocational / Educational Expenditure,0
+2005, Mizoram,Vocational / Educational Expenditure,57000
+2005, Tripura,Vocational / Educational Expenditure,351254
+2005, Meghalaya,Vocational / Educational Expenditure,0
+2005, Assam,Vocational / Educational Expenditure,2500000
+2005, West Bengal,Vocational / Educational Expenditure,8970197
+2005, Jharkhand,Vocational / Educational Expenditure,805588
+2005, Odisha,Vocational / Educational Expenditure,1698000
+2005, Chhattisgarh,Vocational / Educational Expenditure,58000
+2005, Madhya Pradesh,Vocational / Educational Expenditure,1011974
+2005, Gujarat,Vocational / Educational Expenditure,0
+2005,Daman & Diu,Vocational / Educational Expenditure,0
+2005,Dadra & Nagar Haveli,Vocational / Educational Expenditure,0
+2005, Maharashtra,Vocational / Educational Expenditure,0
+2005, Andhra Pradesh,Vocational / Educational Expenditure,0
+2005, Karnataka,Vocational / Educational Expenditure,5635000
+2005, Goa,Vocational / Educational Expenditure,6545
+2005,Lakshadweep,Vocational / Educational Expenditure,0
+2005, Kerala,Vocational / Educational Expenditure,4585156
+2005, Tamil Nadu,Vocational / Educational Expenditure,59000
+2005,Puducherry,Vocational / Educational Expenditure,19775
+2005,Andaman & Nicobar Islands,Vocational / Educational Expenditure,550000
+2006, Jammu & Kashmir,Vocational / Educational Expenditure,795000
+2006, Himachal Pradesh,Vocational / Educational Expenditure,793000
+2006, Punjab,Vocational / Educational Expenditure,0
+2006,Chandigarh,Vocational / Educational Expenditure,1875000
+2006, Uttarakhand,Vocational / Educational Expenditure,0
+2006, Haryana,Vocational / Educational Expenditure,24979
+2006,Delhi,Vocational / Educational Expenditure,0
+2006, Rajasthan,Vocational / Educational Expenditure,0
+2006, Uttar Pradesh,Vocational / Educational Expenditure,0
+2006, Bihar,Vocational / Educational Expenditure,11259000
+2006, Sikkim,Vocational / Educational Expenditure,0
+2006, Nagaland,Vocational / Educational Expenditure,84000
+2006, Manipur,Vocational / Educational Expenditure,0
+2006, Mizoram,Vocational / Educational Expenditure,263120
+2006, Tripura,Vocational / Educational Expenditure,110771
+2006, Meghalaya,Vocational / Educational Expenditure,90740
+2006, Assam,Vocational / Educational Expenditure,2500000
+2006, West Bengal,Vocational / Educational Expenditure,9418707
+2006, Jharkhand,Vocational / Educational Expenditure,1208668
+2006, Odisha,Vocational / Educational Expenditure,1665000
+2006, Chhattisgarh,Vocational / Educational Expenditure,30975
+2006, Madhya Pradesh,Vocational / Educational Expenditure,767000
+2006, Gujarat,Vocational / Educational Expenditure,0
+2006,Daman & Diu,Vocational / Educational Expenditure,0
+2006,Dadra & Nagar Haveli,Vocational / Educational Expenditure,0
+2006, Maharashtra,Vocational / Educational Expenditure,0
+2006, Andhra Pradesh,Vocational / Educational Expenditure,23617200
+2006, Karnataka,Vocational / Educational Expenditure,73605
+2006, Goa,Vocational / Educational Expenditure,12324
+2006,Lakshadweep,Vocational / Educational Expenditure,0
+2006, Kerala,Vocational / Educational Expenditure,5230991
+2006, Tamil Nadu,Vocational / Educational Expenditure,151392
+2006,Puducherry,Vocational / Educational Expenditure,9500
+2006,Andaman & Nicobar Islands,Vocational / Educational Expenditure,20000
+2007, Jammu & Kashmir,Vocational / Educational Expenditure,800000
+2007, Himachal Pradesh,Vocational / Educational Expenditure,3494000
+2007, Punjab,Vocational / Educational Expenditure,0
+2007,Chandigarh,Vocational / Educational Expenditure,1925000
+2007, Uttarakhand,Vocational / Educational Expenditure,0
+2007, Haryana,Vocational / Educational Expenditure,8266
+2007,Delhi,Vocational / Educational Expenditure,0
+2007, Rajasthan,Vocational / Educational Expenditure,0
+2007, Uttar Pradesh,Vocational / Educational Expenditure,0
+2007, Bihar,Vocational / Educational Expenditure,11360000
+2007, Sikkim,Vocational / Educational Expenditure,376641
+2007, Nagaland,Vocational / Educational Expenditure,0
+2007, Manipur,Vocational / Educational Expenditure,0
+2007, Mizoram,Vocational / Educational Expenditure,622000
+2007, Tripura,Vocational / Educational Expenditure,313774
+2007, Meghalaya,Vocational / Educational Expenditure,33766
+2007, Assam,Vocational / Educational Expenditure,930000
+2007, West Bengal,Vocational / Educational Expenditure,500000
+2007, Jharkhand,Vocational / Educational Expenditure,204478
+2007, Odisha,Vocational / Educational Expenditure,1865000
+2007, Chhattisgarh,Vocational / Educational Expenditure,38396
+2007, Madhya Pradesh,Vocational / Educational Expenditure,4336000
+2007, Gujarat,Vocational / Educational Expenditure,0
+2007,Daman & Diu,Vocational / Educational Expenditure,0
+2007,Dadra & Nagar Haveli,Vocational / Educational Expenditure,0
+2007, Maharashtra,Vocational / Educational Expenditure,0
+2007, Andhra Pradesh,Vocational / Educational Expenditure,40689000
+2007, Karnataka,Vocational / Educational Expenditure,127663
+2007, Goa,Vocational / Educational Expenditure,7000
+2007,Lakshadweep,Vocational / Educational Expenditure,0
+2007, Kerala,Vocational / Educational Expenditure,5476747
+2007, Tamil Nadu,Vocational / Educational Expenditure,568400
+2007,Puducherry,Vocational / Educational Expenditure,0
+2007,Andaman & Nicobar Islands,Vocational / Educational Expenditure,25000
+2001, Jammu & Kashmir,Expenditure on Welfare activities,437200
+2001, Himachal Pradesh,Expenditure on Welfare activities,215000
+2001, Punjab,Expenditure on Welfare activities,0
+2001,Chandigarh,Expenditure on Welfare activities,500000
+2001, Uttarakhand,Expenditure on Welfare activities,0
+2001, Haryana,Expenditure on Welfare activities,3403774
+2001,Delhi,Expenditure on Welfare activities,0
+2001, Rajasthan,Expenditure on Welfare activities,800000
+2001, Uttar Pradesh,Expenditure on Welfare activities,0
+2001, Bihar,Expenditure on Welfare activities,7019000
+2001, Sikkim,Expenditure on Welfare activities,0
+2001, Nagaland,Expenditure on Welfare activities,200000
+2001, Manipur,Expenditure on Welfare activities,229158
+2001, Mizoram,Expenditure on Welfare activities,181578
+2001, Tripura,Expenditure on Welfare activities,0
+2001, Meghalaya,Expenditure on Welfare activities,5579
+2001, Assam,Expenditure on Welfare activities,0
+2001, West Bengal,Expenditure on Welfare activities,58135
+2001, Jharkhand,Expenditure on Welfare activities,10467000
+2001, Odisha,Expenditure on Welfare activities,800000
+2001, Chhattisgarh,Expenditure on Welfare activities,83371
+2001, Madhya Pradesh,Expenditure on Welfare activities,897098
+2001, Gujarat,Expenditure on Welfare activities,0
+2001,Daman & Diu,Expenditure on Welfare activities,0
+2001,Dadra & Nagar Haveli,Expenditure on Welfare activities,0
+2001, Maharashtra,Expenditure on Welfare activities,0
+2001, Andhra Pradesh,Expenditure on Welfare activities,5239000
+2001, Karnataka,Expenditure on Welfare activities,0
+2001, Goa,Expenditure on Welfare activities,8876
+2001,Lakshadweep,Expenditure on Welfare activities,0
+2001, Kerala,Expenditure on Welfare activities,60316
+2001, Tamil Nadu,Expenditure on Welfare activities,0
+2001,Puducherry,Expenditure on Welfare activities,500
+2001,Andaman & Nicobar Islands,Expenditure on Welfare activities,40000
+2002, Jammu & Kashmir,Expenditure on Welfare activities,437600
+2002, Himachal Pradesh,Expenditure on Welfare activities,226000
+2002, Punjab,Expenditure on Welfare activities,0
+2002,Chandigarh,Expenditure on Welfare activities,1060000
+2002, Uttarakhand,Expenditure on Welfare activities,0
+2002, Haryana,Expenditure on Welfare activities,1563566
+2002,Delhi,Expenditure on Welfare activities,2500
+2002, Rajasthan,Expenditure on Welfare activities,500000
+2002, Uttar Pradesh,Expenditure on Welfare activities,0
+2002, Bihar,Expenditure on Welfare activities,0
+2002, Sikkim,Expenditure on Welfare activities,0
+2002, Nagaland,Expenditure on Welfare activities,279000
+2002, Manipur,Expenditure on Welfare activities,157536
+2002, Mizoram,Expenditure on Welfare activities,280000
+2002, Tripura,Expenditure on Welfare activities,42000
+2002, Meghalaya,Expenditure on Welfare activities,0
+2002, Assam,Expenditure on Welfare activities,0
+2002, West Bengal,Expenditure on Welfare activities,305508
+2002, Jharkhand,Expenditure on Welfare activities,4805000
+2002, Odisha,Expenditure on Welfare activities,854000
+2002, Chhattisgarh,Expenditure on Welfare activities,55856
+2002, Madhya Pradesh,Expenditure on Welfare activities,911000
+2002, Gujarat,Expenditure on Welfare activities,0
+2002,Daman & Diu,Expenditure on Welfare activities,0
+2002,Dadra & Nagar Haveli,Expenditure on Welfare activities,0
+2002, Maharashtra,Expenditure on Welfare activities,0
+2002, Andhra Pradesh,Expenditure on Welfare activities,351000
+2002, Karnataka,Expenditure on Welfare activities,0
+2002, Goa,Expenditure on Welfare activities,5814
+2002,Lakshadweep,Expenditure on Welfare activities,0
+2002, Kerala,Expenditure on Welfare activities,70450
+2002, Tamil Nadu,Expenditure on Welfare activities,0
+2002,Puducherry,Expenditure on Welfare activities,0
+2002,Andaman & Nicobar Islands,Expenditure on Welfare activities,50000
+2003, Jammu & Kashmir,Expenditure on Welfare activities,334200
+2003, Himachal Pradesh,Expenditure on Welfare activities,225000
+2003, Punjab,Expenditure on Welfare activities,0
+2003,Chandigarh,Expenditure on Welfare activities,1425000
+2003, Uttarakhand,Expenditure on Welfare activities,1594464
+2003, Haryana,Expenditure on Welfare activities,504203
+2003,Delhi,Expenditure on Welfare activities,0
+2003, Rajasthan,Expenditure on Welfare activities,0
+2003, Uttar Pradesh,Expenditure on Welfare activities,0
+2003, Bihar,Expenditure on Welfare activities,0
+2003, Sikkim,Expenditure on Welfare activities,0
+2003, Nagaland,Expenditure on Welfare activities,0
+2003, Manipur,Expenditure on Welfare activities,0
+2003, Mizoram,Expenditure on Welfare activities,250000
+2003, Tripura,Expenditure on Welfare activities,13949
+2003, Meghalaya,Expenditure on Welfare activities,0
+2003, Assam,Expenditure on Welfare activities,0
+2003, West Bengal,Expenditure on Welfare activities,1943095
+2003, Jharkhand,Expenditure on Welfare activities,265162
+2003, Odisha,Expenditure on Welfare activities,854000
+2003, Chhattisgarh,Expenditure on Welfare activities,352049
+2003, Madhya Pradesh,Expenditure on Welfare activities,16678000
+2003, Gujarat,Expenditure on Welfare activities,0
+2003,Daman & Diu,Expenditure on Welfare activities,0
+2003,Dadra & Nagar Haveli,Expenditure on Welfare activities,0
+2003, Maharashtra,Expenditure on Welfare activities,0
+2003, Andhra Pradesh,Expenditure on Welfare activities,193000
+2003, Karnataka,Expenditure on Welfare activities,0
+2003, Goa,Expenditure on Welfare activities,20548
+2003,Lakshadweep,Expenditure on Welfare activities,0
+2003, Kerala,Expenditure on Welfare activities,300000
+2003, Tamil Nadu,Expenditure on Welfare activities,0
+2003,Puducherry,Expenditure on Welfare activities,0
+2003,Andaman & Nicobar Islands,Expenditure on Welfare activities,124000
+2004, Jammu & Kashmir,Expenditure on Welfare activities,2709600
+2004, Himachal Pradesh,Expenditure on Welfare activities,315000
+2004, Punjab,Expenditure on Welfare activities,0
+2004,Chandigarh,Expenditure on Welfare activities,650000
+2004, Uttarakhand,Expenditure on Welfare activities,1485625
+2004, Haryana,Expenditure on Welfare activities,94760
+2004,Delhi,Expenditure on Welfare activities,0
+2004, Rajasthan,Expenditure on Welfare activities,0
+2004, Uttar Pradesh,Expenditure on Welfare activities,0
+2004, Bihar,Expenditure on Welfare activities,12159200
+2004, Sikkim,Expenditure on Welfare activities,0
+2004, Nagaland,Expenditure on Welfare activities,400000
+2004, Manipur,Expenditure on Welfare activities,0
+2004, Mizoram,Expenditure on Welfare activities,100000
+2004, Tripura,Expenditure on Welfare activities,6999
+2004, Meghalaya,Expenditure on Welfare activities,0
+2004, Assam,Expenditure on Welfare activities,0
+2004, West Bengal,Expenditure on Welfare activities,1847500
+2004, Jharkhand,Expenditure on Welfare activities,551045
+2004, Odisha,Expenditure on Welfare activities,900000
+2004, Chhattisgarh,Expenditure on Welfare activities,0
+2004, Madhya Pradesh,Expenditure on Welfare activities,1826495
+2004, Gujarat,Expenditure on Welfare activities,0
+2004,Daman & Diu,Expenditure on Welfare activities,0
+2004,Dadra & Nagar Haveli,Expenditure on Welfare activities,0
+2004, Maharashtra,Expenditure on Welfare activities,0
+2004, Andhra Pradesh,Expenditure on Welfare activities,99281
+2004, Karnataka,Expenditure on Welfare activities,0
+2004, Goa,Expenditure on Welfare activities,28508
+2004,Lakshadweep,Expenditure on Welfare activities,0
+2004, Kerala,Expenditure on Welfare activities,2750000
+2004, Tamil Nadu,Expenditure on Welfare activities,0
+2004,Puducherry,Expenditure on Welfare activities,0
+2004,Andaman & Nicobar Islands,Expenditure on Welfare activities,10100
+2005, Jammu & Kashmir,Expenditure on Welfare activities,78000
+2005, Himachal Pradesh,Expenditure on Welfare activities,574000
+2005, Punjab,Expenditure on Welfare activities,0
+2005,Chandigarh,Expenditure on Welfare activities,2010500
+2005, Uttarakhand,Expenditure on Welfare activities,1845900
+2005, Haryana,Expenditure on Welfare activities,1400000
+2005,Delhi,Expenditure on Welfare activities,0
+2005, Rajasthan,Expenditure on Welfare activities,0
+2005, Uttar Pradesh,Expenditure on Welfare activities,0
+2005, Bihar,Expenditure on Welfare activities,0
+2005, Sikkim,Expenditure on Welfare activities,6000
+2005, Nagaland,Expenditure on Welfare activities,300000
+2005, Manipur,Expenditure on Welfare activities,300336
+2005, Mizoram,Expenditure on Welfare activities,200000
+2005, Tripura,Expenditure on Welfare activities,21311
+2005, Meghalaya,Expenditure on Welfare activities,0
+2005, Assam,Expenditure on Welfare activities,0
+2005, West Bengal,Expenditure on Welfare activities,1939875
+2005, Jharkhand,Expenditure on Welfare activities,326928
+2005, Odisha,Expenditure on Welfare activities,3610000
+2005, Chhattisgarh,Expenditure on Welfare activities,14075954
+2005, Madhya Pradesh,Expenditure on Welfare activities,324702
+2005, Gujarat,Expenditure on Welfare activities,0
+2005,Daman & Diu,Expenditure on Welfare activities,0
+2005,Dadra & Nagar Haveli,Expenditure on Welfare activities,0
+2005, Maharashtra,Expenditure on Welfare activities,0
+2005, Andhra Pradesh,Expenditure on Welfare activities,0
+2005, Karnataka,Expenditure on Welfare activities,0
+2005, Goa,Expenditure on Welfare activities,9852
+2005,Lakshadweep,Expenditure on Welfare activities,0
+2005, Kerala,Expenditure on Welfare activities,1200000
+2005, Tamil Nadu,Expenditure on Welfare activities,33029000
+2005,Puducherry,Expenditure on Welfare activities,1850
+2005,Andaman & Nicobar Islands,Expenditure on Welfare activities,26000
+2006, Jammu & Kashmir,Expenditure on Welfare activities,100000
+2006, Himachal Pradesh,Expenditure on Welfare activities,317000
+2006, Punjab,Expenditure on Welfare activities,0
+2006,Chandigarh,Expenditure on Welfare activities,1350200
+2006, Uttarakhand,Expenditure on Welfare activities,2518513
+2006, Haryana,Expenditure on Welfare activities,790789
+2006,Delhi,Expenditure on Welfare activities,0
+2006, Rajasthan,Expenditure on Welfare activities,0
+2006, Uttar Pradesh,Expenditure on Welfare activities,0
+2006, Bihar,Expenditure on Welfare activities,0
+2006, Sikkim,Expenditure on Welfare activities,0
+2006, Nagaland,Expenditure on Welfare activities,500000
+2006, Manipur,Expenditure on Welfare activities,209956
+2006, Mizoram,Expenditure on Welfare activities,755260
+2006, Tripura,Expenditure on Welfare activities,366655
+2006, Meghalaya,Expenditure on Welfare activities,0
+2006, Assam,Expenditure on Welfare activities,0
+2006, West Bengal,Expenditure on Welfare activities,2036869
+2006, Jharkhand,Expenditure on Welfare activities,961469
+2006, Odisha,Expenditure on Welfare activities,4072000
+2006, Chhattisgarh,Expenditure on Welfare activities,0
+2006, Madhya Pradesh,Expenditure on Welfare activities,209275
+2006, Gujarat,Expenditure on Welfare activities,0
+2006,Daman & Diu,Expenditure on Welfare activities,0
+2006,Dadra & Nagar Haveli,Expenditure on Welfare activities,0
+2006, Maharashtra,Expenditure on Welfare activities,0
+2006, Andhra Pradesh,Expenditure on Welfare activities,0
+2006, Karnataka,Expenditure on Welfare activities,0
+2006, Goa,Expenditure on Welfare activities,10519
+2006,Lakshadweep,Expenditure on Welfare activities,0
+2006, Kerala,Expenditure on Welfare activities,2000000
+2006, Tamil Nadu,Expenditure on Welfare activities,24163000
+2006,Puducherry,Expenditure on Welfare activities,0
+2006,Andaman & Nicobar Islands,Expenditure on Welfare activities,50000
+2007, Jammu & Kashmir,Expenditure on Welfare activities,100000
+2007, Himachal Pradesh,Expenditure on Welfare activities,128911
+2007, Punjab,Expenditure on Welfare activities,0
+2007,Chandigarh,Expenditure on Welfare activities,1650500
+2007, Uttarakhand,Expenditure on Welfare activities,0
+2007, Haryana,Expenditure on Welfare activities,1320331
+2007,Delhi,Expenditure on Welfare activities,0
+2007, Rajasthan,Expenditure on Welfare activities,0
+2007, Uttar Pradesh,Expenditure on Welfare activities,0
+2007, Bihar,Expenditure on Welfare activities,0
+2007, Sikkim,Expenditure on Welfare activities,20142
+2007, Nagaland,Expenditure on Welfare activities,0
+2007, Manipur,Expenditure on Welfare activities,209880
+2007, Mizoram,Expenditure on Welfare activities,243062
+2007, Tripura,Expenditure on Welfare activities,36188
+2007, Meghalaya,Expenditure on Welfare activities,14760
+2007, Assam,Expenditure on Welfare activities,200000
+2007, West Bengal,Expenditure on Welfare activities,17369338
+2007, Jharkhand,Expenditure on Welfare activities,365350
+2007, Odisha,Expenditure on Welfare activities,4172000
+2007, Chhattisgarh,Expenditure on Welfare activities,0
+2007, Madhya Pradesh,Expenditure on Welfare activities,0
+2007, Gujarat,Expenditure on Welfare activities,0
+2007,Daman & Diu,Expenditure on Welfare activities,0
+2007,Dadra & Nagar Haveli,Expenditure on Welfare activities,0
+2007, Maharashtra,Expenditure on Welfare activities,0
+2007, Andhra Pradesh,Expenditure on Welfare activities,409000
+2007, Karnataka,Expenditure on Welfare activities,0
+2007, Goa,Expenditure on Welfare activities,9000
+2007,Lakshadweep,Expenditure on Welfare activities,0
+2007, Kerala,Expenditure on Welfare activities,1822040
+2007, Tamil Nadu,Expenditure on Welfare activities,26322000
+2007,Puducherry,Expenditure on Welfare activities,0
+2007,Andaman & Nicobar Islands,Expenditure on Welfare activities,50000
+2001, Jammu & Kashmir,Other expenditures related to inmates only,14179800
+2001, Himachal Pradesh,Other expenditures related to inmates only,325000
+2001, Punjab,Other expenditures related to inmates only,0
+2001,Chandigarh,Other expenditures related to inmates only,100000
+2001, Uttarakhand,Other expenditures related to inmates only,1300779
+2001, Haryana,Other expenditures related to inmates only,12612973
+2001,Delhi,Other expenditures related to inmates only,65779213
+2001, Rajasthan,Other expenditures related to inmates only,2781000
+2001, Uttar Pradesh,Other expenditures related to inmates only,225391000
+2001, Bihar,Other expenditures related to inmates only,0
+2001, Sikkim,Other expenditures related to inmates only,0
+2001, Nagaland,Other expenditures related to inmates only,0
+2001, Manipur,Other expenditures related to inmates only,1574108
+2001, Mizoram,Other expenditures related to inmates only,100000
+2001, Tripura,Other expenditures related to inmates only,0
+2001, Meghalaya,Other expenditures related to inmates only,106380
+2001, Assam,Other expenditures related to inmates only,300000
+2001, West Bengal,Other expenditures related to inmates only,19441046
+2001, Jharkhand,Other expenditures related to inmates only,20909000
+2001, Odisha,Other expenditures related to inmates only,4000000
+2001, Chhattisgarh,Other expenditures related to inmates only,16778484
+2001, Madhya Pradesh,Other expenditures related to inmates only,59957000
+2001, Gujarat,Other expenditures related to inmates only,0
+2001,Daman & Diu,Other expenditures related to inmates only,0
+2001,Dadra & Nagar Haveli,Other expenditures related to inmates only,135194
+2001, Maharashtra,Other expenditures related to inmates only,55831000
+2001, Andhra Pradesh,Other expenditures related to inmates only,0
+2001, Karnataka,Other expenditures related to inmates only,773039
+2001, Goa,Other expenditures related to inmates only,199407
+2001,Lakshadweep,Other expenditures related to inmates only,0
+2001, Kerala,Other expenditures related to inmates only,10317190
+2001, Tamil Nadu,Other expenditures related to inmates only,0
+2001,Puducherry,Other expenditures related to inmates only,0
+2001,Andaman & Nicobar Islands,Other expenditures related to inmates only,30000
+2002, Jammu & Kashmir,Other expenditures related to inmates only,12214600
+2002, Himachal Pradesh,Other expenditures related to inmates only,338000
+2002, Punjab,Other expenditures related to inmates only,2064396
+2002,Chandigarh,Other expenditures related to inmates only,440000
+2002, Uttarakhand,Other expenditures related to inmates only,1513272
+2002, Haryana,Other expenditures related to inmates only,19562640
+2002,Delhi,Other expenditures related to inmates only,68126733
+2002, Rajasthan,Other expenditures related to inmates only,3048000
+2002, Uttar Pradesh,Other expenditures related to inmates only,0
+2002, Bihar,Other expenditures related to inmates only,86658000
+2002, Sikkim,Other expenditures related to inmates only,3218901
+2002, Nagaland,Other expenditures related to inmates only,0
+2002, Manipur,Other expenditures related to inmates only,4067343
+2002, Mizoram,Other expenditures related to inmates only,0
+2002, Tripura,Other expenditures related to inmates only,0
+2002, Meghalaya,Other expenditures related to inmates only,0
+2002, Assam,Other expenditures related to inmates only,4705000
+2002, West Bengal,Other expenditures related to inmates only,44934219
+2002, Jharkhand,Other expenditures related to inmates only,58344000
+2002, Odisha,Other expenditures related to inmates only,6670000
+2002, Chhattisgarh,Other expenditures related to inmates only,10582549
+2002, Madhya Pradesh,Other expenditures related to inmates only,93624000
+2002, Gujarat,Other expenditures related to inmates only,0
+2002,Daman & Diu,Other expenditures related to inmates only,14620
+2002,Dadra & Nagar Haveli,Other expenditures related to inmates only,100000
+2002, Maharashtra,Other expenditures related to inmates only,97465000
+2002, Andhra Pradesh,Other expenditures related to inmates only,0
+2002, Karnataka,Other expenditures related to inmates only,11919610
+2002, Goa,Other expenditures related to inmates only,683581
+2002,Lakshadweep,Other expenditures related to inmates only,0
+2002, Kerala,Other expenditures related to inmates only,14480610
+2002, Tamil Nadu,Other expenditures related to inmates only,186440
+2002,Puducherry,Other expenditures related to inmates only,0
+2002,Andaman & Nicobar Islands,Other expenditures related to inmates only,70000
+2003, Jammu & Kashmir,Other expenditures related to inmates only,1754100
+2003, Himachal Pradesh,Other expenditures related to inmates only,338000
+2003, Punjab,Other expenditures related to inmates only,0
+2003,Chandigarh,Other expenditures related to inmates only,595000
+2003, Uttarakhand,Other expenditures related to inmates only,20060809
+2003, Haryana,Other expenditures related to inmates only,16032113
+2003,Delhi,Other expenditures related to inmates only,252304051
+2003, Rajasthan,Other expenditures related to inmates only,3342000
+2003, Uttar Pradesh,Other expenditures related to inmates only,0
+2003, Bihar,Other expenditures related to inmates only,89884000
+2003, Sikkim,Other expenditures related to inmates only,0
+2003, Nagaland,Other expenditures related to inmates only,0
+2003, Manipur,Other expenditures related to inmates only,30591500
+2003, Mizoram,Other expenditures related to inmates only,0
+2003, Tripura,Other expenditures related to inmates only,0
+2003, Meghalaya,Other expenditures related to inmates only,119261
+2003, Assam,Other expenditures related to inmates only,3356000
+2003, West Bengal,Other expenditures related to inmates only,50120342
+2003, Jharkhand,Other expenditures related to inmates only,0
+2003, Odisha,Other expenditures related to inmates only,4421000
+2003, Chhattisgarh,Other expenditures related to inmates only,118320019
+2003, Madhya Pradesh,Other expenditures related to inmates only,366799000
+2003, Gujarat,Other expenditures related to inmates only,0
+2003,Daman & Diu,Other expenditures related to inmates only,41000
+2003,Dadra & Nagar Haveli,Other expenditures related to inmates only,100000
+2003, Maharashtra,Other expenditures related to inmates only,82383000
+2003, Andhra Pradesh,Other expenditures related to inmates only,0
+2003, Karnataka,Other expenditures related to inmates only,471000
+2003, Goa,Other expenditures related to inmates only,1549717
+2003,Lakshadweep,Other expenditures related to inmates only,0
+2003, Kerala,Other expenditures related to inmates only,14868710
+2003, Tamil Nadu,Other expenditures related to inmates only,205082
+2003,Puducherry,Other expenditures related to inmates only,0
+2003,Andaman & Nicobar Islands,Other expenditures related to inmates only,2000000
+2004, Jammu & Kashmir,Other expenditures related to inmates only,0
+2004, Himachal Pradesh,Other expenditures related to inmates only,473000
+2004, Punjab,Other expenditures related to inmates only,0
+2004,Chandigarh,Other expenditures related to inmates only,833000
+2004, Uttarakhand,Other expenditures related to inmates only,22515236
+2004, Haryana,Other expenditures related to inmates only,42186487
+2004,Delhi,Other expenditures related to inmates only,111939875
+2004, Rajasthan,Other expenditures related to inmates only,3488000
+2004, Uttar Pradesh,Other expenditures related to inmates only,0
+2004, Bihar,Other expenditures related to inmates only,0
+2004, Sikkim,Other expenditures related to inmates only,0
+2004, Nagaland,Other expenditures related to inmates only,0
+2004, Manipur,Other expenditures related to inmates only,4148571
+2004, Mizoram,Other expenditures related to inmates only,1216000
+2004, Tripura,Other expenditures related to inmates only,164333
+2004, Meghalaya,Other expenditures related to inmates only,1361548
+2004, Assam,Other expenditures related to inmates only,4172000
+2004, West Bengal,Other expenditures related to inmates only,53510135
+2004, Jharkhand,Other expenditures related to inmates only,47316810
+2004, Odisha,Other expenditures related to inmates only,4075000
+2004, Chhattisgarh,Other expenditures related to inmates only,15573686
+2004, Madhya Pradesh,Other expenditures related to inmates only,391392670
+2004, Gujarat,Other expenditures related to inmates only,0
+2004,Daman & Diu,Other expenditures related to inmates only,51350
+2004,Dadra & Nagar Haveli,Other expenditures related to inmates only,100000
+2004, Maharashtra,Other expenditures related to inmates only,49886313
+2004, Andhra Pradesh,Other expenditures related to inmates only,31107352
+2004, Karnataka,Other expenditures related to inmates only,18986499
+2004, Goa,Other expenditures related to inmates only,289031
+2004,Lakshadweep,Other expenditures related to inmates only,0
+2004, Kerala,Other expenditures related to inmates only,1000000
+2004, Tamil Nadu,Other expenditures related to inmates only,20721000
+2004,Puducherry,Other expenditures related to inmates only,0
+2004,Andaman & Nicobar Islands,Other expenditures related to inmates only,614532
+2005, Jammu & Kashmir,Other expenditures related to inmates only,34452000
+2005, Himachal Pradesh,Other expenditures related to inmates only,766000
+2005, Punjab,Other expenditures related to inmates only,0
+2005,Chandigarh,Other expenditures related to inmates only,800000
+2005, Uttarakhand,Other expenditures related to inmates only,14705934
+2005, Haryana,Other expenditures related to inmates only,14100000
+2005,Delhi,Other expenditures related to inmates only,142578676
+2005, Rajasthan,Other expenditures related to inmates only,4107000
+2005, Uttar Pradesh,Other expenditures related to inmates only,0
+2005, Bihar,Other expenditures related to inmates only,0
+2005, Sikkim,Other expenditures related to inmates only,0
+2005, Nagaland,Other expenditures related to inmates only,400000
+2005, Manipur,Other expenditures related to inmates only,6201809
+2005, Mizoram,Other expenditures related to inmates only,0
+2005, Tripura,Other expenditures related to inmates only,167400
+2005, Meghalaya,Other expenditures related to inmates only,163386
+2005, Assam,Other expenditures related to inmates only,5609000
+2005, West Bengal,Other expenditures related to inmates only,56185642
+2005, Jharkhand,Other expenditures related to inmates only,58778354
+2005, Odisha,Other expenditures related to inmates only,4780000
+2005, Chhattisgarh,Other expenditures related to inmates only,20133434
+2005, Madhya Pradesh,Other expenditures related to inmates only,398408024
+2005, Gujarat,Other expenditures related to inmates only,0
+2005,Daman & Diu,Other expenditures related to inmates only,75000
+2005,Dadra & Nagar Haveli,Other expenditures related to inmates only,100000
+2005, Maharashtra,Other expenditures related to inmates only,55366000
+2005, Andhra Pradesh,Other expenditures related to inmates only,0
+2005, Karnataka,Other expenditures related to inmates only,0
+2005, Goa,Other expenditures related to inmates only,1552681
+2005,Lakshadweep,Other expenditures related to inmates only,0
+2005, Kerala,Other expenditures related to inmates only,1000000
+2005, Tamil Nadu,Other expenditures related to inmates only,4998000
+2005,Puducherry,Other expenditures related to inmates only,0
+2005,Andaman & Nicobar Islands,Other expenditures related to inmates only,1960000
+2006, Jammu & Kashmir,Other expenditures related to inmates only,16780000
+2006, Himachal Pradesh,Other expenditures related to inmates only,476000
+2006, Punjab,Other expenditures related to inmates only,0
+2006,Chandigarh,Other expenditures related to inmates only,1375600
+2006, Uttarakhand,Other expenditures related to inmates only,17832315
+2006, Haryana,Other expenditures related to inmates only,23699412
+2006,Delhi,Other expenditures related to inmates only,196944897
+2006, Rajasthan,Other expenditures related to inmates only,4445000
+2006, Uttar Pradesh,Other expenditures related to inmates only,0
+2006, Bihar,Other expenditures related to inmates only,0
+2006, Sikkim,Other expenditures related to inmates only,0
+2006, Nagaland,Other expenditures related to inmates only,1500000
+2006, Manipur,Other expenditures related to inmates only,1567251
+2006, Mizoram,Other expenditures related to inmates only,1000000
+2006, Tripura,Other expenditures related to inmates only,5830079
+2006, Meghalaya,Other expenditures related to inmates only,39936
+2006, Assam,Other expenditures related to inmates only,5982000
+2006, West Bengal,Other expenditures related to inmates only,58994925
+2006, Jharkhand,Other expenditures related to inmates only,38988591
+2006, Odisha,Other expenditures related to inmates only,5716000
+2006, Chhattisgarh,Other expenditures related to inmates only,18796112
+2006, Madhya Pradesh,Other expenditures related to inmates only,425459725
+2006, Gujarat,Other expenditures related to inmates only,0
+2006,Daman & Diu,Other expenditures related to inmates only,16800
+2006,Dadra & Nagar Haveli,Other expenditures related to inmates only,0
+2006, Maharashtra,Other expenditures related to inmates only,88999000
+2006, Andhra Pradesh,Other expenditures related to inmates only,73887500
+2006, Karnataka,Other expenditures related to inmates only,0
+2006, Goa,Other expenditures related to inmates only,2756627
+2006,Lakshadweep,Other expenditures related to inmates only,0
+2006, Kerala,Other expenditures related to inmates only,14791657
+2006, Tamil Nadu,Other expenditures related to inmates only,2295500
+2006,Puducherry,Other expenditures related to inmates only,2500
+2006,Andaman & Nicobar Islands,Other expenditures related to inmates only,1995000
+2007, Jammu & Kashmir,Other expenditures related to inmates only,25325600
+2007, Himachal Pradesh,Other expenditures related to inmates only,1275854
+2007, Punjab,Other expenditures related to inmates only,0
+2007,Chandigarh,Other expenditures related to inmates only,2250000
+2007, Uttarakhand,Other expenditures related to inmates only,36032222
+2007, Haryana,Other expenditures related to inmates only,11202782
+2007,Delhi,Other expenditures related to inmates only,535582460
+2007, Rajasthan,Other expenditures related to inmates only,6504000
+2007, Uttar Pradesh,Other expenditures related to inmates only,0
+2007, Bihar,Other expenditures related to inmates only,50984298
+2007, Sikkim,Other expenditures related to inmates only,0
+2007, Nagaland,Other expenditures related to inmates only,0
+2007, Manipur,Other expenditures related to inmates only,522107
+2007, Mizoram,Other expenditures related to inmates only,26624694
+2007, Tripura,Other expenditures related to inmates only,0
+2007, Meghalaya,Other expenditures related to inmates only,293353
+2007, Assam,Other expenditures related to inmates only,17094000
+2007, West Bengal,Other expenditures related to inmates only,70318862
+2007, Jharkhand,Other expenditures related to inmates only,26434176
+2007, Odisha,Other expenditures related to inmates only,6446000
+2007, Chhattisgarh,Other expenditures related to inmates only,17729746
+2007, Madhya Pradesh,Other expenditures related to inmates only,22310000
+2007, Gujarat,Other expenditures related to inmates only,0
+2007,Daman & Diu,Other expenditures related to inmates only,23200
+2007,Dadra & Nagar Haveli,Other expenditures related to inmates only,42000
+2007, Maharashtra,Other expenditures related to inmates only,98690000
+2007, Andhra Pradesh,Other expenditures related to inmates only,119357000
+2007, Karnataka,Other expenditures related to inmates only,0
+2007, Goa,Other expenditures related to inmates only,1660000
+2007,Lakshadweep,Other expenditures related to inmates only,1046
+2007, Kerala,Other expenditures related to inmates only,0
+2007, Tamil Nadu,Other expenditures related to inmates only,4118000
+2007,Puducherry,Other expenditures related to inmates only,0
+2007,Andaman & Nicobar Islands,Other expenditures related to inmates only,2558000
+2001, Jammu & Kashmir,Total expenditure on inmates,38255900
+2001, Himachal Pradesh,Total expenditure on inmates,10747000
+2001, Punjab,Total expenditure on inmates,69761000
+2001,Chandigarh,Total expenditure on inmates,8000000
+2001, Uttarakhand,Total expenditure on inmates,12686887
+2001, Haryana,Total expenditure on inmates,81908620
+2001,Delhi,Total expenditure on inmates,134770900
+2001, Rajasthan,Total expenditure on inmates,83994000
+2001, Uttar Pradesh,Total expenditure on inmates,464382000
+2001, Bihar,Total expenditure on inmates,297021000
+2001, Sikkim,Total expenditure on inmates,3218901
+2001, Nagaland,Total expenditure on inmates,17976404
+2001, Manipur,Total expenditure on inmates,10127071
+2001, Mizoram,Total expenditure on inmates,14745277
+2001, Tripura,Total expenditure on inmates,8816935
+2001, Meghalaya,Total expenditure on inmates,5000859
+2001, Assam,Total expenditure on inmates,51700000
+2001, West Bengal,Total expenditure on inmates,155464434
+2001, Jharkhand,Total expenditure on inmates,145674000
+2001, Odisha,Total expenditure on inmates,115440000
+2001, Chhattisgarh,Total expenditure on inmates,80629609
+2001, Madhya Pradesh,Total expenditure on inmates,270448098
+2001, Gujarat,Total expenditure on inmates,63511196
+2001,Daman & Diu,Total expenditure on inmates,366062
+2001,Dadra & Nagar Haveli,Total expenditure on inmates,499386
+2001, Maharashtra,Total expenditure on inmates,157142000
+2001, Andhra Pradesh,Total expenditure on inmates,135048000
+2001, Karnataka,Total expenditure on inmates,68800935
+2001, Goa,Total expenditure on inmates,2681654
+2001,Lakshadweep,Total expenditure on inmates,0
+2001, Kerala,Total expenditure on inmates,60548867
+2001, Tamil Nadu,Total expenditure on inmates,119779338
+2001,Puducherry,Total expenditure on inmates,2354780
+2001,Andaman & Nicobar Islands,Total expenditure on inmates,5330000
+2002, Jammu & Kashmir,Total expenditure on inmates,37585900
+2002, Himachal Pradesh,Total expenditure on inmates,11292000
+2002, Punjab,Total expenditure on inmates,40009367
+2002,Chandigarh,Total expenditure on inmates,8800000
+2002, Uttarakhand,Total expenditure on inmates,13780012
+2002, Haryana,Total expenditure on inmates,96631000
+2002,Delhi,Total expenditure on inmates,140138755
+2002, Rajasthan,Total expenditure on inmates,77623000
+2002, Uttar Pradesh,Total expenditure on inmates,282803000
+2002, Bihar,Total expenditure on inmates,347135000
+2002, Sikkim,Total expenditure on inmates,6439302
+2002, Nagaland,Total expenditure on inmates,18354000
+2002, Manipur,Total expenditure on inmates,12026253
+2002, Mizoram,Total expenditure on inmates,13390000
+2002, Tripura,Total expenditure on inmates,10420662
+2002, Meghalaya,Total expenditure on inmates,4664835
+2002, Assam,Total expenditure on inmates,59790000
+2002, West Bengal,Total expenditure on inmates,205785325
+2002, Jharkhand,Total expenditure on inmates,171254000
+2002, Odisha,Total expenditure on inmates,102830000
+2002, Chhattisgarh,Total expenditure on inmates,80240153
+2002, Madhya Pradesh,Total expenditure on inmates,317866000
+2002, Gujarat,Total expenditure on inmates,60690000
+2002,Daman & Diu,Total expenditure on inmates,367740
+2002,Dadra & Nagar Haveli,Total expenditure on inmates,400000
+2002, Maharashtra,Total expenditure on inmates,242204000
+2002, Andhra Pradesh,Total expenditure on inmates,141500000
+2002, Karnataka,Total expenditure on inmates,82411543
+2002, Goa,Total expenditure on inmates,3865385
+2002,Lakshadweep,Total expenditure on inmates,19302
+2002, Kerala,Total expenditure on inmates,75536500
+2002, Tamil Nadu,Total expenditure on inmates,112664465
+2002,Puducherry,Total expenditure on inmates,2163000
+2002,Andaman & Nicobar Islands,Total expenditure on inmates,7560000
+2003, Jammu & Kashmir,Total expenditure on inmates,28937200
+2003, Himachal Pradesh,Total expenditure on inmates,11253000
+2003, Punjab,Total expenditure on inmates,559400110
+2003,Chandigarh,Total expenditure on inmates,9000000
+2003, Uttarakhand,Total expenditure on inmates,35070336
+2003, Haryana,Total expenditure on inmates,99123613
+2003,Delhi,Total expenditure on inmates,323594394
+2003, Rajasthan,Total expenditure on inmates,80279000
+2003, Uttar Pradesh,Total expenditure on inmates,266500000
+2003, Bihar,Total expenditure on inmates,350721000
+2003, Sikkim,Total expenditure on inmates,1820791
+2003, Nagaland,Total expenditure on inmates,9470000
+2003, Manipur,Total expenditure on inmates,38339500
+2003, Mizoram,Total expenditure on inmates,19325000
+2003, Tripura,Total expenditure on inmates,8913949
+2003, Meghalaya,Total expenditure on inmates,6423770
+2003, Assam,Total expenditure on inmates,68638000
+2003, West Bengal,Total expenditure on inmates,330625625
+2003, Jharkhand,Total expenditure on inmates,105510696
+2003, Odisha,Total expenditure on inmates,97205000
+2003, Chhattisgarh,Total expenditure on inmates,176737893
+2003, Madhya Pradesh,Total expenditure on inmates,583467000
+2003, Gujarat,Total expenditure on inmates,58192000
+2003,Daman & Diu,Total expenditure on inmates,390930
+2003,Dadra & Nagar Haveli,Total expenditure on inmates,400000
+2003, Maharashtra,Total expenditure on inmates,206169000
+2003, Andhra Pradesh,Total expenditure on inmates,134249000
+2003, Karnataka,Total expenditure on inmates,66659000
+2003, Goa,Total expenditure on inmates,5514911
+2003,Lakshadweep,Total expenditure on inmates,3937
+2003, Kerala,Total expenditure on inmates,76833256
+2003, Tamil Nadu,Total expenditure on inmates,120192540
+2003,Puducherry,Total expenditure on inmates,2077000
+2003,Andaman & Nicobar Islands,Total expenditure on inmates,5110000
+2004, Jammu & Kashmir,Total expenditure on inmates,33630000
+2004, Himachal Pradesh,Total expenditure on inmates,15780000
+2004, Punjab,Total expenditure on inmates,108201000
+2004,Chandigarh,Total expenditure on inmates,6694000
+2004, Uttarakhand,Total expenditure on inmates,38008906
+2004, Haryana,Total expenditure on inmates,143466222
+2004,Delhi,Total expenditure on inmates,204204867
+2004, Rajasthan,Total expenditure on inmates,79721000
+2004, Uttar Pradesh,Total expenditure on inmates,290692000
+2004, Bihar,Total expenditure on inmates,277154300
+2004, Sikkim,Total expenditure on inmates,2322211
+2004, Nagaland,Total expenditure on inmates,20630000
+2004, Manipur,Total expenditure on inmates,18736099
+2004, Mizoram,Total expenditure on inmates,16936000
+2004, Tripura,Total expenditure on inmates,12203901
+2004, Meghalaya,Total expenditure on inmates,6773419
+2004, Assam,Total expenditure on inmates,85251000
+2004, West Bengal,Total expenditure on inmates,351839740
+2004, Jharkhand,Total expenditure on inmates,164856086
+2004, Odisha,Total expenditure on inmates,106510000
+2004, Chhattisgarh,Total expenditure on inmates,86708950
+2004, Madhya Pradesh,Total expenditure on inmates,616624000
+2004, Gujarat,Total expenditure on inmates,59325000
+2004,Daman & Diu,Total expenditure on inmates,452300
+2004,Dadra & Nagar Haveli,Total expenditure on inmates,400000
+2004, Maharashtra,Total expenditure on inmates,167424618
+2004, Andhra Pradesh,Total expenditure on inmates,159820742
+2004, Karnataka,Total expenditure on inmates,82804926
+2004, Goa,Total expenditure on inmates,4792783
+2004,Lakshadweep,Total expenditure on inmates,0
+2004, Kerala,Total expenditure on inmates,86605997
+2004, Tamil Nadu,Total expenditure on inmates,163210000
+2004,Puducherry,Total expenditure on inmates,2542241
+2004,Andaman & Nicobar Islands,Total expenditure on inmates,5922308
+2005, Jammu & Kashmir,Total expenditure on inmates,68267000
+2005, Himachal Pradesh,Total expenditure on inmates,21852000
+2005, Punjab,Total expenditure on inmates,123700000
+2005,Chandigarh,Total expenditure on inmates,10000000
+2005, Uttarakhand,Total expenditure on inmates,32096455
+2005, Haryana,Total expenditure on inmates,107900000
+2005,Delhi,Total expenditure on inmates,234524217
+2005, Rajasthan,Total expenditure on inmates,81996000
+2005, Uttar Pradesh,Total expenditure on inmates,320000000
+2005, Bihar,Total expenditure on inmates,317426029
+2005, Sikkim,Total expenditure on inmates,2413230
+2005, Nagaland,Total expenditure on inmates,20500000
+2005, Manipur,Total expenditure on inmates,18681148
+2005, Mizoram,Total expenditure on inmates,21120000
+2005, Tripura,Total expenditure on inmates,14626565
+2005, Meghalaya,Total expenditure on inmates,5957137
+2005, Assam,Total expenditure on inmates,90962000
+2005, West Bengal,Total expenditure on inmates,369431686
+2005, Jharkhand,Total expenditure on inmates,214086127
+2005, Odisha,Total expenditure on inmates,117840000
+2005, Chhattisgarh,Total expenditure on inmates,113216271
+2005, Madhya Pradesh,Total expenditure on inmates,673079700
+2005, Gujarat,Total expenditure on inmates,87265000
+2005,Daman & Diu,Total expenditure on inmates,568884
+2005,Dadra & Nagar Haveli,Total expenditure on inmates,500000
+2005, Maharashtra,Total expenditure on inmates,235691206
+2005, Andhra Pradesh,Total expenditure on inmates,153438000
+2005, Karnataka,Total expenditure on inmates,28078000
+2005, Goa,Total expenditure on inmates,6123456
+2005,Lakshadweep,Total expenditure on inmates,0
+2005, Kerala,Total expenditure on inmates,87105997
+2005, Tamil Nadu,Total expenditure on inmates,168212000
+2005,Puducherry,Total expenditure on inmates,1964103
+2005,Andaman & Nicobar Islands,Total expenditure on inmates,4861000
+2006, Jammu & Kashmir,Total expenditure on inmates,50596000
+2006, Himachal Pradesh,Total expenditure on inmates,15853000
+2006, Punjab,Total expenditure on inmates,122813000
+2006,Chandigarh,Total expenditure on inmates,10490000
+2006, Uttarakhand,Total expenditure on inmates,43025620
+2006, Haryana,Total expenditure on inmates,116772678
+2006,Delhi,Total expenditure on inmates,329398065
+2006, Rajasthan,Total expenditure on inmates,91084000
+2006, Uttar Pradesh,Total expenditure on inmates,394961000
+2006, Bihar,Total expenditure on inmates,396929982
+2006, Sikkim,Total expenditure on inmates,2000952
+2006, Nagaland,Total expenditure on inmates,20993993
+2006, Manipur,Total expenditure on inmates,9304673
+2006, Mizoram,Total expenditure on inmates,14336740
+2006, Tripura,Total expenditure on inmates,22385267
+2006, Meghalaya,Total expenditure on inmates,6400131
+2006, Assam,Total expenditure on inmates,101710000
+2006, West Bengal,Total expenditure on inmates,387903273
+2006, Jharkhand,Total expenditure on inmates,207519210
+2006, Odisha,Total expenditure on inmates,141419000
+2006, Chhattisgarh,Total expenditure on inmates,115264360
+2006, Madhya Pradesh,Total expenditure on inmates,724874000
+2006, Gujarat,Total expenditure on inmates,76026000
+2006,Daman & Diu,Total expenditure on inmates,615800
+2006,Dadra & Nagar Haveli,Total expenditure on inmates,500000
+2006, Maharashtra,Total expenditure on inmates,267198000
+2006, Andhra Pradesh,Total expenditure on inmates,225750200
+2006, Karnataka,Total expenditure on inmates,78333191
+2006, Goa,Total expenditure on inmates,7677836
+2006,Lakshadweep,Total expenditure on inmates,0
+2006, Kerala,Total expenditure on inmates,98285075
+2006, Tamil Nadu,Total expenditure on inmates,136717925
+2006,Puducherry,Total expenditure on inmates,2412993
+2006,Andaman & Nicobar Islands,Total expenditure on inmates,5768000
+2007, Jammu & Kashmir,Total expenditure on inmates,66733800
+2007, Himachal Pradesh,Total expenditure on inmates,57250396
+2007, Punjab,Total expenditure on inmates,157582000
+2007,Chandigarh,Total expenditure on inmates,10745000
+2007, Uttarakhand,Total expenditure on inmates,54855286
+2007, Haryana,Total expenditure on inmates,230981467
+2007,Delhi,Total expenditure on inmates,690829206
+2007, Rajasthan,Total expenditure on inmates,140598000
+2007, Uttar Pradesh,Total expenditure on inmates,437600000
+2007, Bihar,Total expenditure on inmates,531930855
+2007, Sikkim,Total expenditure on inmates,3342782
+2007, Nagaland,Total expenditure on inmates,21800000
+2007, Manipur,Total expenditure on inmates,8361426
+2007, Mizoram,Total expenditure on inmates,60311582
+2007, Tripura,Total expenditure on inmates,17996006
+2007, Meghalaya,Total expenditure on inmates,7855733
+2007, Assam,Total expenditure on inmates,113724000
+2007, West Bengal,Total expenditure on inmates,320055414
+2007, Jharkhand,Total expenditure on inmates,173146843
+2007, Odisha,Total expenditure on inmates,192922000
+2007, Chhattisgarh,Total expenditure on inmates,128780225
+2007, Madhya Pradesh,Total expenditure on inmates,342745000
+2007, Gujarat,Total expenditure on inmates,93713000
+2007,Daman & Diu,Total expenditure on inmates,787200
+2007,Dadra & Nagar Haveli,Total expenditure on inmates,341000
+2007, Maharashtra,Total expenditure on inmates,300443000
+2007, Andhra Pradesh,Total expenditure on inmates,313959000
+2007, Karnataka,Total expenditure on inmates,129799086
+2007, Goa,Total expenditure on inmates,7004000
+2007,Lakshadweep,Total expenditure on inmates,17384
+2007, Kerala,Total expenditure on inmates,87468703
+2007, Tamil Nadu,Total expenditure on inmates,166232400
+2007,Puducherry,Total expenditure on inmates,2809799
+2007,Andaman & Nicobar Islands,Total expenditure on inmates,7383000
+2008, Jammu & Kashmir,Food Expenditure,36242500
+2008, Himachal Pradesh,Food Expenditure,13506720
+2008, Punjab,Food Expenditure,130485000
+2008,Chandigarh,Food Expenditure,4003338
+2008, Uttarakhand,Food Expenditure,20491000
+2008, Haryana,Food Expenditure,142391761
+2008,Delhi,Food Expenditure,75916000
+2008, Rajasthan,Food Expenditure,97157000
+2008, Uttar Pradesh,Food Expenditure,626717000
+2008, Bihar,Food Expenditure,351129304
+2008, Sikkim,Food Expenditure,3087148
+2008, Nagaland,Food Expenditure,17800000
+2008, Manipur,Food Expenditure,8717200
+2008, Mizoram,Food Expenditure,11305730
+2008, Tripura,Food Expenditure,14738700
+2008, Meghalaya,Food Expenditure,8450000
+2008, Assam,Food Expenditure,96606000
+2008, West Bengal,Food Expenditure,195022000
+2008, Jharkhand,Food Expenditure,163893364
+2008, Odisha,Food Expenditure,200000000
+2008, Chhattisgarh,Food Expenditure,118995776
+2008, Madhya Pradesh,Food Expenditure,312931000
+2008, Gujarat,Food Expenditure,96023178
+2008,Daman & Diu,Food Expenditure,691700
+2008,Dadra & Nagar Haveli,Food Expenditure,318000
+2008, Maharashtra,Food Expenditure,187340000
+2008, Andhra Pradesh,Food Expenditure,135291000
+2008, Karnataka,Food Expenditure,136396210
+2008, Goa,Food Expenditure,4850000
+2008,Lakshadweep,Food Expenditure,28224
+2008, Kerala,Food Expenditure,79854772
+2008, Tamil Nadu,Food Expenditure,139634000
+2008,Puducherry,Food Expenditure,3185033
+2008,Andaman & Nicobar Islands,Food Expenditure,2604055
+2008, Jammu & Kashmir,Clothing Expenditure,834700
+2008, Himachal Pradesh,Clothing Expenditure,470397
+2008, Punjab,Clothing Expenditure,7750000
+2008,Chandigarh,Clothing Expenditure,15878
+2008, Uttarakhand,Clothing Expenditure,296000
+2008, Haryana,Clothing Expenditure,2426745
+2008,Delhi,Clothing Expenditure,3053000
+2008, Rajasthan,Clothing Expenditure,6158000
+2008, Uttar Pradesh,Clothing Expenditure,7135000
+2008, Bihar,Clothing Expenditure,6415910
+2008, Sikkim,Clothing Expenditure,24998
+2008, Nagaland,Clothing Expenditure,3700000
+2008, Manipur,Clothing Expenditure,449615
+2008, Mizoram,Clothing Expenditure,954500
+2008, Tripura,Clothing Expenditure,0
+2008, Meghalaya,Clothing Expenditure,0
+2008, Assam,Clothing Expenditure,1861000
+2008, West Bengal,Clothing Expenditure,17008000
+2008, Jharkhand,Clothing Expenditure,9201477
+2008, Odisha,Clothing Expenditure,2630000
+2008, Chhattisgarh,Clothing Expenditure,6896745
+2008, Madhya Pradesh,Clothing Expenditure,16539395
+2008, Gujarat,Clothing Expenditure,3605000
+2008,Daman & Diu,Clothing Expenditure,75000
+2008,Dadra & Nagar Haveli,Clothing Expenditure,20000
+2008, Maharashtra,Clothing Expenditure,369000
+2008, Andhra Pradesh,Clothing Expenditure,9100000
+2008, Karnataka,Clothing Expenditure,5149255
+2008, Goa,Clothing Expenditure,250000
+2008,Lakshadweep,Clothing Expenditure,4289
+2008, Kerala,Clothing Expenditure,5431830
+2008, Tamil Nadu,Clothing Expenditure,1954514
+2008,Puducherry,Clothing Expenditure,26256
+2008,Andaman & Nicobar Islands,Clothing Expenditure,25025
+2008, Jammu & Kashmir,Medical Expenditure,2451700
+2008, Himachal Pradesh,Medical Expenditure,3743445
+2008, Punjab,Medical Expenditure,45017000
+2008,Chandigarh,Medical Expenditure,1870112
+2008, Uttarakhand,Medical Expenditure,2298000
+2008, Haryana,Medical Expenditure,15997207
+2008,Delhi,Medical Expenditure,111583000
+2008, Rajasthan,Medical Expenditure,10268000
+2008, Uttar Pradesh,Medical Expenditure,35000000
+2008, Bihar,Medical Expenditure,22052370
+2008, Sikkim,Medical Expenditure,251361
+2008, Nagaland,Medical Expenditure,300000
+2008, Manipur,Medical Expenditure,499972
+2008, Mizoram,Medical Expenditure,1285420
+2008, Tripura,Medical Expenditure,2845863
+2008, Meghalaya,Medical Expenditure,903000
+2008, Assam,Medical Expenditure,849000
+2008, West Bengal,Medical Expenditure,40223000
+2008, Jharkhand,Medical Expenditure,6541927
+2008, Odisha,Medical Expenditure,12800000
+2008, Chhattisgarh,Medical Expenditure,9741590
+2008, Madhya Pradesh,Medical Expenditure,39839000
+2008, Gujarat,Medical Expenditure,3727000
+2008,Daman & Diu,Medical Expenditure,15000
+2008,Dadra & Nagar Haveli,Medical Expenditure,0
+2008, Maharashtra,Medical Expenditure,4104000
+2008, Andhra Pradesh,Medical Expenditure,6691000
+2008, Karnataka,Medical Expenditure,4660112
+2008, Goa,Medical Expenditure,239000
+2008,Lakshadweep,Medical Expenditure,0
+2008, Kerala,Medical Expenditure,3662234
+2008, Tamil Nadu,Medical Expenditure,4132000
+2008,Puducherry,Medical Expenditure,0
+2008,Andaman & Nicobar Islands,Medical Expenditure,12445
+2008, Jammu & Kashmir,Vocational / Educational Expenditure,929900
+2008, Himachal Pradesh,Vocational / Educational Expenditure,574800
+2008, Punjab,Vocational / Educational Expenditure,0
+2008,Chandigarh,Vocational / Educational Expenditure,200000
+2008, Uttarakhand,Vocational / Educational Expenditure,84200
+2008, Haryana,Vocational / Educational Expenditure,16896
+2008,Delhi,Vocational / Educational Expenditure,0
+2008, Rajasthan,Vocational / Educational Expenditure,0
+2008, Uttar Pradesh,Vocational / Educational Expenditure,2500000
+2008, Bihar,Vocational / Educational Expenditure,14109466
+2008, Sikkim,Vocational / Educational Expenditure,337939
+2008, Nagaland,Vocational / Educational Expenditure,0
+2008, Manipur,Vocational / Educational Expenditure,0
+2008, Mizoram,Vocational / Educational Expenditure,285000
+2008, Tripura,Vocational / Educational Expenditure,110000
+2008, Meghalaya,Vocational / Educational Expenditure,150000
+2008, Assam,Vocational / Educational Expenditure,905000
+2008, West Bengal,Vocational / Educational Expenditure,500000
+2008, Jharkhand,Vocational / Educational Expenditure,1231744
+2008, Odisha,Vocational / Educational Expenditure,4016000
+2008, Chhattisgarh,Vocational / Educational Expenditure,0
+2008, Madhya Pradesh,Vocational / Educational Expenditure,1847978
+2008, Gujarat,Vocational / Educational Expenditure,0
+2008,Daman & Diu,Vocational / Educational Expenditure,0
+2008,Dadra & Nagar Haveli,Vocational / Educational Expenditure,0
+2008, Maharashtra,Vocational / Educational Expenditure,0
+2008, Andhra Pradesh,Vocational / Educational Expenditure,22389000
+2008, Karnataka,Vocational / Educational Expenditure,80610
+2008, Goa,Vocational / Educational Expenditure,250000
+2008,Lakshadweep,Vocational / Educational Expenditure,0
+2008, Kerala,Vocational / Educational Expenditure,5821440
+2008, Tamil Nadu,Vocational / Educational Expenditure,615110
+2008,Puducherry,Vocational / Educational Expenditure,0
+2008,Andaman & Nicobar Islands,Vocational / Educational Expenditure,10950
+2008, Jammu & Kashmir,Expenditure on Welfare activities,680900
+2008, Himachal Pradesh,Expenditure on Welfare activities,147038
+2008, Punjab,Expenditure on Welfare activities,0
+2008,Chandigarh,Expenditure on Welfare activities,200000
+2008, Uttarakhand,Expenditure on Welfare activities,0
+2008, Haryana,Expenditure on Welfare activities,589887
+2008,Delhi,Expenditure on Welfare activities,0
+2008, Rajasthan,Expenditure on Welfare activities,0
+2008, Uttar Pradesh,Expenditure on Welfare activities,2600000
+2008, Bihar,Expenditure on Welfare activities,0
+2008, Sikkim,Expenditure on Welfare activities,0
+2008, Nagaland,Expenditure on Welfare activities,300000
+2008, Manipur,Expenditure on Welfare activities,209900
+2008, Mizoram,Expenditure on Welfare activities,853350
+2008, Tripura,Expenditure on Welfare activities,47850
+2008, Meghalaya,Expenditure on Welfare activities,0
+2008, Assam,Expenditure on Welfare activities,2200000
+2008, West Bengal,Expenditure on Welfare activities,20500000
+2008, Jharkhand,Expenditure on Welfare activities,780164
+2008, Odisha,Expenditure on Welfare activities,1976000
+2008, Chhattisgarh,Expenditure on Welfare activities,0
+2008, Madhya Pradesh,Expenditure on Welfare activities,2057383
+2008, Gujarat,Expenditure on Welfare activities,0
+2008,Daman & Diu,Expenditure on Welfare activities,0
+2008,Dadra & Nagar Haveli,Expenditure on Welfare activities,0
+2008, Maharashtra,Expenditure on Welfare activities,0
+2008, Andhra Pradesh,Expenditure on Welfare activities,457000
+2008, Karnataka,Expenditure on Welfare activities,0
+2008, Goa,Expenditure on Welfare activities,208000
+2008,Lakshadweep,Expenditure on Welfare activities,0
+2008, Kerala,Expenditure on Welfare activities,4126648
+2008, Tamil Nadu,Expenditure on Welfare activities,0
+2008,Puducherry,Expenditure on Welfare activities,0
+2008,Andaman & Nicobar Islands,Expenditure on Welfare activities,19590
+2008, Jammu & Kashmir,Other expenditures related to inmates only,14652500
+2008,Chandigarh,Total expenditure on inmates,6289328
+2008, Uttarakhand,Total expenditure on inmates,46598712
+2008, Haryana,Total expenditure on inmates,206041762
+2008,Delhi,Total expenditure on inmates,535624000
+2008, Rajasthan,Total expenditure on inmates,120087000
+2008, Uttar Pradesh,Total expenditure on inmates,764160000
+2008, Bihar,Total expenditure on inmates,439784440
+2008, Sikkim,Total expenditure on inmates,3701446
+2008, Nagaland,Total expenditure on inmates,22184000
+2008, Manipur,Total expenditure on inmates,10517452
+2008, Mizoram,Total expenditure on inmates,25321650
+2008, Tripura,Total expenditure on inmates,17742413
+2008, Himachal Pradesh,Other expenditures related to inmates only,3269159
+2008, Punjab,Other expenditures related to inmates only,0
+2008,Chandigarh,Other expenditures related to inmates only,0
+2008, Uttarakhand,Other expenditures related to inmates only,23429512
+2008, Haryana,Other expenditures related to inmates only,44619266
+2008,Delhi,Other expenditures related to inmates only,345072000
+2008, Rajasthan,Other expenditures related to inmates only,6504000
+2008, Uttar Pradesh,Other expenditures related to inmates only,90208000
+2008, Bihar,Other expenditures related to inmates only,46077390
+2008, Sikkim,Other expenditures related to inmates only,0
+2008, Nagaland,Other expenditures related to inmates only,84000
+2008, Manipur,Other expenditures related to inmates only,640765
+2008, Mizoram,Other expenditures related to inmates only,10637650
+2008, Tripura,Other expenditures related to inmates only,0
+2008, Meghalaya,Other expenditures related to inmates only,0
+2008, Assam,Other expenditures related to inmates only,11200000
+2008, West Bengal,Other expenditures related to inmates only,80115000
+2008, Jharkhand,Other expenditures related to inmates only,22398106
+2008, Odisha,Other expenditures related to inmates only,17373000
+2008, Chhattisgarh,Other expenditures related to inmates only,18920037
+2008, Madhya Pradesh,Other expenditures related to inmates only,152882244
+2008, Gujarat,Other expenditures related to inmates only,44537565
+2008,Daman & Diu,Other expenditures related to inmates only,24000
+2008,Dadra & Nagar Haveli,Other expenditures related to inmates only,17000
+2008, Maharashtra,Other expenditures related to inmates only,138435000
+2008, Andhra Pradesh,Other expenditures related to inmates only,361850160
+2008, Karnataka,Other expenditures related to inmates only,8019743
+2008, Goa,Other expenditures related to inmates only,1657000
+2008,Lakshadweep,Other expenditures related to inmates only,16685
+2008, Kerala,Other expenditures related to inmates only,0
+2008, Tamil Nadu,Other expenditures related to inmates only,4364000
+2008,Puducherry,Other expenditures related to inmates only,0
+2008,Andaman & Nicobar Islands,Other expenditures related to inmates only,32680
+2008, Jammu & Kashmir,Total expenditure on inmates,55792200
+2008, Himachal Pradesh,Total expenditure on inmates,21711559
+2008, Punjab,Total expenditure on inmates,183252000
+2008, Meghalaya,Total expenditure on inmates,9503000
+2008, Assam,Total expenditure on inmates,113621000
+2008, West Bengal,Total expenditure on inmates,353368000
+2008, Jharkhand,Total expenditure on inmates,204046782
+2008, Odisha,Total expenditure on inmates,238795000
+2008, Chhattisgarh,Total expenditure on inmates,154554148
+2008, Madhya Pradesh,Total expenditure on inmates,526097000
+2008, Gujarat,Total expenditure on inmates,147892743
+2008,Daman & Diu,Total expenditure on inmates,805700
+2008,Dadra & Nagar Haveli,Total expenditure on inmates,355000
+2008, Maharashtra,Total expenditure on inmates,330248000
+2008, Andhra Pradesh,Total expenditure on inmates,535778160
+2008, Karnataka,Total expenditure on inmates,154305930
+2008, Goa,Total expenditure on inmates,7454000
+2008,Lakshadweep,Total expenditure on inmates,49198
+2008, Kerala,Total expenditure on inmates,98896924
+2008, Tamil Nadu,Total expenditure on inmates,150699624
+2008,Puducherry,Total expenditure on inmates,3211289
+2008,Andaman & Nicobar Islands,Total expenditure on inmates,2704745
+2009, Jammu & Kashmir,Food Expenditure,41120000
+2009, Himachal Pradesh,Food Expenditure,14846614
+2009, Punjab,Food Expenditure,149736000
+2009,Chandigarh,Food Expenditure,6153164
+2009, Uttarakhand,Food Expenditure,32342703
+2009, Haryana,Food Expenditure,143718293
+2009,Delhi,Food Expenditure,84983614
+2009, Rajasthan,Food Expenditure,120663000
+2009, Uttar Pradesh,Food Expenditure,750000000
+2009, Bihar,Food Expenditure,388977889
+2009, Sikkim,Food Expenditure,3978328
+2009, Arunachal Pradesh,Food Expenditure,848450
+2009, Nagaland,Food Expenditure,17800000
+2009, Manipur,Food Expenditure,9679732
+2009, Mizoram,Food Expenditure,13909158
+2009, Tripura,Food Expenditure,12506810
+2009, Meghalaya,Food Expenditure,10996032
+2009, Assam,Food Expenditure,109180000
+2009, West Bengal,Food Expenditure,234871263
+2009, Jharkhand,Food Expenditure,217325851
+2009, Odisha,Food Expenditure,204597000
+2009, Chhattisgarh,Food Expenditure,151185267
+2009, Madhya Pradesh,Food Expenditure,356717000
+2009, Gujarat,Food Expenditure,99487813
+2009,Daman & Diu,Food Expenditure,660000
+2009,Dadra & Nagar Haveli,Food Expenditure,774000
+2009, Maharashtra,Food Expenditure,267745000
+2009, Andhra Pradesh,Food Expenditure,119854000
+2009, Karnataka,Food Expenditure,159558618
+2009, Goa,Food Expenditure,3749194
+2009,Lakshadweep,Food Expenditure,46527
+2009, Kerala,Food Expenditure,88598308
+2009, Tamil Nadu,Food Expenditure,202519000
+2009,Puducherry,Food Expenditure,4101840
+2009,Andaman & Nicobar Islands,Food Expenditure,2252000
+2010, Jammu & Kashmir,Food Expenditure,41435400
+2010, Himachal Pradesh,Food Expenditure,23103634
+2010, Punjab,Food Expenditure,164578000
+2010,Chandigarh,Food Expenditure,7250600
+2010, Uttarakhand,Food Expenditure,32515681
+2010, Haryana,Food Expenditure,146428166
+2010,Delhi,Food Expenditure,88780124
+2010, Rajasthan,Food Expenditure,149347000
+2010, Uttar Pradesh,Food Expenditure,893000000
+2010, Bihar,Food Expenditure,378489078
+2010, Sikkim,Food Expenditure,4287131
+2010, Arunachal Pradesh,Food Expenditure,997360
+2010, Nagaland,Food Expenditure,28698000
+2010, Manipur,Food Expenditure,11376704
+2010, Mizoram,Food Expenditure,16938900
+2010, Tripura,Food Expenditure,14951331
+2010, Meghalaya,Food Expenditure,9446957
+2010, Assam,Food Expenditure,117211993
+2010, West Bengal,Food Expenditure,271000850
+2010, Jharkhand,Food Expenditure,230657570
+2010, Odisha,Food Expenditure,197903000
+2010, Chhattisgarh,Food Expenditure,156682229
+2010, Madhya Pradesh,Food Expenditure,361734000
+2010, Gujarat,Food Expenditure,130000000
+2010,Daman & Diu,Food Expenditure,744856
+2010,Dadra & Nagar Haveli,Food Expenditure,910000
+2010, Maharashtra,Food Expenditure,270300000
+2010, Andhra Pradesh,Food Expenditure,184554000
+2010, Karnataka,Food Expenditure,226200353
+2010, Goa,Food Expenditure,5269369
+2010,Lakshadweep,Food Expenditure,141382
+2010, Kerala,Food Expenditure,96080699
+2010, Tamil Nadu,Food Expenditure,187413000
+2010,Puducherry,Food Expenditure,4700000
+2010,Andaman & Nicobar Islands,Food Expenditure,11796228
+2009, Jammu & Kashmir,Clothing Expenditure,1799500
+2009, Himachal Pradesh,Clothing Expenditure,229740
+2009, Punjab,Clothing Expenditure,6833000
+2009,Chandigarh,Clothing Expenditure,638830
+2009, Uttarakhand,Clothing Expenditure,357500
+2009, Haryana,Clothing Expenditure,10143308
+2009,Delhi,Clothing Expenditure,2258063
+2009, Rajasthan,Clothing Expenditure,8382000
+2009, Uttar Pradesh,Clothing Expenditure,10200000
+2009, Bihar,Clothing Expenditure,5872370
+2009, Sikkim,Clothing Expenditure,0
+2009, Arunachal Pradesh,Clothing Expenditure,919601
+2009, Nagaland,Clothing Expenditure,777000
+2009, Manipur,Clothing Expenditure,450000
+2009, Mizoram,Clothing Expenditure,1602124
+2009, Tripura,Clothing Expenditure,183236
+2009, Meghalaya,Clothing Expenditure,49265
+2009, Assam,Clothing Expenditure,20000
+2009, West Bengal,Clothing Expenditure,13117010
+2009, Jharkhand,Clothing Expenditure,10866312
+2009, Odisha,Clothing Expenditure,7000000
+2009, Chhattisgarh,Clothing Expenditure,5304792
+2009, Madhya Pradesh,Clothing Expenditure,19820000
+2009, Gujarat,Clothing Expenditure,3206160
+2009,Daman & Diu,Clothing Expenditure,80000
+2009,Dadra & Nagar Haveli,Clothing Expenditure,32000
+2009, Maharashtra,Clothing Expenditure,22000
+2009, Andhra Pradesh,Clothing Expenditure,8772000
+2009, Karnataka,Clothing Expenditure,5328145
+2009, Goa,Clothing Expenditure,0
+2009,Lakshadweep,Clothing Expenditure,0
+2009, Kerala,Clothing Expenditure,8734492
+2009, Tamil Nadu,Clothing Expenditure,1468511
+2009,Puducherry,Clothing Expenditure,61289
+2009,Andaman & Nicobar Islands,Clothing Expenditure,36280
+2010, Jammu & Kashmir,Clothing Expenditure,2172500
+2010, Himachal Pradesh,Clothing Expenditure,314000
+2010, Punjab,Clothing Expenditure,7974000
+2010,Chandigarh,Clothing Expenditure,825500
+2010, Uttarakhand,Clothing Expenditure,800000
+2010, Haryana,Clothing Expenditure,1262670
+2010,Delhi,Clothing Expenditure,271860
+2010, Rajasthan,Clothing Expenditure,3279000
+2010, Uttar Pradesh,Clothing Expenditure,10939000
+2010, Bihar,Clothing Expenditure,5802258
+2010, Sikkim,Clothing Expenditure,0
+2010, Arunachal Pradesh,Clothing Expenditure,127678
+2010, Nagaland,Clothing Expenditure,4000000
+2010, Manipur,Clothing Expenditure,449999
+2010, Mizoram,Clothing Expenditure,1837690
+2010, Tripura,Clothing Expenditure,218667
+2010, Meghalaya,Clothing Expenditure,286625
+2010, Assam,Clothing Expenditure,0
+2010, West Bengal,Clothing Expenditure,13310100
+2010, Jharkhand,Clothing Expenditure,21507316
+2010, Odisha,Clothing Expenditure,6517000
+2010, Chhattisgarh,Clothing Expenditure,4286010
+2010, Madhya Pradesh,Clothing Expenditure,24857000
+2010, Gujarat,Clothing Expenditure,3700000
+2010,Daman & Diu,Clothing Expenditure,95000
+2010,Dadra & Nagar Haveli,Clothing Expenditure,17000
+2010, Maharashtra,Clothing Expenditure,48000
+2010, Andhra Pradesh,Clothing Expenditure,7894000
+2010, Karnataka,Clothing Expenditure,4270198
+2010, Goa,Clothing Expenditure,0
+2010,Lakshadweep,Clothing Expenditure,618
+2010, Kerala,Clothing Expenditure,7995893
+2010, Tamil Nadu,Clothing Expenditure,2807000
+2010,Puducherry,Clothing Expenditure,120000
+2010,Andaman & Nicobar Islands,Clothing Expenditure,35900
+2009, Jammu & Kashmir,Medical Expenditure,4951500
+2009, Himachal Pradesh,Medical Expenditure,4629433
+2009, Punjab,Medical Expenditure,46575000
+2009,Chandigarh,Medical Expenditure,2278477
+2009, Uttarakhand,Medical Expenditure,2952099
+2009, Haryana,Medical Expenditure,9684812
+2009,Delhi,Medical Expenditure,141400095
+2009, Rajasthan,Medical Expenditure,7970000
+2009, Uttar Pradesh,Medical Expenditure,57900000
+2009, Bihar,Medical Expenditure,20341468
+2009, Sikkim,Medical Expenditure,662498
+2009, Arunachal Pradesh,Medical Expenditure,4615
+2009, Nagaland,Medical Expenditure,20000
+2009, Manipur,Medical Expenditure,2769925
+2009, Mizoram,Medical Expenditure,2627289
+2009, Tripura,Medical Expenditure,4624251
+2009, Meghalaya,Medical Expenditure,865334
+2009, Assam,Medical Expenditure,780000
+2009, West Bengal,Medical Expenditure,45611210
+2009, Jharkhand,Medical Expenditure,7932376
+2009, Odisha,Medical Expenditure,13000000
+2009, Chhattisgarh,Medical Expenditure,17888619
+2009, Madhya Pradesh,Medical Expenditure,44801000
+2009, Gujarat,Medical Expenditure,4018000
+2009,Daman & Diu,Medical Expenditure,40000
+2009,Dadra & Nagar Haveli,Medical Expenditure,6000
+2009, Maharashtra,Medical Expenditure,6134000
+2009, Andhra Pradesh,Medical Expenditure,7192500
+2009, Karnataka,Medical Expenditure,4832270
+2009, Goa,Medical Expenditure,287058
+2009,Lakshadweep,Medical Expenditure,0
+2009, Kerala,Medical Expenditure,9345895
+2009, Tamil Nadu,Medical Expenditure,4375000
+2009,Puducherry,Medical Expenditure,0
+2009,Andaman & Nicobar Islands,Medical Expenditure,17500
+2010, Jammu & Kashmir,Medical Expenditure,4937600
+2010, Himachal Pradesh,Medical Expenditure,4858104
+2010, Punjab,Medical Expenditure,50038000
+2010,Chandigarh,Medical Expenditure,2845800
+2010, Uttarakhand,Medical Expenditure,3004353
+2010, Haryana,Medical Expenditure,12020131
+2010,Delhi,Medical Expenditure,140448248
+2010, Rajasthan,Medical Expenditure,9269000
+2010, Uttar Pradesh,Medical Expenditure,51747000
+2010, Bihar,Medical Expenditure,18134172
+2010, Sikkim,Medical Expenditure,784032
+2010, Arunachal Pradesh,Medical Expenditure,199513
+2010, Nagaland,Medical Expenditure,70000
+2010, Manipur,Medical Expenditure,799361
+2010, Mizoram,Medical Expenditure,2376990
+2010, Tripura,Medical Expenditure,4112681
+2010, Meghalaya,Medical Expenditure,494182
+2010, Assam,Medical Expenditure,775831
+2010, West Bengal,Medical Expenditure,45441431
+2010, Jharkhand,Medical Expenditure,7396365
+2010, Odisha,Medical Expenditure,14800000
+2010, Chhattisgarh,Medical Expenditure,16020115
+2010, Madhya Pradesh,Medical Expenditure,47324000
+2010, Gujarat,Medical Expenditure,2454000
+2010,Daman & Diu,Medical Expenditure,45000
+2010,Dadra & Nagar Haveli,Medical Expenditure,0
+2010, Maharashtra,Medical Expenditure,6200000
+2010, Andhra Pradesh,Medical Expenditure,8043000
+2010, Karnataka,Medical Expenditure,5629657
+2010, Goa,Medical Expenditure,559451
+2010,Lakshadweep,Medical Expenditure,0
+2010, Kerala,Medical Expenditure,9864887
+2010, Tamil Nadu,Medical Expenditure,4448000
+2010,Puducherry,Medical Expenditure,0
+2010,Andaman & Nicobar Islands,Medical Expenditure,0
+2009, Jammu & Kashmir,Vocational / Educational Expenditure,1830700
+2009, Himachal Pradesh,Vocational / Educational Expenditure,549960
+2009, Punjab,Vocational / Educational Expenditure,0
+2009,Chandigarh,Vocational / Educational Expenditure,1498000
+2009, Uttarakhand,Vocational / Educational Expenditure,0
+2009, Haryana,Vocational / Educational Expenditure,4247
+2009,Delhi,Vocational / Educational Expenditure,0
+2009, Rajasthan,Vocational / Educational Expenditure,0
+2009, Uttar Pradesh,Vocational / Educational Expenditure,2917000
+2009, Bihar,Vocational / Educational Expenditure,97433987
+2009, Sikkim,Vocational / Educational Expenditure,571162
+2009, Arunachal Pradesh,Vocational / Educational Expenditure,0
+2009, Nagaland,Vocational / Educational Expenditure,84000
+2009, Manipur,Vocational / Educational Expenditure,0
+2009, Mizoram,Vocational / Educational Expenditure,399450
+2009, Tripura,Vocational / Educational Expenditure,102718
+2009, Meghalaya,Vocational / Educational Expenditure,0
+2009, Assam,Vocational / Educational Expenditure,5000
+2009, West Bengal,Vocational / Educational Expenditure,520000
+2009, Jharkhand,Vocational / Educational Expenditure,1406020
+2009, Odisha,Vocational / Educational Expenditure,23859000
+2009, Chhattisgarh,Vocational / Educational Expenditure,77738000
+2009, Madhya Pradesh,Vocational / Educational Expenditure,11094000
+2009, Gujarat,Vocational / Educational Expenditure,0
+2009,Daman & Diu,Vocational / Educational Expenditure,0
+2009,Dadra & Nagar Haveli,Vocational / Educational Expenditure,0
+2009, Maharashtra,Vocational / Educational Expenditure,0
+2009, Andhra Pradesh,Vocational / Educational Expenditure,23251000
+2009, Karnataka,Vocational / Educational Expenditure,172664
+2009, Goa,Vocational / Educational Expenditure,0
+2009,Lakshadweep,Vocational / Educational Expenditure,0
+2009, Kerala,Vocational / Educational Expenditure,6000000
+2009, Tamil Nadu,Vocational / Educational Expenditure,727861
+2009,Puducherry,Vocational / Educational Expenditure,0
+2009,Andaman & Nicobar Islands,Vocational / Educational Expenditure,13250
+2010, Jammu & Kashmir,Vocational / Educational Expenditure,2117300
+2010, Himachal Pradesh,Vocational / Educational Expenditure,612544
+2010, Punjab,Vocational / Educational Expenditure,0
+2010,Chandigarh,Vocational / Educational Expenditure,1895250
+2010, Uttarakhand,Vocational / Educational Expenditure,0
+2010, Haryana,Vocational / Educational Expenditure,611340
+2010,Delhi,Vocational / Educational Expenditure,0
+2010, Rajasthan,Vocational / Educational Expenditure,0
+2010, Uttar Pradesh,Vocational / Educational Expenditure,3099000
+2010, Bihar,Vocational / Educational Expenditure,125717651
+2010, Sikkim,Vocational / Educational Expenditure,394471
+2010, Arunachal Pradesh,Vocational / Educational Expenditure,0
+2010, Nagaland,Vocational / Educational Expenditure,84000
+2010, Manipur,Vocational / Educational Expenditure,0
+2010, Mizoram,Vocational / Educational Expenditure,415000
+2010, Tripura,Vocational / Educational Expenditure,189253
+2010, Meghalaya,Vocational / Educational Expenditure,0
+2010, Assam,Vocational / Educational Expenditure,376653
+2010, West Bengal,Vocational / Educational Expenditure,510000
+2010, Jharkhand,Vocational / Educational Expenditure,37085
+2010, Odisha,Vocational / Educational Expenditure,53848000
+2010, Chhattisgarh,Vocational / Educational Expenditure,193612
+2010, Madhya Pradesh,Vocational / Educational Expenditure,1959000
+2010, Gujarat,Vocational / Educational Expenditure,600000
+2010,Daman & Diu,Vocational / Educational Expenditure,0
+2010,Dadra & Nagar Haveli,Vocational / Educational Expenditure,0
+2010, Maharashtra,Vocational / Educational Expenditure,0
+2010, Andhra Pradesh,Vocational / Educational Expenditure,28158000
+2010, Karnataka,Vocational / Educational Expenditure,192895
+2010, Goa,Vocational / Educational Expenditure,0
+2010,Lakshadweep,Vocational / Educational Expenditure,0
+2010, Kerala,Vocational / Educational Expenditure,6345928
+2010, Tamil Nadu,Vocational / Educational Expenditure,1159858
+2010,Puducherry,Vocational / Educational Expenditure,0
+2010,Andaman & Nicobar Islands,Vocational / Educational Expenditure,16000
+2009, Jammu & Kashmir,Expenditure on Welfare activities,1181200
+2009, Himachal Pradesh,Expenditure on Welfare activities,82350
+2009, Punjab,Expenditure on Welfare activities,0
+2009,Chandigarh,Expenditure on Welfare activities,286000
+2009, Uttarakhand,Expenditure on Welfare activities,5647575
+2009, Haryana,Expenditure on Welfare activities,618198
+2009,Delhi,Expenditure on Welfare activities,0
+2009, Rajasthan,Expenditure on Welfare activities,0
+2009, Uttar Pradesh,Expenditure on Welfare activities,2910000
+2009, Bihar,Expenditure on Welfare activities,0
+2009, Sikkim,Expenditure on Welfare activities,21265
+2009, Arunachal Pradesh,Expenditure on Welfare activities,0
+2009, Nagaland,Expenditure on Welfare activities,1000000
+2009, Manipur,Expenditure on Welfare activities,229890
+2009, Mizoram,Expenditure on Welfare activities,850000
+2009, Tripura,Expenditure on Welfare activities,62055
+2009, Meghalaya,Expenditure on Welfare activities,0
+2009, Assam,Expenditure on Welfare activities,3000000
+2009, West Bengal,Expenditure on Welfare activities,21297818
+2009, Jharkhand,Expenditure on Welfare activities,369345
+2009, Odisha,Expenditure on Welfare activities,15543000
+2009, Chhattisgarh,Expenditure on Welfare activities,0
+2009, Madhya Pradesh,Expenditure on Welfare activities,26514000
+2009, Gujarat,Expenditure on Welfare activities,0
+2009,Daman & Diu,Expenditure on Welfare activities,0
+2009,Dadra & Nagar Haveli,Expenditure on Welfare activities,0
+2009, Maharashtra,Expenditure on Welfare activities,0
+2009, Andhra Pradesh,Expenditure on Welfare activities,526000
+2009, Karnataka,Expenditure on Welfare activities,0
+2009, Goa,Expenditure on Welfare activities,12402
+2009,Lakshadweep,Expenditure on Welfare activities,0
+2009, Kerala,Expenditure on Welfare activities,6500000
+2009, Tamil Nadu,Expenditure on Welfare activities,0
+2009,Puducherry,Expenditure on Welfare activities,34288
+2009,Andaman & Nicobar Islands,Expenditure on Welfare activities,25100
+2010, Jammu & Kashmir,Expenditure on Welfare activities,1278200
+2010, Himachal Pradesh,Expenditure on Welfare activities,148504
+2010, Punjab,Expenditure on Welfare activities,0
+2010,Chandigarh,Expenditure on Welfare activities,565200
+2010, Uttarakhand,Expenditure on Welfare activities,4727740
+2010, Haryana,Expenditure on Welfare activities,19239513
+2010,Delhi,Expenditure on Welfare activities,3574
+2010, Rajasthan,Expenditure on Welfare activities,1000000
+2010, Uttar Pradesh,Expenditure on Welfare activities,2860000
+2010, Bihar,Expenditure on Welfare activities,0
+2010, Sikkim,Expenditure on Welfare activities,495815
+2010, Arunachal Pradesh,Expenditure on Welfare activities,0
+2010, Nagaland,Expenditure on Welfare activities,300000
+2010, Manipur,Expenditure on Welfare activities,209950
+2010, Mizoram,Expenditure on Welfare activities,815000
+2010, Tripura,Expenditure on Welfare activities,58080
+2010, Meghalaya,Expenditure on Welfare activities,93952
+2010, Assam,Expenditure on Welfare activities,3000000
+2010, West Bengal,Expenditure on Welfare activities,24502511
+2010, Jharkhand,Expenditure on Welfare activities,79345
+2010, Odisha,Expenditure on Welfare activities,47628000
+2010, Chhattisgarh,Expenditure on Welfare activities,0
+2010, Madhya Pradesh,Expenditure on Welfare activities,44141000
+2010, Gujarat,Expenditure on Welfare activities,450000
+2010,Daman & Diu,Expenditure on Welfare activities,0
+2010,Dadra & Nagar Haveli,Expenditure on Welfare activities,0
+2010, Maharashtra,Expenditure on Welfare activities,24000
+2010, Andhra Pradesh,Expenditure on Welfare activities,707000
+2010, Karnataka,Expenditure on Welfare activities,0
+2010, Goa,Expenditure on Welfare activities,0
+2010,Lakshadweep,Expenditure on Welfare activities,0
+2010, Kerala,Expenditure on Welfare activities,6500000
+2010, Tamil Nadu,Expenditure on Welfare activities,0
+2010,Puducherry,Expenditure on Welfare activities,550000
+2010,Andaman & Nicobar Islands,Expenditure on Welfare activities,21700
+2009, Jammu & Kashmir,Other expenditures related to inmates only,993500
+2009,Chandigarh,Total expenditure on inmates,10854471
+2009, Uttarakhand,Total expenditure on inmates,66142664
+2009, Haryana,Total expenditure on inmates,237528880
+2009,Delhi,Total expenditure on inmates,745650013
+2009, Rajasthan,Total expenditure on inmates,143045000
+2009, Uttar Pradesh,Total expenditure on inmates,945231000
+2009, Bihar,Total expenditure on inmates,671042736
+2009, Sikkim,Total expenditure on inmates,5233253
+2009, Arunachal Pradesh,Total expenditure on inmates,1772666
+2009, Nagaland,Total expenditure on inmates,22681000
+2009, Manipur,Total expenditure on inmates,15809337
+2009, Mizoram,Total expenditure on inmates,21263189
+2009, Himachal Pradesh,Other expenditures related to inmates only,2450234
+2009, Punjab,Other expenditures related to inmates only,0
+2009,Chandigarh,Other expenditures related to inmates only,0
+2009, Uttarakhand,Other expenditures related to inmates only,24842787
+2009, Haryana,Other expenditures related to inmates only,73360022
+2009,Delhi,Other expenditures related to inmates only,517008241
+2009, Rajasthan,Other expenditures related to inmates only,6030000
+2009, Uttar Pradesh,Other expenditures related to inmates only,121304000
+2009, Bihar,Other expenditures related to inmates only,158417022
+2009, Sikkim,Other expenditures related to inmates only,0
+2009, Arunachal Pradesh,Other expenditures related to inmates only,0
+2009, Nagaland,Other expenditures related to inmates only,3000000
+2009, Manipur,Other expenditures related to inmates only,2679790
+2009, Mizoram,Other expenditures related to inmates only,1875168
+2009, Tripura,Other expenditures related to inmates only,0
+2009, Meghalaya,Other expenditures related to inmates only,717035
+2009, Assam,Other expenditures related to inmates only,7911000
+2009, West Bengal,Other expenditures related to inmates only,90953583
+2009, Jharkhand,Other expenditures related to inmates only,47920451
+2009, Odisha,Other expenditures related to inmates only,28575000
+2009, Chhattisgarh,Other expenditures related to inmates only,19491392
+2009, Madhya Pradesh,Other expenditures related to inmates only,125080000
+2009, Gujarat,Other expenditures related to inmates only,56533657
+2009,Daman & Diu,Other expenditures related to inmates only,60000
+2009,Dadra & Nagar Haveli,Other expenditures related to inmates only,136000
+2009, Maharashtra,Other expenditures related to inmates only,215489000
+2009, Andhra Pradesh,Other expenditures related to inmates only,193259600
+2009, Karnataka,Other expenditures related to inmates only,0
+2009, Goa,Other expenditures related to inmates only,444243
+2009,Lakshadweep,Other expenditures related to inmates only,302
+2009, Kerala,Other expenditures related to inmates only,6092075
+2009, Tamil Nadu,Other expenditures related to inmates only,4095000
+2009,Puducherry,Other expenditures related to inmates only,0
+2009,Andaman & Nicobar Islands,Other expenditures related to inmates only,39900
+2010, Jammu & Kashmir,Other expenditures related to inmates only,846000
+2010, Himachal Pradesh,Other expenditures related to inmates only,1272900
+2010, Punjab,Other expenditures related to inmates only,0
+2010,Chandigarh,Other expenditures related to inmates only,518750
+2010, Uttarakhand,Other expenditures related to inmates only,51287345
+2010, Haryana,Other expenditures related to inmates only,69245193
+2010,Delhi,Other expenditures related to inmates only,471743111
+2010, Rajasthan,Other expenditures related to inmates only,9609000
+2010, Uttar Pradesh,Other expenditures related to inmates only,124103000
+2010, Bihar,Other expenditures related to inmates only,80111021
+2010, Sikkim,Other expenditures related to inmates only,0
+2010, Arunachal Pradesh,Other expenditures related to inmates only,0
+2010, Nagaland,Other expenditures related to inmates only,700000
+2010, Manipur,Other expenditures related to inmates only,1892959
+2010, Mizoram,Other expenditures related to inmates only,1636545
+2010, Tripura,Other expenditures related to inmates only,0
+2010, Meghalaya,Other expenditures related to inmates only,284754
+2010, Assam,Other expenditures related to inmates only,16515935
+2010, West Bengal,Other expenditures related to inmates only,65274968
+2010, Jharkhand,Other expenditures related to inmates only,59342402
+2010, Odisha,Other expenditures related to inmates only,64843000
+2010, Chhattisgarh,Other expenditures related to inmates only,24003414
+2010, Madhya Pradesh,Other expenditures related to inmates only,196220000
+2010, Gujarat,Other expenditures related to inmates only,55020000
+2010,Daman & Diu,Other expenditures related to inmates only,76000
+2010,Dadra & Nagar Haveli,Other expenditures related to inmates only,22000
+2010, Maharashtra,Other expenditures related to inmates only,223635000
+2010, Andhra Pradesh,Other expenditures related to inmates only,145416000
+2010, Karnataka,Other expenditures related to inmates only,0
+2010, Goa,Other expenditures related to inmates only,0
+2010,Lakshadweep,Other expenditures related to inmates only,0
+2010, Kerala,Other expenditures related to inmates only,22545986
+2010, Tamil Nadu,Other expenditures related to inmates only,23445000
+2010,Puducherry,Other expenditures related to inmates only,0
+2010,Andaman & Nicobar Islands,Other expenditures related to inmates only,43600
+2009, Jammu & Kashmir,Total expenditure on inmates,51876400
+2009, Himachal Pradesh,Total expenditure on inmates,22788331
+2009, Punjab,Total expenditure on inmates,203144000
+2009, Tripura,Total expenditure on inmates,17479070
+2009, Meghalaya,Total expenditure on inmates,12627666
+2009, Assam,Total expenditure on inmates,120896000
+2009, West Bengal,Total expenditure on inmates,406370884
+2009, Jharkhand,Total expenditure on inmates,285820355
+2009, Odisha,Total expenditure on inmates,292574000
+2009, Chhattisgarh,Total expenditure on inmates,271608070
+2009, Madhya Pradesh,Total expenditure on inmates,584026000
+2009, Gujarat,Total expenditure on inmates,163245630
+2009,Daman & Diu,Total expenditure on inmates,840000
+2009,Dadra & Nagar Haveli,Total expenditure on inmates,948000
+2009, Maharashtra,Total expenditure on inmates,489390000
+2009, Andhra Pradesh,Total expenditure on inmates,352855100
+2009, Karnataka,Total expenditure on inmates,169891697
+2009, Goa,Total expenditure on inmates,4492897
+2009,Lakshadweep,Total expenditure on inmates,46829
+2009, Kerala,Total expenditure on inmates,125270770
+2009, Tamil Nadu,Total expenditure on inmates,213185372
+2009,Puducherry,Total expenditure on inmates,4197417
+2009,Andaman & Nicobar Islands,Total expenditure on inmates,2384030
+2010, Jammu & Kashmir,Total expenditure on inmates,52787000
+2010, Himachal Pradesh,Total expenditure on inmates,30309686
+2010, Punjab,Total expenditure on inmates,222590000
+2010,Chandigarh,Total expenditure on inmates,13901100
+2010, Uttarakhand,Total expenditure on inmates,92335119
+2010, Haryana,Total expenditure on inmates,248807013
+2010,Delhi,Total expenditure on inmates,701246917
+2010, Rajasthan,Total expenditure on inmates,172504000
+2010, Uttar Pradesh,Total expenditure on inmates,1085748000
+2010, Bihar,Total expenditure on inmates,608254180
+2010, Sikkim,Total expenditure on inmates,5961449
+2010, Arunachal Pradesh,Total expenditure on inmates,1324551
+2010, Nagaland,Total expenditure on inmates,33852000
+2010, Manipur,Total expenditure on inmates,14728973
+2010, Mizoram,Total expenditure on inmates,24020125
+2010, Tripura,Total expenditure on inmates,19530012
+2010, Meghalaya,Total expenditure on inmates,10606470
+2010, Assam,Total expenditure on inmates,137880412
+2010, West Bengal,Total expenditure on inmates,420039860
+2010, Jharkhand,Total expenditure on inmates,319020083
+2010, Odisha,Total expenditure on inmates,385539000
+2010, Chhattisgarh,Total expenditure on inmates,201185380
+2010, Madhya Pradesh,Total expenditure on inmates,676235000
+2010, Gujarat,Total expenditure on inmates,192224000
+2010,Daman & Diu,Total expenditure on inmates,960856
+2010,Dadra & Nagar Haveli,Total expenditure on inmates,949000
+2010, Maharashtra,Total expenditure on inmates,500207000
+2010, Andhra Pradesh,Total expenditure on inmates,374772000
+2010, Karnataka,Total expenditure on inmates,236293103
+2010, Goa,Total expenditure on inmates,5828820
+2010,Lakshadweep,Total expenditure on inmates,142000
+2010, Kerala,Total expenditure on inmates,149333393
+2010, Tamil Nadu,Total expenditure on inmates,219272858
+2010,Puducherry,Total expenditure on inmates,5370000
+2010,Andaman & Nicobar Islands,Total expenditure on inmates,11913428

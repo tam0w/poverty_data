@@ -1,0 +1,1398 @@
+Category,State / UT Name,Jail Type Sl.No.,Jail Type,Number of jails,Jail Sl.No.,Jail Name,Contact No.,VC for Remand Purpose,VC for Trial Purpose,VC for Other Purpose,Location1,Location2,Email ID
+State,Andhra Pradesh,1,Central Jail,4,1,"Central Prison, Rajahmundry",0883-2471990,YES,NO,NO,"Central Prison, Rajahmundry East Godavari District",NA,centralprisonrajahmundry@yahoo.com
+State,Andhra Pradesh,1,Central Jail,4,2,"Central Prison, Visakhapatnam",0891-2870601,YES,NO,NO,"Central Prison, Srikrishnapuram, Visakhapatnam",NA,centralprison40vsp@gmail.com
+State,Andhra Pradesh,1,Central Jail,4,3,"Central Prison, Kadapa",08562-200559,YES,NO,NO,"Central Prison, Ramnjaneyapuram, Madras Road",Kadapa Ysr District,spcpkadapa@gmail.com
+State,Andhra Pradesh,1,Central Jail,4,4,Central Prison Nellore,0861-2331639,NO,NO,NO,"Central Prison, Mulapet, Nellore SPSR Nellore Dist",NA,apprisonscpnlr@yahoo.com
+State,Andhra Pradesh,2,District Jail,7,1,"District Jail, Vijayawada",0866-2574236,YES,NO,NO,District Jail Vijayawada Taluka Compund,Vijayawada-520003,djvijayawada@gmail.com
+State,Andhra Pradesh,2,District Jail,7,2,"District Jail, Guntur",0863-2232547,YES,NO,NO,Main Road Brodipet Guntur,NA,districtjailguntur@gmail.com
+State,Andhra Pradesh,2,District Jail,7,3,"District Jail, Srikakulam",08942-241251,YES,NO,NO,"District Jail, Ampolu, Gara (M) Srikakulam",NA,districtjailsrikakulam@gmail.com
+State,Andhra Pradesh,2,District Jail,7,4,"District Jail, Eluru",08812-2244633,YES,NO,NO,"District jail, kotadibba, Opposite Govt. Degree","College, Eluru-534001",districtjaileluru@gmail.com
+State,Andhra Pradesh,2,District Jail,7,5,District Jail Anantapur,08554-257232,YES,NO,NO,District Jail Jantaloor (Post) Bukkarayasamudram,Anatapur District,supdtjdjatp@gmail.com
+State,Andhra Pradesh,2,District Jail,7,6,"District Jail, Ongole",8592280419,YES,NO,NO,"District Jail, Ongole",NA,apprison.djongole@gmail.com
+State,Andhra Pradesh,2,District Jail,7,7,"District Jail, Chittoor",08572-242844,YES,NO,NO,"Greamspet, Chittoor",NA,supdtjctr@gmail.com
+State,Andhra Pradesh,3,Sub Jail,98,1,"Sub Jail, Narasannapeta",NA,NO,NO,NO,"Sub Jail, Narasannapeta MRO Office Compound",Narasannapeta,NA
+State,Andhra Pradesh,3,Sub Jail,98,2,"Sub Jail, Pathapatnam",NA,NO,NO,NO,"Sub Jail, pathapatnam MRO Office Compound",Narasannapeta,NA
+State,Andhra Pradesh,3,Sub Jail,98,3,"Sub Jail, Tekkali",NA,NO,NO,NO,"Sub Jail, Tekkali",NA,NA
+State,Andhra Pradesh,3,Sub Jail,98,4,"Sub Jail, Sompet",NA,NO,NO,NO,"Sub ail, Sompet",NA,NA
+State,Andhra Pradesh,3,Sub Jail,98,5,"Sub Jail, Ichapuram",NA,NO,NO,NO,"Sub Jail, Ichapuram",NA,NA
+State,Andhra Pradesh,3,Sub Jail,98,6,"Sub Jail, Vizianagaram",0822-229381,NO,NO,NO,Gavara Veedhi Near Registrar Office Vizianagaram,NA,NA
+State,Andhra Pradesh,3,Sub Jail,98,7,"Sub Jail, Parvathipuram",08963-220003,NO,NO,NO,"Near Tahisildar Office, Parvathipuram",NA,NA
+State,Andhra Pradesh,3,Sub Jail,98,8,"Sub Jail, Bobbili",08944-254907,NO,NO,NO,"Near Tahasildar Office, Bobbili",NA,NA
+State,Andhra Pradesh,3,Sub Jail,98,9,"Sub Jail, S Kota",08966-265599,NO,NO,NO,Near Tahasildar Office S.Kota,NA,NA
+State,Andhra Pradesh,3,Sub Jail,98,10,"Sub Jail, Cheepurupalli",08952-283733,NO,NO,NO,"Near Tahasildar Office, Cheepurupalli",NA,NA
+State,Andhra Pradesh,3,Sub Jail,98,11,"Sub Jail, Satur",08964-235193,NO,NO,NO,"Near Tahasildar Office, Salur",NA,NA
+State,Andhra Pradesh,3,Sub Jail,98,12,"Sub Jail, Anakapalli",08924-226175,NO,NO,NO,"Sub Jail, Anakapalli D.No.-12-01-17, Main Road",Anakapalli-531101,sjanakapalli@gmail.com
+State,Andhra Pradesh,3,Sub Jail,98,13,"Sub Jail, Bheemili",NA,NO,NO,NO,"Sub Jail, Bheemunipatnam D.No.-24-15-62, Near DIET","Centre, Eguvapet, Main Road, Bheemili-531163",NA
+State,Andhra Pradesh,3,Sub Jail,98,14,"Sub Jail, Chintapalli",NA,NO,NO,NO,"Sub Jail, Chintapalli, D.No.-5-10/10,","Near Sub Treasury, Main Road, Chintapalli-531111",NA
+State,Andhra Pradesh,3,Sub Jail,98,15,"Sub Jail, Chodavaram",08934-246772,NO,NO,NO,"Sub Jail, Chodavaram, D.No.-8-97/2 Main Road",Chodavaram-531036,sjchodavaram@gmail.com
+State,Andhra Pradesh,3,Sub Jail,98,16,"Sub Jail, Narsipatnam",08932-286553,NO,NO,NO,"Sub Jail, Narsipatnam, D.No.-33-40, Main Road",Narsipatnam-531116,Sjnarsipatnam@gmail.com
+State,Andhra Pradesh,3,Sub Jail,98,17,"Sub Jail, Yelamanchili",08931-231904,NO,NO,NO,"sub Jail, yelamanchili, D.No.-12-129, Main Road,",Yelamanchili-531055,sjyelamanchili@gmail.com
+State,Andhra Pradesh,3,Sub Jail,98,18,"Sub Jail, Amalapuram",08856-236006,NO,NO,NO,"Near Tahasildar office Sub Jail, Amalapuram-533202",NA,NA
+State,Andhra Pradesh,3,Sub Jail,98,19,"Sub Jail, Ramachandrapuram",08857-244633,NO,NO,NO,"Court Compound Sub Jail, R.C. Puram-533255",NA,NA
+State,Andhra Pradesh,3,Sub Jail,98,20,"Sub Jail, Peddapuram",08852-243818,NO,NO,NO,"Near Tahasildar Office Sub Jail, peddapuram-533434",NA,NA
+State,Andhra Pradesh,3,Sub Jail,98,21,"Sub Jail, Prathipadu",08868-246633,NO,NO,NO,"Near Tahasildar Office Sub Jail, Prathipadu-533432",NA,NA
+State,Andhra Pradesh,3,Sub Jail,98,22,"Sub Jail, Tuni",08854-252883,NO,NO,NO,"Tahasildar Office Sub jail, Tuni-533401",NA,NA
+State,Andhra Pradesh,3,Sub Jail,98,23,"Sub Jail, Kothapeta",08855-244900,NO,NO,NO,"Near Tahasildar Office Sub Jail, Kothapeta-533223",NA,NA
+State,Andhra Pradesh,3,Sub Jail,98,24,"Special SubJail, Kakinada East Godavari Dist.",0884-2377056,NO,NO,NO,"Special Sub Jail, Court Compound Kakinada-533003",NA,NA
+State,Andhra Pradesh,3,Sub Jail,98,25,"Sub Jail, Pitapuram",NA,NO,NO,NO,Sub Jail Pitapuram,NA,NA
+State,Andhra Pradesh,3,Sub Jail,98,26,"Sub Jail, Razole",NA,NO,NO,NO,"Sub Jail, Razole",NA,NA
+State,Andhra Pradesh,3,Sub Jail,98,27,"Sub Jail, Alamur",NA,NO,NO,NO,"Sub Jail, Alamur",NA,NA
+State,Andhra Pradesh,3,Sub Jail,98,28,"Sub Jail, Mummadivaram",NA,NO,NO,NO,"Sub Jail, Mummadivaram",NA,NA
+State,Andhra Pradesh,3,Sub Jail,98,29,"Sub Jail, Rajahmundry",NA,NO,NO,NO,"Sub Jail, Rajahmundry",NA,NA
+State,Andhra Pradesh,3,Sub Jail,98,30,"Sub Jail, Chintalapudi",08823-223513,NO,NO,NO,"Opp Fire Station, Chintalapudi",NA,subjailctp@gmail.com
+State,Andhra Pradesh,3,Sub Jail,98,31,"Sub Jail, Tadepalligudem",08818-226643,NO,NO,NO,"Opp Rly Station Road, Tadepalligudum",NA,kamalakarsogala@gmail.com
+State,Andhra Pradesh,3,Sub Jail,98,32,"Sub Jail, Narsapur",08814-277298,NO,NO,NO,"Steamer Road, Narsapur",NA,supdtsjnsp@gmail.com
+State,Andhra Pradesh,3,Sub Jail,98,33,"Sub Jail, Tanuku",08819-228066,NO,NO,NO,"Narendra Cinema Centre, Tanuku",NA,NA
+State,Andhra Pradesh,3,Sub Jail,98,34,"Sub Jail, Kovvur",NA,NO,NO,NO,"Lanchelarevu Down, Kovvur",NA,NA
+State,Andhra Pradesh,3,Sub Jail,98,35,Sub Jail Polavaram,NA,NO,NO,NO,"Karmalpuram, Polavaram",NA,NA
+State,Andhra Pradesh,3,Sub Jail,98,36,"Special Sub Jail, Bhimavaram",08816-23633,NO,NO,NO,"Govt. Hospital Road, Tq Compound Bhimavaram",NA,supdtssjbvrm@gmail.com
+State,Andhra Pradesh,3,Sub Jail,98,37,"Sub Jail, Gannavaram",08676-253585,NO,NO,NO,"Sub Jail, Court Compound, Gannavaram",NA,NA
+State,Andhra Pradesh,3,Sub Jail,98,38,"Sub Jail, Gudivada",08674-247153,NO,NO,NO,"Sub Jail, MRO Compound, Gudivada",NA,NA
+State,Andhra Pradesh,3,Sub Jail,98,39,"Sub Jail, Jaggaiahpeta",08654-224014,NO,NO,NO,"Sub Jail, MRO Complex, Jaggaiahpeta",NA,NA
+State,Andhra Pradesh,3,Sub Jail,98,40,"Sub Jail, Kaikalur",08677-223565,NO,NO,NO,"Sub Jail, MRO Compound, Kaikaluru",NA,NA
+State,Andhra Pradesh,3,Sub Jail,98,41,"Sub Jail, Nandigama",08678-277419,NO,NO,NO,"Sub Jail, MRO Compound, Nandigama",NA,NA
+State,Andhra Pradesh,3,Sub Jail,98,42,"Sub Jail, Nuzvidu",08656-234187,NO,NO,NO,"Sub Jail, MRO Compound, Nuzvidu",NA,NA
+State,Andhra Pradesh,3,Sub Jail,98,43,"Sub Jail, Thiruvur",08673-251461,NO,NO,NO,"Sub Jail, MRO Compound, Thiruvuru",NA,NA
+State,Andhra Pradesh,3,Sub Jail,98,44,"Sub Jail, Avanigadda",08671-272800,NO,NO,NO,"MRO Compound, Sub Jail, Avanigadda",NA,NA
+State,Andhra Pradesh,3,Sub Jail,98,45,"Special Sub Jail, Machilipatnam",08672-230333,NO,NO,NO,"Spl. Sub Jail, MRO Compound, Machilipatnam",NA,NA
+State,Andhra Pradesh,3,Sub Jail,98,46,"Sub Jail, Bapatla",08643-225950,NO,NO,NO,"MRO Office Complex, Bapatla-522101 Guntur Dt.",NA,jenny.kallem@gmail.com
+State,Andhra Pradesh,3,Sub Jail,98,47,"Sub Jail, Ponnur",08643-244713,NO,NO,NO,"Near Sub Registrar Office, Ponnur-522 124",NA,krishika.ganesh@gmail.com
+State,Andhra Pradesh,3,Sub Jail,98,48,"Sub Jail, Tenali",08644-220147,NO,NO,NO,"Kothapet, Near MRO Office, Tenali-522201 Guntur Dt",NA,NA
+State,Andhra Pradesh,3,Sub Jail,98,49,"Sub Jail, Repalle",08648-223770,NO,NO,NO,"Near MRO Office, Repalle-522265 Guntur Dt.",NA,NA
+State,Andhra Pradesh,3,Sub Jail,98,50,"Sub Jail, Sattenapalli",08641-234047,NO,NO,NO,"Near MRO Office, Sattenapalli-522403 Guntur Dt",NA,mimmamahipalreddy@gmail.com
+State,Andhra Pradesh,3,Sub Jail,98,51,"Sub Jail, Vinukonda",08641-234047,NO,NO,NO,"Near MRO Office, Vinukoda-522647 Guntur DT",NA,shekardsp@gmail.com
+State,Andhra Pradesh,3,Sub Jail,98,52,"Sub Jail, Mangalagiri",08645-233507,NO,NO,NO,Near MRO Office Mangalagiri-522503 Guntur DT,NA,NA
+State,Andhra Pradesh,3,Sub Jail,98,53,"Special Sub Jail, Narasaraopeta",08647-227844,NO,NO,NO,Near MRO office Narasaraopet-522601 Guntur DT,NA,spl.subjailnarasaraopet@gmail.com
+State,Andhra Pradesh,3,Sub Jail,98,54,"Special Sub Jail, Gurzala",08649-248263,NO,NO,NO,"Near MRO Office, Gurazala-522415 Guntur",NA,ammudedeepya@gmail.com
+State,Andhra Pradesh,3,Sub Jail,98,55,"Sub Jail, Jammalamaduru",08560-271559,NO,NO,NO,"Sub Jail, Tadipatri Road, Jammalamaduru",NA,NA
+State,Andhra Pradesh,3,Sub Jail,98,56,"Sub Jail, Proddatur",08564-248822,NO,NO,NO,"Sub Jail, 3 Town Police Station Backside,","Rajiv Circle, Proddatur",NA
+State,Andhra Pradesh,3,Sub Jail,98,57,"Sub Jail, Kamalapuram",08563-274778,NO,NO,NO,"Sub Jail, Near MRO Office, Kamalapuram",NA,NA
+State,Andhra Pradesh,3,Sub Jail,98,58,"Sub Jail, Pulivendula",08568-286074,NO,NO,NO,"Sub Jail, Near MRO Office, Pulivendula",NA,NA
+State,Andhra Pradesh,3,Sub Jail,98,59,"Sub Jail, Rayachoty",08561-256561,NO,NO,NO,"Sub Jail, Opp BSNL Office, Rayachoty,",NA,NA
+State,Andhra Pradesh,3,Sub Jail,98,60,"Sub Jail, Badvel",08569-284505,NO,NO,NO,"Sub Jail, Porumamilla Road, Badvel",NA,NA
+State,Andhra Pradesh,3,Sub Jail,98,61,"Sub Jail, Rajampet",08565-241333,NO,NO,NO,"Sub Jail,  Near Sub Treasury Office, Rajampet",NA,NA
+State,Andhra Pradesh,3,Sub Jail,98,62,"Sub Jail, Allagada",08519-222099,NO,NO,NO,"Sub Jail, MRO Office, Backside, Allagada-518543",NA,NA
+State,Andhra Pradesh,3,Sub Jail,98,63,"Sub Jail, Banaganapalle",08515-228877,NO,NO,NO,"Sub Jail, Banaganapalle, Near MRO Office,",Banaganapelle-518124,subjailbabaganapalle@gmail.com
+State,Andhra Pradesh,3,Sub Jail,98,64,"Sub Jail, Dhone",08516-222435,NO,NO,NO,"Sub Jail, Dhone, Near Police Station, Dhone-518222",NA,NA
+State,Andhra Pradesh,3,Sub Jail,98,65,"Sub Jail, Nandikotkur",08513-281733,NO,NO,NO,"Sub Jail, Nandikotkur, Near MRO Office,",Nandikotkur-518401,NA
+State,Andhra Pradesh,3,Sub Jail,98,66,"Sub Jail, Pathikonda",08520-226933,NO,NO,NO,"Sub Jail,  Pathikonda Beside Court",Pathikonda-518580,NA
+State,Andhra Pradesh,3,Sub Jail,98,67,"Special Sub Jail, Adoni",08512-253368,NO,NO,NO,"Special Sub Jail, Near MRO Office, Adoni","Court Compound,",NA
+State,Andhra Pradesh,3,Sub Jail,98,68,"Special Sub Jail, Kurnool",08518-247227,NO,NO,NO,"Special Sub Jail, Taluk Office Premises, Kurnool",NA,rahamans@yahoomail.com
+State,Andhra Pradesh,3,Sub Jail,98,69,"Special Sub Jail, Nandyal",08514-222811,NO,NO,NO,"Spl Sub Jail, Near MRO Ofifce, Tekke, Nandyal",NA,veerendrarevada@gmail.com
+State,Andhra Pradesh,3,Sub Jail,98,70,"Sub Jail, Dharmavaram",08559-221840,NO,NO,NO,"Sub Jail, Beside 1 Town Police Station,",Dharmavaram,NA
+State,Andhra Pradesh,3,Sub Jail,98,71,"Sub Jail, Hindupur",08556-223677,NO,NO,NO,"Sub Jail, Beside Tahasildar Office, Hindupur",NA,NA
+State,Andhra Pradesh,3,Sub Jail,98,72,"Sub Jail, Kadiri",08494-220033,NO,NO,NO,"Sub Jail, Kadiri",NA,NA
+State,Andhra Pradesh,3,Sub Jail,98,73,"Sub Jail, Kalyandurg",08497-221233,NO,NO,NO,"Sub Jail, Beside Tahasildar Office, Kalyandurg",NA,NA
+State,Andhra Pradesh,3,Sub Jail,98,74,"Sub Jail, Penukonda",08555-220969,NO,NO,NO,"Sub Jail, Beside Tahasildar Office, Penukonda",NA,NA
+State,Andhra Pradesh,3,Sub Jail,98,75,"Sub Jail, Tadipatri",08558-223333,NO,NO,NO,"sub Jail, Beside Tahasildar Office, Tadipatri",NA,NA
+State,Andhra Pradesh,3,Sub Jail,98,76,"Sub Jail, Uravakonda",08496-257111,NO,NO,NO,"Sub Jail, Uravakonda",NA,NA
+State,Andhra Pradesh,3,Sub Jail,98,77,"Special Sub Jail, Gooty",08552-252133,NO,NO,NO,"Special Sub Jail, Gooty",NA,NA
+State,Andhra Pradesh,3,Sub Jail,98,78,"Sub Jail, Piler",08584-241708,NO,NO,NO,"Sub Jail, D.No.111/167 Near Police Station","Nehru Bazaar Piler, Chittoor District",NA
+State,Andhra Pradesh,3,Sub Jail,98,79,"Sub Jail, Srikalahasthi",08578-220529,NO,NO,NO,"Sub Jail, Bahadur Pet, Srikalahasthi",Chittoor District,NA
+State,Andhra Pradesh,3,Sub Jail,98,80,"Sub Jail, Satyavedu",08576-227544,NO,NO,NO,"sub Jail, D.No.3-29, Ram Nagar Street Satyavedu",Chittoor District,NA
+State,Andhra Pradesh,3,Sub Jail,98,81,"Sub Jail, Puttur",NA,NO,NO,NO,"sub Jail, Puttur",NA,NA
+State,Andhra Pradesh,3,Sub Jail,98,82,"Sub Jail, Valmikipuram",NA,NO,NO,NO,"Sub Jail, Valmikpuram",NA,NA
+State,Andhra Pradesh,3,Sub Jail,98,83,"Sub Jail, Palamaneru",NA,NO,NO,NO,"Sub Jail, Palamaneru",NA,NA
+State,Andhra Pradesh,3,Sub Jail,98,84,"Sub Jail, Chandragiri",NA,NO,NO,NO,"Sub Jail, Chandragiri",NA,NA
+State,Andhra Pradesh,3,Sub Jail,98,85,"Special Sub Jail, Madanapalle",08571-220899,NO,NO,NO,"No.1-424-2, Giri Rao Street, Madanapalle,",Chittoor District,NA
+State,Andhra Pradesh,3,Sub Jail,98,86,"Special Sub jail, Tirupathi",0877-2260012,NO,NO,NO,"Vesalamma Temple Street, Court Compound","Tirupathi, Chittoor District",NA
+State,Andhra Pradesh,3,Sub Jail,98,87,"Sub Jail, Kavali",08626-250226,NO,NO,NO,"sub Jail, Kavali, SPSR Nellore District",NA,NA
+State,Andhra Pradesh,3,Sub Jail,98,88,"Sub Jail, Atmakur",08627-220699,NO,NO,NO,"Sub Jail, Atmakur, SPSR Nellore District",NA,NA
+State,Andhra Pradesh,3,Sub Jail,98,89,"Sub Jail, Venkatagiri",NA,NO,NO,NO,"Sub Jail, Venkatagiri",NA,NA
+State,Andhra Pradesh,3,Sub Jail,98,90,"Sub Jail, Sullurpet",NA,NO,NO,NO,"Sub Jail, Sullurpet",NA,NA
+State,Andhra Pradesh,3,Sub Jail,98,91,"Special Sub Jail, Gudur",08624-221818,NO,NO,NO,"Special Sub Jail, Gudur, SPSR Nellore District",NA,NA
+State,Andhra Pradesh,3,Sub Jail,98,92,"Sub Jail, Darsi",08407-253551,NO,NO,NO,"Sub Jail, MRO Complex, Darsi",NA,NA
+State,Andhra Pradesh,3,Sub Jail,98,93,"Sub Jail, Markapur",08595-223033,NO,NO,NO,"Sub jail, MRO Complex, Markapur",NA,NA
+State,Andhra Pradesh,3,Sub Jail,98,94,"Sub Jail, Kandukur",NA,NO,NO,NO,"Sub Jail, Kandukur",NA,NA
+State,Andhra Pradesh,3,Sub Jail,98,95,"Sub Jail, Giddalur",NA,NO,NO,NO,"Sub Jail, Giddalur",NA,NA
+State,Andhra Pradesh,3,Sub Jail,98,96,"Sub Jail, Kanigiri",NA,NO,NO,NO,"Sub Jail, Kanigiri",NA,NA
+State,Andhra Pradesh,3,Sub Jail,98,97,"Sub Jail, yerragondapalem",NA,NO,NO,NO,"Sub Jail, Yerragondapalem",NA,NA
+State,Andhra Pradesh,3,Sub Jail,98,98,"Sub Jail, Podili",NA,NO,NO,NO,"Sub Jail, Podili",NA,NA
+State,Andhra Pradesh,4,Women Jail,1,1,Special Prison for Women,0883-2471453,NO,NO,NO,"Central Prison Compound, Rajahmundry",NA,spwrjy@gmail.com
+State,Andhra Pradesh,5,Open Jail,1,1,"Prisoners Agricultural Colony, Anantapuram",08554-201533,NO,NO,NO,"Prisoners Agricultural Colony, Bukkarayasamudram(P",Anantapuram,sppacatp@gmail.com
+State,Arunachal Pradesh,1,District Jail,2,1,"District Jail Jully, Itanagar",9436895865,NO,NO,NO,"Jully, Itanagar, Arunachal Pradesh",NA,arunachaljail@gmail.com
+State,Arunachal Pradesh,1,District Jail,2,2,District Jail Tezu,9402244418,NO,NO,NO,"District Jail Tezu, Arunachal Pradesh",NA,jailtezu@gmail.com
+State,Assam,1,Central Jail,6,1,"Central Jail, Guwahati",0361-2540757,NO,NO,NO,"Sarusajai, Central Jail, Guwahati",NA,jalguwahaticentral@yahoo.com
+State,Assam,1,Central Jail,6,2,"Central Jail, Tezpur",03712-220023,NO,NO,NO,"Tezpur, Sonitpur-784001",NA,jailtezpurcentral@yahoo.com
+State,Assam,1,Central Jail,6,3,"Central Jail, Silchar",03842-265366,NO,NO,NO,"Silchar, Cahar",NA,jailsilcharcentral@yahoo.com
+State,Assam,1,Central Jail,6,4,"Central Jail, Dibrugarh",0373-2326057,NO,NO,NO,"Dibrugarh, Ward No.15, PO & Dist. Dibrugarh",NA,jaildibrugarhcentral@yahoo.com
+State,Assam,1,Central Jail,6,5,"Central Jail, Jorhat",0376-2340985,NO,NO,NO,Jorhat,NA,jailjorhatcentral@yahoo.com
+State,Assam,1,Central Jail,6,6,"Central Jail, Nagaon",03672-250730,NO,NO,NO,"Nagaon, PO & Dist. Nagaon",NA,jailnagaoncentral@yahoo.com
+State,Assam,2,District Jail,22,1,"District Jail, Nalbari","03624-220252, 0940164-45036",NO,NO,NO,Nalbari Po & Dist. Nalbari,NA,jailnalbari@yahoo.com
+State,Assam,2,District Jail,22,2,"District Jail, Barpeta","03665-253085, 09435737226",NO,NO,NO,"Barpeta, PO & Dist. Barpeta",NA,jailbarpeta@yahoo.com
+State,Assam,2,District Jail,22,3,"District Jail, Kokrajhar","03661-270934, 08255098175",NO,NO,NO,"Kokrajhar, PO & Dist. Kokrajhar",NA,jailkokrajhar@yahoo.com
+State,Assam,2,District Jail,22,4,"District Jail, Dhubri","03662-230340, 09854034574",NO,NO,NO,Dhubri PO & Dist. Dhubri,NA,jaildhubri@yahoo.com
+State,Assam,2,District Jail,22,5,"District Jail, Goalpara","03663-240035, 9864191718",NO,NO,NO,"Goalpara, PO & Dist. Goalpara",NA,jailgoalpara@yahoo.com
+State,Assam,2,District Jail,22,6,"District Jail, Mangaldoi","03713-222126, 09706917331",NO,NO,NO,"Po Mangaldoi, Dist. Darrang",NA,jailmangaldoi@yahoo.com
+State,Assam,2,District Jail,22,7,"District Jail, Hailakandi","03844-222213, 094351-60606",NO,NO,NO,"Hailakandi, PO & Dist. Hailakandi",NA,jailhailakandi@yahoo.com
+State,Assam,2,District Jail,22,8,"District Jail, Karimganj","03843-262009, 09435602351",NO,NO,NO,"Karimganj, PO & Dist. Karimganj",NA,jailkarimganj@yahoo.com
+State,Assam,2,District Jail,22,9,"District Jail, North Lakhimpur","03752-222239, 09435374998",NO,NO,NO,"North Lakhimpur, Po & Dist. Lakhimpur",NA,jaillakhimpur@yahoo.com
+State,Assam,2,District Jail,22,10,"District Jail, Sivasagar","03772-222924, 09435486524",NO,NO,NO,Sivasagar,NA,jailsivasagar@yahoo.com
+State,Assam,2,District Jail,22,11,"District Jail, Golaghat","03774-285154, 09435354840",NO,NO,NO,Golaghat Po & Dist,NA,jailgolaghat@yahoo.com
+State,Assam,2,District Jail,22,12,"District Jail, Majuli","03775-274414, 09435061858",NO,NO,NO,Majuli Po Majuli Dist. Jorhat,NA,jailmajuli@yahoo.com
+State,Assam,2,District Jail,22,13,"District Jail, Abhayapuri","03664-281494, 09957907417",NO,NO,NO,"Abhayapuri PO, Dist. Bongaigaon",NA,jailabhayapuri@yahoo.com
+State,Assam,2,District Jail,22,14,"District Jail, Diphu","03671-272686, 09957115543",NO,NO,NO,"Po Diphu, Dist. Karbi Anglong",NA,jaildiphu@yahoo.com
+State,Assam,2,District Jail,22,15,"District Jail, Hamren","03677-230053, 09678663456",NO,NO,NO,Hamren Po Dist. Karbi Anglong,NA,jailhamren@yahoo.com
+State,Assam,2,District Jail,22,16,"District Jail, Biswanath Chariali","03715-223130, 09859183825",NO,NO,NO,"Biswanath Chariali, Po Dist. Sonitpur",NA,jailbnc@yahoo.com
+State,Assam,2,District Jail,22,17,"District Jail, Dhemaji","03753-225212, 09678320177",NO,NO,NO,Po & Dist. Dhemaji,NA,jaildhemaji@yahoo.com
+State,Assam,2,District Jail,22,18,"District Jail, Morigaon","03678-216026, 09435360695",NO,NO,NO,Morigaon Po & Dist.,NA,jailmorigaon@yahoo.com
+State,Assam,2,District Jail,22,19,"District Jail, Sonari","03772-213954, 09706603142",NO,NO,NO,"Po Sonari, Dist. Sivasagar",NA,jailsonari@yahoo.com
+State,Assam,2,District Jail,22,20,"District Jail, Tinsukia","0374-2330550, 09435630924",NO,NO,NO,Tinsukia Po & Dist.,NA,jailtinsukia@yahoo.com
+State,Assam,2,District Jail,22,21,"District Jail, Sadiya","03759-244090, 08486605774",NO,NO,NO,Sadiya Po Dist. Tinsukia,NA,jailsadiya@yahoo.com
+State,Assam,2,District Jail,22,22,"District Jail, Udalguri",9435426980,NO,NO,NO,Udalguri PO & Dist.,NA,jailudalguri@yahoo.com
+State,Assam,3,Sub Jail,1,1,"Sub Jail, Haflong","03673-237158, 09435302981",NO,NO,NO,"Supdt. Of Jail I/C Po Haflong, Dist. Dima Hasao",NA,jailhaflon@yahoo.com
+State,Assam,4,Open Jail,1,1,"Open Air Jail, Jorhat","0376-21340534, 09435321068",NO,NO,NO,Po & Dist. Jorhat,NA,jailmnojorhat@yahoo.com
+State,Assam,5,Special Jail,1,1,"Special Jail, Nagaon","03672-250730, 094350-25174",NO,NO,NO,PO & Dist. Nagaon,NA,jailnagaonspl@yahoo.com
+State,Bihar,1,Central Jail,7,1,"Model Central Jail, Berur",0612-2250352,YES,NO,YES,Patna Dist. Patna-800002,NA,cj_beur@rediffmail.com
+State,Bihar,1,Central Jail,7,2,"Central Jail, Gaya",6312220291,YES,YES,NO,Distt. Gaya-823001,NA,cj_gaya@rediffmail.com
+State,Bihar,1,Central Jail,7,3,SKB Central Jail Muzaffapur,0621-2287114,YES,YES,YES,Distt. Muzaffarpur-842001,NA,cj_muzaffarpur@rediffmail.com
+State,Bihar,1,Central Jail,7,4,"SJS Central, Bhagalpur",0641-2611751,NO,NO,NO,Distt. Bhagalpur-812001,NA,cj_bhagalpur@rediffmail.com
+State,Bihar,1,Central Jail,7,5,"Central Jail, Motihari",06252-232960,YES,YES,YES,Distt. East Champaran-845401,NA,cj_motihari@rediffmail.com
+State,Bihar,1,Central Jail,7,6,"Central Jail, Purena",06454-242557,NO,NO,NO,Dist. Purnea-854301,NA,cj_purena@rediffmail.com
+State,Bihar,1,Central Jail,7,7,"Central Jail, Buxar",06183-222011,YES,NO,NO,Distt. Buxar-802101,NA,cj_buxar@rediffmail.com
+State,Bihar,2,District Jail,31,1,DJ Araria,06453-224644,YES,NO,NO,Distt. Araria-854311,NA,dj_araria@rediffmail.com
+State,Bihar,2,District Jail,31,2,DJ Arrah,06182-221349,YES,NO,NO,Distt. Arrah-802301,NA,dj_arra@rediffmail.com
+State,Bihar,2,District Jail,31,3,DJ Aurangabad,06453-224644,YES,YES,NO,Distt. Aurangabad-824101,NA,dj_aurangabad@rediffmail.com
+State,Bihar,2,District Jail,31,4,DJ Banka,06424-232264,YES,NO,NO,Distt. Banka-813102,NA,dj_banka@rediffmail.com
+State,Bihar,2,District Jail,31,5,DJ Begusarai,06243-222081,YES,YES,NO,Distt. Begusarai-851101,NA,dj_begusarai@rediffmail.com
+State,Bihar,2,District Jail,31,6,DJ Bettiah,06254-233167,NO,YES,NO,Distt. West Champaran-845438,NA,dj_betiah@rediffmail.com
+State,Bihar,2,District Jail,31,7,DJ Bhabhua,06189-223378,YES,NO,NO,Distt. Kaimur-821101,NA,dj_bhabhua@rediffmail.com
+State,Bihar,2,District Jail,31,8,DJ Biharsharif,06112-222496,YES,YES,NO,Distt. Biharsharif-803101,NA,dj_biharsharif@rediffmail.com
+State,Bihar,2,District Jail,31,9,DJ Chhapra,06152-232304,YES,NO,NO,Distt. Saran-841301,NA,dj_chhapra@rediffmail.com
+State,Bihar,2,District Jail,31,10,DJ Darbhanga,06272-240075,NO,YES,NO,Distt. Darbhanga-846004,NA,dj_darbhanga@rediffmail.com
+State,Bihar,2,District Jail,31,11,DJ Gopalganj,06156-224700,YES,YES,YES,Distt. Gopalganj-841428,NA,dj_gopalganj@rediffmail.com
+State,Bihar,2,District Jail,31,12,DJ Hajipur,06224-275434,YES,NO,YES,Distt. Vaishali-844101,NA,dj_hajipur@rediffmail.com
+State,Bihar,2,District Jail,31,13,DJ Jamui,06342-222591,YES,NO,NO,Distt. Jamui-811307,NA,dj_jamui@rediffmail.com
+State,Bihar,2,District Jail,31,14,DJ Jehanabad,06453-224644,NO,NO,NO,Distt. Jehanabad-804408,NA,dj_araria@rediffmail.com
+State,Bihar,2,District Jail,31,15,DJ Katihar,06114-223091,YES,NO,NO,Distt. Katihar-854105,NA,dj_katihar@rediffmail.com
+State,Bihar,2,District Jail,31,16,DJ Khagaria,06244-222199,YES,NO,NO,Distt. Khagaria-851204,NA,dj_khagaria@rediffmail.com
+State,Bihar,2,District Jail,31,17,DJ Kishanganj,06456-222764,NO,NO,NO,Distt. Kishanganj-855107,NA,dj_kishanganj@rediffmail.com
+State,Bihar,2,District Jail,31,18,DJ Lakhisaria,06346-232262,YES,NO,NO,Distt. Lakhisarai-811311,NA,dj_lakhisaria@rediffmail.com
+State,Bihar,2,District Jail,31,19,DJ Madhubani,06276-222353,NO,YES,NO,Distt. Madhubani-847211,NA,dj_madhubani@rediffmail.com
+State,Bihar,2,District Jail,31,20,DJ Madhepura,06476-224782,YES,NO,NO,Distt. Madhepura-852113,NA,dj_madhepura@rediffmail.com
+State,Bihar,2,District Jail,31,21,DJ Munger,06344-222214,YES,NO,NO,Distt. Munger-811201,NA,dj_munger@rediffmail.com
+State,Bihar,2,District Jail,31,22,DJ Nawda,06324-212346,NO,NO,NO,Distt. Nawada-805110,NA,dj_nawada@rediffmail.com
+State,Bihar,2,District Jail,31,23,DJ Phulwari Sharif,0612-2222409,YES,NO,YES,Distt. Patna-801505,NA,cj_phulwarisharif@rediffmail.com
+State,Bihar,2,District Jail,31,24,DJ Saharsa,06478-222544,YES,NO,NO,Distt. Saharsa-852201,NA,dj_saharsa@rediffmail.com
+State,Bihar,2,District Jail,31,25,DJ Samastipur,NA,NO,YES,NO,Distt. Samastipur-848101,NA,dj_samastipur@rediffmail.com
+State,Bihar,2,District Jail,31,26,DJ Sasaram,06184-222094,YES,NO,NO,Distt. Sasaram-821115,NA,dj_araria@rediffmail.com
+State,Bihar,2,District Jail,31,27,DJ Sheikhpura,06341-223613,YES,NO,NO,Distt. Sheikhpura-811105,NA,dj_sheikhpura@rediffmail.com
+State,Bihar,2,District Jail,31,28,DJ Sitamarhi,06453-224644,NO,YES,NO,Distt. Sitamarhi-843301,NA,dj_sitamarhi@rediffmail.com
+State,Bihar,2,District Jail,31,29,DJ Siwan,06154-242879,YES,NO,NO,Distt. Siwan-841226,NA,dj_siwan@rediffmail.com
+State,Bihar,2,District Jail,31,30,DJ Sheohar,NA,NO,YES,NO,Distt. Sheohar-843329,NA,dj_sheohar@rediffmail.com
+State,Bihar,2,District Jail,31,31,DJ Supaul,06473-223119,NO,NO,NO,Distt. Supaul-852131,NA,dj_supaul@rediffmail.com
+State,Bihar,3,Sub Jail,17,1,S.J. Bagaha,06251-226472,NO,NO,NO,Distt. West Champaran-845105,NA,sj_bagaha@rediffmail.com
+State,Bihar,3,Sub Jail,17,2,S.J. Barh,06132-244520,NO,NO,NO,Distt. Patna-803213,NA,sj_barh@rediffmail.com
+State,Bihar,3,Sub Jail,17,3,S.J. Benipur,06242-222883,NO,NO,NO,Distt. Darbhanga-847301,NA,sj_benipur@rediffmail.com
+State,Bihar,3,Sub Jail,17,4,S.J. Bikram Ganj,06185-222362,NO,NO,NO,Distt. Rohtas-802227,NA,sj_bikramganj@rediffmail.com
+State,Bihar,3,Sub Jail,17,5,S.J. Buxar,06251-226472,YES,NO,NO,Distt. Buxar-802101,NA,sj_buxar@rediffmail.com
+State,Bihar,3,Sub Jail,17,6,S.J. Dalsingsarai,06278-220218,NO,YES,NO,distt. Samastipur-848114,NA,sj_dalsingsarai@rediffmail.com
+State,Bihar,3,Sub Jail,17,7,S.J. Daudanagar,NA,NO,NO,NO,Distt. Aurangabad-824113,NA,sj_daudanagar@rediffmail.com
+State,Bihar,3,Sub Jail,17,8,S.J. Danapur,06115-220325,YES,NO,NO,Distt. Patna-801503,NA,sj_danapur@rediffmail.com
+State,Bihar,3,Sub Jail,17,9,S.J. Hilsa,06111-252250,NO,NO,NO,Distt. Biharsharif-801302,NA,sj_hilsa@rediffmail.com
+State,Bihar,3,Sub Jail,17,10,S.J. Jhanjharpur,06273-223989,NO,YES,NO,Distt. Madhubani-852123,NA,sj_jhanjharpur@rediffmail.com
+State,Bihar,3,Sub Jail,17,11,S.J. Masaurhi,0612-243410,NO,NO,NO,Distt. Patna-804452,NA,sj_masaurhi@rediffmail.com
+State,Bihar,3,Sub Jail,17,12,S.J. Nawagachiya,06421-223302,YES,NO,NO,Distt. Bhagalpur-853204,NA,sj_nawagachiya@rediffmail.com
+State,Bihar,3,Sub Jail,17,13,S.J. Patna City,0612-2630010,YES,NO,NO,Distt. Patna-800008,NA,sj_patnacity@rediffmail.com
+State,Bihar,3,Sub Jail,17,14,S.J. Rosera,06275-223595,NO,YES,NO,Distt. Samastipur-848114,NA,sj_rosera@rediffmail.com
+State,Bihar,3,Sub Jail,17,15,S.J. Sherghati,06326-223771,YES,NO,NO,Distt. Gaya-823001,NA,sj_sherghati@rediffmail.com
+State,Bihar,3,Sub Jail,17,16,S.J. Virpur,06471-222151,NO,NO,NO,Distt. Supaul-854340,NA,sj_virpur@rediffmail.com
+State,Bihar,3,Sub Jail,17,17,S.J. Udakishunganj,06476-224782,NO,NO,NO,Distt. Madhepura-852113,NA,subjail.udakishunganj@gmail.com
+State,Bihar,4,Women Jail,1,1,DJ Women Bhagalpur,0641-2611751,NO,NO,NO,Distt. Bhagalpur-812001,NA,fdj_bhagalpur@rediffmail.com
+State,Bihar,5,Open Jail,1,1,Open Jail Buxar,9431154422,NO,NO,NO,Distt. Buxar-802101,NA,cj_openbuxar@rediffmail.com
+State,Bihar,6,Special Jail,1,1,"Spl. Central Jail, Bhagalpur",0641-2610152,YES,YES,NO,NA,NA,cj_bhagalpur@rediffmail.com
+State,Chhattisgarh,1,Central Jail,5,1,Central Jail Raipur,"0771-2886027, 2886313",YES,YES,YES,"Central Jail Raipur, C.G.",NA,raipurjail@gmail.com
+State,Chhattisgarh,1,Central Jail,5,2,Central Jail Jagdalpur,07782-222329/221390,YES,YES,YES,"Jail Colony, Central Jail Jagdalpur, C.G.",NA,jdrjail@gmail.com
+State,Chhattisgarh,1,Central Jail,5,3,Central Jail Bilaspur,07752-224090/228795,YES,YES,YES,"Central Jail Bilaspur, C.G.",NA,centraljailbilaspur@yahoo.com
+State,Chhattisgarh,1,Central Jail,5,4,Central Jail Ambikapur,07774-236165/222497,NO,YES,NO,"Jail Colony, Central jail Ambikapur, C.G.",NA,cjambikapur@gmail.com
+State,Chhattisgarh,1,Central Jail,5,5,Central Jail Durg,0788-2322964,NO,YES,NO,"Jail Colony, Central Jail Durg, C.G.",NA,centraljail-durg.cg@nic.in
+State,Chhattisgarh,2,District Jail,11,1,Dist. Jail Mahasamund,07723-222307,YES,YES,NO,Dist. Mahasamund C.G.,NA,distjail-msd@gmail.com
+State,Chhattisgarh,2,District Jail,11,2,Dist. Jail Dhamtari,07722-233155,YES,YES,NO,Distt. Dhamtari C.G.,NA,disttjaildhamtari@gmail.com
+State,Chhattisgarh,2,District Jail,11,3,Dist. Jail Kanker,07868-241168,YES,YES,YES,District Jail Kanker C.G.,NA,sdjkanker@gmail.com
+State,Chhattisgarh,2,District Jail,11,4,Dist. Jail Dantewada,07856-252216,NO,YES,NO,Dist. Jail Dantewada C.G.,NA,jail.dantewada@gmail.com
+State,Chhattisgarh,2,District Jail,11,5,Dist. Jail Raigarh,07762-222818,YES,YES,YES,Dist. Jail Raigarh C.G.,NA,disttjrgh@gmail.com
+State,Chhattisgarh,2,District Jail,11,6,Dist. Jail Korba,07759-223666/228068,YES,YES,YES,Dist. Jail Korba C.G.,NA,disttjailkorba@gmail.com
+State,Chhattisgarh,2,District Jail,11,7,Dist. Jail Janjgir,07817-222030,YES,YES,YES,Dist. Jail Jangir C.G.,NA,disttjail.jangir@gmail.com
+State,Chhattisgarh,2,District Jail,11,8,Dist. Jail Jashpur,07763-223235,NO,NO,NO,Dist. Jail Jashpur C.G.,NA,jilajailjashpur@gmail.com
+State,Chhattisgarh,2,District Jail,11,9,Dist. Jail Baikunthpur,07836-232229,NO,NO,NO,Dist. Jail Baikunthpur C.G.,NA,jilajailbkp@gmail.com
+State,Chhattisgarh,2,District Jail,11,10,Dist. Jail Rajnandgaon,07744-224028,YES,YES,NO,Dist. Jail Rajnandgaon C.G.,NA,distt.jailrjnd@gmail.com
+State,Chhattisgarh,2,District Jail,11,11,Dist. Jail Kabirdham,07741-299123,NO,YES,NO,Dist. Jail Kabirdham Dist. Kawardha C.G.,NA,subjailkabirdham@gmail.com
+State,Chhattisgarh,3,Sub Jail,12,1,Sub Jail Balodabazar,07727-222877,YES,YES,YES,"Sub Jail Balodabazar, Dist. Balodabazar C.G.",NA,subjailbalodabazar@gmail.com
+State,Chhattisgarh,3,Sub Jail,12,2,Sub Jail Gariaband,9479107715,YES,YES,YES,"Sub Jail Gariyaband, Dist. Gariaband",NA,jailgariaband@gmail.com
+State,Chhattisgarh,3,Sub Jail,12,3,Sub Jail Pendraroad,07751-220760,YES,YES,YES,"Sub Jail Pendraroad, Dist. Bilaspur, C.G.",NA,jailgariaband@gmail.com
+State,Chhattisgarh,3,Sub Jail,12,4,Sub Jail Katghora,07815-250123,YES,YES,YES,"Sub Jail Katghora, Dist. Korba C.G.",NA,subjail.katghora@gmail.com
+State,Chhattisgarh,3,Sub Jail,12,5,Sub Jail Sarangarh,07768-233080,YES,YES,YES,"Sub Jail Sarangarh, Dist. Raigarh C.G.",NA,subjail.sarangarh@gmail.com
+State,Chhattisgarh,3,Sub Jail,12,6,Sub Jail Sakti,07757-204230,YES,YES,YES,"Sub Jail Sakti, Dist. Janjgir C.g.",NA,subjailsakti@gmail.com
+State,Chhattisgarh,3,Sub Jail,12,7,Sub Jail Surajpur,07775-266493,NO,NO,NO,Sub Jail Surajpur Dist. Surajpur C.g.,NA,spr.sub.jail@gmail.com
+State,Chhattisgarh,3,Sub Jail,12,8,Sub Jail Ramanujganj,07779-276355/276382,NO,NO,NO,Sub jail Ramanujganj Dist. Ramanujganj D.g.,NA,sjrganj355@gmail.com
+State,Chhattisgarh,3,Sub Jail,12,9,Sub Jail Manendragarh,07771-203586/241016,NO,NO,NO,Sub Jail Dist. Manendragarh C.G.,NA,subjailmanendragarh@gmail.com
+State,Chhattisgarh,3,Sub Jail,12,10,Sub Jail Dongargarh,07823-232942,YES,NO,NO,"Sub Jail Dongargarh, Dist. Rajnangaon C.G.",NA,subjaildongargarh@gmail.com
+State,Chhattisgarh,3,Sub Jail,12,11,Sub Jail Sanjari-Balod,07749-222232,YES,YES,YES,Sub Jail Balod Dist. Rajnangaon C.g.,NA,balodsubjail@gmail.com
+State,Chhattisgarh,3,Sub Jail,12,12,Sub Jail Bemetara,07824-206335/222436,YES,YES,NO,Sub Jail Bemetara Dist. Bemetara C.G.,NA,subjailbemetar@gmail.com
+State,Goa,1,Central Jail,1,1,Modern Central Jail Colvale Goa,9372999167,YES,YES,NO,"Central Jail, Aguada",NA,NA
+State,Goa,2,Sub Jail,1,1,"Sub Jail Cum Judicial Lockup, Sada, Vasco",8322520081,NO,YES,NO,"Sub Jail cum Judicial Lockup, Sada, Vasco",NA,NA
+State,Goa,3,Women Jail,1,1,"Sub jail cum Judicial Luckup, Sada, Vasco",8322520081,NO,YES,NO,"Sub jail cum judicial luckup, Sada, Vasco",NA,NA
+State,Gujarat,1,Central Jail,4,1,Ahmedabad Central Prison,079-27521692,NO,YES,NO,"Ahmedabad Central Prison, Jail Road, Sabarmati",Ahmedabad-380027,NA
+State,Gujarat,1,Central Jail,4,2,Vadodara Central Prison,0265-2410772,NO,YES,NO,"Vadodara Central Prison, Opp Narmada Bhavan,","Indira Avenue Road, Vadodara-394220",NA
+State,Gujarat,1,Central Jail,4,3,Rajkot Central Prison,0281-2451007,NO,YES,NO,"Rajkot Central Prison, Popatpara Road,",Rajkot-360001,NA
+State,Gujarat,1,Central Jail,4,4,Lajpor Central Prison,0261-2393101,NO,YES,NO,"Lajpor Surat, Central Prison, Nr. Lajpore Village","Navsari Road, Lajpur Dist. Surat-395002",NA
+State,Gujarat,2,District Jail,7,1,Junagarh Dist. Prison,0285-2620128,NO,YES,NO,"Junagadh Dist. Prison, Station Road,",Junagadh-362001,NA
+State,Gujarat,2,District Jail,7,2,Bhavnagar Dist. Prison,0278-2423228,NO,YES,NO,"Bhavnagar Dist. Prison, Nr. A Div. Police Station",Bhavnagar-364001,NA
+State,Gujarat,2,District Jail,7,3,Jamnagar Dist. Prison,0288-2670355,NO,YES,NO,"Jamnagar Dist. Prison, Nr. Pavan Chakki,",Jamnagar-361001,NA
+State,Gujarat,2,District Jail,7,4,Nadiad Dist. Prison,0268-2566462,NO,YES,NO,"Nadiad Dist. Prison, AT&PO Bilodara, Ta. Nadiad",Dist. Kheda-382831,NA
+State,Gujarat,2,District Jail,7,5,Palanpur Dist. Prison,02742-253999,NO,YES,NO,"Palanpur Dist. Prison, Nr. Police Head Qtrs.,","Palanpur, Dist. Banaskantha-385001",NA
+State,Gujarat,2,District Jail,7,6,Mehsana Dist. Prison,02762-251103,NO,YES,NO,"Mehsana Dist. Prison, Dudhsagar Dairy Road,",Mehsana-384001,NA
+State,Gujarat,2,District Jail,7,7,Amreli Dist. Prison,02792-220276,NO,YES,NO,"Amreli Dist. Prison, Tarwadi, Amreli",dist. Amreli-365001,NA
+State,Gujarat,3,Sub Jail,11,1,Surendranagar Sub Jail,02752-283819,NO,YES,NO,"Surendranagar Sub Jail, Tagore Baugh Road",Surendranagar-363001,NA
+State,Gujarat,3,Sub Jail,11,2,Bharuch Sub Jail,02642-240083,NO,YES,NO,"Bharuch Sub Jail, Mahamdpura",Bharuch-392001,NA
+State,Gujarat,3,Sub Jail,11,3,Chhotaudepur Sub Jail,02669-232082,NO,NO,NO,"Chhotaudepur Sub Jail, Nr. Police Line","Kwant Road, Ta. Chhotaudepur, Dist. Vaddoara",NA
+State,Gujarat,3,Sub Jail,11,4,Rajpipla Sub Jail,02640-224483,NO,YES,NO,"Rajpipla Sub Jail, Nr. Old Bus Stand, Soni Bazar","Rajpipla, Dist. Narmada-393146",NA
+State,Gujarat,3,Sub Jail,11,5,Himatnagar Sub Jail,02772-240855,NO,YES,NO,"Himatnagar Sub Jail, Nr. Police Head Qtr.",Himatnagar Dist. Sabarkantha-383001,NA
+State,Gujarat,3,Sub Jail,11,6,Navsari Sub Jail,02637-258020,NO,YES,NO,"Navsari Sub Jail, Lunsikui Ground",Navsari-396445,NA
+State,Gujarat,3,Sub Jail,11,7,Morbi Sub Jail,02822-220288,NO,NO,NO,"Morbi Sub Jail, Nr. Police Station",Morbi Dist. Rajkot-363641,NA
+State,Gujarat,3,Sub Jail,11,8,Gondal Sub Jail,02825-295064,NO,YES,NO,"Gondal Sub Jail, Gondal, Dist. Rajkot-360311",NA,NA
+State,Gujarat,3,Sub Jail,11,9,Modasa Sub Jail,02774-224255,NO,NO,NO,"Modasa Sub Jail, Modasa Dist. Sabarkantha-383315",NA,NA
+State,Gujarat,3,Sub Jail,11,10,Godhara Sub Jail,02672-240145,NO,YES,NO,"Godhra Sub Jail, Nr. Town Police Station","Godhra, Dist. Panchmahal-389001",NA
+State,Gujarat,3,Sub Jail,11,11,Patan Sub Jail,02766-291321,NO,YES,NO,"Patan Sub Jail, Dist. Patan",NA,NA
+State,Gujarat,4,Women Jail,1,1,Vadodara Women Jail,0265-2410632,NO,NO,NO,"Vadodara Central Prison, Opp. Narmada Bhavan,","Indira Avenue Road, Vadodara Op S S Hospital",NA
+State,Gujarat,5,Open Jail,2,1,Ahmedabad Open Jail,079-27521692,NO,NO,NO,"Ahmedabad Central Prison, Jail Road,","Sabarmati, Ahmedabad-380027",NA
+State,Gujarat,5,Open Jail,2,2,Amreli Open Jail,02792-223569,NO,NO,NO,"Amreli Open Prison, Tarwadi,","Amreli, Dist. Amreli-365001",NA
+State,Gujarat,6,Special Jail,2,1,Palara Special Jail,02832-244048,NO,YES,NO,"Palara (Bhuj) Special Prison, Khavda Road,",Dist. Kutchh Bhuj,NA
+State,Gujarat,6,Special Jail,2,2,Porbandar Special Jail,0286-2242510,NO,YES,NO,"Porbandar Special Prison, Nr. Kamla Baugh",Porbandar-360575,NA
+State,Haryana,1,Central Jail,3,1,Central Jail Ambala,1712552296,YES,YES,YES,"Opp Jail Land Sec-1, Ambala City",NA,supdtamb.jail@hry.nic.in
+State,Haryana,1,Central Jail,3,2,Central Jail Hisar 1,1662235959,YES,YES,YES,Central Jail Hisar Hisar to Delhi High Way,NA,supdthsr.jail@hry.nic.in
+State,Haryana,1,Central Jail,3,3,Central Jail II,1662254431,YES,YES,YES,Rajgarh Road Hisar,NA,supdtjvnlhsr.jail@hry.nic.in
+State,Haryana,2,District Jail,16,1,District Jail Karnal,1842294001,YES,YES,YES,"Kaithal Road, Karnal",NA,supdtkrl.jail@hry.nic.in
+State,Haryana,2,District Jail,16,2,District Jail Gurgaon,1242266556,YES,YES,YES,D J. Gurgaon at Bhondasi,NA,supdtgrg.jail@hry.nic.in
+State,Haryana,2,District Jail,16,3,District Jail Yamunanagar,1732212266,YES,YES,YES,"Bilaspur Road, Jagadhari Yamunanagar",NA,supdtjagadhari.jail@hry.nic.in
+State,Haryana,2,District Jail,16,4,District Jail Kurukshetra,1744231516,YES,YES,YES,"Near Police Line, Pipli Kurukshetra Raod",NA,supdtkrk.jail@hry.nic.in
+State,Haryana,2,District Jail,16,5,District Jail Kaithal,1746232382,YES,YES,YES,Dogra Gate Kaithal,NA,supdtktl.jail@hry.nic.in
+State,Haryana,2,District Jail,16,6,District Jail Jind,1681245224,YES,YES,YES,Jind to Rohtak near Police Line Jind,NA,supdtjnd.jail@hry.nic.in
+State,Haryana,2,District Jail,16,7,District Jail Sirsa,1666247885,YES,YES,YES,Barnala Road Sirsa,NA,supdtsrs.jail@hry.nic.in
+State,Haryana,2,District Jail,16,8,District Jail Bhiwani,1664248787,YES,YES,YES,"Bhiwani to Hisar Road, Bhiwani",NA,supdtbhw.jail@hry.nic.in
+State,Haryana,2,District Jail,16,9,District Jail Panipat,1802657294,YES,YES,YES,"Old Court Premises, District Jail Panipat",NA,supdtpnp.jail@hry.nic.in
+State,Haryana,2,District Jail,16,10,District Jail Palwal,1275244755,YES,YES,YES,Palwal _ Mathura NH-2 at Palwal,NA,supdtpalwal.jail@hry.nic.in
+State,Haryana,2,District Jail,16,11,District Jail Sonepat,1302221717,YES,YES,YES,"Gohana Road, Near Police Line Sonepat",NA,supdtsnp.jail@hry.nic.in
+State,Haryana,2,District Jail,16,12,District Jail Jhajjar,1251215277,YES,YES,YES,Infront of sehwag international school on Jhajjar,to Gurgaon main road,supdtjhajjar.jail@gmail.com
+State,Haryana,2,District Jail,16,13,District Jail Rewari,1274222159,YES,YES,YES,"Old Court Road, Rewari",NA,supdtrwr.jail@hry.nic.in
+State,Haryana,2,District Jail,16,14,District Jail Faridabad,1292401400,YES,YES,YES,Village neemka Faridabad,NA,supdtblbg.jail@hry.nic.in
+State,Haryana,2,District Jail,16,15,District Jail Rohtak,1262268408,YES,YES,YES,District Jail Rohtak at Sunariya,NA,supdtroh.jail@hry.nic.in
+State,Haryana,2,District Jail,16,16,District Jail Narnaul,1282261400,YES,YES,YES,D J Gurgaon at Mohindergarh,NA,supdtnrl.jail@hry.nic.in
+State,Himachal Pradesh,1,Central Jail,2,1,M C jail Kanda,1772774610,YES,NO,YES,"Model Central Jail Kanda, Distt. Shimla HP",NA,mcjail-shi-hp@nic.in
+State,Himachal Pradesh,1,Central Jail,2,2,M C Jail Nahan,1702222237,YES,YES,NO,"Model Central Jail Nahan, Dist Sirmour HP",NA,NA
+State,Himachal Pradesh,2,District Jail,2,1,Dist & Open Air Jail Dharmshala,01892-223125,YES,YES,YES,"Dist and Open Air Jail Dharmshala, Dist Kangra, HP",NA,djail-kan-hp@nic.in
+State,Himachal Pradesh,2,District Jail,2,2,Dist & Open Air Jail Chamba,01899-237222,YES,NO,YES,"Dist and Open Air Jail Chamba, Dist Chamba, HP",NA,djail-cha-hp@nic.in
+State,Himachal Pradesh,3,Sub Jail,8,1,Sub Jail Mandi,01905-222185,YES,NO,NO,"Sub Jail Mandi, Dist Mandi, HP",NA,subjail-man-hp@nic.in
+State,Himachal Pradesh,3,Sub Jail,8,2,Sub Jail Solan,01792-231435,NO,YES,NO,"Sub Jail Solan, Dist, Solan HP",NA,subjail-sol-hp@nic.in
+State,Himachal Pradesh,3,Sub Jail,8,3,Sub Jail Una,01975-226024,YES,YES,YES,Sub Jail Una,NA,subjail-una-hp@nic.in
+State,Himachal Pradesh,3,Sub Jail,8,4,Sub Jail Hamirpur,01972-258151,YES,YES,YES,Sub Jail Hamirpur,NA,subjail-ham-hp@nic.in
+State,Himachal Pradesh,3,Sub Jail,8,5,Sub Jail Nurpur,01893-220711,NO,NO,NO,Sub Jail Nurpur,"Dist. Kangra, HP",subjail-nur-hp@nic.in
+State,Himachal Pradesh,3,Sub Jail,8,6,Sub Jail Kaithu,0177-2804151,YES,NO,NO,"AC to DC cum Supdt. Jail Sub Jail, Kaithu (Shimla)",NA,subjail-shi-hp@nic.in
+State,Himachal Pradesh,3,Sub Jail,8,7,Sub Jail Kullu,01902-222264,YES,NO,YES,Sub Jail Kullu,NA,subjail-kul-hp@nic.in
+State,Himachal Pradesh,3,Sub Jail,8,8,Sub Jail Bilaspur,01978-222316,NO,NO,YES,"Open Air Jail, Bilaspur HP",NA,oaj-bil-hp@nic.in
+State,Himachal Pradesh,4,Borstal School,1,1,Borstal Jail Mandi,01905-222185,YES,NO,YES,"Sub Jail Mandi, Dist. Mandi, HP",NA,subjail-man-hp@nic.in
+State,Himachal Pradesh,5,Open Jail,7,1,Sub Jail Bilaspur,01978-222316,NO,NO,YES,"Open Air Jail, Bilaspur, HP",NA,oaj-bil-hp@nic.in
+State,Himachal Pradesh,5,Open Jail,7,2,M.C. Jail Kanda,1772774610,YES,NO,YES,Model Central Jail Kanda Dist. Shimla,NA,mcjailshi-hp@nic.in
+State,Himachal Pradesh,5,Open Jail,7,3,M.C. Jail Nahan,170222237,NO,NO,NO,Model Central Jail Nahan Dist. Sirmour,NA,prisonnhn-hp@nic.in
+State,Himachal Pradesh,5,Open Jail,7,4,Dharmshala,01892-223125,NO,NO,NO,Dist. & Open Air Jail Dharmshala Dist. Kangra,NA,djail-kan-hp@nic.in
+State,Himachal Pradesh,5,Open Jail,7,5,Chamba,01899-237222,NO,NO,NO,"Dist. & Open Air Jail Chamba, Dist. Chamba",NA,djail-cha-hp@nic.in
+State,Himachal Pradesh,5,Open Jail,7,6,Mandi,01905-222185,NO,NO,NO,Sub Jail mandi Dist. Mandi,NA,subjail-man-hp@nic.in
+State,Himachal Pradesh,5,Open Jail,7,7,Solan,01792-231435,NO,NO,NO,"Sub Jail Solan, Dist. Solan",NA,subjail-sol-hp@nic.in
+State,Jammu & Kashmir,1,Central Jail,2,1,Kotbhalwal Jammu,0191-2623975,NO,NO,NO,Central Jail Kotbhalwal Jammu Village Kotbhalwal,NA,NA
+State,Jammu & Kashmir,1,Central Jail,2,2,Central Jail Srinagar,0194-2423514,NO,NO,NO,"Central Jail Srinagar, Kathi Darwaza, Rainawari",Srinagar-190003,NA
+State,Jammu & Kashmir,2,District Jail,10,1,District Jail Jammu,0191-2579328,NO,NO,NO,District Jail Jammu Amphalla Jammu-180005,NA,NA
+State,Jammu & Kashmir,2,District Jail,10,2,District Jail Udhampur,01992-270332,NO,NO,NO,District Jail Udhampur Kapri Morh,Udhampur,NA
+State,Jammu & Kashmir,2,District Jail,10,3,District Jail Rajouri,01962-259031,NO,NO,NO,District Jail Rajouri Village Dhangri Rajouri,NA,NA
+State,Jammu & Kashmir,2,District Jail,10,4,District Jail Leh,01982-264128,NO,NO,NO,"District Jail Leh, Choglamsar Leh-194101",NA,NA
+State,Jammu & Kashmir,2,District Jail,10,5,District Jail Kathua,01922-234771,NO,NO,NO,"District Jail Kathua, Ward No.2, Kathua-184101",NA,NA
+State,Jammu & Kashmir,2,District Jail,10,6,District Jail Anantnag,1932237004,NO,NO,NO,District Jail Anantnag Mattan Keheribal Anantnag,NA,NA
+State,Jammu & Kashmir,2,District Jail,10,7,District Jail Poonch,01965-220380,NO,NO,NO,District Jail Poonch Parade Ground Poonch-185101,NA,NA
+State,Jammu & Kashmir,2,District Jail,10,8,District Jail Baramulla,01952-234524,NO,NO,NO,District Jail Baramulla Khawaja Bagh Baramulla,NA,NA
+State,Jammu & Kashmir,2,District Jail,10,9,District Jail Kishtwar,01995-259879,NO,NO,NO,District Jail Kishtwar Pushal Mohalla Pocchal,NA,NA
+State,Jammu & Kashmir,2,District Jail,10,10,District Jail Kupwara,01955-252037,NO,NO,NO,District Jail Kupwara Doodwan Kupwara-193222,NA,NA
+State,Jammu & Kashmir,3,Sub Jail,2,1,Sub Jail Reasi,01991-244284,NO,NO,NO,Sub Jail Reasi Ward No.4 Reasi-182311,NA,NA
+State,Jammu & Kashmir,3,Sub Jail,2,2,Sub Jail Hiranagar,01922-274231,NO,NO,NO,sub Jail Hiranagar Ward No.2 Hiranagar-184142,NA,NA
+State,Jharkhand,1,Central Jail,5,1,"Birsa Munda Central Jail, Hotwar, Ranchi",0651-2276060,YES,YES,YES,"Birsa Munda Central Jail, Hotwar, Ranchi",PO Hotwar Dist. Ranchi-835217,jailsuperintendent.ranchi@gmail.com
+State,Jharkhand,1,Central Jail,5,2,"Loknayak Jaiprakash Narayan C. Jail, Hazaribagh",06546-263408,YES,YES,YES,"Loknayak Jaiprakash Narayan C. Jail, Hazaribagh","Vill Kolhaghatti-1, PO Reformatory School",prisonhzb@gmail.com
+State,Jharkhand,1,Central Jail,5,3,Central Jail Dumka,06434-236184,YES,YES,YES,"Central Jail, Dumka, PO Dumka",Dist. Dumka-814101,dmkjls@gmail.com
+State,Jharkhand,1,Central Jail,5,4,"Central Jail, Ghaghidih, Jamshedpur",0657-2298489,YES,YES,YES,"Central Jail Ghaghidih, Jamshedpur","PO Karandih, Dist. East Singhbhum Jamshedpur",ghaghidihjail@gmail.com
+State,Jharkhand,1,Central Jail,5,5,"Central Jail, Medinanagar, Palamu",06562-222725,YES,YES,YES,"Central Jail, Medinanagar, Palamu, PO Daltonganj","Dist. Medininagar, Palamu-822101",supt.dal@gmail.com
+State,Jharkhand,2,District Jail,17,1,"Dist. Jail, Giridih",06532-244086,YES,YES,YES,"Dist. Jail Giridih, Po Budhanabad, Dist. Giridih",NA,prisongrd@gmail.com
+State,Jharkhand,2,District Jail,17,2,Dist. Jail Dhanbad,0326-2311715,YES,YES,YES,"PO Hirapur, Dist. Dhanbad-826001",NA,prisondhn@gmail.com
+State,Jharkhand,2,District Jail,17,3,Dist. Jail Chaibasa,06582-256502,YES,YES,YES,"Dist. Jail Chaibasa, PO Chaibasa, Dist. Chaibasa",NA,sj.chaibasa@gmail.com
+State,Jharkhand,2,District Jail,17,4,Dist. Jail Deoghar,06432-222866,YES,YES,NO,"Dist. Jail Deoghar, PO Deoghar, Dist. Deoghar",NA,sj.deoghar@gmail.com
+State,Jharkhand,2,District Jail,17,5,dist. Jail Sahebganj,06436-222546,YES,YES,YES,"Dist. Jail Sahebganj, PO Sahebganj,",Dist. Sahebganj-816109,sbgjail@gmail.com
+State,Jharkhand,2,District Jail,17,6,Dist. Jail Chas,06542-265717,YES,YES,YES,"Dist. Jail Chas, Chas, Dist. Bokari-827013",NA,prisonbkr@gmail.com
+State,Jharkhand,2,District Jail,17,7,Dist. Jail Simdega,06525-225593,YES,YES,YES,"Dist. Jail Simdega, Po Simdega, Dist. Simdega",NA,simdega.jail@gmail.com
+State,Jharkhand,2,District Jail,17,8,Dist. Jail Saraikela,06597-234603,YES,YES,NO,"Dist. Jail Saraikela, PO & Dist. Saraikela-833219",NA,prisonsrk@gmail.com
+State,Jharkhand,2,District Jail,17,9,Dist. Jail Jamtara,06433-222386,YES,YES,YES,"Dist. Jail Jamtara, PO & Dist. Jamtara-815351",NA,jmtjail@gmail.com
+State,Jharkhand,2,District Jail,17,10,Dist. Jail Koderma,06534-252244,YES,NO,YES,"Dist. Jail Koderma, PO & DIST. Koderma-825410",NA,kodermajail@gmail.com
+State,Jharkhand,2,District Jail,17,11,Dist. Jail Latehar,06565-247660,YES,NO,YES,"Dist. Jail Latehar, PO & Dist. Latehar-829206",NA,jailsuperintendent.latehar@gmail.com
+State,Jharkhand,2,District Jail,17,12,Dist. Jail Lohardaga,"06526-224597, 223020",YES,YES,YES,"Dist. Jail Lohardaga, Po & Dist. Lohardaga-835302",NA,prisonlhd@gmail.com
+State,Jharkhand,2,District Jail,17,13,Dist. Jail Pakur,06435-222338,YES,YES,YES,"Dist. Jail Pakur, PO & Dist. Pakur-816107",NA,suprintendent.pakur.jail@gmail.com
+State,Jharkhand,2,District Jail,17,14,Dist. Jail Gumla,06524-223104,YES,YES,YES,"Dist. Jail Gumla, Po & Dist. Gumla-835207",NA,jailsuperintendent.gml@gmail.com
+State,Jharkhand,2,District Jail,17,15,Dist. Jail Godda,06422-222090,YES,YES,YES,"Dist. Jail Godda, Near Sadar Hospital Godda",NA,distjailgodda@gmail.com
+State,Jharkhand,2,District Jail,17,16,Dist. Jail Garhwa,06561-222104,YES,YES,YES,"Dist. Jail Garhwa, Po & Dist. Garhwa-822114",NA,jailsuperintendent.garhwa@gmail.com
+State,Jharkhand,2,District Jail,17,17,Dist. Jail Chatra,06541-222420,YES,YES,YES,"Dist. Jail Chatra, Po & Dist. Chatra-825401",NA,chatra8.jail@gmail.com
+State,Jharkhand,3,Sub Jail,5,1,Sub Jail Rajmahal,06426-228126,NO,YES,NO,"Sub Jail Rajmahal, Po Rajmahal, Dist. Sahibganj",NA,subjailrajmahal@gmail.com
+State,Jharkhand,3,Sub Jail,5,2,Sub Jail Tenughat,06549-230654,YES,NO,YES,"Sub Jail Tenughat, Po Tenughat R B, Dist. Bokari",NA,tenughatjail.123@gmail.com
+State,Jharkhand,3,Sub Jail,5,3,Sub Jail Khunti,06528-220853,YES,YES,YES,"Sub Jail Khunti, PO & Dist. Khunti-835210",NA,supt.khunti@gmail.com
+State,Jharkhand,3,Sub Jail,5,4,Sub Jail Ghatshila,06585-225603,NO,YES,YES,"Sub Jail Ghatshila Raghungthdih, Po Dova",Dist. East Singhbhum-832303,jailghatshila@rediffmail.com
+State,Jharkhand,3,Sub Jail,5,5,Sub Jail Ramgarh,7369016133,NO,NO,NO,"Sub Jail Ramgarh, Po Jamira",Dist. Ramgarh-825101,sj.ramgarh@gmail.com
+State,Jharkhand,4,Borstal School,1,1,"Borstal School, Daltonganj",06562-222725,YES,YES,YES,"Borstal School Daltonganj, Po Daltonganj","dist. Medininagar, Palamu-822101",supt.dal@gmail.com
+State,Jharkhand,5,Open Jail,1,1,"Open Jail cum Rehabilitation Centre, Hazaribag",06546-263408,NO,NO,NO,"Open Jail cum Rehabilitation Centre, Hazaribag,","Vill Kolhghatti-1, Po Reformatory School, Hazariba",prisonhzb@gmail.com
+State,Karnataka,1,Central Jail,8,1,"Central Jail, Bangalore",080-25733809,YES,YES,NO,"Parappana Agrahar, Bangalore",NA,cpblr.prisons-kar@gov.in
+State,Karnataka,1,Central Jail,8,2,"Central Jail, Belegum",0831-2405275,YES,YES,NO,"Hindalaga, Belgaum-591108",NA,NA
+State,Karnataka,1,Central Jail,8,3,"Central Jail, Bellary",08392-255025,YES,YES,NO,Bellary-583103,NA,NA
+State,Karnataka,1,Central Jail,8,4,"Central Jail, Bijapura",08352-272044,YES,YES,NO,Bijapur-586107,NA,NA
+State,Karnataka,1,Central Jail,8,5,"Central Jail, Kalburgi",08472-212505,YES,YES,NO,Gulbarga-585102,NA,NA
+State,Karnataka,1,Central Jail,8,6,"Central Jail, Mysore",0821-2492092,YES,YES,NO,"Ashoka Road, Mysore-570007",NA,NA
+State,Karnataka,1,Central Jail,8,7,"Central Jail, Tumkur (women central prison)",0816-2260084,NO,NO,NO,Tumkur-572101,NA,NA
+State,Karnataka,1,Central Jail,8,8,"Central Jail, Dharwad",0836-2447428,YES,YES,NO,Dharwad-580008,NA,cpdwd.prisons-kar@gov.in
+State,Karnataka,2,District Jail,19,1,"District Jail, Bidar",08482-228225,YES,YES,NO,Bidar-585401,NA,NA
+State,Karnataka,2,District Jail,19,2,"District Jail, Karwar",08382-226347,YES,YES,NO,Karwar-581301,NA,NA
+State,Karnataka,2,District Jail,19,3,"District Jail, Madikeri",08272-228462,YES,YES,NO,Madikeri-571120,NA,NA
+State,Karnataka,2,District Jail,19,4,"District Jail, Mangalore",0824-2492303,YES,YES,NO,Mangalore-575003,NA,NA
+State,Karnataka,2,District Jail,19,5,"District Jail, Raichur",08532-226131,YES,YES,NO,Raichur-584101,NA,NA
+State,Karnataka,2,District Jail,19,6,"District Jail, Shivamoga",08182-22629,YES,YES,NO,Shimoga-577201,NA,NA
+State,Karnataka,2,District Jail,19,7,"District Jail, Bagalkote",08352-272050,YES,YES,NO,Bagalkote-587101,NA,NA
+State,Karnataka,2,District Jail,19,8,"District Jail, Chitradurga",08914-234505,YES,YES,NO,Chitradurga-577501,NA,NA
+State,Karnataka,2,District Jail,19,9,"District Jail, Chamarajanagara",08352-272052,YES,YES,NO,Chamarajnagar-571313,NA,NA
+State,Karnataka,2,District Jail,19,10,"District Jail, Haveri",08352-272053,YES,YES,NO,Haveri-581110,NA,NA
+State,Karnataka,2,District Jail,19,11,"District Jail, Ramanagara",08352-272054,YES,YES,NO,Ramanagaram-571511,NA,NA
+State,Karnataka,2,District Jail,19,12,"District Jail, Tumkur",0816-2018686,YES,YES,NO,Tumkur-572101,NA,NA
+State,Karnataka,2,District Jail,19,13,"District Jail, Chikkaballapura",08352-272056,NO,NO,NO,Chikkaballapura-562101,NA,NA
+State,Karnataka,2,District Jail,19,14,"District Jail, Udupi",08352-272057,YES,NO,NO,Udupi-576101,NA,NA
+State,Karnataka,2,District Jail,19,15,"District Jail, Koppala",08352-272058,NO,NO,NO,Koppal,NA,NA
+State,Karnataka,2,District Jail,19,16,"District Jail, Chjikkamaglore",08262-222784,YES,YES,NO,Chickmaglur-577101,NA,NA
+State,Karnataka,2,District Jail,19,17,"District Jail, Hassan",08172-268621,YES,YES,NO,Hassan-573201,NA,NA
+State,Karnataka,2,District Jail,19,18,"District Jail, Kolar",08152-222301,YES,YES,NO,Kolar-563101,NA,NA
+State,Karnataka,2,District Jail,19,19,"District Jail, Mandya",08232-220233,YES,YES,NO,Mandya-571401,NA,NA
+State,Karnataka,3,Sub Jail,30,1,"Sub Jail, Allanda",08477-202997,NO,NO,NO,Alanda-585302 Gulbarga Dist.,NA,NA
+State,Karnataka,3,Sub Jail,30,2,"Sub Jail, Arasikere",08174-32718,NO,NO,NO,Arasikere-573205 Hassan Dist.,NA,NA
+State,Karnataka,3,Sub Jail,30,3,"Sub Jail, Aurad",08485-280210,NO,NO,NO,Aurad-585259 Bidar Dist.,NA,NA
+State,Karnataka,3,Sub Jail,30,4,"Sub Jail, Badami",08357-265333,NO,NO,NO,Badami-587201 Bagalkote Dist.,NA,NA
+State,Karnataka,3,Sub Jail,30,5,"Sub Jail, Bailahongala",08288-236503,NO,NO,NO,"Belgaum Dist, Bailahongala-591102",NA,NA
+State,Karnataka,3,Sub Jail,30,6,"Sub Jail, Chinthamani",NA,NO,NO,NO,Chikkaballapura Dist.,NA,NA
+State,Karnataka,3,Sub Jail,30,7,"Sub Jail, Devadurga",08531-200283,NO,NO,NO,"Devadurga-584111, Raichur Dist.",NA,NA
+State,Karnataka,3,Sub Jail,30,8,"Sub Jail, Gadag",08372-546341,NO,NO,NO,Gadag-582101,NA,NA
+State,Karnataka,3,Sub Jail,30,9,"Sub Jail, Gangavathi",08533-230609,NO,NO,NO,"Gangavathi-583337, Koppal Dist.",NA,NA
+State,Karnataka,3,Sub Jail,30,10,"Sub Jail, Gokak",08332-225056,NO,NO,NO,"Gokak-591205, Belgaum Dist.",NA,NA
+State,Karnataka,3,Sub Jail,30,11,"Sub Jail, Hadagli",08399-240664,NO,NO,NO,"Hadagali-583219, Bellary Dist.",NA,NA
+State,Karnataka,3,Sub Jail,30,12,"Sub Jail, Hospet",08394-227087,NO,NO,NO,"Hospet-583201, Bellary Dist.",NA,NA
+State,Karnataka,3,Sub Jail,30,13,"Sub Jail, Hubli",0836-235515,YES,YES,NO,"Hubli-580020, Dharwad Dist.",NA,NA
+State,Karnataka,3,Sub Jail,30,14,"Sub Jail, Humnabad",08483-270408,NO,NO,NO,"Humnabad-585330, Bidar Dist.",NA,NA
+State,Karnataka,3,Sub Jail,30,15,"Sub Jail, Jamakandi",08355-238019,NO,NO,NO,"Jamakhandi-587118, Bagalkote Dist.",NA,NA
+State,Karnataka,3,Sub Jail,30,16,"Sub Jail, Kadur",NA,NO,NO,NO,"Kadur, Chickmaglur Dist.",NA,NA
+State,Karnataka,3,Sub Jail,30,17,"Sub Jail, K R Nagar",08221-263313,NO,NO,NO,K R Nagar Mysore Dist.,NA,NA
+State,Karnataka,3,Sub Jail,30,18,"Sub Jail, Kollegala",08224-254174,NO,NO,NO,Kollegala-571440 Chamarajnagar Dist.,NA,NA
+State,Karnataka,3,Sub Jail,30,19,"Sub Jail, Lingasagoor",08537-257463,NO,NO,NO,"Lingasugur-584122, Raichur Dist.",NA,NA
+State,Karnataka,3,Sub Jail,30,20,"Sub Jail, Manvi",08538-20054,NO,NO,NO,"Manvi-584123, Raichur Dist.",NA,NA
+State,Karnataka,3,Sub Jail,30,21,"Sub Jail, Nanjangud",08221-226602,YES,YES,NO,"Nanjangudu-571301, Mysore Dist.-571302",NA,NA
+State,Karnataka,3,Sub Jail,30,22,"Sub Jail, Narasimarajapura",08266-220676,NO,NO,NO,"Narashimarajapur-577134, Chickmaglur Dist.",NA,NA
+State,Karnataka,3,Sub Jail,30,23,"Sub Jail, Sagar",08183-226503,NO,NO,NO,"Sagar-577401, Shimoga Dist.",NA,NA
+State,Karnataka,3,Sub Jail,30,24,"Sub Jail, Shorapur",08443-256038,NO,NO,NO,"Shorapur-585224, Gulbarga Dist.",NA,NA
+State,Karnataka,3,Sub Jail,30,25,"Sub Jail, Tarikere",08261-22351,NO,NO,NO,"Tarikere-577228, Chickmagalur Dist.",NA,NA
+State,Karnataka,3,Sub Jail,30,26,"Sub Jail, Tipatur",08134-252581,NO,NO,NO,"Tiptur-572132, Tumkur Dist.",NA,NA
+State,Karnataka,3,Sub Jail,30,27,"Sub Jail, Virajpet",08274-457562,NO,NO,NO,"Virajpet-571218, Kodagu Dist.",NA,NA
+State,Karnataka,3,Sub Jail,30,28,"Sub Jail, Yadagiri",08473-253317,NO,NO,NO,"Yadgiri-585201, Gulbarga Dist.",NA,NA
+State,Karnataka,3,Sub Jail,30,29,"Sub Jail, Yellapura",08419-262049,NO,NO,NO,"Yellapura-581359, North Canara Dist.",NA,NA
+State,Karnataka,3,Sub Jail,30,30,"Sub Jail, Sakaleshapura",8173253317,NO,NO,NO,Sakaleshapur Hassan Dist.,NA,NA
+State,Karnataka,4,Borstal School,1,1,Dharwad,NA,NO,NO,NO,Dharwad-580008,NA,NA
+State,Karnataka,5,Open Jail,1,1,Koramangala,NA,NO,NO,NO,"Avathi Post, Koramangala Village, Devanahalli",NA,NA
+State,Karnataka,6,Special Jail,2,1,Davanagere,08192-254446,YES,YES,NO,Davangere Dist.-577001,NA,NA
+State,Karnataka,6,Special Jail,2,2,K G F,08153-274265,NO,NO,NO,KGF Kolar Dist.-563117,NA,NA
+State,Karnataka,7,Other Jail,41,1,Ankola,NA,NO,NO,NO,"Ankola-581314, Karwar Dist.",NA,NA
+State,Karnataka,7,Other Jail,41,2,Athani,NA,NO,NO,NO,Athani-591304,NA,NA
+State,Karnataka,7,Other Jail,41,3,Bagewadi,NA,NO,NO,NO,"Bagewadi, Bijapur Dist.",NA,NA
+State,Karnataka,7,Other Jail,41,4,Bhatkal,NA,NO,NO,NO,"Batkal-581320, Karwar Dist.",NA,NA
+State,Karnataka,7,Other Jail,41,5,Buntwal,NA,NO,NO,NO,"Buntwal-574211, south Canara Dist.",NA,NA
+State,Karnataka,7,Other Jail,41,6,Chickkodi,NA,NO,NO,NO,"Chikkodi-591205, Belgaum Dist.",NA,NA
+State,Karnataka,7,Other Jail,41,7,Chincholi,NA,NO,NO,NO,"Chincholi-585307, Gulbarga Dist.",NA,NA
+State,Karnataka,7,Other Jail,41,8,Doddaballapura,NA,NO,NO,NO,Bangalore Rural Dist.,NA,NA
+State,Karnataka,7,Other Jail,41,9,Haliyal,NA,NO,NO,NO,"Haliyal-581329, North Canara Dist.",NA,NA
+State,Karnataka,7,Other Jail,41,10,Hangal,NA,NO,NO,NO,"Hanagal-581104, Haveri Dist.",NA,NA
+State,Karnataka,7,Other Jail,41,11,Harappanahalli,NA,NO,NO,NO,Davangere Dist.,NA,NA
+State,Karnataka,7,Other Jail,41,12,Hirekerur,NA,NO,NO,NO,"Hirekerur-581111, Haveri Dsit.",NA,NA
+State,Karnataka,7,Other Jail,41,13,Holenarasipura,NA,NO,NO,NO,"Holenarasipura-573211, Hassan Dist.",NA,NA
+State,Karnataka,7,Other Jail,41,14,honnavara,NA,NO,NO,NO,"Honnavar-581311, Karwar Dist.",NA,NA
+State,Karnataka,7,Other Jail,41,15,Hukkeri,NA,NO,NO,NO,"Hukkeri-591309, Belgaum Dist.",NA,NA
+State,Karnataka,7,Other Jail,41,16,Hunasuru,NA,NO,NO,NO,"Hunsur-571105, Mysore Dist.",NA,NA
+State,Karnataka,7,Other Jail,41,17,Hungund,NA,NO,NO,NO,"Hungunda-587118, Bagalkote dist.",NA,NA
+State,Karnataka,7,Other Jail,41,18,Indi,NA,NO,NO,NO,"Indi-586209, Bijapur dist.",NA,NA
+State,Karnataka,7,Other Jail,41,19,Karkala,NA,NO,NO,NO,"Karkal-574104, Mangalore Dist.",NA,NA
+State,Karnataka,7,Other Jail,41,20,Khanapura,NA,NO,NO,NO,"Khanapur-591302, Belgaum Dist.",NA,NA
+State,Karnataka,7,Other Jail,41,21,Kudalgi,NA,NO,NO,NO,"Kundlagi-583135, Bellary Dist.",NA,NA
+State,Karnataka,7,Other Jail,41,22,Kumata,NA,NO,NO,NO,"Kumta-581343, Karwar Dist.",NA,NA
+State,Karnataka,7,Other Jail,41,23,Kundapura,NA,NO,NO,NO,"Kundapur-576201, Udupi Dist.",NA,NA
+State,Karnataka,7,Other Jail,41,24,kundgola,NA,NO,NO,NO,"Kundgol-581113, Dharwad Dist.",NA,NA
+State,Karnataka,7,Other Jail,41,25,Kustagi,NA,NO,NO,NO,"Kustagi-584121, Bellary Dist.",NA,NA
+State,Karnataka,7,Other Jail,41,26,Madugiri,NA,NO,NO,NO,"Madhugiri-572132, tumkur Dist.",NA,NA
+State,Karnataka,7,Other Jail,41,27,Muddebhihal,NA,NO,NO,NO,"Muddebhihal-586212, Bijapur Dist.",NA,NA
+State,Karnataka,7,Other Jail,41,28,Navalagund,NA,NO,NO,NO,"Navalagunda-582208, Dharwad Dist.",NA,NA
+State,Karnataka,7,Other Jail,41,29,Puttur,NA,NO,NO,NO,"Puttur-574201, South Canara Dist.",NA,NA
+State,Karnataka,7,Other Jail,41,30,Raibagh,NA,NO,NO,NO,"Raibagh-591317, Belgaum Dist.",NA,NA
+State,Karnataka,7,Other Jail,41,31,Ramadurga,NA,NO,NO,NO,"Ramadurga-591123, Belgaum Dist.",NA,NA
+State,Karnataka,7,Other Jail,41,32,Ranebennur,NA,NO,NO,NO,"Ranibennur-581115, Haveri Dist.",NA,NA
+State,Karnataka,7,Other Jail,41,33,Rona,NA,NO,NO,NO,"Rona-582209, Gadag Dist.",NA,NA
+State,Karnataka,7,Other Jail,41,34,Savadatti,NA,NO,NO,NO,"Saundatti-591128, Belgaum Dist.",NA,NA
+State,Karnataka,7,Other Jail,41,35,Sedam,NA,NO,NO,NO,"Sedam-585222, Gulbarga Dist.",NA,NA
+State,Karnataka,7,Other Jail,41,36,Shigom,NA,NO,NO,NO,"Siggav-581205, Haveri Dist.",NA,NA
+State,Karnataka,7,Other Jail,41,37,Shirahatti,NA,NO,NO,NO,"Shiratti-582120, Gadag Dist.",NA,NA
+State,Karnataka,7,Other Jail,41,38,Siddapur,NA,NO,NO,NO,"Siddapura-581355, Karwar Dist.",NA,NA
+State,Karnataka,7,Other Jail,41,39,Sindagi,NA,NO,NO,NO,"Sindagi-586328, Bijapur Dist.",NA,NA
+State,Karnataka,7,Other Jail,41,40,Sirsi,NA,NO,NO,NO,"Sirsi-581401, North Canara Dist.",NA,NA
+State,Karnataka,7,Other Jail,41,41,"Juvenile Jails, Dharwad",NA,NO,NO,NO,Dharwad-580008,NA,NA
+State,Kerala,1,Central Jail,3,1,"Central Jail, Thiruvananthapuram",0471-2342874,NO,NO,NO,"Central Jail, Poojappura, Thiruvananathapuram-012",NA,centralprisontvm@gmail.com
+State,Kerala,1,Central Jail,3,2,"Central Jail, Viyyur",0487-2337907,YES,NO,NO,"Central Jail, Viyyur, Thrissur-680010",NA,centralprisonviyyur@gmail.com
+State,Kerala,1,Central Jail,3,3,"Central Jail, Kannur",0497-2747180,YES,NO,NO,"Central Jail, Kannur-670004",NA,cpkannur@gmail.com
+State,Kerala,2,District Jail,11,1,"District Jail, Thiruvananthapuram",0471-2344090,YES,NO,NO,"District Jail, Poojappura, Thiruvananthapuram",NA,districtjail.tvpm@gmail.com
+State,Kerala,2,District Jail,11,2,"District Jail, Kollam",0474-2794819,NO,NO,NO,"District Jail, Kollam-691001",NA,districtjailkollam@gmail.com
+State,Kerala,2,District Jail,11,3,"District Jail, Kozhikode",0495-2723003,NO,NO,NO,"District Jail, Kozhikode-673004",NA,supdtdistjailkkd@gmail.com
+State,Kerala,2,District Jail,11,4,"District Jail, Ernakulam",0484-2428520,YES,NO,NO,"District Jail, Ernakulam-632018",NA,districtjailernakulam@gmail.com
+State,Kerala,2,District Jail,11,5,"District Jail, Kannur",0497-2447320,NO,NO,NO,"District Jail, Kannur-670004",NA,NA
+State,Kerala,2,District Jail,11,6,"District Jail, Viyyur",0487-2336060,YES,NO,NO,"District Jail, Viyyur-680010",NA,ssjviyyur@gmail.com
+State,Kerala,2,District Jail,11,7,"District Jail, Alappuzha",0477-2253422,NO,NO,NO,"District Jail, Alappuzha-688001",NA,venicejail@gmail.com
+State,Kerala,2,District Jail,11,8,"District Jail, Kottayam",0481-2560572,NO,NO,NO,"District Jail, Kottayam-686602",NA,ssjkottayam@gmail.com
+State,Kerala,2,District Jail,11,9,"District Jail, Pathanamthitta",0468-2222346,NO,NO,NO,"District Jail, Pathanamthitta-686645",NA,subjailpta@gmail.com
+State,Kerala,2,District Jail,11,10,"District Jail, Mananthavady",04935-274900,NO,NO,NO,"District Jail, Mananthavady, Wayand-670645",NA,sjmananthavady@gmail.com
+State,Kerala,2,District Jail,11,11,"District Jail, Hosdurg",0467-2206403,NO,NO,NO,"District Jail, Hosdurg, Kasargod-671531",NA,sjhosdurg1@gmail.com
+State,Kerala,3,Sub Jail,16,1,"Sub Jail, Aluva",0484-2623169,NO,NO,NO,"Sub Jail, Aluva, Ernakulam-683101",NA,subjailaluva@gmail.com
+State,Kerala,3,Sub Jail,16,2,"Sub Jail, Chavakkad",0487-2507516,YES,NO,NO,"Sub Jail, Chavakkad, Thrissur-680506",NA,subjailchavakkad@gmail.com
+State,Kerala,3,Sub Jail,16,3,"Sub Jail, Tirur",0494-2423120,NO,NO,NO,"Sub Jail, Tirur-676101",NA,tirusubjail@gmail.com
+State,Kerala,3,Sub Jail,16,4,"Sub Jail, Ponnani",0494-2667400,NO,NO,NO,"Sub Jail, Ponnani, Malappuram-679583",NA,supdtsubjailponnani@gmail.com
+State,Kerala,3,Sub Jail,16,5,"Sub Jail, Peermade",04869-232089,NO,NO,NO,"Sub Jail, Peermade, Idukki-685531",NA,subjailpeermade@gmail.com
+State,Kerala,3,Sub Jail,16,6,"Sub Jail, Perinthalmanna",04933-227453,NO,NO,NO,"Sub Jail, Perinthalmanna, Mallapuram-679321",NA,subjailpmna@gmail.com
+State,Kerala,3,Sub Jail,16,7,"Sub Jail, Ottappalam",0466-2244285,NO,NO,NO,"Sub Jail, Ottappalam, Palakkad-679101",NA,sjottapalam@gmail.com
+State,Kerala,3,Sub Jail,16,8,"Sub Jail, Alathur",04922-222264,NO,NO,NO,"Sub Jail, Alathur, Palakkad-678541",NA,supdtsubjailalathur@gmail.com
+State,Kerala,3,Sub Jail,16,9,"Sub Jail, Attingal",0470-2622343,YES,NO,NO,"Sub Jail, Attingal, Trivandrum-695101",NA,subjailatl@gmail.com
+State,Kerala,3,Sub Jail,16,10,"Sub Jail, Kannur",0497-2705179,YES,NO,NO,"Sub Jail, Kannur-673004",NA,subjailkannurrajank@yahoo.in
+State,Kerala,3,Sub Jail,16,11,"Sub Jail, Vadakara",0496-2522975,NO,NO,NO,"Sub Jail, Vadakara, Kozhikode-673101",NA,subjailvadakara@gmail.com
+State,Kerala,3,Sub Jail,16,12,"Sub Jail, Koyilandy",0496-2620660,NO,NO,NO,"Sub Jail, Koyilandy, Kozhikode-673305",NA,subjailkoyilandy@gmail.com
+State,Kerala,3,Sub Jail,16,13,"Sub Jail, Ernakulam",0484-2394349,YES,NO,NO,"Sub Jail, Ernakulam-632018",NA,ernakulamsubjail@gmail.com
+State,Kerala,3,Sub Jail,16,14,"Sub Jail, Mattancherry",0484-24493,YES,NO,NO,"Sub Jail, Mattancherry, Ernakulam-682002",NA,subjailmattancherry@gmail.com
+State,Kerala,3,Sub Jail,16,15,"Sub Jail, Meenachil (Pala)",04822-200940,YES,NO,NO,"Sub Jail, Meenachil (Pala) Kottayam-686575",NA,subjailmeenachil@gmail.com
+State,Kerala,3,Sub Jail,16,16,Viyyur,0487-2323855,NO,NO,NO,"Sub Jail, Viyyur, Thrissur-680010",NA,subjailviyyur@gmail.com
+State,Kerala,4,Women Jail,3,1,"Women's Prison, Trivandurm",0471-2452781,NO,NO,NO,"Women's Prison, Attakulangara, Trivandrum",NA,vanithajail@gmail.com
+State,Kerala,4,Women Jail,3,2,"Women's Prison, Kannur",0497-2748310,YES,NO,NO,"Women's Prison, Kannur-670004",NA,womensprisonknr@gmail.com
+State,Kerala,4,Women Jail,3,3,"Women's Prison, Viyyur",0487-2323336,NO,NO,NO,"Women's Prison, Viyyur, Thrissur-680010",NA,womensprisonviyyur@gmail.com
+State,Kerala,5,Borstal School,1,1,"Borstal School, Kakkanad",0484-2421366,NO,NO,NO,"Borstal School, Thrikkakara, Kakkanad",Ernakulam-682037,borstalschoolknadu@gmail.com
+State,Kerala,6,Open Jail,3,1,"Open Jail, Nettukaltheri",0472-2850044,NO,NO,NO,"Open Jail, Kattoor, Po Nettukaltheri, Tvpm-695574",NA,optvpm@gmail.com
+State,Kerala,6,Open Jail,3,2,"Open Jail, Cheemeni",0467-2251390,NO,NO,NO,"Open Jail, Cheemeni, Kasargod-671313",NA,openprisoncheemeni@gmail.com
+State,Kerala,6,Open Jail,3,3,"Women's Open Prison, Poojappura",0471-2452781,NO,NO,NO,"Women's Open Prison, Poojappura, Tvpm-695012",NA,vanithajail@gmail.com
+State,Kerala,7,Special Jail,16,1,"Special Sub Jail, Kannur",0497-2748320,YES,NO,NO,"Special Sub Jail, Kannur-670004",NA,splsubjailkannur@gmail.com
+State,Kerala,7,Special Jail,16,2,"Special Sub Jail, Trivandrum",0471-2345087,NO,NO,NO,"Special Sub Jail, Poojappura, Trivandrum-695012",NA,ssjtvpm@gmail.com
+State,Kerala,7,Special Jail,16,3,"Special Sub Jail, Neyyattinkara",0471-2222596,NO,NO,NO,"Special Sub Jail, Neyyattinkara, Trivandrum-695121",NA,NA
+State,Kerala,7,Special Jail,16,4,"Special Sub Jail, Thalassery",0490-2320570,YES,NO,NO,"Special Sub Jail, Thalassery, Kannur-670101",NA,splsubjailtly@gmail.com
+State,Kerala,7,Special Jail,16,5,"Special Sub Jail, Kottarakkara",0474-2452652,NO,NO,NO,"Special Sub Jail, Kottarakkara-691531",NA,subjailktr@gmail.com
+State,Kerala,7,Special Jail,16,6,"Special Sub Jail, Kasargod",04994-230281,NO,NO,NO,"Special Sub Jail, Kasargod-680021",NA,subjailksd@gmail.com
+State,Kerala,7,Special Jail,16,7,"Special Sub Jail, Mavelikkara",0479-2302237,NO,NO,NO,"Special Sub Jail, Mavelikkara-690101",NA,subjailmvk@gmail.com
+State,Kerala,7,Special Jail,16,8,"Special Sub Jail, Muvattupuzha",0485-2832372,NO,NO,NO,"Special Sub Jail, Muvattupuzha, Ernakulam-686661",NA,subjailmuvattupuzha@gmail.com
+State,Kerala,7,Special Jail,16,9,"Special Sub Jail, Kozhikode",0495-2720391,NO,NO,NO,"Special Sub Jail, Kozhikode-673004",NA,ssjkkd2009@gmail.com
+State,Kerala,7,Special Jail,16,10,"Special Sub Jail, Manjeri",0483-2766897,NO,NO,NO,"Special Sub Jail, Manjeri, Malappuram-676121",NA,subjailmanjeri@gmail.com
+State,Kerala,7,Special Jail,16,11,"Special Sub Jail, Palakkad",0491-2534376,NO,NO,NO,"Special Sub Jail, Palakkad-678001",NA,subjailpkd2534@gmail.com
+State,Kerala,7,Special Jail,16,12,"Special Sub Jail, Ponkunnam",04828-221290,NO,NO,NO,"Special Sub Jail, Ponkunnam, Kottayam-686506",NA,subjailponkunnam@gmail.com
+State,Kerala,7,Special Jail,16,13,"Special Sub Jail, Vythiri",04936-255217,NO,NO,NO,"Special Sub Jail, Vythiri, Wayand-673576",NA,subjailvythiri@gmail.com
+State,Kerala,7,Special Jail,16,14,"Special Sub Jail, Chittur",0492-3222982,NO,NO,NO,"Special Sub Jail, Chittur, Palakkad-678101",NA,subjailchittur@gmail.com
+State,Kerala,7,Special Jail,16,15,"Special Sub Jail, Devikulam",04865-264226,NO,NO,NO,"Special Sub Jail, Devikulam, Idukki-685613",NA,sjdevikulam@gmail.com
+State,Kerala,7,Special Jail,16,16,"Special Sub Jail, Irinjalakkuda",0480-2822541,YES,NO,NO,"Special Sub Jail, Irinjalakkuda, Thrissur-680121",NA,NA
+State,Kerala,8,Other Jail,1,1,"State Inst. Of Correctional Admn., Tvpm",0471-2345754,NO,NO,NO,"Admn. & DIG, South Zone, Thevancode, Kalliyil PO.,","Kattakkada, Tvpm",sicatvm@gmail.com
+State,Madhya Pradesh,1,Central Jail,11,1,Central Jail Indore,0731-2538141/2540020,YES,NO,NO,Central Jail Indore,NA,NA
+State,Madhya Pradesh,1,Central Jail,11,2,Central Jail Gwalior,0751-2481921/2481552,YES,NO,NO,Central Jail Gwalior,NA,NA
+State,Madhya Pradesh,1,Central Jail,11,3,Central Jail Jabalpur,0761/2621752/2620016,YES,NO,NO,Central Jail Jabalpur,NA,NA
+State,Madhya Pradesh,1,Central Jail,11,4,Central Jail Bhopal,755-2742250/2742263,YES,NO,NO,Central Jail Bhopal,NA,NA
+State,Madhya Pradesh,1,Central Jail,11,5,Central Jail Rewa,7662-252563/255335,NO,NO,NO,Central Jail Rewa,NA,NA
+State,Madhya Pradesh,1,Central Jail,11,6,Central Jail Satna,07672-251490/251164,NO,NO,NO,"Central Jail Satna, Satna, MP",NA,NA
+State,Madhya Pradesh,1,Central Jail,11,7,Central Jail Ujjain,0734-2581008/2581020,YES,NO,NO,"Central Jail Ujjain, Ujjain, MP",NA,NA
+State,Madhya Pradesh,1,Central Jail,11,8,Central Jail Sagar,07582-261245/240060,YES,NO,NO,"Central Jail Sagar, Sagar MP",NA,NA
+State,Madhya Pradesh,1,Central Jail,11,9,Central Jail Narsinghpur,07792-236330,YES,NO,NO,"Central Jail Narsinghpur, MP",NA,NA
+State,Madhya Pradesh,1,Central Jail,11,10,Central Jail Barwani,07290-222058,YES,NO,NO,"Central Jail Barwani, Barwani MP",NA,NA
+State,Madhya Pradesh,1,Central Jail,11,11,Central Jail Hoshangabad,07574-252428/254768,NO,NO,NO,Central Jail Hoshangabad,NA,NA
+State,Madhya Pradesh,2,District Jail,39,1,District Jail Alirajpur,07394-233512,NO,NO,NO,"District Jail Alirajpur, Alirajpur, MP",NA,NA
+State,Madhya Pradesh,2,District Jail,39,2,District Jail Indore,0731-2701528,YES,NO,NO,"District Jail Indore, Indore, MP",NA,NA
+State,Madhya Pradesh,2,District Jail,39,3,District Jail Khandwa,0733-2224172,YES,NO,NO,"District Jail Khandwa, Khandwa, MP",NA,NA
+State,Madhya Pradesh,2,District Jail,39,4,District Jail Chhatarpur,07682-248210,YES,NO,NO,"District Jail Chhatarpur, Chhatarpur, MP",NA,NA
+State,Madhya Pradesh,2,District Jail,39,5,District Jail Chhindwara,07162-247325,YES,NO,NO,"District Jail Chhindwara, Chhindwara, MP",NA,NA
+State,Madhya Pradesh,2,District Jail,39,6,District Jail Jhabua,07392-243321,NO,NO,NO,"District Jail Jhabua, Jhabua, MP",NA,NA
+State,Madhya Pradesh,2,District Jail,39,7,District Jail Tikamgarh,07683-242324,NO,NO,NO,"District Jail Tikamgarh, Tikamgarh, MP",NA,NA
+State,Madhya Pradesh,2,District Jail,39,8,District Jail Datia,07522-237779,NO,NO,NO,"District Jail Datia, Datia, MP",NA,NA
+State,Madhya Pradesh,2,District Jail,39,9,District Jail Damoh,07812-222184,NO,NO,NO,"District Jail Damoh, Damoh, MP",NA,NA
+State,Madhya Pradesh,2,District Jail,39,10,District Jail Betul,07141-234247,NO,NO,NO,"District Jail Betul, Betul, MP",NA,NA
+State,Madhya Pradesh,2,District Jail,39,11,District Jail Rajgarh,07372-255030,NO,NO,NO,"District Jail Rajgarh, Rajgarh, MP",NA,NA
+State,Madhya Pradesh,2,District Jail,39,12,District Jail Shahdol,07652-245207,NO,NO,NO,"District Jail Shahdol, Shahdol, MP",NA,NA
+State,Madhya Pradesh,2,District Jail,39,13,District Jail Ratlam,07412-236111,NO,NO,NO,"District Jail Ratlam, Ratlam MP",NA,NA
+State,Madhya Pradesh,2,District Jail,39,14,District Jail Shajapur,07364-227476,NO,NO,NO,"District Jail Shajapur, Shajapur, MP",NA,NA
+State,Madhya Pradesh,2,District Jail,39,15,District Jail Dhar,07292-222203,NO,NO,NO,"District Jail Dhar, Dhar, MP",NA,NA
+State,Madhya Pradesh,2,District Jail,39,16,District Jail Seoni,07692-228114/228065,NO,NO,NO,"District Jail Seoni, Seoni, MP",NA,NA
+State,Madhya Pradesh,2,District Jail,39,17,District Jail Sidhi,07822-251510/252212,NO,NO,NO,"District Jail Sidhi, Sidhi, MP",NA,NA
+State,Madhya Pradesh,2,District Jail,39,18,District Jail Mandsour,07422-244226,NO,NO,NO,"District Jail Mandsour, Mandsour, MP",NA,NA
+State,Madhya Pradesh,2,District Jail,39,19,District Jail Murena,07532-226258,NO,NO,NO,"District Jail Murena, Murena, MP",NA,NA
+State,Madhya Pradesh,2,District Jail,39,20,District Jail Balaghat,07632-240359,NO,NO,NO,"District Jail Balaghat, Balaghat, MP",NA,NA
+State,Madhya Pradesh,2,District Jail,39,21,District Jail Guna,07542-252628,NO,NO,NO,"District Jail Guna, Guna MP",NA,NA
+State,Madhya Pradesh,2,District Jail,39,22,District Jail Shivpuri,07492-234153,NO,NO,NO,"District Jail Shivpuri, Shivpuri, MP",NA,NA
+State,Madhya Pradesh,2,District Jail,39,23,District Jail Sehore,07562-226480,NO,NO,NO,"District Jail Sehore, Sehore, MP",NA,NA
+State,Madhya Pradesh,2,District Jail,39,24,District Jail Dewas,07272-282850/220670,NO,NO,NO,"District Jail Dewas, Dewas, MP",NA,NA
+State,Madhya Pradesh,2,District Jail,39,25,District Jail Bhind,07534-230802,NO,NO,NO,"District Jail Bhind, Bhind, MP",NA,NA
+State,Madhya Pradesh,2,District Jail,39,26,District Jail Panna,07732-252012,NO,NO,NO,"District Jail Panna, Panna, MP",NA,NA
+State,Madhya Pradesh,2,District Jail,39,27,District Jail Vidisha,07592-232862,NO,NO,NO,"District Jail Vidisha, Vidisha, MP",NA,NA
+State,Madhya Pradesh,2,District Jail,39,28,District Jail Khargone,07282-235287,NO,NO,NO,"District Jail Khargone, Khargone, MP",NA,NA
+State,Madhya Pradesh,2,District Jail,39,29,District Jail Raisen,07482-280432,NO,NO,NO,"District Jail Raisen, Raisen, MP",NA,NA
+State,Madhya Pradesh,2,District Jail,39,30,District Jail Mandla,07642-251052,NO,NO,NO,"District Jail Mandla, Mandla, MP",NA,NA
+State,Madhya Pradesh,2,District Jail,39,31,District Jail Katni,07622-262215,NO,NO,NO,"District Jail Katni, Katni, MP",NA,NA
+State,Madhya Pradesh,2,District Jail,39,32,District Jail Neemuch,07423-226668,NO,NO,NO,"District Jail Neemuch, Neemuch, MP",NA,NA
+State,Madhya Pradesh,2,District Jail,39,33,District Jail Ashoknagar,07543-220756,NO,NO,NO,"District Jail Ashoknagar, Ashoknagar, MP",NA,NA
+State,Madhya Pradesh,2,District Jail,39,34,District Jail Sheopur Kalan,07530-220573,NO,NO,NO,"District Jail Sheopur Kalan, Sheopur Kalan, MP",NA,NA
+State,Madhya Pradesh,2,District Jail,39,35,District Jail Baidhan,07805-233191/281024,NO,NO,NO,"District Jail Baidhan, Baidhan, MP",NA,NA
+State,Madhya Pradesh,2,District Jail,39,36,District Jail Umaria,07653-222808/222321,NO,NO,NO,"District Jail Umaria, Umaria, MP",NA,NA
+State,Madhya Pradesh,2,District Jail,39,37,District Jail Harda,07577-295162,NO,NO,NO,"District Jail Harda, Harda, MP",NA,NA
+State,Madhya Pradesh,2,District Jail,39,38,District Jail Dindori,07644-234373,NO,NO,NO,"District Jail Dindori, Dindori, MP",NA,NA
+State,Madhya Pradesh,2,District Jail,39,39,District Jail Bhopal,0755-2551932,NO,NO,NO,"District Jail Bhopal, Bhopal, MP",NA,NA
+State,Madhya Pradesh,3,Sub Jail,72,1,Sub Jail Kannod,07273-287742/222306,NO,NO,NO,"Sub Jail Kannod, Kannod, MP",NA,NA
+State,Madhya Pradesh,3,Sub Jail,72,2,Sub Jail Garoh,07425-238248,NO,NO,NO,"Sub Jail Garoh, Garoh, MP",NA,NA
+State,Madhya Pradesh,3,Sub Jail,72,3,Sub Jail Jawra,07414-229147,NO,NO,NO,"Sub Jail Jawra, Jawra, MP",NA,NA
+State,Madhya Pradesh,3,Sub Jail,72,4,Sub Jail Jobat,07393-288229,NO,NO,NO,"Sub Jail Jobat, Jobat, MP",NA,NA
+State,Madhya Pradesh,3,Sub Jail,72,5,Sub Jail Tarana,07369-236070,NO,NO,NO,"Sub Jail Tarana, Tarana, MP",NA,NA
+State,Madhya Pradesh,3,Sub Jail,72,6,Sub Jail Narsingharh,07375-245543,NO,NO,NO,"Sub Jail Narsingharh, Narsingharh, MP",NA,NA
+State,Madhya Pradesh,3,Sub Jail,72,7,Sub Jail Nagoud,07673-232237,NO,NO,NO,"Sub Jail Nagoud, Nagoud, MP",NA,NA
+State,Madhya Pradesh,3,Sub Jail,72,8,Sub Jail Pipania,07576-224424,NO,NO,NO,"Sub Jail Pipania, Pipania, MP",NA,NA
+State,Madhya Pradesh,3,Sub Jail,72,9,Sub Jail Dabra,07524-225160,NO,NO,NO,"Sub Jail Dabra, Dabra, MP",NA,NA
+State,Madhya Pradesh,3,Sub Jail,72,10,Sub Jail Budhar,07652-260717,NO,NO,NO,"Sub Jail Budhar, Budhar, MP",NA,NA
+State,Madhya Pradesh,3,Sub Jail,72,11,Sub Jail Begamganj,07487-272250,NO,NO,NO,"Sub Jail Begamganj, Begamganj, MP",NA,NA
+State,Madhya Pradesh,3,Sub Jail,72,12,Sub Jail Bijawar,07608-253243,NO,NO,NO,"Sub Jail Bijawar, Bijawar, MP",NA,NA
+State,Madhya Pradesh,3,Sub Jail,72,13,Sub Jail Mandleshwar,07283-233444,NO,NO,NO,"Sub Jail Mandleshwar, Mandleshwar, MP",NA,NA
+State,Madhya Pradesh,3,Sub Jail,72,14,Sub Jail Mahidpur,07365-231095,NO,NO,NO,"Sub Jail Mahidpur, Mahidpur, MP",NA,NA
+State,Madhya Pradesh,3,Sub Jail,72,15,Sub Jail Maihar,07674-232130,NO,NO,NO,"Sub Jail Maihar, Maihar, MP",NA,NA
+State,Madhya Pradesh,3,Sub Jail,72,16,Sub Jail Sabalgarh,07536-252379,NO,NO,NO,"Sub Jail Sabalgarh, Sabalgarh, MP",NA,NA
+State,Madhya Pradesh,3,Sub Jail,72,17,Sub Jail Sardarpur,07296-235300,NO,NO,NO,"Sub Jail Sardarpur, Sardarpur, MP",NA,NA
+State,Madhya Pradesh,3,Sub Jail,72,18,Sub Jail Sihora,07624-230597,NO,NO,NO,"Sub Jail Sihora, Sihora, MP",NA,NA
+State,Madhya Pradesh,3,Sub Jail,72,19,Sub Jail Sendhwa,07281-222093,NO,NO,NO,"Sub Jail Sendhwa, Sendhwa, MP",NA,NA
+State,Madhya Pradesh,3,Sub Jail,72,20,Sub Jail Khachrod,07366-274800,NO,NO,NO,"Sub Jail Khachrod, Khachrod, MP",NA,NA
+State,Madhya Pradesh,3,Sub Jail,72,21,Sub Jail Picchore,07496-245632,NO,NO,NO,"Sub Jail Picchore, Picchore, MP",NA,NA
+State,Madhya Pradesh,3,Sub Jail,72,22,Sub Jail Waraseoni,07633-253384-253280,NO,NO,NO,"Sub Jail Waraseoni, Waraseoni, MP",NA,NA
+State,Madhya Pradesh,3,Sub Jail,72,23,Sub Jail Lahaar,07529-252462,NO,NO,NO,"Sub Jail Lahaar, Lahaar, MP",NA,NA
+State,Madhya Pradesh,3,Sub Jail,72,24,Sub Jail Mahgaon,07527-255377,NO,NO,NO,"Sub Jail Mahgaon, Mahgaon, MP",NA,NA
+State,Madhya Pradesh,3,Sub Jail,72,25,Sub Jail Lavkushnagar,07687-251273,NO,NO,NO,"Sub Jail Lavkushnagar, Lavkushnagar, MP",NA,NA
+State,Madhya Pradesh,3,Sub Jail,72,26,Sub Jail Amarwara,07167-223250,NO,NO,NO,"Sub Jail Amarwara, Amarwara, MP",NA,NA
+State,Madhya Pradesh,3,Sub Jail,72,27,Sub Jail Seoni Malwa,07570-220008,NO,NO,NO,"Sub Jail Seoni Malwa, Seoni Malwa, MP",NA,NA
+State,Madhya Pradesh,3,Sub Jail,72,28,Sub Jail Multai,07147-224541,NO,NO,NO,"Sub Jail Multai, Multai, MP",NA,NA
+State,Madhya Pradesh,3,Sub Jail,72,29,Sub Jail Baihar,07636-256482,NO,NO,NO,"Sub Jail Baihar, Baihar, MP",NA,NA
+State,Madhya Pradesh,3,Sub Jail,72,30,Sub Jail Sarangpur,07371-222004/291080,NO,NO,NO,"Sub Jail Sarangpur, Sarangpur, MP",NA,NA
+State,Madhya Pradesh,3,Sub Jail,72,31,Sub Jail Lakhnadon,07690-240750,NO,NO,NO,"Sub Jail Lakhnadon, Lakhnadon, MP",NA,NA
+State,Madhya Pradesh,3,Sub Jail,72,32,Sub Jail Nasrullaganj,07563-276288,NO,NO,NO,"Sub Jail Nasrullaganj, Nasrullaganj, MP",NA,NA
+State,Madhya Pradesh,3,Sub Jail,72,33,Sub Jail  Bagli,07271-290985/275771,NO,NO,NO,"Sub Jail  Bagli, Bagli, MP",NA,NA
+State,Madhya Pradesh,3,Sub Jail,72,34,Sub Jail Kolaras,07494-242154,NO,NO,NO,"Sub Jail Kolaras, Kolaras, MP",NA,NA
+State,Madhya Pradesh,3,Sub Jail,72,35,Sub Jail  Mahow,07324-291800,NO,NO,NO,"Sub Jail  Mahow, Mahow, MP",NA,NA
+State,Madhya Pradesh,3,Sub Jail,72,36,Sub Jail Depalpur,07322-220555,NO,NO,NO,"Sub Jail Depalpur, Depalpur, MP",NA,NA
+State,Madhya Pradesh,3,Sub Jail,72,37,Sub Jail Sailana,07413-278583,NO,NO,NO,"Sub Jail Sailana, Sailana, MP",NA,NA
+State,Madhya Pradesh,3,Sub Jail,72,38,Sub Jail Gohad,07539-222413,NO,NO,NO,"Sub Jail Gohad, Gohad, Mp",NA,NA
+State,Madhya Pradesh,3,Sub Jail,72,39,Sub Jail Nowgaon,07685-256667,NO,NO,NO,"Sub Jail Nowgaon, Nowgaon, MP",NA,NA
+State,Madhya Pradesh,3,Sub Jail,72,40,Sub Jail Patan,07621-294001,NO,NO,NO,"Sub Jail Patan, Patan, MP",NA,NA
+State,Madhya Pradesh,3,Sub Jail,72,41,Sub Jail Jawad,07420-232976,NO,NO,NO,"Sub Jail Jawad, Jawad, MP",NA,NA
+State,Madhya Pradesh,3,Sub Jail,72,42,Sub Jail Jora,07537-245420,NO,NO,NO,"Sub Jail Jora, Jora, MP",NA,NA
+State,Madhya Pradesh,3,Sub Jail,72,43,Sub Jail Kasrawad,07285-231361,NO,NO,NO,"Sub Jail Kasrawad, Kasrawad, MP",NA,NA
+State,Madhya Pradesh,3,Sub Jail,72,44,Sub Jail Saner,07321-203951,NO,NO,NO,"Sub Jail Saner, Saner, MP",NA,NA
+State,Madhya Pradesh,3,Sub Jail,72,45,Sub Jail Jatara,07681-254356,NO,NO,NO,"Sub Jail Jatara, Jatara, MP",NA,NA
+State,Madhya Pradesh,3,Sub Jail,72,46,Sub Jail Ambah,07538-255235,NO,NO,NO,"Sub Jail Ambah, Ambah, MP",NA,NA
+State,Madhya Pradesh,3,Sub Jail,72,47,Sub Jail Niwari,07680-232476,NO,NO,NO,"Sub Jail Niwari, Niwari, MP",NA,NA
+State,Madhya Pradesh,3,Sub Jail,72,48,Sub Jail Beohari,07650-262111/262430,NO,NO,NO,"Sub Jail Beohari, Beohari, MP",NA,NA
+State,Madhya Pradesh,3,Sub Jail,72,49,Sub Jail Karera,07493-253309,NO,NO,NO,"Sub Jail Karera, Karera, MP",NA,NA
+State,Madhya Pradesh,3,Sub Jail,72,50,Sub Jail Goharganj,07480-274393,NO,NO,NO,"Sub Jail Goharganj, Goharganj, MP",NA,NA
+State,Madhya Pradesh,3,Sub Jail,72,51,Sub Jail Sujalpur,07360-215506,NO,NO,NO,"Sub Jail Sujalpur, Sujalpur, MP",NA,NA
+State,Madhya Pradesh,3,Sub Jail,72,52,Sub Jail Agar,07362-258646,NO,NO,NO,"Sub Jail Agar, Agar, MP",NA,NA
+State,Madhya Pradesh,3,Sub Jail,72,53,Sub Jail bareli,07486-231260,NO,NO,NO,"Sub Jail bareli, Bareli, MP",NA,NA
+State,Madhya Pradesh,3,Sub Jail,72,54,Sub Jail Hata,07604-264030,NO,NO,NO,"Sub Jail Hata, Hata, MP",NA,NA
+State,Madhya Pradesh,3,Sub Jail,72,55,Sub Jail Lateri,07590-276200,NO,NO,NO,"Sub Jail Lateri, Lateri, MP",NA,NA
+State,Madhya Pradesh,3,Sub Jail,72,56,Sub Jail Ganjbasoda,07594-223670,NO,NO,NO,"Sub Jail Ganjbasoda, Ganjbasoda, MP",NA,NA
+State,Madhya Pradesh,3,Sub Jail,72,57,Sub Jail Sewda,07521-280438,NO,NO,NO,"Sub Jail Sewda, Sewda, MP",NA,NA
+State,Madhya Pradesh,3,Sub Jail,72,58,Sub Jail Pohari,07490-288999,NO,NO,NO,"Sub Jail Pohari, Pohari, MP",NA,NA
+State,Madhya Pradesh,3,Sub Jail,72,59,Sub Jail Khurai,07581-242395,NO,NO,NO,"Sub Jail Khurai, Khurai, MP",NA,NA
+State,Madhya Pradesh,3,Sub Jail,72,60,Sub Jail Susner,07361-233859,NO,NO,NO,"Sub Jail Susner, Susner, MP",NA,NA
+State,Madhya Pradesh,3,Sub Jail,72,61,Sub Jail Dharampuri,07291-265130/280188,NO,NO,NO,"Sub Jail Dharampuri, Dharampuri, MP",NA,NA
+State,Madhya Pradesh,3,Sub Jail,72,62,Sub Jail Barwaha,07280-200412,NO,NO,NO,"Sub Jail Barwaha, Barwaha, MP",NA,NA
+State,Madhya Pradesh,3,Sub Jail,72,63,Sub Jail Mauganj,07663-270764/203477,NO,NO,NO,"Sub Jail Mauganj, Mauganj, MP",NA,NA
+State,Madhya Pradesh,3,Sub Jail,72,64,Sub Jail Rehli,07585-200900,NO,NO,NO,"Sub Jail Rehli, Rehli, MP",NA,NA
+State,Madhya Pradesh,3,Sub Jail,72,65,Sub Jail Chachaura,07546-240980,NO,NO,NO,"Sub Jail Chachaura, Chachaura, MP",NA,NA
+State,Madhya Pradesh,3,Sub Jail,72,66,Sub Jail Banda,07583-280512,NO,NO,NO,"Sub Jail Banda, Banda, MP",NA,NA
+State,Madhya Pradesh,3,Sub Jail,72,67,Sub Jail Pawai,07733-282224,NO,NO,NO,"Sub Jail Pawai, Pawai, MP",NA,NA
+State,Madhya Pradesh,3,Sub Jail,72,68,Sub Jail Manawar,07294-281296,NO,NO,NO,"Sub Jail Manawar, Manawar, MP",NA,NA
+State,Madhya Pradesh,3,Sub Jail,72,69,Sub Jail Badnagar,07295-290062,NO,NO,NO,"Sub Jail Badnagar, Badnagar, MP",NA,NA
+State,Madhya Pradesh,3,Sub Jail,72,70,Sub Jail Maheshwar,07283-280396,NO,NO,NO,"Sub Jail Maheshwar, Maheshwar, MP",NA,NA
+State,Madhya Pradesh,3,Sub Jail,72,71,Sub Jail Sonkatch,07270-290450,NO,NO,NO,"Sub Jail Sonkatch, Sonkatch, MP",NA,NA
+State,Madhya Pradesh,3,Sub Jail,72,72,Sub Jail Vijaypur,07528-266518,NO,NO,NO,"Sub Jail Vijaypur, Vijaypur, MP",NA,NA
+State,Madhya Pradesh,4,Open Jail,1,1,Open Jail Hoshangabad,07574-257852,NO,NO,NO,Open Jail Hoshangabad,NA,NA
+State,Maharashtra,1,Central Jail,9,1,Yerawada,020-26682663,NO,YES,NO,"Yerawada, Central Prison, Pune-6",NA,spycppune@gmail.com
+State,Maharashtra,1,Central Jail,9,2,Kolhapur,0231-2324219,YES,YES,YES,"Kolhapur Central Prison, Kalamba",NA,kolhapurprison@gmail.com
+State,Maharashtra,1,Central Jail,9,3,Mumbai,022-23096998,YES,YES,YES,"Mumbai Central Prison, Arthur Road, Mumbai-11",NA,mumbaicp-mh@gov.in
+State,Maharashtra,1,Central Jail,9,4,Thane,022-25303380,YES,YES,NO,"Thane Central Prison, Dist Thane",NA,supdtprison.thane@home.maharashtra.gov.in
+State,Maharashtra,1,Central Jail,9,5,Aurangabad,0240-2381051,YES,YES,NO,"Aurangabad Central Priosn, Dist Aurangabad",NA,aurangabadcp-mh@gov.in
+State,Maharashtra,1,Central Jail,9,6,Nashik Road,0253-2465276,NO,YES,NO,"Nashik Road Central Prison, Dist. Nashik",NA,nrcpsupdt@yahoo.com
+State,Maharashtra,1,Central Jail,9,7,Nagpur,0712-2461413,YES,YES,NO,"Nagpur Central Prison, Dist. Nagpur",NA,supdtprison.nagpur@home.maharashtra.gov.in
+State,Maharashtra,1,Central Jail,9,8,Amaravati,0721-2662083,NO,YES,YES,"Amaravati Central Prison, Dist. Amaravati",NA,supdtprison.amravati@home.maharashtra.gov.in
+State,Maharashtra,1,Central Jail,9,9,Taloja,022-22943819,YES,NO,NO,"Taloja Central Prison, Navi Mumbai",NA,supdtprison.taloja@home.maharashtra.gov.in
+State,Maharashtra,2,District Jail,28,1,Kalyan,0251-2314580,YES,YES,YES,"Kalyan District Prison, Dist. Thane",NA,kalyandp-mh@gov.in
+State,Maharashtra,2,District Jail,28,2,Byculla,022-23088133,YES,NO,NO,"Byculla District Prison, Dist. Mumbai",NA,supdtprison.byculla@home.maharashtra.gov.in
+State,Maharashtra,2,District Jail,28,3,Dhule,02562-235044,YES,YES,YES,"dhule District Prison, Dist., Dhule",NA,supdtprison.dhule@home.maharashtra.gov.in
+State,Maharashtra,2,District Jail,28,4,Akola,0724-2435005,YES,NO,NO,"Akola District Prison, Dist Akola",NA,supdtprison.akola@home.maharashtra.gov.in
+State,Maharashtra,2,District Jail,28,5,Bhandara,07184-252258,NO,NO,NO,"Bhandara District Prison, Dist. Bhandara",NA,bhandaradp-mh@gov.in
+State,Maharashtra,2,District Jail,28,6,Chandrapur,07172-250703,YES,YES,NO,Chandrapur District Prison Dist. Chandrapur,NA,chandrapurprison@gmail.com
+State,Maharashtra,2,District Jail,28,7,Yavatmal,07232-244326,YES,YES,YES,"Yavatmal District Prison, Dist. Yavatmal",NA,yavatmaldistprison@gmail.com
+State,Maharashtra,2,District Jail,28,8,Wardha,07152-240162,NO,YES,NO,"Wardha District Prison, Dist. Wardha",NA,wardhaprisoncii@gmail.com
+State,Maharashtra,2,District Jail,28,9,Latur,02382-212488,NO,NO,NO,"Latur District Prison, Dist. Latur",NA,laturdp-mh@gov.in
+State,Maharashtra,2,District Jail,28,10,Washim,07252-235232,NO,NO,NO,"Washim District Prison, Dist. Washim",NA,washimdistrictprison@gmail.com
+State,Maharashtra,2,District Jail,28,11,Nandurbar,02382-212488,NO,NO,NO,"Nandurbar Duistrict Prison, Dist. Nandurbar",NA,nandurbardp-mh@gov.in
+State,Maharashtra,2,District Jail,28,12,Jalana,02482-203150,NO,NO,NO,"Jalana District Prison, Dist. Jalana",NA,jalnadistrictprison14@gmail.com
+State,Maharashtra,2,District Jail,28,13,Alibag,02141-222052,NO,YES,YES,"Alibag District Prison, Dist. Raigad",NA,alibagdp-mh@gov.in
+State,Maharashtra,2,District Jail,28,14,Sawantwadi,02363-272045,YES,YES,YES,"Sawantwadi District Prison, Dist. Sindhudurg",NA,sawantwadidp-mh@gov.in
+State,Maharashtra,2,District Jail,28,15,Buldhana,07262-242314,YES,YES,YES,"Buldhana District Priosn, Dist. Buldhana",NA,buldhanadp-mh@gov.in
+State,Maharashtra,2,District Jail,28,16,Parbhani,02452-231339,YES,YES,NO,"Parbhani District Prison, Dist. Parbhani",NA,pbn@rediffmail.com
+State,Maharashtra,2,District Jail,28,17,Osmanabad,02472-222250,YES,YES,YES,"Osmanabad District Prison, Dist. Osmanabad",NA,osmanabaddistprison@rediffmail.com
+State,Maharashtra,2,District Jail,28,18,Beed,02442-222370,YES,YES,YES,"Beed district Prison, Dist Beed",NA,beedprison@gmail.com
+State,Maharashtra,2,District Jail,28,19,Nanded,02462-234104,YES,YES,NO,"Nanded District Prison, Dist. Nanded",NA,nandeddp-mh@gov.in
+State,Maharashtra,2,District Jail,28,20,Jalgaon,0257-2228697,YES,YES,NO,"Jalgaon District Prison, Dist. Jalgaon",NA,jalgaondp-mh@gov.in
+State,Maharashtra,2,District Jail,28,21,Solapur,0217-2625709,YES,YES,YES,"Solapur District Prison, Dist. Solapur",NA,solapurdp-mh@gov.in
+State,Maharashtra,2,District Jail,28,22,Sangli,0233-2373216,YES,YES,NO,"Sangli District Prison, Dist. Sangli",NA,sanglidp-mh@gov.in
+State,Maharashtra,2,District Jail,28,23,Satara,02162-233850,YES,YES,YES,"Satara District Prison, Dist. Satara",NA,spprisonsatara@rediffmail.com
+State,Maharashtra,2,District Jail,28,24,Ahemadnagar,0241-2344789,NO,YES,NO,"Ahmednagar District Prison, Dist. Ahmednagar",NA,anagarjail@gmail.com
+State,Maharashtra,2,District Jail,28,25,J J Hospital,022-23088133,NO,NO,NO,"Byculla District Prison, Dist. Mumbai",NA,supdtprison.byculla@home.maharashtra.gov.in
+State,Maharashtra,2,District Jail,28,26,Kolhapur,0231-2540315,YES,NO,NO,"Kolhapur District Prison, Dist. Kolhapur",NA,kolpcity@gmail.com
+State,Maharashtra,2,District Jail,28,27,Bhusawal,0257-2228697,NO,NO,NO,"Bhusawal District Prison, Dist. Jalgaon",NA,supdtprison.jalgaon@home.maharashtra.gov.in
+State,Maharashtra,2,District Jail,28,28,Sindhudurga,02363-272045,NO,NO,NO,"Sawantwadi District Prison, Dist. Sindhudurg",NA,sawantwadidp-mh@gov.in
+State,Maharashtra,3,Sub Jail,100,1,Junnar,NA,NO,NO,NO,"Taluka Junner, District Pune",NA,NA
+State,Maharashtra,3,Sub Jail,100,2,Purandhar,NA,NO,NO,NO,"At Post Saswad, Taluka Purandhar, Dist. Pune",NA,NA
+State,Maharashtra,3,Sub Jail,100,3,Daund,NA,NO,NO,NO,"Taluka Dound, Dist. Pune",NA,NA
+State,Maharashtra,3,Sub Jail,100,4,Indapur,NA,NO,NO,NO,"Taluka Indapur, Dist. Pune",NA,NA
+State,Maharashtra,3,Sub Jail,100,5,Shirur,NA,NO,NO,NO,"Taluka Shirur, Dist. Pune",NA,NA
+State,Maharashtra,3,Sub Jail,100,6,Baramati,NA,NO,NO,NO,"Taluka Baramati, Dist. Pune",NA,NA
+State,Maharashtra,3,Sub Jail,100,7,Khed,NA,NO,NO,NO,"Taluka Khed, Dist. Pune",NA,NA
+State,Maharashtra,3,Sub Jail,100,8,Ambegaon,NA,NO,NO,NO,"At Post Ghodegaon, Taluka Ambegaon, Dist. Pune",NA,NA
+State,Maharashtra,3,Sub Jail,100,9,Wadgaon Maval,NA,NO,NO,NO,"At Post Taluka Wadgaon Mawal, Dist. Pune",NA,NA
+State,Maharashtra,3,Sub Jail,100,10,Gadhinglaj,NA,NO,NO,NO,"Taluka Gadhinglaj, Dist. Kolhapur",NA,NA
+State,Maharashtra,3,Sub Jail,100,11,Panhala,NA,NO,NO,NO,"Taluka Panhala, Dist. Kolhapur",NA,NA
+State,Maharashtra,3,Sub Jail,100,12,Bhudargad,NA,NO,NO,NO,"Taluka Bhudargad, Dist. Kolhapur",NA,NA
+State,Maharashtra,3,Sub Jail,100,13,Radhanagri,NA,NO,NO,NO,"Taluka Radhanagri, Dist. Kolhapur",NA,NA
+State,Maharashtra,3,Sub Jail,100,14,Shirol Sub Jail,NA,NO,NO,NO,"Taluka Shirol, Dist. Kolhapur",NA,NA
+State,Maharashtra,3,Sub Jail,100,15,Chandgad,NA,NO,NO,NO,"Taluka Chandgad, Dist. Kolhapur",NA,NA
+State,Maharashtra,3,Sub Jail,100,16,Kagal Sub Jail,NA,NO,NO,NO,"Taluka Kagal, Dist. Kolhapur",NA,NA
+State,Maharashtra,3,Sub Jail,100,17,Ajara,NA,NO,NO,NO,"Taluka Ajara, Dist. Kolhapur",NA,NA
+State,Maharashtra,3,Sub Jail,100,18,Shahuwadi,NA,NO,NO,NO,"Taluka Shahuwadi, Dist. Kolhapur",NA,NA
+State,Maharashtra,3,Sub Jail,100,19,Kopergaon,NA,NO,NO,NO,"Taluka Kopargaon, Dist. Ahmadnagar",NA,NA
+State,Maharashtra,3,Sub Jail,100,20,Akole,NA,NO,NO,NO,"Taluka Akole, Dist. Ahmadnagar",NA,NA
+State,Maharashtra,3,Sub Jail,100,21,Sangamner,NA,NO,NO,NO,"Taluka Sangamner, Dist. Ahmadnagar",NA,NA
+State,Maharashtra,3,Sub Jail,100,22,Shrirampur,NA,NO,NO,NO,"Taluka Shrirampur, Dist. Ahmadnagar",NA,NA
+State,Maharashtra,3,Sub Jail,100,23,Rahuri,NA,NO,NO,NO,"Taluka Rahuri, Dist. Ahmadnagar",NA,NA
+State,Maharashtra,3,Sub Jail,100,24,Newasa,NA,NO,NO,NO,"Taluka Newasa, Dist. Ahmadnagar",NA,NA
+State,Maharashtra,3,Sub Jail,100,25,Shevgaon,NA,NO,NO,NO,"Taluka Shevgaon, Dist. Ahmadnagar",NA,NA
+State,Maharashtra,3,Sub Jail,100,26,Parner,NA,NO,NO,NO,"Taluka Parner, Dist. Ahmadnagar",NA,NA
+State,Maharashtra,3,Sub Jail,100,27,Pathardi,NA,NO,NO,NO,"Taluka Pathardi, Dist. Ahmadnagar",NA,NA
+State,Maharashtra,3,Sub Jail,100,28,Karjat,NA,NO,NO,NO,"Taluka Karjat, Dist. Ahmadnagar",NA,NA
+State,Maharashtra,3,Sub Jail,100,29,Jamkhed,NA,NO,NO,NO,Taluka Jamkhed Dist. Ahmadnagar,NA,NA
+State,Maharashtra,3,Sub Jail,100,30,Shrigonda,NA,NO,NO,NO,"Taluka Shrigonda, Dist. Ahmadnagar",NA,NA
+State,Maharashtra,3,Sub Jail,100,31,Barshi,NA,NO,NO,NO,"Taluka Barshi, Dist. Solapur",NA,NA
+State,Maharashtra,3,Sub Jail,100,32,Karmala,NA,NO,NO,NO,"Taluka Karmala, Dist. Solapur",NA,NA
+State,Maharashtra,3,Sub Jail,100,33,Madha,NA,NO,NO,NO,"Taluka Madha, Dist. Solapur",NA,NA
+State,Maharashtra,3,Sub Jail,100,34,Mohol,NA,NO,NO,NO,"Taluka Mohol, Dist. Solapur",NA,NA
+State,Maharashtra,3,Sub Jail,100,35,Pandharpur,NA,NO,NO,NO,"Taluka Pandharpur, Dist. Solapur",NA,NA
+State,Maharashtra,3,Sub Jail,100,36,Malshiras,NA,NO,NO,NO,"Taluka Malshiras, Dist. Solapur",NA,NA
+State,Maharashtra,3,Sub Jail,100,37,Sangola,NA,NO,NO,NO,"Taluka Sangola, Dist. Solapur",NA,NA
+State,Maharashtra,3,Sub Jail,100,38,Mangalwedha,NA,NO,NO,NO,"Taluka Mangalwedha, Dist. Solapur",NA,NA
+State,Maharashtra,3,Sub Jail,100,39,Shirala,NA,NO,NO,NO,"Taluka Shirala, Dist. Sangli",NA,NA
+State,Maharashtra,3,Sub Jail,100,40,Islampur,NA,NO,NO,NO,Taluka Islampur Dist. Sangli,NA,NA
+State,Maharashtra,3,Sub Jail,100,41,Tasgaon,NA,NO,NO,NO,Taluka Tasgaon Dist. Sangli,NA,NA
+State,Maharashtra,3,Sub Jail,100,42,Vita,NA,NO,NO,NO,"Taluka Vita, Dist. Sangli",NA,NA
+State,Maharashtra,3,Sub Jail,100,43,Jath,NA,NO,NO,NO,"Taluka Jath, Dist. Sangli",NA,NA
+State,Maharashtra,3,Sub Jail,100,44,Dahiwadi,NA,NO,NO,NO,"Taluka Dahiwadi, Dist. Satara",NA,NA
+State,Maharashtra,3,Sub Jail,100,45,Waduj,NA,NO,NO,NO,"Taluka Waduj, Dist. Satara",NA,NA
+State,Maharashtra,3,Sub Jail,100,46,Jawali (Medha),NA,NO,NO,NO,"Taluka Jawali, Dist. Satara",NA,NA
+State,Maharashtra,3,Sub Jail,100,47,Koregaon,NA,NO,NO,NO,"Taluka Koregaon, Dist. Satara",NA,NA
+State,Maharashtra,3,Sub Jail,100,48,Wai,NA,NO,NO,NO,"Taluka Wai, Dist. Satara",NA,NA
+State,Maharashtra,3,Sub Jail,100,49,Patan,NA,NO,NO,NO,"Taluka Patan, Dist. Satara",NA,NA
+State,Maharashtra,3,Sub Jail,100,50,Karad,NA,NO,NO,NO,"Taluka Karad, Dist. Satara",NA,NA
+State,Maharashtra,3,Sub Jail,100,51,Khandala,NA,NO,NO,NO,"Taluka Khandala, Dist. Satara",NA,NA
+State,Maharashtra,3,Sub Jail,100,52,Malegaon,NA,NO,NO,NO,"Taluka Malegaon, Dist. Nashik",NA,NA
+State,Maharashtra,3,Sub Jail,100,53,Satana,NA,NO,NO,NO,"Taluka Satana, Dist. Nashik",NA,NA
+State,Maharashtra,3,Sub Jail,100,54,Nandgaon,NA,NO,NO,NO,"Taluka Nandgaon, Dist. Nashik",NA,NA
+State,Maharashtra,3,Sub Jail,100,55,Kalwan,NA,NO,NO,NO,"Taluka Kalwan, Dist. Nashik",NA,NA
+State,Maharashtra,3,Sub Jail,100,56,Peth,NA,NO,NO,NO,"Taluka Peth, Dist. Nashik",NA,NA
+State,Maharashtra,3,Sub Jail,100,57,Surgana,NA,NO,NO,NO,"Taluka Surgana, Dist. Nashik",NA,NA
+State,Maharashtra,3,Sub Jail,100,58,Dindoiri,NA,NO,NO,NO,"Taluka Dindoiri, Dist. Nashik",NA,NA
+State,Maharashtra,3,Sub Jail,100,59,Niphad,NA,NO,NO,NO,"Taluka Niphad, Dist. Nashik",NA,NA
+State,Maharashtra,3,Sub Jail,100,60,Igatpuri,NA,NO,NO,NO,"Taluka Igatpuri, Dist. Nashik",NA,NA
+State,Maharashtra,3,Sub Jail,100,61,Sinnar,NA,NO,NO,NO,"Taluka Sinnar, Dist. Nashik",NA,NA
+State,Maharashtra,3,Sub Jail,100,62,Chandur,NA,NO,NO,NO,"Taluka Chandur, Dist. Nashik",NA,NA
+State,Maharashtra,3,Sub Jail,100,63,Yewala,NA,NO,NO,NO,"Taluka Yewala, Dist. Nashik",NA,NA
+State,Maharashtra,3,Sub Jail,100,64,Nilanga,NA,NO,NO,NO,"Taluka Nilanga, Dist. Latur",NA,NA
+State,Maharashtra,3,Sub Jail,100,65,Udgir,NA,NO,NO,NO,"Taluka Udgir, Dist. Latur",NA,NA
+State,Maharashtra,3,Sub Jail,100,66,Ahmedpur,NA,NO,NO,NO,"Taluka Ahmedpur, Dist. Latur",NA,NA
+State,Maharashtra,3,Sub Jail,100,67,Jamner,NA,NO,NO,NO,"Taluka Jamner, Dist. Jalgaon",NA,NA
+State,Maharashtra,3,Sub Jail,100,68,Chalisgaon,NA,NO,NO,NO,"Taluka Chalisgaon, Dist. Jalgaon",NA,NA
+State,Maharashtra,3,Sub Jail,100,69,Pachora,NA,NO,NO,NO,"Taluka Pachora, Dist. Jalgaon",NA,NA
+State,Maharashtra,3,Sub Jail,100,70,Amalner,NA,NO,NO,NO,"Taluka Amalner, Dist. Jalgaon",NA,NA
+State,Maharashtra,3,Sub Jail,100,71,Parola,NA,NO,NO,NO,"Taluka Parola, Dist. Jalgaon",NA,NA
+State,Maharashtra,3,Sub Jail,100,72,Erandol,NA,NO,NO,NO,"Taluka Erandol, Dist. Jalgaon",NA,NA
+State,Maharashtra,3,Sub Jail,100,73,Bhadgaon,NA,NO,NO,NO,"Taluka Bhadgaon, Dist. Jalgaon",NA,NA
+State,Maharashtra,3,Sub Jail,100,74,Chopada,NA,NO,NO,NO,"Taluka Chopada, Dist. Jalgaon",NA,NA
+State,Maharashtra,3,Sub Jail,100,75,Raver,NA,NO,NO,NO,"Taluka Raver, Dist. Jalgaon",NA,NA
+State,Maharashtra,3,Sub Jail,100,76,Muktainaga,NA,NO,NO,NO,"Taluka Muktainaga, Dist. Jalgaon",NA,NA
+State,Maharashtra,3,Sub Jail,100,77,Yawal,NA,NO,NO,NO,"Taluka Yawal, Dist. Jalgaon",NA,NA
+State,Maharashtra,3,Sub Jail,100,78,Shripur,NA,NO,NO,NO,"Taluka Shripur, Dist. Dhule",NA,NA
+State,Maharashtra,3,Sub Jail,100,79,Navapur,NA,NO,NO,NO,"Taluka Navapur, Dist. Nandurbar",NA,NA
+State,Maharashtra,3,Sub Jail,100,80,Shahada,NA,NO,NO,NO,"Taluka Shahada, Dist. Nandurbar",NA,NA
+State,Maharashtra,3,Sub Jail,100,81,Taloda,NA,NO,NO,NO,Taluka Taloda Dist. Nandurbar,NA,NA
+State,Maharashtra,3,Sub Jail,100,82,Gondiya,NA,NO,NO,NO,"Taluka Gondiya, Dist. Gondia",NA,NA
+State,Maharashtra,3,Sub Jail,100,83,Wada Sub Jail,NA,NO,NO,NO,"Taluka Wada, Dist. Thane",NA,NA
+State,Maharashtra,3,Sub Jail,100,84,Murbad,NA,NO,NO,NO,"Taluka Murbad, Dist. Thane",NA,NA
+State,Maharashtra,3,Sub Jail,100,85,Chiplun,NA,NO,NO,NO,"Taluka Chiplun, Dist. Ratnagiri",NA,NA
+State,Maharashtra,3,Sub Jail,100,86,Lanja,NA,NO,NO,NO,"Taluka Lanja, Dist. Ratnagiri",NA,NA
+State,Maharashtra,3,Sub Jail,100,87,Dapoli,NA,NO,NO,NO,"Taluka Dapoli, Dist. Ratnagiri",NA,NA
+State,Maharashtra,3,Sub Jail,100,88,Khed,NA,NO,NO,NO,"Taluka Khed, Dist. Ratnagiri",NA,NA
+State,Maharashtra,3,Sub Jail,100,89,Guhagar,NA,NO,NO,NO,Taluka Guhagar Dist. Ratnagiri,NA,NA
+State,Maharashtra,3,Sub Jail,100,90,Vengurla,NA,NO,NO,NO,"Taluka Vengurla, Dist. Sindhudurg",NA,NA
+State,Maharashtra,3,Sub Jail,100,91,Malwan,NA,NO,NO,NO,"Taluka Malwan, Dist. Sindhudurg",NA,NA
+State,Maharashtra,3,Sub Jail,100,92,Devgad,NA,NO,NO,NO,"Taluka Devgad, Dist. Sindhudurg",NA,NA
+State,Maharashtra,3,Sub Jail,100,93,Kankavali,NA,NO,NO,NO,Taluka Kankavali Dist. Sindhudurg,NA,NA
+State,Maharashtra,3,Sub Jail,100,94,Karjat,NA,NO,NO,NO,"Taluka Karjat, Dist. Raigad",NA,NA
+State,Maharashtra,3,Sub Jail,100,95,Murud,NA,NO,NO,NO,"Taluka Murud, Dist. Raigad",NA,NA
+State,Maharashtra,3,Sub Jail,100,96,Roha,NA,NO,NO,NO,"Taluka Roha, Dist. Raigad",NA,NA
+State,Maharashtra,3,Sub Jail,100,97,Mahad,NA,NO,NO,NO,"Taluka Mahad, Dist. Raigad",NA,NA
+State,Maharashtra,3,Sub Jail,100,98,Pen,NA,NO,NO,NO,"Taluka Pen, Dist. Raigad",NA,NA
+State,Maharashtra,3,Sub Jail,100,99,Khalapur,NA,NO,NO,NO,"Taluka Khalapur, Dist. Raigad",NA,NA
+State,Maharashtra,3,Sub Jail,100,100,Mangaon,NA,NO,NO,NO,"Taluka Mangaon, Dist. Raigad",NA,NA
+State,Maharashtra,4,Women Jail,1,1,Mumbai District Women Jail,022-23088133,YES,NO,NO,"Byculla Dist. Prison, Dist Mumbai",NA,supdtprison.byculla@home.maharashtra.gov.in
+State,Maharashtra,5,Borstal School,1,1,Borstal School Nashik,0253-2572765,NO,NO,NO,Dist. Nashik,NA,bostalschool@gmail.com
+State,Maharashtra,6,Open Jail,13,1,Yerawada,020-26614051,NO,NO,NO,"Yerawada Open Prison, Pune-6",NA,supdyodp@gmail.com
+State,Maharashtra,6,Open Jail,13,2,Paithan,02431-223049,NO,NO,NO,"Paith Open Priosn, Dist. Aurangabad",NA,paithanprison@gmail.com
+State,Maharashtra,6,Open Jail,13,3,Aurangabad,0240-2381051,NO,NO,NO,"Aurangabad Central Prison, Dist. Aurangabad",NA,supdtprison.aurangabad@home.maharashtra.gov.in
+State,Maharashtra,6,Open Jail,13,4,Morshi,07228-200577,NO,NO,NO,"Morshi Open Prison, Dist. Amravati",NA,supdtprison.morshiopen@gmail.com
+State,Maharashtra,6,Open Jail,13,5,Yerawada Female Open Prison Pune,020-26613796,NO,NO,NO,"Yerawada Female Open Prison, Pune-6",NA,spucppune@gmail.com
+State,Maharashtra,6,Open Jail,13,6,Kolhapur,0231-2324219,NO,NO,NO,"Kolhapur Central Prison, Kalamba",NA,kolhapurprison@gmail.com
+State,Maharashtra,6,Open Jail,13,7,Nashik Road,0253-2465276,NO,NO,NO,"Nashik Road Central Prison, Dist. Nashik",NA,supdtprison.nashik@home.maharashtra.gov.in
+State,Maharashtra,6,Open Jail,13,8,Nagpur,0712-2461413,NO,NO,NO,"Nagpur Central Prison, Dist. Nagpur",NA,supdtprison.nagpur@home.maharashtra.gov.in
+State,Maharashtra,6,Open Jail,13,9,Amaravati,0721-2662083,NO,YES,YES,"Amaravati Central Prison, Amaravati",NA,supdtcentralprisonamt@gmail.com
+State,Maharashtra,6,Open Jail,13,10,Visapur,02487-254302,NO,NO,NO,"Visapur Open Prison, Visapur Ta Shrigonda,",Dist. Ahamadnagar,visapurdp@gmail.com
+State,Maharashtra,6,Open Jail,13,11,Thane,022-25303380,NO,NO,NO,"Thane Central Prison, Dist. Thane",NA,supdtprison.thane@home.maharashtra.gov.in
+State,Maharashtra,6,Open Jail,13,12,Gadchiroli,07132-223145,NO,NO,NO,"Gadchiroli, dist. Prison, Indala Dist. Gadchiroli",NA,gadchirolidp-mh@gov.in
+State,Maharashtra,6,Open Jail,13,13,Akola Female Open Prison,NA,NO,NO,NO,NA,NA,NA
+State,Maharashtra,7,Special Jail,1,1,Ratnagiri Special Jail,02352-222370,NO,NO,NO,"Ratnagiri Special Jail, Dist. Ratnagiri",NA,supdtprison.ratnagiri@home.maharashtra.gov.in
+State,Maharashtra,8,Other Jail,1,1,Open Colony Aatpadi,02343-22008,NO,NO,NO,"Open Colony Aatpadi, Dist. Sangali",NA,supdtatpadi@gmail.com
+State,Manipur,1,Central Jail,2,1,"Central Jail, Imphal",0385-2450015,NO,NO,NO,"Central Jail, Imphal Old Lambulane, Imphal West",Manipur-795001,NA
+State,Manipur,1,Central Jail,2,2,"Central Jail, Sajiwa",NA,NO,NO,NO,"Central Jail, Sajiwa Imphal East District",Manipur-795114,NA
+State,Manipur,2,District Jail,2,1,"District Jail, Churachandpur (Not functional)",NA,NO,NO,NO,Churachandpur District,NA,NA
+State,Manipur,2,District Jail,2,2,"District Jail, Chandel (Not Functional)",NA,NO,NO,NO,NA,NA,NA
+State,Manipur,3,Sub Jail,1,1,Sub Jail Jiribam (Temporary Closed),NA,NO,NO,NO,"Imphal East District as ex-officio, Supdt.",NA,NA
+State,Meghalaya,1,District Jail,4,1,"District Jail, Shillong",9863023390,NO,YES,NO,"District Jail, Shillong O/o the Supdt. Dist. Jail,","Shillong, Jail Road, Shillong",NA
+State,Meghalaya,1,District Jail,4,2,"District Jail, Jowai",9856652667,YES,YES,NO,"O/O the Supdt. Dist. Jail, Jowai,",Dist. Jaintia Hills,NA
+State,Meghalaya,1,District Jail,4,3,"District Jail, Williamnagar",8974158543,YES,YES,YES,"O/O the Supdt. District Jail, Williamnagar",Dist. East Garo Hills,NA
+State,Meghalaya,1,District Jail,4,4,"District Jail, Tura",9436113862,NO,YES,NO,"O/O The Supdt. Dist. West Garo Hills,",NA,NA
+State,Meghalaya,2,Sub Jail,1,1,"Sub Jail, Palakonda",NA,NO,NO,NO,Sub jail Palakonda MRO Office Compound,Plakonda,NA
+State,Mizoram,1,Central Jail,1,1,"Central Jail, Aizawl",0389-2330180,NO,NO,NO,"Central Jail Veng, Aizawl-796009",NA,NA
+State,Mizoram,2,District Jail,6,1,"District Jail, Aizawl",0389-2316964,NO,NO,NO,Armed Veng. Aizawl,NA,djaizawl@gmail.com
+State,Mizoram,2,District Jail,6,2,"District Jail, Lunglei",8794715160,NO,NO,NO,"Sazaikwn, Lunglei-796701",NA,NA
+State,Mizoram,2,District Jail,6,3,"District Jail, Saiha",03835-223044,NO,NO,NO,"Meisatla, Saiha-796901",NA,NA
+State,Mizoram,2,District Jail,6,4,"District Jail, Kolasib",03837-220734,NO,NO,NO,"Saidan, Kolasib-796081",NA,NA
+State,Mizoram,2,District Jail,6,5,"District Jail, Champhai",03831-235943,NO,NO,NO,"Kanan, Champhai-796321",NA,NA
+State,Mizoram,2,District Jail,6,6,"District Jail, Lawngtlai",9612163663,NO,NO,NO,"Chawngte Road, Lawngtlai-796891",NA,NA
+State,Nagaland,1,Central Jail,1,1,"Central Jail, Dimapur",03862-243022,NO,NO,NO,"Central Jail, Dimapur, 4th Mile, Dimapur, Nagaland",NA,NA
+State,Nagaland,2,District Jail,10,1,"District Jail, Kohima",0370-2222306,NO,NO,NO,"District Jail, Kohima, Jail Colony, Kohima",NA,NA
+State,Nagaland,2,District Jail,10,2,"District Jail, Mokokchung",9402481978,NO,NO,NO,"District Jail, Mokokchung, Nagaland",NA,NA
+State,Nagaland,2,District Jail,10,3,"District Jail, Tuensang",9436012415,NO,NO,NO,"District Jail, Tuensang, Nagaland",NA,NA
+State,Nagaland,2,District Jail,10,4,"District Jail, Dimapur",9436431228,NO,NO,NO,"District Jail, Dimapur, Dimapur, Nagaland",NA,NA
+State,Nagaland,2,District Jail,10,5,"District Jail, Zunheboto",9402909779,NO,NO,NO,"Sub Jail, Zunheboto, Nagaland",NA,NA
+State,Nagaland,2,District Jail,10,6,"District Jail, Wokha",9862300663,NO,NO,NO,"District Jail, Wokha, Nagaland",NA,NA
+State,Nagaland,2,District Jail,10,7,"District Jail, Peren",9774976611,NO,NO,NO,"District Jail, Peren, Nagaland",NA,NA
+State,Nagaland,2,District Jail,10,8,"District Jail, Phek",8974102113,NO,NO,NO,"District Jail, Phek, Nagaland-797108",NA,NA
+State,Nagaland,2,District Jail,10,9,"District Jail, Mon",9612005787,NO,NO,NO,"District Jail, Mon, Jail Colony, Zaklom Ward",Mon-798621,NA
+State,Nagaland,2,District Jail,10,10,"District Jail, Kiphire",9612233727,NO,NO,NO,"Distirct Jail, Kiphire, Nagaland",NA,NA
+State,Odisha,1,Central Jail,5,1,Baripada,06792-260633,NO,YES,NO,"AT/Po Baripada, Dist. Mayurbhanj",NA,baripadajail.od@nic.in
+State,Odisha,1,Central Jail,5,2,Berhampur,0680-2402151,NO,YES,NO,"AT/PO Lanjipali, Dist. Ganjam",NA,berhampurjail.od@gmail.com
+State,Odisha,1,Central Jail,5,3,Choudwar,0671-2494209,NO,YES,NO,"AT/PO Charbatia, Dist. Cuttack",NA,choudwarjail.od@nic.in
+State,Odisha,1,Central Jail,5,4,Koraput,06852-251264,NO,YES,NO,AT/PO/Dist. Koraput,NA,koraputjail.od@nic.in
+State,Odisha,1,Central Jail,5,5,Sambalpur,0663-2411968,YES,YES,NO,At/PO/Dist. Sambalpur,NA,sambalpurjail.od@nic.in
+State,Odisha,2,District Jail,9,1,Anguljail,06764-230148,NO,NO,NO,AT/PO/Dist. Angul,NA,anguljail.od@nic.in
+State,Odisha,2,District Jail,9,2,Balesore,06782-262101,NO,NO,NO,AT/Po/Dist. Balasore,NA,balasorejail.od@nic.in
+State,Odisha,2,District Jail,9,3,Bhawanipatna,06670-230414,NO,NO,NO,"AT/PO Bhawanipatna, Dist. Kalahandi",NA,bhawanipatnajail.od@nic.in
+State,Odisha,2,District Jail,9,4,Bolangir,06652-232443,NO,NO,NO,AT/PO/Dist. Bolangir,NA,balangirjail.od@nic.in
+State,Odisha,2,District Jail,9,5,Dhenkanal,06762-226521,NO,YES,NO,AT/PO/Dist. Dhenkanal,NA,dhenkanaljail.od@nic.in
+State,Odisha,2,District Jail,9,6,Keonjhar,06766-255419,NO,NO,NO,AT/PO/Dist. Keonjhar,NA,keonjharjail.od@nic.in
+State,Odisha,2,District Jail,9,7,Phulbani,06842-255814,NO,NO,NO,AT/PO/Dist. Bhulbani,NA,phulbanijail.od@nic.in
+State,Odisha,2,District Jail,9,8,Puri,06752-222042,NO,NO,NO,AT/PO/Dist. Puri,NA,purijail.od@nic.in
+State,Odisha,2,District Jail,9,9,Sundargarh,06622-272246,NO,YES,NO,AT/PO/Dist. Sundargarh,NA,sundargarhjail.od@nic.in
+State,Odisha,3,Sub Jail,73,1,Bhadrak,06784-251524,NO,NO,NO,AT/PO/Dist. Bhadrak,NA,bhadrakjail.on@nic.in
+State,Odisha,3,Sub Jail,73,2,Bhanjanagar,06821-241061,NO,NO,NO,"AT/PO Bhanjanagar, Dist. Ganjam",NA,bhanjanagarjail.od@nic.in
+State,Odisha,3,Sub Jail,73,3,Bonaigarh,06626-244424,NO,NO,NO,"AT/PO Bonaigarh, Dist. Sundargarh",NA,bonaigarhjail.od@nic.in
+State,Odisha,3,Sub Jail,73,4,Boudh,06841-222058,NO,NO,NO,AT/PO/Dist. Boudh,NA,boudhjail.od@nic.in
+State,Odisha,3,Sub Jail,73,5,Deogarh,06641-226417,NO,NO,NO,AT/PO/Dist. Deogarh,NA,deogarhjail.od@nic.in
+State,Odisha,3,Sub Jail,73,6,Talcher,06760-240284,NO,NO,NO,"AT/PO Talcher, Dist. Angul",NA,talcherjail.od@nic.in
+State,Odisha,3,Sub Jail,73,7,Anandapur,06731-212269,NO,NO,NO,"At/PO Anandapur, Dist. Keonjhar",NA,anandapurjail.od@nic.in
+State,Odisha,3,Sub Jail,73,8,Aska,06822-273632,NO,NO,NO,"At/PO Aska, Dist. Ganjam",NA,askajail.od@nic.in
+State,Odisha,3,Sub Jail,73,9,Athagarh,06723-221057,NO,NO,NO,"At/Po Athagarh, Dist. Cuttack",NA,athagarhjail.od@nic.in
+State,Odisha,3,Sub Jail,73,10,Athamalik,06763-254231,NO,NO,NO,"At/PO Athamalik, Dist. Angul",NA,athamalikjail.od@nic.in
+State,Odisha,3,Sub Jail,73,11,Balliguda,06846-243214,NO,NO,NO,"At/PO Balliguda, Dist. Bhulbani",NA,balligudajail.od@nic.in
+State,Odisha,3,Sub Jail,73,12,Banapur,06756-211009,NO,NO,NO,"AT Basarathipur, PO Banapur, Dist. Khurda",NA,banapurjail.od@nic.in
+State,Odisha,3,Sub Jail,73,13,Banki,06723-240239,NO,NO,NO,"AT/Po Banki, Dist. Cuttack",NA,bankijail.od@nic.in
+State,Odisha,3,Sub Jail,73,14,Baragarh,06646-232802,NO,NO,NO,AT/PO/Dist. Bargarh,NA,baragarhjail.od@nic.in
+State,Odisha,3,Sub Jail,73,15,Baramba,06721-273233,NO,NO,NO,"At/PO Baramba, Dist. Cuttack",NA,barambajail.od@nic.in
+State,Odisha,3,Sub Jail,73,16,Barbil,06767-277663,NO,NO,NO,"At/PO Barbil, Dist. Keonjhar",NA,barbiljail.od@nic.in
+State,Odisha,3,Sub Jail,73,17,Birmaharjpur,06651-212070,NO,NO,NO,"At Rathapur, Po Birmaharajpur, Dist. Sonepur",NA,birmaharjpurjail.od@nic.in
+State,Odisha,3,Sub Jail,73,18,Bisam Cuttack,06863-247400,NO,NO,NO,"AT Nuagada, Po Bisam Cuttack, Dist. Rayagada",NA,bisamcuttackjail.od@nic.in
+State,Odisha,3,Sub Jail,73,19,Champua,06767-240217,NO,NO,NO,"AT/PO Champua, Dist. Keonjhar",NA,champuajail.od@nic.in
+State,Odisha,3,Sub Jail,73,20,Chattrapur,06811-263874,NO,NO,NO,"AT/PO Chhatrapur, Dist. Ganjam",NA,chattrapurjail.od@nic.in
+State,Odisha,3,Sub Jail,73,21,Dasapalla,06757-220043,NO,NO,NO,"AT/PO Dasapalla, Dist. Nayagarh",NA,dasapallajail.od@nic.in
+State,Odisha,3,Sub Jail,73,22,Dharamgarh,06672-242249,NO,NO,NO,"AT/PO Dharamgarh, Dist. Kalahandi",NA,dharamgarhjail.od@nic.in
+State,Odisha,3,Sub Jail,73,23,Digapahandi,06814-253550,NO,NO,NO,"AT Sahaspur, Po Digapahandi, Dist. Ganjam",NA,digapahandijail.od@nic.in
+State,Odisha,3,Sub Jail,73,24,G-Udayagiri,06847-260102,NO,NO,NO,"AT/PO G Udayagiri, Dist. Phulbani",NA,gudayagirijail.od@nic.in
+State,Odisha,3,Sub Jail,73,25,Gunupur,06857-250057,NO,NO,NO,"AT/PO Gunpur, Dist. Rayagada",NA,gunupurjail.od@nic.in
+State,Odisha,3,Sub Jail,73,26,Hindol,06732-251229,NO,NO,NO,"AT/PO Hindol, Dist. Dhenkanal",NA,hindoljail.od@nic.in
+State,Odisha,3,Sub Jail,73,27,Jagatsinghpur,06724-220351,NO,NO,NO,AT Alipingal,PO/Dist. Jagatsinghpur,jagatsinghpurjail.od@nic.in
+State,Odisha,3,Sub Jail,73,28,Jajpur,06728-222092,NO,NO,NO,AT/PO/Dist. Jajpur,NA,jajpurjail.od@nic.in
+State,Odisha,3,Sub Jail,73,29,Jajpur Road,06726-249353,NO,NO,NO,"AT Ragadi, Po Korei, Dist. Jajpur",NA,jajpurroadjail.od@nic.in
+State,Odisha,3,Sub Jail,73,30,Jaleswar,06781-211530,NO,NO,NO,"AT Panchughanta, Po Jaleswar, Dist. Balasore",NA,jaleswarjail.od@nic.in
+State,Odisha,3,Sub Jail,73,31,Jeypore,06854-232238,NO,NO,NO,"AT/PO Jeypore, Dist. Koraput",NA,jeyporejail.od@nic.in
+State,Odisha,3,Sub Jail,73,32,Jharsuguda,06645-270046,NO,NO,NO,AT/PO/Dist. Jharsuguda,NA,jharsugudajail.od@nic.in
+State,Odisha,3,Sub Jail,73,33,Kamakhyanaga,06769-270454,NO,NO,NO,"AT/Po Kamakhyanagar, Dist. Dhenkanal",NA,kamakhyanagajail.od@nic.in
+State,Odisha,3,Sub Jail,73,34,Kantabanji,06769-270454,NO,NO,NO,"AT Damandanga, Po Kantabani, Dist. Balangir",NA,kantabanjijail.od@nic.in
+State,Odisha,3,Sub Jail,73,35,Karanjia,06796-220259,NO,NO,NO,"AT/PO Karanjia, Dist. Mayurbhanj",NA,karanjiajail.od@nic.in
+State,Odisha,3,Sub Jail,73,36,Kasipur,06796-220259,NO,NO,NO,"AT/PO Kasipur, Dist. Rayagada",NA,kasipurjail.od@nic.in
+State,Odisha,3,Sub Jail,73,37,Kendrapara,06727-214287,NO,NO,NO,"AT Barimul, PO/Dist. Kendrapada",NA,kendraparajail.od@nic.in
+State,Odisha,3,Sub Jail,73,38,Khandapada,06757-230034,NO,NO,NO,"AT/PO Khandapada, Dist. Nayagarh",NA,khandapadajail.od@nic.in
+State,Odisha,3,Sub Jail,73,39,Khariar,06671-212001,NO,NO,NO,"AT/PO Khariar, Dist. Nuapada",NA,khariarjail.od@nic.in
+State,Odisha,3,Sub Jail,73,40,Khurda,06755-220589,NO,NO,NO,AT/PO/Dist. Khurda,NA,khurdajail.od@nic.in
+State,Odisha,3,Sub Jail,73,41,Kodala,06810-268263,NO,NO,NO,"At/PO Kodala, Dist. Ganjam",NA,kodalajail.od@nic.in
+State,Odisha,3,Sub Jail,73,42,Kotpad,06860-283225,NO,NO,NO,"AT Damayantinagar, Po Kotpad, Dist. Koraput",NA,kotpadjail.od@nic.in
+State,Odisha,3,Sub Jail,73,43,Kuchinda,06642-220286,NO,NO,NO,"AT/PO Kuchinda, Dist. Sambalpur",NA,kuchindajail.od@nic.in
+State,Odisha,3,Sub Jail,73,44,Kujanga,06722-236460,NO,NO,NO,"AT Samagola, PO Kujang, Dist. Jagatsinghpur",NA,kujangajail.od@nic.in
+State,Odisha,3,Sub Jail,73,45,Laxmipur,NA,NO,NO,NO,"AT/PO Laxmipur, PO Koraput",NA,laxmipurjail.od@nic.in
+State,Odisha,3,Sub Jail,73,46,M. Rampur,06676-250500,NO,NO,NO,"AT Bhatel Po Narla, Dist. Kalahandi",NA,madannurramourjail.od@nic.in
+State,Odisha,3,Sub Jail,73,47,Malkanagiri,06861-230236,NO,NO,NO,At/PO/Dist. Malkangiri,NA,malkanagirijail.od@nic.in
+State,Odisha,3,Sub Jail,73,48,M.V. 79,NA,NO,NO,NO,"AT Lachhipeta, Po Motu, Dist. Malkangiri",NA,mv79jail.od@nic.in
+State,Odisha,3,Sub Jail,73,49,Nabarangpur,06858-222028,NO,NO,NO,AT/PO/Dist. Nabarangpur,NA,nabarangpurjail.od@nic.in
+State,Odisha,3,Sub Jail,73,50,Narsinghpur,06721-270026,NO,NO,NO,"AT Paikapada Patna, Po Narasinghpur, Dist. Cuttack",NA,narsinghpurjail.od@nic.in
+State,Odisha,3,Sub Jail,73,51,Nuapada,06678-223435,NO,NO,NO,AT/PO/Dist. Nuapada,NA,nuapadajail.od@nic.in
+State,Odisha,3,Sub Jail,73,52,Nayagarh,06753-252213,NO,NO,NO,"AT Khuntubandha, PO/Dist. Nayagarh",NA,nayagarhjail.od@nic.in
+State,Odisha,3,Sub Jail,73,53,Nilagiri,06782-233238,NO,NO,NO,"AT/Po Nilgiri, Dist. Balasore",NA,nilagirijail.od@nic.in
+State,Odisha,3,Sub Jail,73,54,Nimapara,06758-250833,NO,NO,NO,"AT Nuharkiri, Po Nimapara, Dist. Puri",NA,nimaparajail.od@nic.in
+State,Odisha,3,Sub Jail,73,55,Padampur,06683-223070,NO,NO,NO,"AT/Po Padampur, Dist. Bargarh",NA,padampurjail.od@nic.in
+State,Odisha,3,Sub Jail,73,56,Pallahara,06765-279236,NO,NO,NO,"AT/PO Pallahara, Dist. Angul",NA,pallaharajail.od@nic.in
+State,Odisha,3,Sub Jail,73,57,Paralakhemund,06815-222239,NO,NO,NO,"AT/PO Paralakhemundi, Dist. Gajapati",NA,paralakhemundijail.od@nic.in
+State,Odisha,3,Sub Jail,73,58,Patnagarh,06658-222356,NO,NO,NO,"AT/Po Patnagarh, Dist. Bolangir",NA,patnagarhjail.od@nic.in
+State,Odisha,3,Sub Jail,73,59,Patrapur,NA,NO,NO,NO,"AT Badapur, PO Patrapur, Dist. Ganjam",NA,patrapurjail.od@nic.in
+State,Odisha,3,Sub Jail,73,60,Rairakhol,06644-253028,NO,NO,NO,"AT/Po Rairakhol, Dist. Sambalpur",NA,rairakholjail.od@nic.in
+State,Odisha,3,Sub Jail,73,61,Rairangpur,06794-222067,NO,NO,NO,"AT/PO Rairangpur, Dist. Mayurbhanj",NA,rairangpurjail.od@nic.in
+State,Odisha,3,Sub Jail,73,62,Rajgangpur,06624-223045,NO,NO,NO,"AT Tunguripalli, Po Rajgangpur, Dist. Sundargarh",NA,rajgangpurjail.od@nic.in
+State,Odisha,3,Sub Jail,73,63,Ranapur,"9439294875,",NO,NO,NO,"AT Ranpur (Nadia Bhanga) Po Ranpur, Dist. Nayagarh",NA,ranapurjail.od@nic.in
+State,Odisha,3,Sub Jail,73,64,Rayagada,06856-235178,NO,NO,NO,AT/PO/Dist. Rayagada,NA,rayagadajail.od@nic.in
+State,Odisha,3,Sub Jail,73,65,R-Udayagiri,06817-240242,NO,NO,NO,"AT/PO R Udayagiri, Dist. Gajapati",NA,rudayagirijail.od@nic.in
+State,Odisha,3,Sub Jail,73,66,Salepur,0671-2351555,NO,NO,NO,"AT Raghabpur, Po Salipur, Dist. Cuttack",NA,salepurjail.od@nic.in
+State,Odisha,3,Sub Jail,73,67,Sohela,06685-220133,NO,NO,NO,"AT/PO Sohela, Dist. Bargarh",NA,sohelajail.od@nic.in
+State,Odisha,3,Sub Jail,73,68,Sonepur,06654-220235,NO,NO,NO,AT/PO/Dist. Sonepur,NA,sonepurjail.od@nic.in
+State,Odisha,3,Sub Jail,73,69,Soro,06788-211725,NO,NO,NO,"AT Jagannathpur, Po Soro, Dist. Balasore",NA,sorojail.od@nic.in
+State,Odisha,3,Sub Jail,73,70,Suruda,06819-270073,NO,NO,NO,"AT/PO Suruda, Dist. Ganjam",NA,surudajail.od@nic.in
+State,Odisha,3,Sub Jail,73,71,Titilagarh,06655-220434,NO,NO,NO,"At/PO Titilagarh, Dist. Bolangir",NA,titilagarhjail.od@nic.in
+State,Odisha,3,Sub Jail,73,72,Udala,06795-232249,NO,NO,NO,"AT/PO Udala, Dist. Mayurbhanj",NA,udalajail.od@nic.in
+State,Odisha,3,Sub Jail,73,73,Umerkote,06866-270124,NO,NO,NO,"AT/Po Umerkote, Dist. Nabarangpur",NA,umerkotejail.od@nic.in
+State,Odisha,4,Women Jail,1,1,Nari Bandi Niketan Sambalpur,0663-2548179,NO,NO,NO,AT/Po/Dist. Sambalpur,NA,nbnsambalpurjail.od@nic.in
+State,Odisha,5,Open Jail,1,1,"Biju pattnaik Open Air Ashram, Jamujhari",0674-2467840,NO,NO,NO,"AT Jamujhari, Po Dandi Chhatabar, Dist. Khurda",NA,jamujharijailnbnsambalpurjail.od@nic.in
+State,Odisha,6,Special Jail,2,1,Bhubaneswar,0674-2578077,NO,YES,NO,"At Jharpada, PO Laxmisagar, Dist. Khurda",NA,bhubaneswarjailnbnsambalpurjail.od@nic.in
+State,Odisha,6,Special Jail,2,2,Rourkella,0661-2401695,NO,YES,NO,"AT/PO Rourkela, Dist. Sundargarh",NA,rourkelajailnbnsambalpurjail.od@nic.in
+State,Punjab,1,Central Jail,9,1,Central Jail Ferozepur,NA,YES,NO,NO,"The Mall Road, Ferozepur City",NA,centraljail.fzr@gmail.com
+State,Punjab,1,Central Jail,9,2,Central Jail Patiala,0175-2366546,YES,NO,NO,"Near Thapar College, Nabha Road, Patiala",NA,supdt.cjpta@gmail.com
+State,Punjab,1,Central Jail,9,3,Central Jail Ludhiana,0161-2660106,YES,YES,YES,"Tajpur Road, Ludhiana",NA,centraljail.ldh@yahoo.co.in
+State,Punjab,1,Central Jail,9,4,Central Jail Amritsar,0183-2591973,YES,NO,NO,"Ghumtala Road, Amrtisar",NA,sudhargharamritsar@gmail.com
+State,Punjab,1,Central Jail,9,5,Central Jail Gurdaspur,01874-245316,YES,NO,NO,"Near District Court Complex, Jail Road, Gurdaspur",NA,gurdaspurcjail@yahoo.com
+State,Punjab,1,Central Jail,9,6,Central Jail Bathinda,0164-2212610,YES,NO,NO,"Khiali Wala Road, Gobindpura, Bathinda",NA,scjbti@gmail.com
+State,Punjab,1,Central Jail,9,7,Central Jail Jalandhar at Kapurthala,98721-34845,YES,NO,NO,"Kanjli Road, Village Bhela, Kapurthala",NA,cjailkpt@gmail.com
+State,Punjab,1,Central Jail,9,8,Central Jail Faridkot,01639-257048,YES,NO,NO,"Talwandi Bahi Road, Faridkot",NA,disttjailfdk@gmail.com
+State,Punjab,1,Central Jail,9,9,Central Jail Hoshiarpur,01882-220527,YES,NO,NO,"Chandigarh Road, Hoshiarpur",NA,superintendentjailhoshiarpur@gmail.com
+State,Punjab,2,District Jail,7,1,District Jail Sangrur,01672-234381,YES,NO,NO,Barnala Road Sangrur,NA,sangrurjail@gmail.com
+State,Punjab,2,District Jail,7,2,District Jail Nabha,01765-220659,YES,YES,NO,"Thuhi Road, Nabha, District Patiala",NA,nabhajail@gmail.com
+State,Punjab,2,District Jail,7,3,New District Jail Nabha,01765-225926,YES,NO,NO,"Bhawanigarh Road, Nabha, Dist. Patiala",NA,supdt.newjailnabha@gmail.com
+State,Punjab,2,District Jail,7,4,District Jail Mansa,01652-227737,YES,NO,NO,"Bhaini Bagha Road, Mansa",NA,districtjailmansa@gmail.com
+State,Punjab,2,District Jail,7,5,District Jail Roopnagar,01881-224422,YES,NO,NO,"Bela Road, vill. Khairabad, Roopnagar",NA,supdt.distt.jail.roopnagar@gmail.com
+State,Punjab,2,District Jail,7,6,District Jail Barnala,01679-231141,YES,NO,NO,"Baja Khana Road, Dist. Barnala",NA,jailbarnala@yahoo.com
+State,Punjab,2,District Jail,7,7,District Jail Mukatsar,01633-262606,YES,NO,NO,"Bura Gujjar (Ferozepur Road), Sri Muktsar Sahib",NA,dhillonjailsupdt@gmail.com
+State,Punjab,3,Sub Jail,7,1,Sub Jail Moga,98144-42500,YES,NO,NO,"G.T. Road, Ludhiana Moga",NA,subjailmoga@gmail.com
+State,Punjab,3,Sub Jail,7,2,Sub Jail Patti,01851-244567,NO,NO,NO,"Ward No.2, Complex Court Road,","Patti, Dist. Tartarn",subjailpatti@gmail.com
+State,Punjab,3,Sub Jail,7,3,Sub Jail Fazilka,9815974194,YES,NO,NO,"Near Court Complex Fazilka, Dist. Fazilka",NA,sjail.faz.police@punjab.gov.in
+State,Punjab,3,Sub Jail,7,4,Sub Jail Malerkotla,01675-253473,YES,NO,NO,"Dhuri Road, Malerkotla",NA,subjailmalerkotla@gmail.com
+State,Punjab,3,Sub Jail,7,5,Sub Jail Phagwara,8146517863,YES,NO,NO,"Banga Road, Bhagwara, Dist. Kapurthala",NA,subjailphagwara@gmail.com
+State,Punjab,3,Sub Jail,7,6,Sub Jail Dasuya,01883-285155,YES,NO,NO,"Near SDM Office Dasuya, Dist. Hoshiarpur",NA,subjaildasuya40@gmail.com
+State,Punjab,3,Sub Jail,7,7,Sub Jail Pathankot,8146517863,YES,NO,NO,"Near SDM Court Complex, Pathankot",NA,pathankot.jail@gmail.com
+State,Punjab,4,Women Jail,1,1,Women Jail Ludhiana,0161-2664216,YES,NO,NO,"Tajpur Road, Ludhiana",NA,womanjailludhiana@gmail.com
+State,Punjab,5,Borstal School,1,1,Borstal Jail Ludhiana,0161-2661250,YES,NO,NO,"Tajpur Road, Ludhiana",NA,borstaljail@yahoo.com
+State,Punjab,6,Open Jail,1,1,Open Air Jail Nabha,01765-220036,NO,NO,NO,"Dhuri Road, Nabha, Dist. Patiala",NA,ojail.nabha.police@punjab.gov.in
+State,Rajasthan,1,Central Jail,9,1,Jaipur,0141-2613851,NO,YES,NO,Central Jail Jaipur,NA,jail-jaip-rj@nic.in
+State,Rajasthan,1,Central Jail,9,2,Jodhpur,0291-2650836,NO,NO,NO,"Central Jail Jodhpur, Behind Main Railway Station",Jodhpur-342001,jail-jod-rj@nic.in
+State,Rajasthan,1,Central Jail,9,3,Udiapur,0294-2486593/9414234134,NO,NO,NO,Central Jail Udiapur,NA,"jail-uda-rj@nic.in, cjudaipur@yahoo.in"
+State,Rajasthan,1,Central Jail,9,4,Bikaner,151-2970004,NO,YES,NO,NA,NA,jail-bik-rj@nic.in
+State,Rajasthan,1,Central Jail,9,5,Ajmer,0145-2429900/0145-2621900,YES,YES,YES,"Near Board Office, Jaipur Road, Ajmer",NA,cp.ajmer@gmail.com
+State,Rajasthan,1,Central Jail,9,6,Kota,9828193111,NO,NO,NO,NA,NA,jail-kot-rj@nic.in
+State,Rajasthan,1,Central Jail,9,7,Bharatpur,05644-260282,NO,NO,NO,Central Jail Bharatpur,NA,bprjail@gmail.com
+State,Rajasthan,1,Central Jail,9,8,Sriganganagar,0154-2444153,NO,NO,NO,Central Jail Sriganganagar -335001,NA,jail-gan-rj@nic.in
+State,Rajasthan,1,Central Jail,9,9,Alwer,0144-2701269/9413916688,YES,YES,YES,Central Jail Alwar,NA,alwarjail@gmail.com
+State,Rajasthan,2,District Jail,24,1,Dholpur,05642-220662,NO,NO,NO,NA,NA,supjaildholpur@gmail.com
+State,Rajasthan,2,District Jail,24,2,Tonk,01432-253095/9784000171,NO,NO,NO,NA,NA,icjailtonk@gmail.com
+State,Rajasthan,2,District Jail,24,3,Banswara,9950351691/02962-242785,YES,YES,YES,D J Banswara,NA,ic.jail.banswara@gmail.com
+State,Rajasthan,2,District Jail,24,4,Baran,9460150514,NO,NO,NO,NA,NA,jail-brn-rj@nic.in
+State,Rajasthan,2,District Jail,24,5,Barmer,02982-220165,NO,NO,NO,"Districct Jail, Barmer-344001",NA,barmerjail04@gmail.com
+State,Rajasthan,2,District Jail,24,6,Bhilwara,01482-227922,NO,NO,NO,"Near of Ajmer Chouraha, Dist. Jail Bhilwara",NA,dysupdt.bhl@gmail.com
+State,Rajasthan,2,District Jail,24,7,Bundi,9828200739,NO,NO,NO,NA,NA,icjailbundi@gmail.com
+State,Rajasthan,2,District Jail,24,8,Churu,01562-250292,YES,NO,NO,NA,NA,jail-chu-rj@nic.in
+State,Rajasthan,2,District Jail,24,9,Dausa,01427-224320,YES,NO,NO,Dausa,NA,jaildausha002@gmail.com
+State,Rajasthan,2,District Jail,24,10,Dungarpur,02964-232391/9166121309,YES,YES,YES,Dungarpur,NA,jail-dun-rj@nic.in
+State,Rajasthan,2,District Jail,24,11,Gangapur City,07463-232361,NO,NO,NO,NA,NA,iqbalahmad651@gmail.com
+State,Rajasthan,2,District Jail,24,12,Jaisalmer,02992-250931,NO,NO,NO,Dist. Jail Jaisalmer-345001,NA,jail-jai-rj@nic.in
+State,Rajasthan,2,District Jail,24,13,Jalore,02973-222476,NO,NO,NO,"Dist. Jail, Jalore-343001",NA,jail-jl-rj@nic.in
+State,Rajasthan,2,District Jail,24,14,Jhalawar,9414075046,NO,NO,NO,NA,NA,jail-jha-rj@nic.in
+State,Rajasthan,2,District Jail,24,15,Jhunjhunu,1592-232347,NO,NO,NO,Dist. Jail Jhujhunu Krishi Upaj Mandi,"Mandava Road, Jhijhunu",distjailjjn@gmail.com
+State,Rajasthan,2,District Jail,24,16,"District Jail, Nagaur",01582-240284,NO,NO,NO,"Near Collectorate, Dist. Jail Nagaur",NA,jail-nag-rj@nic.in
+State,Rajasthan,2,District Jail,24,17,Pali,02932-222404,NO,NO,NO,Dist. Jail Pali Behind Collector's Office Pali,NA,NA
+State,Rajasthan,2,District Jail,24,18,Pratapgarh,9414322662/01478-222100,YES,YES,YES,D.J. Pratapgarh,NA,dyspjailpgh@gmail.com
+State,Rajasthan,2,District Jail,24,19,Rajasmand,9549390255-02952-222580,YES,YES,YES,D J Rajasamand,NA,dysuptdrajasmand@gmail.com
+State,Rajasthan,2,District Jail,24,20,Sikar,01572-249167,NO,YES,NO,NA,NA,disttjailskr@yahoo.com
+State,Rajasthan,2,District Jail,24,21,Sirohi,02972-222363,NO,NO,NO,Dist. Jai Sirohi-307001,NA,districtjailsirohi@gmail.com
+State,Rajasthan,2,District Jail,24,22,Hanumangarh,01552-260715,NO,YES,NO,NA,NA,jail-han-rj@nic.in
+State,Rajasthan,2,District Jail,24,23,D.J. Chittorgarh,9414343349/01472-240052,YES,YES,YES,D J Chittorgarh,NA,jail-chi-rj@nic.in
+State,Rajasthan,2,District Jail,24,24,Karoli,07464-250355,NO,NO,NO,NA,NA,jail-kar@nic.in
+State,Rajasthan,3,Sub Jail,60,1,Beawar,01462-240214/9461025758,NO,NO,NO,Sandaria Beawar,NA,subjailbeawar@gmail.com
+State,Rajasthan,3,Sub Jail,60,2,Behror,9024612344,NO,NO,NO,Sub Jail Behror,NA,swamishourabh1@gmail.com
+State,Rajasthan,3,Sub Jail,60,3,Kisangarbas,9468590330,NO,NO,NO,NA,NA,NA
+State,Rajasthan,3,Sub Jail,60,4,Kushalgarh,9460060898/02965-275304,NO,NO,NO,Sub Jail Kushalgarh Dist. Bhanswara,NA,NA
+State,Rajasthan,3,Sub Jail,60,5,Chhabra,9660400120,NO,NO,NO,NA,NA,NA
+State,Rajasthan,3,Sub Jail,60,6,Balotra,02988-220396,NO,NO,NO,Sub Jail Balotara Dist. Barmer,NA,NA
+State,Rajasthan,3,Sub Jail,60,7,Deeg,05641-220543,NO,NO,NO,NA,NA,mohitrkcldeeg@gmail.com
+State,Rajasthan,3,Sub Jail,60,8,Bayana,05648-225766,NO,NO,NO,NA,NA,psps545@gmail.com
+State,Rajasthan,3,Sub Jail,60,9,Gangapur,01485-230309,NO,NO,NO,"In front of Satelite, Hospital, Jahajpur",Dist. Bhilwara,NA
+State,Rajasthan,3,Sub Jail,60,10,Shapura,01484-22827,NO,NO,NO,Incharge Sub Jail Mahalo ka Chok Shahpura,Dist. Bhilwara,NA
+State,Rajasthan,3,Sub Jail,60,11,Gulabpura,01483-223817,NO,NO,NO,"Sub jail, Near of Court, gulab Pura",Dist. Bhilwara,NA
+State,Rajasthan,3,Sub Jail,60,12,Mandalgarh,01489-23244,NO,NO,NO,"Incharge Sub Jail in front of Court, Kota Road","Mandak Garh, Dist. Bhilwara",NA
+State,Rajasthan,3,Sub Jail,60,13,Jahajpur,01485-230309,NO,NO,NO,"Incharge Sub Jail, in Front of Satelite, Hospital",Jahajpur Dist. Bhilwara,NA
+State,Rajasthan,3,Sub Jail,60,14,Nokha,01531-220443,NO,NO,NO,backside of Karshi Area Sadar Jail Okha phon,NA,jailnokha@gmail.com
+State,Rajasthan,3,Sub Jail,60,15,Nainwa,9783098725,NO,NO,NO,NA,NA,NA
+State,Rajasthan,3,Sub Jail,60,16,Rajgarh,01559-225129,NO,NO,NO,NA,NA,NA
+State,Rajasthan,3,Sub Jail,60,17,Ratangarh,01567-222219,NO,NO,NO,NA,NA,NA
+State,Rajasthan,3,Sub Jail,60,18,Nimbahera,9414365307/01477-221437,NO,NO,NO,Sub Jail Nimbahera Dist. Chittorgarh,NA,NA
+State,Rajasthan,3,Sub Jail,60,19,Choti Sadari,9680463436/01473-262163,NO,NO,NO,Sub Jail Choti Sadari Dist. Pratapgarh,NA,jelar2014.jc@gmail.com
+State,Rajasthan,3,Sub Jail,60,20,Bengu,01474-230023,NO,NO,NO,"Sub Jail Bengu, Dist. Chittorgarh",NA,jail.begun.raj@gmail.com
+State,Rajasthan,3,Sub Jail,60,21,Kapasan,9799143702-01476-230130,NO,NO,NO,"Sub Jail Kapasan, Dist. Chittorgarh",NA,NA
+State,Rajasthan,3,Sub Jail,60,22,Bandikui,01420-216411,NO,NO,NO,Sub Jail Bandikui,NA,adityavyas@gmail.com
+State,Rajasthan,3,Sub Jail,60,23,Sagwara,9929244259/02966-254711,NO,NO,NO,"Sub Jail Sagwara, Dist. Dungarpur",NA,NA
+State,Rajasthan,3,Sub Jail,60,24,Raisinghnagar,01507-220061,NO,NO,NO,Sub Jail Raisinghnagar,NA,jitenderarora500@gmail.com
+State,Rajasthan,3,Sub Jail,60,25,Srikaranpur,01501-226973,NO,NO,NO,Sub jail Srikaranpur,NA,limbacomputers@gmail.com
+State,Rajasthan,3,Sub Jail,60,26,Bhadra,01504-22158,NO,NO,NO,NA,NA,NA
+State,Rajasthan,3,Sub Jail,60,27,Surat Garh,01509-222148,NO,NO,NO,Sub jail Suratgarh,NA,jailsuratgarh@gmail.com
+State,Rajasthan,3,Sub Jail,60,28,Nohrar,01555-221156,NO,NO,NO,NA,NA,NA
+State,Rajasthan,3,Sub Jail,60,29,Sambher,01425-214492,NO,NO,NO,Sub Jail Sambharlake,NA,NA
+State,Rajasthan,3,Sub Jail,60,30,Kotputli,01421-215264/9468856117,NO,NO,NO,Sub Jail Kotputli,NA,NA
+State,Rajasthan,3,Sub Jail,60,31,Pokran,02994-222632,NO,NO,NO,"Sub Jail Pokran, Jaisalmer Road, Pokran",Dist. Jaisalmer-345021,NA
+State,Rajasthan,3,Sub Jail,60,32,Bhinmal,02969-221300,NO,NO,NO,"Sub Jail, Bheenmal, Dist. Jalore-343029",NA,mbg352@gmail.com
+State,Rajasthan,3,Sub Jail,60,33,Sanchore,02979-283654,NO,NO,NO,"sub Jail, Sanchor, Dist. Jalore-343041",NA,vajhelacyber2005@gmail.com
+State,Rajasthan,3,Sub Jail,60,34,Aklera,9460939145,NO,NO,NO,NA,NA,NA
+State,Rajasthan,3,Sub Jail,60,35,Bhawani Mandi,9772782863,NO,NO,NO,NA,NA,NA
+State,Rajasthan,3,Sub Jail,60,36,Khetri,7891973070,NO,NO,NO,Sub Jail Near Govt. Ajit Hospital Khetri,NA,NA
+State,Rajasthan,3,Sub Jail,60,37,Falaudi,02925-222320,NO,NO,NO,sub Jail Phalaudi Dist. Jodhpur-342301,NA,NA
+State,Rajasthan,3,Sub Jail,60,38,Bilara,02930-222420,NO,NO,NO,Sub Jail Bilara (Pichyag) Dist. Jodhpur-342002,NA,NA
+State,Rajasthan,3,Sub Jail,60,39,Sangod,9602055414,NO,NO,NO,NA,NA,muskantelecom8@gmail.com
+State,Rajasthan,3,Sub Jail,60,40,Ramganjmandi,9414764716,NO,NO,NO,NA,NA,dineshprinters2009@gmail.com
+State,Rajasthan,3,Sub Jail,60,41,Parbatsar,01589-270066,NO,NO,NO,"Sub Jail Parabatsar, Dist. Nagaur",NA,NA
+State,Rajasthan,3,Sub Jail,60,42,Merta City,01590-220957,NO,NO,NO,"SubJail Merta City, Dist. Nagaur",NA,NA
+State,Rajasthan,3,Sub Jail,60,43,Deedwana,01580-220399,NO,NO,NO,"Sub Jail Didwana, Dist. Nagaur",NA,NA
+State,Rajasthan,3,Sub Jail,60,44,Bali,02938-222264,NO,NO,NO,Sub Jail Bali Dist. Pali-36701,NA,balijail67@gmail.com
+State,Rajasthan,3,Sub Jail,60,45,Sojat City,02960-222263,NO,NO,NO,"sub Jail Sojat city, Dist. Pali-306104",NA,NA
+State,Rajasthan,3,Sub Jail,60,46,Jaitaran,02939-200456,NO,NO,NO,"Sub Jail, Jaitaran Dist. Pali",NA,NA
+State,Rajasthan,3,Sub Jail,60,47,Bhim,02951-250060,NO,NO,NO,Sub Jail Bhim Dist. Rajasmand,NA,NA
+State,Rajasthan,3,Sub Jail,60,48,Swaimadhopur,07462-220348,NO,NO,NO,NA,NA,tchandra-gupta85@gmail.com
+State,Rajasthan,3,Sub Jail,60,49,Hindon,07469-232864,NO,NO,NO,NA,NA,vstdhnd@gmail.com
+State,Rajasthan,3,Sub Jail,60,50,Neemkathana,01572-230097,NO,NO,NO,Sub Jail Neemkathana,NA,NA
+State,Rajasthan,3,Sub Jail,60,51,Fatehpur Shekhawati,01571-232272,NO,NO,NO,"Sub Jail Fatehpur, Shekhawati",NA,NA
+State,Rajasthan,3,Sub Jail,60,52,Abu Road,02974-222874,NO,NO,NO,"Sub Jail, Aabu Road, Dist. Sirohi-307026",NA,NA
+State,Rajasthan,3,Sub Jail,60,53,Malpura,01437-226328,NO,NO,NO,NA,NA,NA
+State,Rajasthan,3,Sub Jail,60,54,Kanor,02957-233380/9784292634,NO,NO,NO,"Sub Jail Kanor, Dist. Udaipur",NA,NA
+State,Rajasthan,3,Sub Jail,60,55,Kotara,02958-227849/9828273815,NO,NO,NO,"Sub Jail Kotara, Dist. Udaipur",NA,NA
+State,Rajasthan,3,Sub Jail,60,56,Mavli,02955-263196/9460803592,NO,NO,NO,"Sub ail Mavli, Dist. Udaipur",NA,NA
+State,Rajasthan,3,Sub Jail,60,57,Salumber,02906-232369/9799854564,NO,NO,NO,"Sub Jail Salumber, Dist. Udaipur",NA,NA
+State,Rajasthan,3,Sub Jail,60,58,Jhadol,02959-270046/9983783478,NO,NO,NO,sub Jail Jhadol Dist. Udaipur,NA,NA
+State,Rajasthan,3,Sub Jail,60,59,Atru,9414991851,NO,NO,NO,NA,NA,rajcompatru@gmail.com
+State,Rajasthan,3,Sub Jail,60,60,Anupgarh,01498-252555,NO,NO,NO,Sub Jail Anupgarh,NA,jailanupgarh@gmail.com
+State,Rajasthan,4,Women Jail,2,1,Mahila Bandi Sudhargrih Jaipur,NA,NO,YES,NO,Mahila Bandi Sudhargarh Ghategate Jaipur,NA,NA
+State,Rajasthan,4,Women Jail,2,2,Women Prison Jodhpur,0291-2650838,NO,NO,NO,"Near Central Jail, Jodhpur-342001",NA,jail-jod-rj@nic.in
+State,Rajasthan,5,Borstal School,1,1,Bal Sudhar Grah Jaitaran,9413484767/02939-200456,NO,NO,NO,"Sub Jail Jaitaran, Dist. Pali-306302",NA,NA
+State,Rajasthan,6,Open Jail,29,1,Open Air Camp Sanganer,NA,NO,NO,NO,Dr. Sampurnanand Open air Camp. Sanganer Jaipur,NA,NA
+State,Rajasthan,6,Open Jail,29,2,Open Air Camp Durgapura,NA,NO,NO,NO,Open Air Camp,NA,NA
+State,Rajasthan,6,Open Jail,29,3,OAC Jaitsar,NA,NO,NO,NO,OAC Jaitsar Sriganganagar,NA,NA
+State,Rajasthan,6,Open Jail,29,4,Open Air Camp Mandor Jodhpur,NA,NO,NO,NO,Near Mandor Garden Open air Camp Mandor,Dist. Jodhpur-342007,NA
+State,Rajasthan,6,Open Jail,29,5,Open Camp Bharatpur,05644-260282,NO,NO,NO,Central Jail Bharatpur,NA,bprjail@gmail.com
+State,Rajasthan,6,Open Jail,29,6,Beechawal,NA,NO,NO,NO,Open Camp Beechwel,NA,NA
+State,Rajasthan,6,Open Jail,29,7,Hanumangarh,NA,NO,NO,NO,Kohala Form Hanuangarh Town,NA,NA
+State,Rajasthan,6,Open Jail,29,8,Udaipur,0294-2486593/9414234134,NO,NO,NO,Dist. Udaipur,NA,cjudaipur@yahoo.in
+State,Rajasthan,6,Open Jail,29,9,Open Air Camp Alwar,NA,NO,NO,NO,Open Air Camp Alwar,NA,NA
+State,Rajasthan,6,Open Jail,29,10,Kota,7597141092,NO,NO,NO,NA,NA,NA
+State,Rajasthan,6,Open Jail,29,11,OAC Sriganganagar,NA,NO,NO,NO,OAC Sriganganagar,NA,NA
+State,Rajasthan,6,Open Jail,29,12,"Open Air Camp Keshvana, Jalore",NA,NO,NO,NO,"Agriculture Research Centre, Keshvana, Open Air Ca",Keshvana Dist. Jalore-343001,NA
+State,Rajasthan,6,Open Jail,29,13,Bhad un Beechwel,NA,NO,NO,NO,Open Camp Bhad un Beechwel,NA,NA
+State,Rajasthan,6,Open Jail,29,14,Open Camp Sikar,01572-249167,NO,NO,NO,Jail Campus Sikar,NA,NA
+State,Rajasthan,6,Open Jail,29,15,Open Air Camp Jhujhunu,NA,NO,NO,NO,Open Camp Jhujhunu,NA,NA
+State,Rajasthan,6,Open Jail,29,16,"Open Jail, Tonk",01432-253095/9784000171,NO,NO,NO,NA,NA,icjailtonk@gmail.com
+State,Rajasthan,6,Open Jail,29,17,Chittorgarh,9414343349/01472-240052,NO,NO,NO,Dist. Chittorgarh,NA,jail-chi-rj@nic.in
+State,Rajasthan,6,Open Jail,29,18,Dholpur,05642-220662,NO,NO,NO,NA,NA,bprjail@gmail.com
+State,Rajasthan,6,Open Jail,29,19,Open Air Camp Jaisalmer,NA,NO,NO,NO,"Open Air Camp Jaisalmer, Dist. Jaisalmer-345001",NA,NA
+State,Rajasthan,6,Open Jail,29,20,Pratapgarh,9414322662/01478-222100,NO,NO,NO,Dist. Pratapgarh,NA,dyspjailpgh@gmail.com
+State,Rajasthan,6,Open Jail,29,21,Open Air Camp Barmer,NA,NO,NO,NO,"Near Dist. Jail Barmer, Open Air Camp",Barmer Dist. Barmer-344001,NA
+State,Rajasthan,6,Open Jail,29,22,"Open Jail, Bhilwara",01482-227922,NO,NO,NO,NA,NA,dysupdt.bhl@gmail.com
+State,Rajasthan,6,Open Jail,29,23,"Open Jail, Nagaur",01582-240284,NO,NO,NO,"Near Collectorate, Dist. Jail Nagaur",NA,"jailnagaur@gmail.com, jail-nag-rj@nic.in"
+State,Rajasthan,6,Open Jail,29,24,OAC Narsinghpura,NA,NO,NO,NO,OAC Narsinghpura Sriganganagar,NA,NA
+State,Rajasthan,6,Open Jail,29,25,Open Camp Khatusyamji,9667311321,NO,NO,NO,Kisan Go Sewa Samiti Khatusyamji OAC Parbhari,NA,NA
+State,Rajasthan,6,Open Jail,29,26,Shree Krishan Ghushala Goluwala,NA,NO,NO,NO,Goluwala Hanungarh,NA,NA
+State,Rajasthan,6,Open Jail,29,27,Kalyan Bhumi Sriganganagar,NA,NO,NO,NO,Goshala Sriganganagar,NA,NA
+State,Rajasthan,6,Open Jail,29,28,Pakasarana,NA,NO,NO,NO,Pakasarana,NA,NA
+State,Rajasthan,6,Open Jail,29,29,Revasa (Sikar),NA,NO,NO,NO,Open Jail Reasa (Sikar),NA,NA
+State,Rajasthan,7,Special Jail,1,1,High Security Jail Ajmer,"0145-2787416, 9414016899",NO,NO,NO,NA,NA,hs.ajmrj@gmail.com
+State,Rajasthan,8,Other Jail,1,1,High Security Jail Ajmer,9414016899/0145-2787416,NO,NO,NO,NA,NA,hs.ajmrj@gmail.com
+State,Sikkim,1,Central Jail,1,1,Central Prison Rongyek East Sikkim,9800002600,NO,NO,NO,Sr. S.P. Prisons/ H O D,NA,NA
+State,Sikkim,2,District Jail,1,1,"District Prison Namchi, South Sikkim",9593582844,NO,NO,NO,NA,NA,NA
+State,Tamil Nadu,1,Central Jail,9,1,Central Prison-I Puzhal,4426590615,YES,NO,NO,"Puzhal,",NA,centralprison1@gmail.com
+State,Tamil Nadu,1,Central Jail,9,2,Central Prison-II Puzhal,4426590350,YES,NO,NO,Puzhal,NA,centralprison2@gmail.com
+State,Tamil Nadu,1,Central Jail,9,3,Central Prison Vellore,0416 2220003,YES,NO,NO,"Thorapadi, Vellore",NA,supdtpri@bsnl.in
+State,Tamil Nadu,1,Central Jail,9,4,Central Prison Cuddalore,04142-235027,YES,NO,NO,"Keppermalai, Cuddalore",NA,centralprisoncud@gmail.com
+State,Tamil Nadu,1,Central Jail,9,5,Central Prison Salem,0427-2403551,YES,NO,NO,Yercaud Main Road Salem,NA,cpsalem@gmail.com
+State,Tamil Nadu,1,Central Jail,9,6,Central Prison Coimbatore,0422-2303062,YES,NO,NO,Gandhipuram Coimbatore,NA,cpcbe18@gmail.com
+State,Tamil Nadu,1,Central Jail,9,7,Central Prison Trichy,0431 2333212,YES,NO,NO,"Puddukottai Road, Trichy-620020",NA,supdtcjl@bsnl.in
+State,Tamil Nadu,1,Central Jail,9,8,Central Prison Madurai,0452 2360031,YES,NO,NO,"New Jail Road, Arasaradi, Madurai-625016",NA,cpmdu16@gmail.com
+State,Tamil Nadu,1,Central Jail,9,9,Central Prison Palayamkottai,0462 2531845,YES,NO,NO,"Palayamkottai, Tiruvelveli District-627002",NA,cppalay@gmail.com
+State,Tamil Nadu,2,District Jail,9,1,District Jail Pudukottai,04322-232808,NO,NO,NO,"New Aranmanai Street, Pudukottai-622001",NA,NA
+State,Tamil Nadu,2,District Jail,9,2,District Jail Dindugal,0451-2440155,NO,NO,NO,"Tashildar Office Complex, Dindigul District-624533",NA,NA
+State,Tamil Nadu,2,District Jail,9,3,District Jail Srivaikundam,04651-256461,NO,NO,NO,tuticorin-628601,NA,NA
+State,Tamil Nadu,2,District Jail,9,4,District Jail Nagercoil,04652-279576,NO,NO,NO,Kanyakumari District-629001,NA,NA
+State,Tamil Nadu,2,District Jail,9,5,District Jail Virudhunagar,04562-265051,NO,NO,NO,"Madurai Road, Virudhunagar District-626001",NA,NA
+State,Tamil Nadu,2,District Jail,9,6,District Jail Ramnad,04567-220013,NO,NO,NO,Tashildar Office Inside Vandikaran Street,Ramanathapuram District-623501,NA
+State,Tamil Nadu,2,District Jail,9,7,District Jail Attur,04282-243524,NO,NO,NO,Tashildar Office Complex Athur-636102,NA,cpsalem@gmail.com
+State,Tamil Nadu,2,District Jail,9,8,District Jail Nagapattinam,04365-240735,NO,NO,NO,Behind Velipalayam Police Station,Near Taluk Supply Office Court Campus Nagapattinam,NA
+State,Tamil Nadu,2,District Jail,9,9,District Jail Gobe Chetipalayam,04285-221077,NO,NO,NO,Head post Office (PO) Gobichettipalayam,Erode District-638452,NA
+State,Tamil Nadu,3,Sub Jail,96,1,Sub Jail Saidapet,044-22351601,NO,NO,NO,Taluk Office Road Little Mount Saidapet,Chennai-600015,NA
+State,Tamil Nadu,3,Sub Jail,96,2,Sub Jail Madhuranthagam,044-27555354,NO,NO,NO,Hospital Road Maduranthangam-603306,Kancheepuram Dist.,NA
+State,Tamil Nadu,3,Sub Jail,96,3,Sub Jail Kanchipuram,044-27223525,NO,NO,NO,Kamarajar Street Kancheepuram-631502,Kancheepuram Dist.,NA
+State,Tamil Nadu,3,Sub Jail,96,4,Sub Jail Thiruvallore,044-27663577,NO,NO,NO,Taluk Office Complex Jawaharlal Nehru Road,Thiruvallur Dist.-602001,NA
+State,Tamil Nadu,3,Sub Jail,96,5,Sub Jail Tirutani,044-27880118,NO,NO,NO,"Gandhi Road, Near Tiruthani Police Station",Tiruthani-631209,NA
+State,Tamil Nadu,3,Sub Jail,96,6,Sub Jail Ponneri,044-27973217,NO,NO,NO,No.1 Taluk Office Road,Ponneri-601204 Thiruvallur Dist.,NA
+State,Tamil Nadu,3,Sub Jail,96,7,Sub Jail Ambur,04174-249267,NO,NO,NO,"Broad Bazar, Ambur Post & Taluk",Vellore Dist.-635802,NA
+State,Tamil Nadu,3,Sub Jail,96,8,Sub Jail Arakonam,04177-231666,NO,NO,NO,"Gandhi Road, Old Court Complex","Arakonam Post & Taluk, Vellore Dist.-631001",NA
+State,Tamil Nadu,3,Sub Jail,96,9,Sub Jail Gudiyatham,04171-228122,NO,NO,NO,R S Road Near Tashildar Office,Gudiyatham Vellore Dist.-632602,NA
+State,Tamil Nadu,3,Sub Jail,96,10,Sub Jail Thirupathur,04179-224395,NO,NO,NO,"Krishnagiri Main Road, Near Tashildar Office","Tirupathur Post & Taluk, Vellore Dist-635601",NA
+State,Tamil Nadu,3,Sub Jail,96,11,Sub Jail Vaniyambadi,04174-232967,NO,NO,NO,"Neru Street, No.3 Jkatcherry Road",Vaniambadi Post & Taluk Vellore Dist.-635751,NA
+State,Tamil Nadu,3,Sub Jail,96,12,Sub Jail Walaja,04172-232872,NO,NO,NO,"Wallajah Post & Taluk, Wallajah",Vellore Dist.-632513,NA
+State,Tamil Nadu,3,Sub Jail,96,13,Sub Jail Arni,04173-228002,NO,NO,NO,Near New Bus Stand Arani Post & Taluk,Arani Tiruvannamalai Dist.-632301,NA
+State,Tamil Nadu,3,Sub Jail,96,14,Sub Jail Chengam,04188-222688,NO,NO,NO,"Raja Veethi, Chengam Post & Taluk","Chengam, Tiruvannamalai Dist.-606701",NA
+State,Tamil Nadu,3,Sub Jail,96,15,Sub Jail Cheyyar,NA,NO,NO,NO,"Arcot Road, Cheyyar Post & Taluk",Cheyyar Tiruvannamalai Dist.-604407,NA
+State,Tamil Nadu,3,Sub Jail,96,16,Sub Jail Polur,NA,NO,NO,NO,"anna Salai, Tashildar Office Complex","Polur Post & Taluk, Tiruvannamalai Dist.-606601",NA
+State,Tamil Nadu,3,Sub Jail,96,17,Sub Jail Thiruvannamalai,04175-250504,NO,NO,NO,"Anna Salai, Tashildar Office Complex",Tiruvannamalai Po & Taluk-606601,NA
+State,Tamil Nadu,3,Sub Jail,96,18,Sub Jail Vandavasi,04183-226301,NO,NO,NO,"Kancheepuram Road, Vandavasi Post & Taluk",Vandavasi Tiruvannamalai Dist.-604408,NA
+State,Tamil Nadu,3,Sub Jail,96,19,Sub Jail Chidambaram,04144-226739,NO,NO,NO,Chidambaram Cuddalore Dist.-608001,NA,NA
+State,Tamil Nadu,3,Sub Jail,96,20,Sub Jail Virudhachalam,04143-239047,NO,NO,NO,"Virudachalam, Cuddalore Dist.-606001",NA,NA
+State,Tamil Nadu,3,Sub Jail,96,21,Sub Jail Portonova,NA,NO,NO,NO,NA,NA,NA
+State,Tamil Nadu,3,Sub Jail,96,22,Sub Jail Cuddalore,04142-220642,NO,NO,NO,Cuddalore Dist.-607001,NA,NA
+State,Tamil Nadu,3,Sub Jail,96,23,Sub Jail Kallakurichi,04151-223500,NO,NO,NO,"Kallakurchi, Villupram Dist.-606202",NA,NA
+State,Tamil Nadu,3,Sub Jail,96,24,Sub Jail Villupuram,04146-222660,NO,NO,NO,"Sub Jail, Villupuram",Villupuram Dist.-605602,NA
+State,Tamil Nadu,3,Sub Jail,96,25,Sub Jail Tindivanam,04147-228730,NO,NO,NO,"Sub Jail Thindivanam, Villpuram Dist.-604001",NA,NA
+State,Tamil Nadu,3,Sub Jail,96,26,Sub Jail Ulundurpet,04149-221578,NO,NO,NO,"Sub Jail Ulundurpet, Villupuram Dist.-606107",NA,NA
+State,Tamil Nadu,3,Sub Jail,96,27,Sub Jail Thirukovilur,04153-252461,NO,NO,NO,"Sub Jail Thirukovilur, Sandaipettai",Villupuram Dist.-605766,NA
+State,Tamil Nadu,3,Sub Jail,96,28,Sub Jail Manaparai,04332-262100,NO,NO,NO,Tashildhar Office Building Complex,Trichy Main Road SubJail Manaparai Trichy-621306,NA
+State,Tamil Nadu,3,Sub Jail,96,29,Sub Jail Lalgudi,0431-2543033,NO,NO,NO,"Tasildar Office Building Complex, Siruthaiyur","Trichy Main Road, Sub Jail, Lalgudi Trichy Dist.-6",NA
+State,Tamil Nadu,3,Sub Jail,96,30,Sub Jail Musiri,NA,NO,NO,NO,"Sub Jail, Tasildhar Office Building Complex",Musiri Trichy Dist.-621211,NA
+State,Tamil Nadu,3,Sub Jail,96,31,Sub Jail Thuraiyur,04327-222133,NO,NO,NO,Sub Jail Tasildhar Office Building Trichy,Main Road Sub Thuraiyur Trichy Dist.-621010,NA
+State,Tamil Nadu,3,Sub Jail,96,32,Sub Jail Perambalur,04328-278900,NO,NO,NO,Sub Jail Tasildhar Office Building Near Old Bus,"Stand Sub Jail, Perambalur Dist.-621212",NA
+State,Tamil Nadu,3,Sub Jail,96,33,Sub Jail Jeyamkondam,04331-251624,NO,NO,NO,"Tashildhar Office Building, Katcheri Road",sub Jail Jeyamkondam Ariyalur Dist.-621802,NA
+State,Tamil Nadu,3,Sub Jail,96,34,Sub Jail Karur,04324-261360,NO,NO,NO,Tasildhar office Building Jawahar Bazar,"Sub Jail, Karur Dist.-639001",NA
+State,Tamil Nadu,3,Sub Jail,96,35,Sub Jail Kulithalai,04323-225215,NO,NO,NO,Tasildhar Office Building Karur Main Road,sub Jail Kulithalai Karur Dist.-639104,NA
+State,Tamil Nadu,3,Sub Jail,96,36,Sub Jail Omalur,04290-221295,NO,NO,NO,Tasildhar Office Complex,Omalur-636455,NA
+State,Tamil Nadu,3,Sub Jail,96,37,Sub Jail Namakkal,04286-228432,NO,NO,NO,Tasildhar Office Complex,Namakkal-637001,NA
+State,Tamil Nadu,3,Sub Jail,96,38,Sub Jail Rasipuram,04287-220100,NO,NO,NO,Tasildhar Office Complex,Rasipuram-637408,NA
+State,Tamil Nadu,3,Sub Jail,96,39,Sub Jail Thiruchengode,04288-255505,NO,NO,NO,Tasildhar Office Complex,Tiruchengodu-637211,NA
+State,Tamil Nadu,3,Sub Jail,96,40,Sub Jail Dharmapuri,04342-269292,NO,NO,NO,Tasildhar Office Complex,Dharamapuri-636701,NA
+State,Tamil Nadu,3,Sub Jail,96,41,Sub Jail Harur,04346-220622,NO,NO,NO,Tasildhar Office Complex,Harur-636903,NA
+State,Tamil Nadu,3,Sub Jail,96,42,Sub Jail Hosur,04344-223310,NO,NO,NO,Tasildhar Office Complex,Hosur-635109,NA
+State,Tamil Nadu,3,Sub Jail,96,43,Sub Jail Uthangarai,04341-222201,NO,NO,NO,Near Uthangarai Police Station,Uthangarai-635207,NA
+State,Tamil Nadu,3,Sub Jail,96,44,Sub Jail Erode,0424-2260248,NO,NO,NO,Katcheri Street Erode Dist.-638001,NA,NA
+State,Tamil Nadu,3,Sub Jail,96,45,Sub Jail Perundurai,04294-220584,NO,NO,NO,"Bunglow Street, Perundurai",Erode Dist.-638052,NA
+State,Tamil Nadu,3,Sub Jail,96,46,Sub Jail Bhavani,04256-232993,NO,NO,NO,mettupalayam Road Bhavani,Erode Dist.-638301,NA
+State,Tamil Nadu,3,Sub Jail,96,47,Sub Jail Sathyamangalam,04295-223623,NO,NO,NO,Rangasamuthram (PO) Sathyamangalam,Erode Dist.-638402,NA
+State,Tamil Nadu,3,Sub Jail,96,48,Sub Jail Tiruppur,0421-2230311,NO,NO,NO,"Uthukuli Road, Tiruppur Main (PO)",Tiruppur Dist.-641601,NA
+State,Tamil Nadu,3,Sub Jail,96,49,Sub Jail Avinashi,04296-272113,NO,NO,NO,Kamarajar Street Opp. To Taluk Office Avinashi,Tiruppur Dist.-641664,NA
+State,Tamil Nadu,3,Sub Jail,96,50,Sub Jail Palladam,04255-254100,NO,NO,NO,"Police Station Road, Palladam",Tiruppur Dist.-641664,NA
+State,Tamil Nadu,3,Sub Jail,96,51,Sub Jail Udumalaipet,04252-226369,NO,NO,NO,Katcheri Street Udumelpet & (AO),Tiruppur Dist.-642126,NA
+State,Tamil Nadu,3,Sub Jail,96,52,Sub Jail Dharapuram,04258-227171,NO,NO,NO,"Udumalai Road, Near Police Station","Dharapuram, Tiruppur Dist.-638656",NA
+State,Tamil Nadu,3,Sub Jail,96,53,Sub Jail Uthagamandalam,0423-2447870,NO,NO,NO,"Ooty, Nilgiri Dist.-643001",NA,NA
+State,Tamil Nadu,3,Sub Jail,96,54,Sub Jail Coonoor,0423-2206560,NO,NO,NO,"Palakkalava (PO), Near Sub Treasury","Coonoor, Nilgiri Dist.-643202",NA
+State,Tamil Nadu,3,Sub Jail,96,55,Sub Jail Gudalur,04262-261570,NO,NO,NO,"Galiout Road, Gudalur, Nilgiri Dist.-643212",NA,NA
+State,Tamil Nadu,3,Sub Jail,96,56,Sub Jail Vedasandur,04551-260644,NO,NO,NO,Tashildar Office Complex,Vedachandur Dindigul Dist.-624710,NA
+State,Tamil Nadu,3,Sub Jail,96,57,Sub Jail Palani,04545-240755,NO,NO,NO,Tashildar Office Complex,"Dharapuram Road Palani, Dindigul Dist.-624601",NA
+State,Tamil Nadu,3,Sub Jail,96,58,Sub Jail Kodaikanal,04542-241726,NO,NO,NO,"Anna Salai, Kodaikanal",Dindigul Dist.-624101,NA
+State,Tamil Nadu,3,Sub Jail,96,59,Sub Jail Uthamamapalayam,04554-268100,NO,NO,NO,Tashildhar Office Complex Kombai Road,Uthamapalayam Theni Dist.-625533,NA
+State,Tamil Nadu,3,Sub Jail,96,60,Sub Jail Periyakulam,04546-234782,NO,NO,NO,"Tashildar Office Complex, Agamalai Road",Periyakulam Theni Dist.-625601,NA
+State,Tamil Nadu,3,Sub Jail,96,61,Sub Jail Usilampatti,04552-251175,NO,NO,NO,"R.D.O. Office Complex, Peraiyur Road",Periyakulam Usilampatti Madurai Dist.-625532,NA
+State,Tamil Nadu,3,Sub Jail,96,62,Sub Jail Thirumangalam,04549-280457,NO,NO,NO,"Tashildhar Office Complex, Virudhunagar Road",Tirumangalam Madurai Dist.-625706,NA
+State,Tamil Nadu,3,Sub Jail,96,63,Sub Jail Sivangangai,04575-244703,NO,NO,NO,Tashildhar Office Complex Near Weekly Market,Justice Rajasekaran Street Sivangai Dist.-630561,NA
+State,Tamil Nadu,3,Sub Jail,96,64,Sub Jail Thirupathur,04577-266855,NO,NO,NO,Tashildar Office Complex Tirupathur,Sivagangai Dist.-623211,NA
+State,Tamil Nadu,3,Sub Jail,96,65,Sub Jail Thiruvadanai,04561-254542,NO,NO,NO,Tashildar Office Complex Thondi Road,Thiruvadanai Ramanathapuram Dist.-623407,NA
+State,Tamil Nadu,3,Sub Jail,96,66,Sub Jail Mudukulathur,04576-222853,NO,NO,NO,"Sub Jail, Tashildar Office Complex","Kadaladi Road, Mudukulathur Ramanathapuram, Dist",NA
+State,Tamil Nadu,3,Sub Jail,96,67,Sub Jail Aruppukottai,04566-221951,NO,NO,NO,Tashildar Office Complex Arupukottai,Virudhunagar Dist.-626101,NA
+State,Tamil Nadu,3,Sub Jail,96,68,Sub Jail Srivilliputhur,04563-266500,NO,NO,NO,"Rajapalayam Road, Srivilliputhur",Virudhunagar Dist.-626125,NA
+State,Tamil Nadu,3,Sub Jail,96,69,Sub Jail Ambasamudram,04634-253538,NO,NO,NO,Tirunelveli Dist. 627401,NA,NA
+State,Tamil Nadu,3,Sub Jail,96,70,Sub Jail Tenkasi,04633-220101,NO,NO,NO,Tirunelveli Dist. 627811,NA,NA
+State,Tamil Nadu,3,Sub Jail,96,71,Sub Jail Sankarankovil,04636-226101,NO,NO,NO,Tirunelveli Dist. 627756,NA,NA
+State,Tamil Nadu,3,Sub Jail,96,72,Sub Jail Kovilapatti,04632-233573,NO,NO,NO,Tuticorin Dist.-628501,NA,NA
+State,Tamil Nadu,3,Sub Jail,96,73,Sub Jail Tutticorin,0461-2339597,NO,NO,NO,Tuticorin Dist.-628215,NA,NA
+State,Tamil Nadu,3,Sub Jail,96,74,Sub Jail Thiruchendur,04639-246900,NO,NO,NO,Tuticorin Dist.-628215,NA,NA
+State,Tamil Nadu,3,Sub Jail,96,75,Sub Jail Kuzhithurai,04651-264599,NO,NO,NO,Kanyakumari Dist.-629163,NA,NA
+State,Tamil Nadu,3,Sub Jail,96,76,Sub Jail Aranthangi,04371-223945,NO,NO,NO,Annasalai & Near Taluk Office,Aranthangi Pudukottai Dist.-614616,NA
+State,Tamil Nadu,3,Sub Jail,96,77,Sub Jail Thirumayam,04333-274800,NO,NO,NO,Tasildhar Office Compound Madurai Road,Thirumayam-622507 Pudukottai Dist.,NA
+State,Tamil Nadu,3,Sub Jail,96,78,Sub Jail Keeranur,04339-263849,NO,NO,NO,"Taluk Office Road, Near Police Station",Keeranur Pudukottai Dist.-622502,NA
+State,Tamil Nadu,3,Sub Jail,96,79,Sub Jail Thiruvidaimaruthur,0435-2460603,NO,NO,NO,"Kumbakkonam Main Road, Taluk Office Compound","Thiruvidaimaruthur, Thanjavur Dist.-612104",NA
+State,Tamil Nadu,3,Sub Jail,96,80,Sub Jail Papanasam,04374-223450,NO,NO,NO,"Taluk Ofice Road, Court Campus",Papanasam Thanjavur Dist.-614205,NA
+State,Tamil Nadu,3,Sub Jail,96,81,Sub Jail Pattukottai,04373-257100,NO,NO,NO,"Palaniyappan Road, Near Govt. Hospital",Pattukottai Thanjavur Dist.-614601,NA
+State,Tamil Nadu,3,Sub Jail,96,82,Sub Jail Kumbakonam,0435-2402820,NO,NO,NO,Dr. Murthy Road Taluk Office Compound,Kumbakonam Thanjavur Dist.-612001,NA
+State,Tamil Nadu,3,Sub Jail,96,83,Sub Jail Sirkali,04364-273255,NO,NO,NO,"Taluk Office Road, Near Taluk Office",Sirzhali-609110 Nagapattinam Dist.,NA
+State,Tamil Nadu,3,Sub Jail,96,84,Sub Jail Mayiladuthurai,04364-224811,NO,NO,NO,Chinnakadai Street Near Taluk Office,Myladuthurai-609001 Nagapattinam Dist.,NA
+State,Tamil Nadu,3,Sub Jail,96,85,Sub Jail Tharangabadi,04364-289781,NO,NO,NO,"Kaavalar Road, Near Munishvaran Kovil",Tharangambadi Pooraiyar-609307 Nagai Dist.,NA
+State,Tamil Nadu,3,Sub Jail,96,86,Sub Jail Thiruthuraipoondi,04369-222652,NO,NO,NO,Katcheri Road Thiruthuraipoondi-614713,Thiruvarur Dist.,NA
+State,Tamil Nadu,3,Sub Jail,96,87,Sub Jail Nannilam,04366-228014,NO,NO,NO,"Kumbakonam Main Road, Nallamangudi, Behind Addl.","Dravidar Welfare Office, Nannilam-610105 Thiruvaru",NA
+State,Tamil Nadu,3,Sub Jail,96,88,Sub Jail Mannarkudi,04367-225444,NO,NO,NO,"Taluk Office Road, Near Judicial Magistrate-2 Cour","Mannargudi, Thiruvarur Dist.-614001",NA
+State,Tamil Nadu,3,Sub Jail,96,89,Sub Jail Cuddalore,04142-220642,NO,NO,NO,Cuddalore Dist. Cuddalore-607001,NA,NA
+State,Tamil Nadu,3,Sub Jail,96,90,Krishnagiri,04343-238052,NO,NO,NO,Tashildar Office Complex Krishnagiri-635001,NA,NA
+State,Tamil Nadu,3,Sub Jail,96,91,Sub Jail Mettupalayam,04252-228980,NO,NO,NO,"Sirumangai Road, Mettupalayam",Coimbatore Dist.-641301,NA
+State,Tamil Nadu,3,Sub Jail,96,92,Sub Jail Nilakottai,04543-230084,NO,NO,NO,"Tashildar Office Complex, Nilakottai",Dindigul Dist.-624208,NA
+State,Tamil Nadu,3,Sub Jail,96,93,Sub Jail Paramakudi,04564-224788,NO,NO,NO,"Tashildar Office Complex, Gandhiji Road",Paramakudi Ramanathapuram Dist.-623707,NA
+State,Tamil Nadu,3,Sub Jail,96,94,Sub Jail Sathur,04562-263539,NO,NO,NO,Tashildar Office Complex Sathur Main Road,"Sathur, Virudhunagar Dist.-626203",NA
+State,Tamil Nadu,3,Sub Jail,96,95,Sub Jail Thuckalay,04651-256461,NO,NO,NO,Kanyakumari Dist.-629175,NA,NA
+State,Tamil Nadu,3,Sub Jail,96,96,Sub Jail Thiruvarur,04366-244860,NO,NO,NO,South Street Near Taluk Office,Thiruvarur-610002,NA
+State,Tamil Nadu,4,Women Jail,3,1,"Special Prison for Women, Puzhal",044-26590309,YES,NO,NO,Puzhal Chennai-600066 Tiruvallur Dist.,NA,womenpri@bsnl.in
+State,Tamil Nadu,4,Women Jail,3,2,Speical Prison for Women Vellore,0416-2266036,YES,NO,NO,Thorapadi Vellore,NA,womenpri@gmail.com
+State,Tamil Nadu,4,Women Jail,3,3,Special Prison for Women Trichy,0431-2700529,YES,NO,NO,Special Prison for Women Near Gandhi Market Police,Station Palakarai Trichy Dist,NA
+State,Tamil Nadu,5,Borstal School,12,1,Borstal School Puzhal,044-26590302,NO,NO,NO,Borstal School Puzhal Chennai-600066,Tiruvallur Dist.,NA
+State,Tamil Nadu,5,Borstal School,12,2,Borstal School Vellore,0416-2220015,NO,NO,NO,"Central Prison (Annex) Thorapadi, Vellore-632002",NA,NA
+State,Tamil Nadu,5,Borstal School,12,3,Borstal School Panruti,04142-240346,NO,NO,NO,Sub Jail Panruti Cuddalore Dist.-607106,NA,NA
+State,Tamil Nadu,5,Borstal School,12,4,Borstal School Ginjee,04145-224459,NO,NO,NO,"Borstal School Gingee, Villupram Dist.-604202",NA,NA
+State,Tamil Nadu,5,Borstal School,12,5,Borstal School Ariyalur,04329-221221,NO,NO,NO,Tasildhar Office Building Near Ariyalur Bus Stand,Borstal School Ariyalur Dist.-621704,NA
+State,Tamil Nadu,5,Borstal School,12,6,Borstal School Sankari,04283-240590,NO,NO,NO,"Tashildar Office complex, Sankagiri-637301",NA,NA
+State,Tamil Nadu,5,Borstal School,12,7,Borstal School Paramathi,04268-251029,NO,NO,NO,"Tashildar Ofice Complex, Paramathi-637207",NA,NA
+State,Tamil Nadu,5,Borstal School,12,8,Borstal School Pollachi,04259-229633,NO,NO,NO,Palakkad Road Pollachi Coimbatore Dist.-642001,NA,NA
+State,Tamil Nadu,5,Borstal School,12,9,Borstal School Melur,0452-2417076,NO,NO,NO,"Tashildar Office Complex, Trichy Road, Melur",madurai Dist.-625106,NA
+State,Tamil Nadu,5,Borstal School,12,10,Borstal School Nanguneri,04635-250759,NO,NO,NO,Tirunelveli Dist.-627108,NA,NA
+State,Tamil Nadu,5,Borstal School,12,11,Borstal School Thanjavur,04362-277771,NO,NO,NO,"Borstal School, Court Road, Tasildhar Office campu",Thanjavur-613001,NA
+State,Tamil Nadu,5,Borstal School,12,12,Borstal School Pudukottai,04322-222220,YES,NO,NO,"Near Aranmanai Street, Pudukottai-622001",Post Box NO.-27,NA
+State,Tamil Nadu,6,Open Jail,3,1,"Open Air Jail, singanallur",0422-2271060,NO,NO,NO,Open Air Jail Singanallur Ondipudhur (Post),Coimbatore-641016,NA
+State,Tamil Nadu,6,Open Jail,3,2,"Open Air Jail, Purasadaiudaippu",04575-202002,NO,NO,NO,Pulikanmai Post Sivagangai Taluk & Dist.,Kalaiankovil Viz-630551,NA
+State,Tamil Nadu,6,Open Jail,3,3,Farm Jail Salem,0427-2345919,NO,NO,NO,"Moolaikkattukadu, Zahir Ammapalayam","Omalur Main Road, Salem-636005",NA
+State,Tamil Nadu,7,Special Jail,5,1,"Special Sub Jail, Salem",0427-2404103,NO,NO,NO,Female Special Sub Jail Yarkad Main Road,Salem-636007,NA
+State,Tamil Nadu,7,Special Jail,5,2,"Special Sub Jail, Kokkirakulam",0462-2500366,NO,NO,NO,Thirunelveli Dist.-627009,NA,NA
+State,Tamil Nadu,7,Special Jail,5,3,"Special Sub Jail, Poonamallee",NA,NO,NO,NO,Chennai-600056,NA,NA
+State,Tamil Nadu,7,Special Jail,5,4,"Special Sub Jail, Chengalpet",NA,NO,NO,NO,"Kanchipuram High Road, Chengalpet-601001",NA,NA
+State,Tamil Nadu,7,Special Jail,5,5,"Special Sub Jail, Trichy",NA,NO,NO,NO,"Special Sub Jail, Trichy",NA,NA
+State,Telangana,1,Central Jail,3,1,"Central Prison, Hyderabad",040-24527033,YES,NO,NO,"Central Prison, Hyderabad-500024",NA,apprisonscphyd@gmail.com
+State,Telangana,1,Central Jail,3,2,"Central Prison, Cherlapalli",040-27261205,YES,NO,NO,"Central Prison, Cherlapalli Ranga Reddy Dist501301",NA,centralprisoncherlapalli@gmail.com
+State,Telangana,1,Central Jail,3,3,"Central Prison, Warangal","0870-2500578, 9494632478",YES,NO,NO,"Central Prison, Warangal, Rangampet,","Nr Bhadrakali Temple, Warangal-506007",cpwarangal@gmail.com
+State,Telangana,2,District Jail,7,1,"District Jail, Nalgonda",08682-244592/245448,YES,NO,NO,"District Jail, Nalgonda, DVK Road",Nalgonda District-,djnalgonda@gmail.com
+State,Telangana,2,District Jail,7,2,"District Jail, Sangareddy",9494632158,NO,NO,NO,"District Jail, Sangareddy at Kandi (Village)",Medak (Dist.) Telangana,sdjsrd@gmail.com
+State,Telangana,2,District Jail,7,3,"District Jail, Mahabubnagar",08542-278267,YES,NO,NO,"Dist. Jail, Mahabubnagar, Old Palamoor",Mahabubnagar-509001,NA
+State,Telangana,2,District Jail,7,4,"District Jail, Khammam",9494632552,NO,NO,NO,"Dist. Jail, Khammam, Danavaigudem (V)","Mallemadugu (P), Khammam",districtjail.kmm@gmail.com
+State,Telangana,2,District Jail,7,5,"District Jail, Karimnagar",9494632431,NO,NO,NO,"Dist. Jail, Karimnagar, H.NO.2-06-255","Beside Police Head Qtrs, Karimnagar",djk42431@gmail.com
+State,Telangana,2,District Jail,7,6,"District Jail, Adilabad",08732-231533,NO,YES,YES,"Dist. Jail, Adilabad, Kursheed Nagar, Aidlabad",NA,districtjailadb@gmail.com
+State,Telangana,2,District Jail,7,7,"District Jail, Nizamabad","08462-273111, 9494632282",YES,NO,NO,"Dist. Jail, Nizamabad, Sarangapoor",Nizamabad,djnizamabad@gmail.com
+State,Telangana,3,Sub Jail,23,1,"Sub Jail, Bhongir",9494632232,NO,NO,NO,"Court Premises, Main Road, Bongir",NA,NA
+State,Telangana,3,Sub Jail,23,2,"Sub Jail, Devarakonda",9494632252,NO,NO,NO,"Court Back Side, Main Road, Devarakonda",NA,NA
+State,Telangana,3,Sub Jail,23,3,"Sub Jail, Huzurnagar",9908843727,NO,NO,NO,"Court Premises, Huzurnagar",NA,NA
+State,Telangana,3,Sub Jail,23,4,"Sub Jail, Miryalaguda",9494632262,NO,NO,NO,"Vidya Nagar, Miryalaguda",NA,NA
+State,Telangana,3,Sub Jail,23,5,"Sub Jail, Suryapet",9494632242,NO,NO,NO,"Court Premises, Kasturi Bazaar, Suryapet",NA,NA
+State,Telangana,3,Sub Jail,23,6,"Sub Jail, Siddipet",08457-223876,NO,NO,NO,"Opp SBH Siddipet, Medak Dist",NA,NA
+State,Telangana,3,Sub Jail,23,7,"Sub Jail, Medak",08452-220333,NO,NO,NO,"Court Premises, Medak Town, Medak Dist.",NA,NA
+State,Telangana,3,Sub Jail,23,8,"Sub Jail, Jogipet",08450-272155,NO,NO,NO,"Hon'ble JFCM Court Premises, Medak",NA,NA
+State,Telangana,3,Sub Jail,23,9,"Sub Jail, Nagarkurnool",08542-278267,NO,NO,NO,Old Palamoor Mahabubnagar-509001,NA,NA
+State,Telangana,3,Sub Jail,23,10,"Sub Jail, Kalwakurthy",08542-278267,NO,NO,NO,Old Palamoor Mahabubnagar-509001,NA,NA
+State,Telangana,3,Sub Jail,23,11,"Sub Jail, Pargi",NA,NO,NO,NO,"Sub Jail, Pargi, Ranga Reddy Dist.",NA,subjailpargi@gmail.com
+State,Telangana,3,Sub Jail,23,12,"Sub Jail, Jangaon",NA,NO,NO,NO,"Janagaon (M), Warangal Dist.",NA,subjailjng@gmail.com
+State,Telangana,3,Sub Jail,23,13,"Sub Jail, Parkal",NA,NO,NO,NO,"Parkal (M), Warangal Dist.",NA,subjailparkal@gmail.com
+State,Telangana,3,Sub Jail,23,14,"Sub Jail, Narasampet",NA,NO,NO,NO,"Narasampet (M), Warangal Dist.",NA,subjailnarasampet@gmail.com
+State,Telangana,3,Sub Jail,23,15,"Sub Jail, Mahabubabad",NA,NO,NO,NO,"Mahabubabad (M), Warangal Dist.",NA,subjailmahabubabad@gmail.com
+State,Telangana,3,Sub Jail,23,16,"Sub Jail, Madhira","08749-273356,9494632582",NO,NO,NO,"Madhira, Khammam Dist.-507203",NA,NA
+State,Telangana,3,Sub Jail,23,17,"Sub Jail, Sathupally","08761-283084, 9494632592",NO,NO,NO,"Sathupally, Khammam Dist.-507303",NA,NA
+State,Telangana,3,Sub Jail,23,18,"Sub Jail, yellandu","08745-241130, 9492011229",NO,NO,NO,"Yellandu, Khammam Dist.-507123",NA,NA
+State,Telangana,3,Sub Jail,23,19,"Sub Jail, Huzurabad",08727-250343,NO,NO,NO,"Near Court Huzurabad, Karimnagar Dist.",NA,sjhzrbd@apprisons.gov.in
+State,Telangana,3,Sub Jail,23,20,"Sub Jail, Luxettipet",08739-238679,NO,NO,NO,"Beside JFCM Court, Luxettipet, Adilabad-504125",NA,NA
+State,Telangana,3,Sub Jail,23,21,"Sub Jail, Armoor",9494632339,NO,NO,NO,"Sastrinagar, Armoor, Adilabad (Dist.)",NA,subjailarmoor@gmail.com
+State,Telangana,3,Sub Jail,23,22,"Sub Jail, Bhodan","9494632329, 08467-223550",NO,NO,NO,"Rakasinagar, Bhodan, Nizamabad Dist.",NA,sjbodhan@gmail.com
+State,Telangana,3,Sub Jail,23,23,"Sub Jail, Kamareddy",9494632319,NO,NO,NO,"Vivekananda Colony, Kamareddy, Nizamabad Dist.",NA,subjailkmr@gmail.com
+State,Telangana,4,Women Jail,1,1,"Special Prison for Women, Hyderabad",040-24411148,YES,YES,YES,"Chanchalguda, Hyderabad",NA,spwhyderabad1994@gmail.com
+State,Telangana,5,Borstal School,1,1,"Borstal School, Nizamabad",9494632302,NO,NO,NO,"Borstal School, Nizamabad Dist.",NA,NA
+State,Telangana,6,Open Jail,1,1,"Prisoners' Agricultural Colony, Cherlapalli Rangar",040-27261204,NO,NO,NO,"Prisoners' Agricultural Colony, Cherlapalli",Rangareddy District,paccherlapallirr@gmail.com
+State,Telangana,7,Special Jail,4,1,Special Sub Jail Bhadrachalam,"08743-233730, 9494632562",NO,NO,NO,Special Sub Jail Bhadrachalam-507111,NA,NA
+State,Telangana,7,Special Jail,4,2,"Special Sub Jail, Jagityal",NA,NO,NO,NO,"Special Sub Jail, Jagityal, Court Complex,Jagityal",NA,sjjagitial@apprisons.gov.in
+State,Telangana,7,Special Jail,4,3,"Special Sub Jail, Asifabad",08733-279516,NO,NO,NO,"Special Sub Jail, Asifabad, Asifabad (M)",Adilabad-504293,ssjasf@gmail.com
+State,Telangana,7,Special Jail,4,4,"Special Sub Jail, Nirmal",08734-245314,NO,NO,NO,"Special Sub Jail, Nirmal Back side of Courtcomplex","Nirmal, Adilabad-504104",supdtssjnirmal@gmail.com
+State,Tripura,1,Central Jail,1,1,Kendriya Sansodhanagar Tripura Bishalgarh,0381-2361161,NO,NO,NO,Bishalgarh-799102,NA,NA
+State,Tripura,2,District Jail,2,1,Udaipur District Jail,03821-222453,NO,NO,NO,Udaipur-799120,NA,NA
+State,Tripura,2,District Jail,2,2,Kailashahar District Jail,03824-222239,NO,NO,NO,Kailashahar-799277,NA,NA
+State,Tripura,3,Sub Jail,10,1,Dharmanagar Sub jail,03822-220239,NO,NO,NO,Dharmanagar-799250,NA,NA
+State,Tripura,3,Sub Jail,10,2,Kamalpur,03826-262238,NO,NO,NO,Kamalpur-799285,NA,NA
+State,Tripura,3,Sub Jail,10,3,Khowai Sub Jail,03825-222242,NO,NO,NO,Khowai-799202,NA,NA
+State,Tripura,3,Sub Jail,10,4,Sonamura Sub Jail,0381-2750238,NO,NO,NO,Sonamura-799131,NA,NA
+State,Tripura,3,Sub Jail,10,5,Amarpur Sub Jail,03821-263250,NO,NO,NO,Amarpur-799101,NA,NA
+State,Tripura,3,Sub Jail,10,6,Sabroom Sub Jail,03823-270224,NO,NO,NO,Saabroom-799145,NA,NA
+State,Tripura,3,Sub Jail,10,7,Belonia Sub Jail,03823-222207,NO,NO,NO,Belonia-799155,NA,NA
+State,Tripura,3,Sub Jail,10,8,Kanchanpur Sub Jail,298809,NO,NO,NO,Kanchanpur-799270,NA,NA
+State,Tripura,3,Sub Jail,10,9,Longtharai Valley Sub Jail,298809,NO,NO,NO,Longtharai Valley-799273,NA,NA
+State,Tripura,3,Sub Jail,10,10,Gandachara Sub Jail,298809,NO,NO,NO,Gandachara-799289,NA,NA
+State,Uttar Pradesh,1,Central Jail,5,1,C.P. Naini,0532-2697215,YES,YES,YES,"Central Jail Naini, Allahabad",NA,sscpnni@gmail.com
+State,Uttar Pradesh,1,Central Jail,5,2,C.P. Varanasi,0542-2282276,NO,NO,NO,NA,NA,centraljailvaranasi@gmail.com
+State,Uttar Pradesh,1,Central Jail,5,3,C.P. Fatehgarh,05692-234806,NO,YES,NO,Central Jail Fatehgarh,NA,cpfatehgarh@gmail.com
+State,Uttar Pradesh,1,Central Jail,5,4,C.P. Bareilly,0581-2413421,NO,NO,NO,NA,NA,bareillycentraljail@gmail.com
+State,Uttar Pradesh,1,Central Jail,5,5,C.P. Agra,9454418176/2603093,NO,NO,NO,NA,NA,ssj.ag-up@gov.in
+State,Uttar Pradesh,2,District Jail,57,1,D.J. Agra,09454418180/0562-2601167,NO,NO,NO,Dist. Jail Agra,NA,NA
+State,Uttar Pradesh,2,District Jail,57,2,D.J. Firozabad,9454418190/051262-296636,YES,NO,NO,NA,NA,firozabadjail@gmail.com
+State,Uttar Pradesh,2,District Jail,57,3,D.J. Mainpuri,NA,NO,NO,NO,Dist. Jail Mainpuri,NA,NA
+State,Uttar Pradesh,2,District Jail,57,4,D.J. Mathura,9454418182,YES,NO,NO,Dist. Jail Mathura,NA,NA
+State,Uttar Pradesh,2,District Jail,57,5,"D.J, Aligarh",0571-2406338,YES,NO,NO,NA,NA,anujchauhan717@gmail.com
+State,Uttar Pradesh,2,District Jail,57,6,D.J. Etah,9454418186/05742-235803,NO,NO,NO,Dist. Jail Etah,NA,etahjail1861@rediffmail.com
+State,Uttar Pradesh,2,District Jail,57,7,D.J. Jhansi,0510-2470552,NO,NO,NO,Dist. Jail Jhansi,NA,ssdjhansi@gmail.com
+State,Uttar Pradesh,2,District Jail,57,8,D.J. Lalitpur,05176-273298/9454418197,YES,NO,NO,"Jail Campus, Lalipur",NA,superintendentjailltp@gmail.com
+State,Uttar Pradesh,2,District Jail,57,9,D.J. Orai,05162-251063,YES,NO,NO,Dist. Jail Orai,NA,NA
+State,Uttar Pradesh,2,District Jail,57,10,D.J. Bareilly,0581-2422640,NO,NO,NO,Dist. Jail Bareilly,NA,disttjailblyl@gmail.com
+State,Uttar Pradesh,2,District Jail,57,11,D.J. Badaun,9454418220/05832-266322,NO,NO,NO,Dist. Jail Budaun,NA,jailbudaun@gmail.com
+State,Uttar Pradesh,2,District Jail,57,12,D.J. Shahjahanpur,05842-223449,YES,NO,NO,Distt. Jail Shahjahanpur,NA,sj.sj-up@gov.in
+State,Uttar Pradesh,2,District Jail,57,13,D.J. Pilibhit,05882-255360,YES,NO,NO,Dist. Jail Pilibhit,NA,jagmohan_sj.pi-up@gov.in
+State,Uttar Pradesh,2,District Jail,57,14,D.J. Moradabad,0591-2418228,NO,NO,NO,Distt. Jail Muradabad,NA,ssdjmdd@gmail.com
+State,Uttar Pradesh,2,District Jail,57,15,D.J. Rampur,0595-2325589,YES,NO,NO,Jail Campus Rampur,NA,NA
+State,Uttar Pradesh,2,District Jail,57,16,D.J. Bijnaur,01342-262825/9454418232,YES,YES,NO,Distt. Jail Bijnor,NA,districtjailbijnor2012@gmail.com
+State,Uttar Pradesh,2,District Jail,57,17,D.J. Lucknow,0522-2828100,YES,YES,NO,"Mohari Khurd Near Gosaiganj, Tahsil Mohanlalganj",NA,lucknowdisttjail0522@gmail.com
+State,Uttar Pradesh,2,District Jail,57,18,D.J. Raibareilly,0535-2205361,YES,NO,NO,Distt. Jail Raibareilly,NA,jailsupdt@gmail.com
+State,Uttar Pradesh,2,District Jail,57,19,D.J. Unnao,0515-2820203,YES,NO,NO,"District Jail, Unnao",NA,districtjailunao@gmail.com
+State,Uttar Pradesh,2,District Jail,57,20,D.J. Hardoi,05852-234516,YES,NO,NO,Distt. Jail Hardoi,NA,dchar@allahabadhighcourt.in
+State,Uttar Pradesh,2,District Jail,57,21,D.J. Sitapur,05862-243419,NO,NO,NO,"Jail Road, sitapur",NA,stpjail@gmail.com
+State,Uttar Pradesh,2,District Jail,57,22,D.J. Khiri,05872-252326,NO,NO,NO,Distt. Jail Kheri,NA,jailkheri@gmail.com
+State,Uttar Pradesh,2,District Jail,57,23,D.J. Kanpur,0512-2306628,YES,NO,NO,"Distt. Jail, Kanpur Nagar",NA,sdjknr@gmail.com
+State,Uttar Pradesh,2,District Jail,57,24,D.J. Kanpur Dehat,05111-270070/9454418260,YES,YES,YES,Distt. Jail Kanpur Dehat,NA,jail.kanpurdehat@gmail.com
+State,Uttar Pradesh,2,District Jail,57,25,D.J. Etawah,05688-254133,YES,NO,NO,Distt. Jail Etawah,NA,disttjailetawah@gmail.com
+State,Uttar Pradesh,2,District Jail,57,26,D.J. Fatehgarh,05692-2342221/9454418253,YES,NO,NO,"Distt. Jail, Fatehgarh",NA,sj.fr-up@gov.in
+State,Uttar Pradesh,2,District Jail,57,27,D.J. Kannauj,NA,NO,NO,NO,D.J. Kannoj,NA,NA
+State,Uttar Pradesh,2,District Jail,57,28,D.J. Bulandshaher,05732-290171,NO,NO,NO,"NH-91, Near Village Chanderu Buland Shahar",NA,sj.bu-up@gov.in
+State,Uttar Pradesh,2,District Jail,57,29,D.J. Meerut,0121-270041/09454418199,YES,YES,NO,Distt. Jail Campus,NA,mrt.jail@gmail.com
+State,Uttar Pradesh,2,District Jail,57,30,D.J. Ghaziabad,0120-2466666/9454418202,YES,NO,NO,NA,NA,sdjgzp@gmail.com
+State,Uttar Pradesh,2,District Jail,57,31,D.J. Gautambudhnagar,0120-2341179,YES,NO,NO,Distt. Jail Gautambudhnagar,NA,sdjgbn@gmail.com
+State,Uttar Pradesh,2,District Jail,57,32,D.J. Saharanpur,0132-2661227,NO,NO,NO,NA,NA,disttjailsre@gmail.com
+State,Uttar Pradesh,2,District Jail,57,33,D.J. Muzaffar Nagar,0131-2412763,YES,YES,YES,NA,NA,jailmuzaffarnagar@gmail.com
+State,Uttar Pradesh,2,District Jail,57,34,D.J. Fatehpur,09454418265/05180-224491,NO,NO,NO,Distt. Jail Fatehpur,NA,jail.faehpur@gmail.com
+State,Uttar Pradesh,2,District Jail,57,35,D.J. Pratapgarh,05342-220362,YES,NO,NO,Distt. Jail Pratapgarh,NA,disttjailvns@gmail.com
+State,Uttar Pradesh,2,District Jail,57,36,D.J. Varanasi,0542-2508859,YES,NO,NO,"Distt. Jail, Varanasi",NA,disttjailvns@gmail.com
+State,Uttar Pradesh,2,District Jail,57,37,D.J. Ghazipur,0548-2221202/9454418270,YES,NO,NO,Dist. Jail Gazipur,NA,"sdjgzr@gmail.com, sj.gp-up@gov.in"
+State,Uttar Pradesh,2,District Jail,57,38,D.J. Jaunpur,05452-260380,YES,NO,NO,Distt. Jail Jaunpur,NA,NA
+State,Uttar Pradesh,2,District Jail,57,39,D.J. Mirzapur,05542-221634,YES,NO,NO,NA,NA,districtjailmirzpur1901@gmail.com
+State,Uttar Pradesh,2,District Jail,57,40,D.J. Gyanpurr,05414-251316/9412147780,NO,NO,NO,Distt. Jail Gyanpur Bhadohi,NA,jagdishprasad146@gmail.com
+State,Uttar Pradesh,2,District Jail,57,41,D.J. Banda,09454418281/05192-285018,YES,NO,YES,Distt. Jail Banda,NA,ssj.bn-up@gov.in
+State,Uttar Pradesh,2,District Jail,57,42,D.J. Hamirpur,05282-222223/94544118284,YES,NO,NO,Distt. Jail Hamirpur,NA,sdjhameerpur@gmail.com
+State,Uttar Pradesh,2,District Jail,57,43,D.J. Gorakhpur,0551-22822325,YES,NO,NO,Distt. Jail Gorkhpur,NA,seniorsupdt.gkp@gmail.com
+State,Uttar Pradesh,2,District Jail,57,44,D.J. Maharajganj,05523-222273,YES,YES,YES,NA,NA,sj.mg-up@gov.in
+State,Uttar Pradesh,2,District Jail,57,45,D.J. Deoria,05568-222372,YES,YES,NO,"Distt. Jail, Deoria",NA,"sj.de-up@nic.in, jaildeoria@gmail.com"
+State,Uttar Pradesh,2,District Jail,57,46,D.J. Basti,05542-245346,YES,YES,NO,NA,NA,jailbasti@gmail.com
+State,Uttar Pradesh,2,District Jail,57,47,D.J. Sidhdharth Nagar,05544-222405,NO,YES,NO,NA,NA,sj.sn-up@gov.in
+State,Uttar Pradesh,2,District Jail,57,48,D.J. Faizabad,05271-222203,NO,YES,NO,Distt. Jail Fzd,NA,ssj.fz-up@gov.in
+State,Uttar Pradesh,2,District Jail,57,49,D.J. Barabanki,05248-230981/9454483081,YES,YES,NO,Distt. Jail Barbanki,NA,disttjailbbk@gmail.com
+State,Uttar Pradesh,2,District Jail,57,50,D.J. Sultanpur,05362-231455,YES,NO,NO,NA,NA,NA
+State,Uttar Pradesh,2,District Jail,57,51,D.J. Bahraich,9454418315/05252-235217,NO,NO,NO,Distt. Jail Campus Bahraich,NA,disttjail2718@gmail.com
+State,Uttar Pradesh,2,District Jail,57,52,D.J. Gonda,9454418310/05262-233269,NO,NO,NO,Distt. Jail Gonda,NA,suptjailgonda2013n@gmail.com
+State,Uttar Pradesh,2,District Jail,57,53,D.J. Balrampur,9454469142,NO,NO,NO,Add. District Jail Balrampur,NA,supdt.jailbir@gmail.com
+State,Uttar Pradesh,2,District Jail,57,54,D.J. Azamgarh,05462-246961,YES,NO,NO,Distt. Jail Azamgarh,NA,disttjailazh999@gmail.com
+State,Uttar Pradesh,2,District Jail,57,55,D.J. Mau,9454417988,NO,NO,NO,NA,NA,NA
+State,Uttar Pradesh,2,District Jail,57,56,D.J. Balia,05498-240123,NO,NO,NO,Distt. Jail Balia,NA,jilakaragarballia@gmail.com
+State,Uttar Pradesh,2,District Jail,57,57,D.J. Kaushambi,9453264453,NO,NO,NO,Distt. Jail Kaushambi,NA,sdjksi190@gmail.com
+State,Uttar Pradesh,3,Sub Jail,2,1,Sub Jail Deoband,01336-223380,YES,YES,YES,"Deoband, Saharanpur",NA,jaildeoband@gmail.com
+State,Uttar Pradesh,3,Sub Jail,2,2,Sub Jail Mahoba,9458213940,NO,NO,NO,Sub Jail Mahoba,NA,jailoranandsigh@gmail.com
+State,Uttar Pradesh,4,Women Jail,1,1,"Nari Bandi Niketan, Lko",9454418234,NO,YES,NO,Model Jail Lucknow,NA,NA
+State,Uttar Pradesh,5,Special Jail,2,1,Model Jail Lucknow,9454418234/0522-2828048,NO,NO,NO,Modol Jail Lucknow,NA,modeljaillkw1461@gmail.com
+State,Uttar Pradesh,5,Special Jail,2,2,Kishore Sadan bareilly,0581-2413370,NO,NO,NO,NA,NA,bareillycentraljail@gmail.com
+State,Uttarakhand,1,Central Jail,1,1,Central Jail Sitarganj,9897400360,NO,NO,NO,"Central Jail Sitarganj, PO Saicamp, Sitarganj",Dist. Udham Singh Nagar-262403,saicampstg@gmail.com
+State,Uttarakhand,2,District Jail,7,1,"District Jail, Pauri",7500184444/01368223207,NO,NO,NO,"Khandushain, Pauri Garhwal",NA,NA
+State,Uttarakhand,2,District Jail,7,2,"District Jail, Haridwar",7534011359/01334239500,YES,YES,YES,"Roshanabad, Haridwar",NA,NA
+State,Uttarakhand,2,District Jail,7,3,"District Jail, Dehradun",7534011357,YES,NO,NO,"Suddhowala, Dehradun",NA,sdjdoon@gmail.com
+State,Uttarakhand,2,District Jail,7,4,"District Jail, Almora",NA,YES,YES,YES,"N T D Road, Almora",NA,NA
+State,Uttarakhand,2,District Jail,7,5,"District Jail, Tehri",NA,YES,NO,NO,New Tehri,NA,sdj-the-uk@nic.in
+State,Uttarakhand,2,District Jail,7,6,"District Jail, Nainital",7534011355/05942235198,YES,YES,YES,"Tallital, Nainital",NA,NA
+State,Uttarakhand,2,District Jail,7,7,"District Jail, Chamoli",9456141333/01372212654,NO,NO,NO,"Pursari, Chamoli",NA,NA
+State,Uttarakhand,3,Sub Jail,2,1,"Sub jail, Roorkee, Dist. Haridwar",01332-262321,YES,NO,NO,Sub Jail Roorkee (Haridwar),NA,NA
+State,Uttarakhand,3,Sub Jail,2,2,"Sub Jail, Haldwani",7534011355/05946254300,YES,YES,YES,"Hiranagar, Haldwani",NA,NA
+State,Uttarakhand,4,Open Jail,1,1,Sampurana Nd. Sivir Sitarganj,9897400360,NO,NO,NO,"Central Jail Sitarganj PO Saicamp, Sitarganj",Dist. Udham Singh Nagar-262403,saicampstg@gmail.com
+State,West Bengal,1,Central Jail,7,1,"Central Jail, Jalpaiguri",03561-232007,NO,NO,NO,PO&Dist. Jalpaiguri-735101,NA,supdt.jpgcch@gmail.com
+State,West Bengal,1,Central Jail,7,2,"Central Jail, Berhampore",03482-252017,YES,YES,YES,"PO Berhampore, Dist. Murshidabad-742101",NA,supdt.bhpcch@gmail.com
+State,West Bengal,1,Central Jail,7,3,"Central Jail, Midnapore",03222-275581,NO,NO,NO,"PO Midnapore, Dist. Midnapore (W)",NA,supdt.mdpcch@gmail.com
+State,West Bengal,1,Central Jail,7,4,"Central Jail, Dum Dum",033-25296370,NO,NO,NO,"PO Dumdum Cantt, Kolkata-700028",NA,supdt.dmdmcch@gmail.com
+State,West Bengal,1,Central Jail,7,5,"Central Jail, Alipore",033-24791053/033-24099104,YES,YES,YES,"Alipore, Kolkata-27",NA,supdt.aliporecch@gmail.com
+State,West Bengal,1,Central Jail,7,6,"Presidency Jail, Alipore",033-24791854/033-24099108,NO,NO,NO,"Presidency Jail, Alipore, Kolkata-27",NA,supdt.pch@gmail.com
+State,West Bengal,1,Central Jail,7,7,"Central Jail, Burdwan",0342-2568817,NO,NO,NO,PO&Dist. Burdwan-713101,NA,supdt.bdndch@gmail.com
+State,West Bengal,2,District Jail,12,1,"District Jail, Alipurduar",03564-255127,NO,NO,NO,"Po Alipurduar Court, dist. Alipurduar-736122",NA,supdt.alpdrsch@gmail.com
+State,West Bengal,2,District Jail,12,2,"District Jail, Coochbehar",03582-222206,NO,NO,NO,PO&Dist. Coochbehar-736101,NA,supdt.cbrdch@gmail.com
+State,West Bengal,2,District Jail,12,3,"District Jail, Raiganj",03523-242500,NO,NO,NO,"PO Raiganj, Dist. Uttar Dinajpur-733134",NA,supdt.raiganjdch@gmail.com
+State,West Bengal,2,District Jail,12,4,"District Jail, Darjeeling",0354-2254631,NO,NO,NO,PO&Dist. Darjeeling-734101,NA,supdt.djldch@gmail.com
+State,West Bengal,2,District Jail,12,5,"District Jail, Malda",03512-252005,NO,NO,NO,"PO Mukdampore, Via Malda, Dist. Malda-732101",NA,supdt.mlddch@gmail.com
+State,West Bengal,2,District Jail,12,6,"District Jail, Balurghat",03522-255226,NO,NO,NO,"Po Balurghat, Dist. Dakshin, Dinajpur-733101",NA,supdt.blgdch@gmail.com
+State,West Bengal,2,District Jail,12,7,"District Jail, Suri",03462-255209,NO,NO,NO,"PO Suri Dist., Birbhum-731101",NA,supdt.suridch@gmail.com
+State,West Bengal,2,District Jail,12,8,"District Jail, Purulia",03252-222109,NO,NO,NO,PO&Dist. Purulia-723101,NA,supdt.puruliadch@gmail.com
+State,West Bengal,2,District Jail,12,9,"District Jail, Bankura",03242-254838,NO,NO,NO,PO&Dist. Bankura-722101,NA,supdt.bankuradch@gmail.com
+State,West Bengal,2,District Jail,12,10,"District Jail, Krishnanagar",03472-252347,NO,NO,NO,"PO Krishnanagar, Dist. Nadia-741101",NA,supdt.kgrdch@gmail.com
+State,West Bengal,2,District Jail,12,11,"District Jail, Hooghly",033-26802643,NO,NO,NO,PO&Dist. Hooghly-712103,NA,supdt.hglydch@gmail.com
+State,West Bengal,2,District Jail,12,12,"District Jail, Howrah",033-26382919,NO,NO,NO,"10 P K Banerjee Road, PO Howrah-711101",NA,supdt.hwhdch@gmail.com
+State,West Bengal,3,Sub Jail,33,1,"Sub jail, Dinhata",03581-255516,NO,NO,NO,"PO Dinhata, Dist. Coochbehar-736135",NA,supdt.dnhsch@gmail.com
+State,West Bengal,3,Sub Jail,33,2,"Sub Jail, Mathabhanga",03583-255262,NO,NO,NO,PO Mathabhanga Dist. Coochbehar-735146,NA,supdt.mtbsch@gmail.com
+State,West Bengal,3,Sub Jail,33,3,"Sub Jail, Mekhiganj",03584-255318,NO,NO,NO,"PO Mekiganj, Dist. Coochbehar-735304",NA,NA
+State,West Bengal,3,Sub Jail,33,4,"Sub Jail, Tufanganj",03582-244275,NO,NO,NO,"PO Tufanganj, Dist. Coochbehar-736159",NA,supdt.tfnsch@gmail.com
+State,West Bengal,3,Sub Jail,33,5,"Sub Jail, Islampore",03526-255040,NO,NO,NO,"PO Islampur, Dist. Uttar Dinajpur-728201",NA,supdt.islmprsch@gmail.com
+State,West Bengal,3,Sub Jail,33,6,"Sub Jail, Kurseong",0354-2330227,NO,NO,NO,"PO Kurseong, Dist. Darjeeling-734201",NA,supdt.ksnsch@gmail.com
+State,West Bengal,3,Sub Jail,33,7,"Sub Jail, Kalimpong",03552-255430,NO,NO,NO,"PO Kalimpong, Dist. Darjleeing-734301",NA,supdt.kmpsch@gmail.com
+State,West Bengal,3,Sub Jail,33,8,"Sub Jail, Lalbagh",03482-270336,NO,NO,NO,PO&Dist. Murshidabad-742149,NA,supdt.lbgsch@gmail.com
+State,West Bengal,3,Sub Jail,33,9,"Sub Jail, Kandi",03484-255487,NO,NO,NO,"PO Jemo Rajbati, Dist. Murshidabad-742137",NA,supdt.kandisch@gmail.com
+State,West Bengal,3,Sub Jail,33,10,"Sub Jail, Jangipur",03483-266227,NO,NO,NO,"Po Raghunnathganj, Dist. Murshidabad-742225",NA,supdt.jngsch@gmail.com
+State,West Bengal,3,Sub Jail,33,11,"Sub Jail, Rampurhat",03461-255164,NO,NO,NO,"PO Rampurhat, Dist. Birbhum-731224",NA,supdt.rmpsch@gmail.com
+State,West Bengal,3,Sub Jail,33,12,"Sub Jail, Bolpur",03463-221352,NO,NO,NO,"Po Bolpur, Dist. Birbhum-731204",NA,kumarsahashyamal@gmail.com
+State,West Bengal,3,Sub Jail,33,13,"Sub Jail, Raghunathpur",03251-255251,NO,NO,NO,"PO Raghunathpur, Dist. Purulia-723101",NA,supdt.rgpsch@gmail.com
+State,West Bengal,3,Sub Jail,33,14,"Sub Jail, Bishnupur",03244-252124,NO,NO,NO,"PO Bishnupur, Dist. Bankura-722122",NA,supdt.bnpsch@gmail.com
+State,West Bengal,3,Sub Jail,33,15,"Sub Jail, Jhargram",03221-255179,NO,NO,NO,"PO Jhargram, Dist. Midnapore (W)-721507",NA,supdt.jgmsch@gmail.com
+State,West Bengal,3,Sub Jail,33,16,"Sub Jail, Ghatal",03225-255054,NO,NO,NO,"PO Ghatal, Dist. Midnapore (W)-721212",NA,supdt.ghatalsch@gmail.com
+State,West Bengal,3,Sub Jail,33,17,"Sub Jail, Haldia",NA,NO,NO,NO,"PO Haldia, Dist. Midnapore (E)-721657",NA,debasishpraminik@gmail.com
+State,West Bengal,3,Sub Jail,33,18,"Sub Jail, Contai",03220-257951,NO,NO,NO,"PO Contai, Dist. Midnapore (E)-721401",NA,supdt.contaisch@gmail.com
+State,West Bengal,3,Sub Jail,33,19,"Sub Jail, Tamluk",03228-266264,NO,NO,NO,"PO Tamluk, Dist. Midnapore (E)-721636",NA,supdt.tmksch@gmail.com
+State,West Bengal,3,Sub Jail,33,20,"Sub Jail, Kalyani",033-25025776,NO,NO,NO,"PO Kalyani, Dist. Nadia-741235",NA,supdt.klnsch@gmail.com
+State,West Bengal,3,Sub Jail,33,21,"Sub Jail, Barrackpore",033-25920047,NO,NO,NO,"PO Barrackpore, Dist. North 24 Pgns-700120",NA,supdt.bkpsch@gmail.com
+State,West Bengal,3,Sub Jail,33,22,"Sub Jail, Tehatta",03471-252100,NO,NO,NO,"PO Tehatta, Dist. Nadia-741160",NA,supdt.tsch@gmail.com
+State,West Bengal,3,Sub Jail,33,23,"Sub Jail, Bongaon",03215-255088,NO,NO,NO,"PO Bongaon, dist. North 24 Pgns-743235",NA,supdt.bngsch@gmail.com
+State,West Bengal,3,Sub Jail,33,24,"Sub Jail, Basirhat",03217-265858,NO,NO,NO,"PO Basirhat, Dist. 24 PGNS North-743411",NA,supdt.bhatsch@gmail.com
+State,West Bengal,3,Sub Jail,33,25,"Sub Jail, Ranaghat",03473-210204,NO,NO,NO,"PO Ranaghat, Dist. Nadia-741201",NA,supdt.rngsch@gmail.com
+State,West Bengal,3,Sub Jail,33,26,"Sub Jail, Uluberia",033-26610208,NO,NO,NO,"PO Uluberia, Dist. Howrah-711313",NA,supdt.ulbsch@gmail.com
+State,West Bengal,3,Sub Jail,33,27,"Sub Jail, Chandannagore",033-26836007,NO,NO,NO,"PO Chandannagore, Dist. Hooghly-712136",NA,supdt.cgrsch@gmail.com
+State,West Bengal,3,Sub Jail,33,28,"Sub Jail, Arambagh",03211-255971,NO,NO,NO,"PO Arambagh, Dist. Hooghly-712602",NA,supdt.abgsch@gmail.com
+State,West Bengal,3,Sub Jail,33,29,"Sub Jail, Serampore",033-26621485,NO,NO,NO,"PO Serampore, Dist. Hooghly-712201",NA,supdt.smpsch@gmail.com
+State,West Bengal,3,Sub Jail,33,30,"Sub Jail, durgapur",0343-2500862,NO,NO,NO,"PO Kalna, Dist. Burdwan-713409",NA,supdt.dgpsch@gmail.com
+State,West Bengal,3,Sub Jail,33,31,"Sub Jail, Kalna",03454-255137,NO,NO,NO,"Po Katwa, Dist. Burdwan-713130",NA,sdokalna@gmail.com
+State,West Bengal,3,Sub Jail,33,32,"Sub Jail, Katwa",03453-255123,NO,NO,NO,"PO Diamond Harbour, Dist. South 24 Pgns-743331",NA,supdtkatwasch@gmail.com
+State,West Bengal,3,Sub Jail,33,33,"Sub Jail, Diamond Harbour",03174-255404,NO,NO,NO,"PO Durgapur, Dist. Burdwan-713214",NA,supdt.dhrbrsch@gmail.com
+State,West Bengal,4,Women Jail,1,1,"Women Jail, Alipore",033-24791292,NO,NO,NO,"PO Alipore, Kolkata-700027",NA,supdt.awch@gmail.com
+State,West Bengal,5,Open Jail,2,1,"Open Jail, Lalgola",03483-274250,NO,NO,NO,"PO Lalgola, Dist. Murshidabad-742148",NA,supdt.oach@gmail.com
+State,West Bengal,5,Open Jail,2,2,"Open Jail, Durgapur",0343-2500862,NO,NO,NO,"PO Durgapur, Dist. Burdwan-713214",NA,NA
+State,West Bengal,6,Special Jail,3,1,"Special Jail, Siliguri",0353-2435850,NO,NO,NO,"PO Siliguri, Dist. Darjeeling-734401",NA,supdt.sig.sch@gmail.com
+State,West Bengal,6,Special Jail,3,2,"Special Jail, Purulia",03252-224056,NO,NO,NO,PO&Dist. Purulia-723101,NA,supdt.plasch@gmail.com
+State,West Bengal,6,Special Jail,3,3,"Special Jail, Asansol",0341-2252281,NO,NO,NO,"PO Asansol, Dist. Burdwan-713304",NA,supdt.asnsch@gmail.com
+Union Territory,Chandigarh,1,Central Jail,1,1,"Model Jail, Chandigarh",0172-2676001,YES,NO,YES,"Model Jail Complex, Sec-51, Chd.",NA,pro.modeljailchd@gmail.com
+Union Territory,D & N Haveli,1,Sub Jail,1,1,"Sub Jail, Silvassa",0260-2642089,NO,NO,NO,"Office of the Mamlatdar, Near Collectorate",Silvassa-396230,NA
+Union Territory,Daman & Diu,1,Sub Jail,2,1,Sub Jail Daman,0260-2230884,NO,NO,NO,"Moti Daman, Daman UT",NA,subjail-daman-dd@nic.in
+Union Territory,Daman & Diu,1,Sub Jail,2,2,Sub Jail Diu,02875-252292,NO,NO,NO,Diu,NA,NA
+Union Territory,Delhi,1,Central Jail,7,1,Central Jail No.1,28520056,YES,YES,YES,"Central Jail No.1, Tihar, New Delhi-110064",NA,scj1-tihar@nic.in
+Union Territory,Delhi,1,Central Jail,7,2,Central Jail No.2,28522110,YES,YES,YES,"Central Jail No.2, Tihar, New Delhi-110064",NA,scj.tihar2@yahoo.com
+Union Territory,Delhi,1,Central Jail,7,3,Central Jail No.3,28522460,YES,YES,YES,"Central Jail No.3, Tihar, New Delhi-110064",NA,tiharstudycentre@yahoo.com
+Union Territory,Delhi,1,Central Jail,7,4,Central Jail No.4,28522446,NO,YES,NO,"Central Jail No.4, Tihar, New Delhi-110064",NA,scj4tihar@gmail.com
+Union Territory,Delhi,1,Central Jail,7,5,Central Jail No.5,28522079,NO,YES,NO,"Central Jail No.5, Tihar, New Delhi-110064",NA,scj5-tihar@nic.in
+Union Territory,Delhi,1,Central Jail,7,6,Central Jail No.7,28522109,YES,YES,YES,"Central Jail No.7, Tihar, New Delhi-110064",NA,centraljail7@gmail.com
+Union Territory,Delhi,1,Central Jail,7,7,Central Jail No.8/9,28520719,YES,YES,YES,"Central Jail No.8/9, Tihar, New Delhi-110064",NA,scj8-tihar@nic.in
+Union Territory,Delhi,2,District Jail,1,1,"District Jail, Rohini",27857367-70,YES,YES,NO,"District Jail, Rohini, Sec-19, Rohini, New Delhi",NA,sdj-tihar@nic.in
+Union Territory,Delhi,3,Women Jail,1,1,Central Jail NO.6 (Women Jail),28522506,YES,NO,NO,"Central Jail No.6, Tihar, New Delhi-110064",NA,scj6tihar@gmail.com
+Union Territory,Delhi,4,Other Jail,1,1,Semi Open Prison,28525473,NO,NO,NO,"Semi Open Prison, Tihar, New Delhi-110064",NA,NA
+Union Territory,Lakshadweep,1,Sub Jail,4,1,Sub Jail Andrott,NA,NO,NO,NO,"Near SDO's Office, Andrott",NA,NA
+Union Territory,Lakshadweep,1,Sub Jail,4,2,Sub Jail Amini,04891-273280,NO,NO,NO,Amini,NA,NA
+Union Territory,Lakshadweep,1,Sub Jail,4,3,Sub Jail Kavarati,NA,NO,NO,NO,NA,NA,NA
+Union Territory,Lakshadweep,1,Sub Jail,4,4,"Sub Jail, Minicoy",04892-222333,NO,NO,NO,"Minicoy, Near Javahar Navodaya Vidyalaya",NA,NA
+Union Territory,Puducherry,1,Central Jail,1,1,"Central Prison, Kalapet",0413-2655663,YES,NO,NO,"Mathur Road, Kalapet, Puducherry",NA,csjjail.pon@nic.in
+Union Territory,Puducherry,2,Sub Jail,1,1,Sub Jail Mahe,0490-2332897,YES,NO,NO,"Railway Station Road, Mahe",NA,NA
+Union Territory,Puducherry,3,Special Jail,2,1,"Special Sub Jail, Karaikal",04368-222493,YES,NO,NO,"Godown Street, Madagadi, Karaikal",NA,NA
+Union Territory,Puducherry,3,Special Jail,2,2,"Special Sub Jail, Yanaml",0884-2323065,YES,NO,NO,"Draksharama Road, Near Govt. ITI, Yanam",NA,NA

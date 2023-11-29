@@ -1,0 +1,4461 @@
+state_name,is_state,year,gender,convicts,under_trial,detenues,others
+A & N Islands,0,2001,Female,Christian,0,0,0,0
+A & N Islands,0,2001,Female,Hindu,3,1,0,0
+A & N Islands,0,2001,Female,Muslim,0,0,0,0
+A & N Islands,0,2001,Female,Others,0,0,0,0
+A & N Islands,0,2001,Female,Sikh,0,0,0,0
+A & N Islands,0,2001,Male,Christian,27,23,0,0
+A & N Islands,0,2001,Male,Hindu,46,44,0,0
+A & N Islands,0,2001,Male,Muslim,16,18,0,0
+A & N Islands,0,2001,Male,Others,123,79,0,0
+A & N Islands,0,2001,Male,Sikh,2,1,0,0
+A & N Islands,0,2002,Female,Christian,0,2,0,0
+A & N Islands,0,2002,Female,Hindu,4,2,0,0
+A & N Islands,0,2002,Female,Muslim,0,0,0,0
+A & N Islands,0,2002,Female,Others,0,0,0,0
+A & N Islands,0,2002,Female,Sikh,0,0,0,0
+A & N Islands,0,2002,Male,Christian,25,28,0,0
+A & N Islands,0,2002,Male,Hindu,42,35,0,0
+A & N Islands,0,2002,Male,Muslim,11,21,0,0
+A & N Islands,0,2002,Male,Others,53,105,0,0
+A & N Islands,0,2002,Male,Sikh,2,1,0,0
+A & N Islands,0,2003,Female,Christian,0,1,0,0
+A & N Islands,0,2003,Female,Hindu,2,0,0,0
+A & N Islands,0,2003,Female,Muslim,0,0,0,0
+A & N Islands,0,2003,Female,Others,0,0,0,0
+A & N Islands,0,2003,Female,Sikh,0,0,0,0
+A & N Islands,0,2003,Male,Christian,6,24,0,0
+A & N Islands,0,2003,Male,Hindu,54,59,0,0
+A & N Islands,0,2003,Male,Muslim,7,75,0,0
+A & N Islands,0,2003,Male,Others,22,45,0,0
+A & N Islands,0,2003,Male,Sikh,1,0,0,0
+A & N Islands,0,2004,Female,Christian,0,0,0,0
+A & N Islands,0,2004,Female,Hindu,2,1,0,0
+A & N Islands,0,2004,Female,Muslim,0,0,0,0
+A & N Islands,0,2004,Female,Others,0,0,0,0
+A & N Islands,0,2004,Female,Sikh,0,0,0,0
+A & N Islands,0,2004,Male,Christian,1,20,0,0
+A & N Islands,0,2004,Male,Hindu,47,105,0,0
+A & N Islands,0,2004,Male,Muslim,4,34,0,0
+A & N Islands,0,2004,Male,Others,0,5,0,0
+A & N Islands,0,2004,Male,Sikh,2,0,0,0
+A & N Islands,0,2005,Female,Christian,0,1,0,0
+A & N Islands,0,2005,Female,Hindu,1,1,0,0
+A & N Islands,0,2005,Female,Muslim,0,1,0,0
+A & N Islands,0,2005,Female,Others,0,0,0,0
+A & N Islands,0,2005,Female,Sikh,0,0,0,0
+A & N Islands,0,2005,Male,Christian,5,29,0,0
+A & N Islands,0,2005,Male,Hindu,50,51,0,0
+A & N Islands,0,2005,Male,Muslim,8,9,0,0
+A & N Islands,0,2005,Male,Others,1,66,0,0
+A & N Islands,0,2005,Male,Sikh,1,0,0,0
+A & N Islands,0,2006,Female,Christian,0,0,0,0
+A & N Islands,0,2006,Female,Hindu,1,1,0,0
+A & N Islands,0,2006,Female,Muslim,0,0,0,0
+A & N Islands,0,2006,Female,Others,0,0,0,0
+A & N Islands,0,2006,Female,Sikh,0,0,0,0
+A & N Islands,0,2006,Male,Christian,3,28,0,0
+A & N Islands,0,2006,Male,Hindu,47,51,0,0
+A & N Islands,0,2006,Male,Muslim,5,7,0,0
+A & N Islands,0,2006,Male,Others,24,178,0,0
+A & N Islands,0,2006,Male,Sikh,1,0,0,0
+A & N Islands,0,2007,Female,Christian,0,0,0,0
+A & N Islands,0,2007,Female,Hindu,1,1,0,0
+A & N Islands,0,2007,Female,Muslim,0,0,0,0
+A & N Islands,0,2007,Female,Others,0,0,0,0
+A & N Islands,0,2007,Female,Sikh,0,0,0,0
+A & N Islands,0,2007,Male,Christian,8,49,0,0
+A & N Islands,0,2007,Male,Hindu,43,51,0,0
+A & N Islands,0,2007,Male,Muslim,12,13,0,0
+A & N Islands,0,2007,Male,Others,23,211,0,0
+A & N Islands,0,2007,Male,Sikh,1,0,0,0
+A & N Islands,0,2008,Female,Christian,0,0,0,0
+A & N Islands,0,2008,Female,Hindu,0,0,0,0
+A & N Islands,0,2008,Female,Muslim,0,0,0,0
+A & N Islands,0,2008,Female,Others,0,0,0,0
+A & N Islands,0,2008,Female,Sikh,0,0,0,0
+A & N Islands,0,2008,Male,Christian,5,17,0,0
+A & N Islands,0,2008,Male,Hindu,44,66,0,0
+A & N Islands,0,2008,Male,Muslim,2,28,0,0
+A & N Islands,0,2008,Male,Others,17,42,0,0
+A & N Islands,0,2008,Male,Sikh,0,0,0,0
+A & N Islands,0,2009,Female,Christian,0,0,0,0
+A & N Islands,0,2009,Female,Hindu,0,0,0,0
+A & N Islands,0,2009,Female,Muslim,0,0,0,0
+A & N Islands,0,2009,Female,Others,0,0,0,0
+A & N Islands,0,2009,Female,Sikh,0,0,0,0
+A & N Islands,0,2009,Male,Christian,7,10,0,0
+A & N Islands,0,2009,Male,Hindu,37,55,0,0
+A & N Islands,0,2009,Male,Muslim,4,10,0,0
+A & N Islands,0,2009,Male,Others,0,105,0,0
+A & N Islands,0,2009,Male,Sikh,0,0,0,0
+A & N Islands,0,2010,Female,Christian,0,0,0,0
+A & N Islands,0,2010,Female,Hindu,0,2,0,0
+A & N Islands,0,2010,Female,Muslim,0,0,0,0
+A & N Islands,0,2010,Female,Others,0,0,0,0
+A & N Islands,0,2010,Female,Sikh,0,0,0,0
+A & N Islands,0,2010,Male,Christian,11,56,0,0
+A & N Islands,0,2010,Male,Hindu,61,254,0,0
+A & N Islands,0,2010,Male,Muslim,16,57,0,0
+A & N Islands,0,2010,Male,Others,41,190,0,0
+A & N Islands,0,2010,Male,Sikh,0,0,0,0
+A & N Islands,0,2011,Female,Christian,0,0,0,0
+A & N Islands,0,2011,Female,Hindu,0,5,0,0
+A & N Islands,0,2011,Female,Muslim,0,2,0,0
+A & N Islands,0,2011,Female,Others,0,0,0,0
+A & N Islands,0,2011,Female,Sikh,0,0,0,0
+A & N Islands,0,2011,Male,Christian,205,370,0,0
+A & N Islands,0,2011,Male,Hindu,80,152,0,0
+A & N Islands,0,2011,Male,Muslim,75,95,0,0
+A & N Islands,0,2011,Male,Others,55,80,0,0
+A & N Islands,0,2011,Male,Sikh,0,0,0,0
+A & N Islands,0,2012,Female,Christian,0,0,0,0
+A & N Islands,0,2012,Female,Hindu,0,8,0,0
+A & N Islands,0,2012,Female,Muslim,0,1,0,0
+A & N Islands,0,2012,Female,Others,0,0,0,0
+A & N Islands,0,2012,Female,Sikh,0,0,0,0
+A & N Islands,0,2012,Male,Christian,155,145,0,0
+A & N Islands,0,2012,Male,Hindu,30,45,0,0
+A & N Islands,0,2012,Male,Muslim,25,47,0,0
+A & N Islands,0,2012,Male,Others,550,120,0,0
+A & N Islands,0,2012,Male,Sikh,0,0,0,0
+A & N Islands,0,2013,Female,Christian,0,0,0,0
+A & N Islands,0,2013,Female,Hindu,1,6,0,0
+A & N Islands,0,2013,Female,Muslim,0,1,0,0
+A & N Islands,0,2013,Female,Others,0,0,0,0
+A & N Islands,0,2013,Female,Sikh,0,0,0,0
+A & N Islands,0,2013,Male,Christian,198,46,0,0
+A & N Islands,0,2013,Male,Hindu,41,38,0,0
+A & N Islands,0,2013,Male,Muslim,32,28,0,0
+A & N Islands,0,2013,Male,Others,684,74,0,0
+A & N Islands,0,2013,Male,Sikh,0,0,0,0
+Andhra Pradesh,1,2001,Female,Christian,0,30,0,0
+Andhra Pradesh,1,2001,Female,Hindu,89,407,0,0
+Andhra Pradesh,1,2001,Female,Muslim,12,35,1,0
+Andhra Pradesh,1,2001,Female,Others,1,8,0,0
+Andhra Pradesh,1,2001,Female,Sikh,0,2,0,0
+Andhra Pradesh,1,2001,Male,Christian,291,497,0,0
+Andhra Pradesh,1,2001,Male,Hindu,3318,6490,4,20
+Andhra Pradesh,1,2001,Male,Muslim,448,1173,0,2
+Andhra Pradesh,1,2001,Male,Others,50,166,0,0
+Andhra Pradesh,1,2001,Male,Sikh,12,34,0,0
+Andhra Pradesh,1,2002,Female,Christian,3,21,0,0
+Andhra Pradesh,1,2002,Female,Hindu,136,475,0,0
+Andhra Pradesh,1,2002,Female,Muslim,12,48,0,0
+Andhra Pradesh,1,2002,Female,Others,0,7,0,0
+Andhra Pradesh,1,2002,Female,Sikh,0,6,0,0
+Andhra Pradesh,1,2002,Male,Christian,472,530,0,0
+Andhra Pradesh,1,2002,Male,Hindu,3767,6163,2,0
+Andhra Pradesh,1,2002,Male,Muslim,456,1069,0,0
+Andhra Pradesh,1,2002,Male,Others,14,118,0,0
+Andhra Pradesh,1,2002,Male,Sikh,12,112,0,0
+Andhra Pradesh,1,2003,Female,Christian,12,40,0,0
+Andhra Pradesh,1,2003,Female,Hindu,134,449,0,0
+Andhra Pradesh,1,2003,Female,Muslim,26,51,0,0
+Andhra Pradesh,1,2003,Female,Others,0,1,0,0
+Andhra Pradesh,1,2003,Female,Sikh,0,0,0,0
+Andhra Pradesh,1,2003,Male,Christian,471,722,0,0
+Andhra Pradesh,1,2003,Male,Hindu,4020,6388,11,0
+Andhra Pradesh,1,2003,Male,Muslim,466,1208,7,0
+Andhra Pradesh,1,2003,Male,Others,10,35,0,0
+Andhra Pradesh,1,2003,Male,Sikh,8,25,0,0
+Andhra Pradesh,1,2004,Female,Christian,11,27,0,0
+Andhra Pradesh,1,2004,Female,Hindu,168,491,8,0
+Andhra Pradesh,1,2004,Female,Muslim,18,59,1,0
+Andhra Pradesh,1,2004,Female,Others,0,0,0,0
+Andhra Pradesh,1,2004,Female,Sikh,0,2,0,0
+Andhra Pradesh,1,2004,Male,Christian,421,782,2,0
+Andhra Pradesh,1,2004,Male,Hindu,3727,6258,21,0
+Andhra Pradesh,1,2004,Male,Muslim,407,1332,6,0
+Andhra Pradesh,1,2004,Male,Others,0,84,0,0
+Andhra Pradesh,1,2004,Male,Sikh,13,43,0,0
+Andhra Pradesh,1,2005,Female,Christian,13,30,0,0
+Andhra Pradesh,1,2005,Female,Hindu,166,593,0,0
+Andhra Pradesh,1,2005,Female,Muslim,19,62,0,0
+Andhra Pradesh,1,2005,Female,Others,0,0,0,0
+Andhra Pradesh,1,2005,Female,Sikh,0,1,0,0
+Andhra Pradesh,1,2005,Male,Christian,482,801,1,0
+Andhra Pradesh,1,2005,Male,Hindu,3808,6519,6,0
+Andhra Pradesh,1,2005,Male,Muslim,508,1461,3,0
+Andhra Pradesh,1,2005,Male,Others,0,91,0,0
+Andhra Pradesh,1,2005,Male,Sikh,15,34,0,0
+Andhra Pradesh,1,2006,Female,Christian,34,30,0,0
+Andhra Pradesh,1,2006,Female,Hindu,134,527,1,0
+Andhra Pradesh,1,2006,Female,Muslim,18,51,0,0
+Andhra Pradesh,1,2006,Female,Others,21,29,0,0
+Andhra Pradesh,1,2006,Female,Sikh,0,0,0,0
+Andhra Pradesh,1,2006,Male,Christian,354,627,0,5
+Andhra Pradesh,1,2006,Male,Hindu,4180,7135,14,24
+Andhra Pradesh,1,2006,Male,Muslim,491,1554,2,5
+Andhra Pradesh,1,2006,Male,Others,36,85,0,0
+Andhra Pradesh,1,2006,Male,Sikh,19,44,1,0
+Andhra Pradesh,1,2007,Female,Christian,49,47,0,0
+Andhra Pradesh,1,2007,Female,Hindu,135,494,0,0
+Andhra Pradesh,1,2007,Female,Muslim,20,60,0,0
+Andhra Pradesh,1,2007,Female,Others,28,33,0,0
+Andhra Pradesh,1,2007,Female,Sikh,0,1,0,0
+Andhra Pradesh,1,2007,Male,Christian,268,495,0,0
+Andhra Pradesh,1,2007,Male,Hindu,4271,6664,20,19
+Andhra Pradesh,1,2007,Male,Muslim,719,1435,1,1
+Andhra Pradesh,1,2007,Male,Others,54,149,0,0
+Andhra Pradesh,1,2007,Male,Sikh,15,67,0,0
+Andhra Pradesh,1,2008,Female,Christian,4,36,0,0
+Andhra Pradesh,1,2008,Female,Hindu,199,553,0,0
+Andhra Pradesh,1,2008,Female,Muslim,19,41,0,0
+Andhra Pradesh,1,2008,Female,Others,1,21,0,0
+Andhra Pradesh,1,2008,Female,Sikh,0,0,0,0
+Andhra Pradesh,1,2008,Male,Christian,318,547,2,1
+Andhra Pradesh,1,2008,Male,Hindu,4083,5945,17,10
+Andhra Pradesh,1,2008,Male,Muslim,665,1316,1,1
+Andhra Pradesh,1,2008,Male,Others,71,171,1,0
+Andhra Pradesh,1,2008,Male,Sikh,18,39,0,0
+Andhra Pradesh,1,2009,Female,Christian,7,32,0,0
+Andhra Pradesh,1,2009,Female,Hindu,156,486,2,0
+Andhra Pradesh,1,2009,Female,Muslim,27,45,0,0
+Andhra Pradesh,1,2009,Female,Others,7,14,0,0
+Andhra Pradesh,1,2009,Female,Sikh,0,0,0,0
+Andhra Pradesh,1,2009,Male,Christian,349,481,8,1
+Andhra Pradesh,1,2009,Male,Hindu,3139,5634,30,14
+Andhra Pradesh,1,2009,Male,Muslim,782,1354,0,0
+Andhra Pradesh,1,2009,Male,Others,55,156,0,0
+Andhra Pradesh,1,2009,Male,Sikh,14,15,0,0
+Andhra Pradesh,1,2010,Female,Christian,12,31,0,0
+Andhra Pradesh,1,2010,Female,Hindu,186,469,2,0
+Andhra Pradesh,1,2010,Female,Muslim,26,31,0,0
+Andhra Pradesh,1,2010,Female,Others,7,15,0,0
+Andhra Pradesh,1,2010,Female,Sikh,0,0,0,0
+Andhra Pradesh,1,2010,Male,Christian,243,350,0,0
+Andhra Pradesh,1,2010,Male,Hindu,3776,5265,28,13
+Andhra Pradesh,1,2010,Male,Muslim,457,1357,0,0
+Andhra Pradesh,1,2010,Male,Others,83,108,0,0
+Andhra Pradesh,1,2010,Male,Sikh,8,23,0,0
+Andhra Pradesh,1,2011,Female,Christian,8,28,0,0
+Andhra Pradesh,1,2011,Female,Hindu,218,484,1,0
+Andhra Pradesh,1,2011,Female,Muslim,29,60,0,0
+Andhra Pradesh,1,2011,Female,Others,6,8,0,0
+Andhra Pradesh,1,2011,Female,Sikh,0,0,0,0
+Andhra Pradesh,1,2011,Male,Christian,538,401,0,1
+Andhra Pradesh,1,2011,Male,Hindu,3258,6005,11,13
+Andhra Pradesh,1,2011,Male,Muslim,527,1344,2,0
+Andhra Pradesh,1,2011,Male,Others,44,184,0,3
+Andhra Pradesh,1,2011,Male,Sikh,10,30,0,0
+Andhra Pradesh,1,2012,Female,Christian,24,28,0,0
+Andhra Pradesh,1,2012,Female,Hindu,221,546,1,1
+Andhra Pradesh,1,2012,Female,Muslim,33,53,0,0
+Andhra Pradesh,1,2012,Female,Others,7,10,0,0
+Andhra Pradesh,1,2012,Female,Sikh,0,0,0,0
+Andhra Pradesh,1,2012,Male,Christian,504,413,0,2
+Andhra Pradesh,1,2012,Male,Hindu,3124,6002,3,5
+Andhra Pradesh,1,2012,Male,Muslim,649,1236,0,0
+Andhra Pradesh,1,2012,Male,Others,142,230,0,0
+Andhra Pradesh,1,2012,Male,Sikh,18,33,0,0
+Andhra Pradesh,1,2013,Female,Christian,9,45,0,0
+Andhra Pradesh,1,2013,Female,Hindu,243,495,1,0
+Andhra Pradesh,1,2013,Female,Muslim,37,65,0,0
+Andhra Pradesh,1,2013,Female,Others,0,2,0,0
+Andhra Pradesh,1,2013,Female,Sikh,0,2,0,0
+Andhra Pradesh,1,2013,Male,Christian,405,496,0,0
+Andhra Pradesh,1,2013,Male,Hindu,3159,7069,6,7
+Andhra Pradesh,1,2013,Male,Muslim,604,1344,0,0
+Andhra Pradesh,1,2013,Male,Others,127,145,0,0
+Andhra Pradesh,1,2013,Male,Sikh,14,38,0,0
+Arunachal Pradesh,1,2009,Female,Christian,0,2,0,0
+Arunachal Pradesh,1,2009,Female,Hindu,0,0,0,0
+Arunachal Pradesh,1,2009,Female,Muslim,0,2,0,0
+Arunachal Pradesh,1,2009,Female,Others,0,0,0,0
+Arunachal Pradesh,1,2009,Female,Sikh,0,0,0,0
+Arunachal Pradesh,1,2009,Male,Christian,0,29,0,0
+Arunachal Pradesh,1,2009,Male,Hindu,2,20,0,0
+Arunachal Pradesh,1,2009,Male,Muslim,0,6,0,0
+Arunachal Pradesh,1,2009,Male,Others,0,1,0,0
+Arunachal Pradesh,1,2009,Male,Sikh,0,0,0,0
+Arunachal Pradesh,1,2010,Female,Christian,0,2,0,0
+Arunachal Pradesh,1,2010,Female,Hindu,0,1,0,0
+Arunachal Pradesh,1,2010,Female,Muslim,0,1,0,0
+Arunachal Pradesh,1,2010,Female,Others,0,0,0,0
+Arunachal Pradesh,1,2010,Female,Sikh,0,0,0,0
+Arunachal Pradesh,1,2010,Male,Christian,0,21,0,0
+Arunachal Pradesh,1,2010,Male,Hindu,4,20,0,0
+Arunachal Pradesh,1,2010,Male,Muslim,0,7,0,0
+Arunachal Pradesh,1,2010,Male,Others,1,0,0,0
+Arunachal Pradesh,1,2010,Male,Sikh,0,0,0,0
+Arunachal Pradesh,1,2011,Female,Christian,0,2,0,0
+Arunachal Pradesh,1,2011,Female,Hindu,0,2,0,0
+Arunachal Pradesh,1,2011,Female,Muslim,0,0,0,0
+Arunachal Pradesh,1,2011,Female,Others,0,1,0,0
+Arunachal Pradesh,1,2011,Female,Sikh,0,0,0,0
+Arunachal Pradesh,1,2011,Male,Christian,2,17,0,0
+Arunachal Pradesh,1,2011,Male,Hindu,2,12,0,0
+Arunachal Pradesh,1,2011,Male,Muslim,0,6,0,0
+Arunachal Pradesh,1,2011,Male,Others,2,9,0,0
+Arunachal Pradesh,1,2011,Male,Sikh,0,0,0,0
+Arunachal Pradesh,1,2012,Female,Christian,0,4,0,0
+Arunachal Pradesh,1,2012,Female,Hindu,0,0,0,0
+Arunachal Pradesh,1,2012,Female,Muslim,0,0,0,0
+Arunachal Pradesh,1,2012,Female,Others,0,0,0,0
+Arunachal Pradesh,1,2012,Female,Sikh,0,0,0,0
+Arunachal Pradesh,1,2012,Male,Christian,3,26,0,0
+Arunachal Pradesh,1,2012,Male,Hindu,0,10,0,0
+Arunachal Pradesh,1,2012,Male,Muslim,1,17,0,0
+Arunachal Pradesh,1,2012,Male,Others,0,10,0,0
+Arunachal Pradesh,1,2012,Male,Sikh,0,0,0,0
+Arunachal Pradesh,1,2013,Female,Christian,1,0,0,0
+Arunachal Pradesh,1,2013,Female,Hindu,0,0,0,0
+Arunachal Pradesh,1,2013,Female,Muslim,0,0,0,0
+Arunachal Pradesh,1,2013,Female,Others,0,1,0,0
+Arunachal Pradesh,1,2013,Female,Sikh,0,0,0,0
+Arunachal Pradesh,1,2013,Male,Christian,3,27,0,0
+Arunachal Pradesh,1,2013,Male,Hindu,3,31,0,0
+Arunachal Pradesh,1,2013,Male,Muslim,1,10,0,0
+Arunachal Pradesh,1,2013,Male,Others,3,12,0,0
+Arunachal Pradesh,1,2013,Male,Sikh,0,0,0,0
+Assam,1,2001,Female,Christian,5,7,0,0
+Assam,1,2001,Female,Hindu,31,64,0,0
+Assam,1,2001,Female,Muslim,11,56,0,0
+Assam,1,2001,Female,Others,0,0,0,0
+Assam,1,2001,Female,Sikh,0,0,0,0
+Assam,1,2001,Male,Christian,127,257,3,0
+Assam,1,2001,Male,Hindu,1428,1937,8,1
+Assam,1,2001,Male,Muslim,777,1651,4,0
+Assam,1,2001,Male,Others,20,51,1,0
+Assam,1,2001,Male,Sikh,4,42,0,0
+Assam,1,2002,Female,Christian,2,10,0,0
+Assam,1,2002,Female,Hindu,37,58,0,0
+Assam,1,2002,Female,Muslim,15,45,0,0
+Assam,1,2002,Female,Others,0,0,0,0
+Assam,1,2002,Female,Sikh,0,0,0,0
+Assam,1,2002,Male,Christian,110,306,0,0
+Assam,1,2002,Male,Hindu,1639,2117,13,0
+Assam,1,2002,Male,Muslim,905,1720,5,0
+Assam,1,2002,Male,Others,19,43,0,0
+Assam,1,2002,Male,Sikh,3,20,0,0
+Assam,1,2003,Female,Christian,6,3,0,0
+Assam,1,2003,Female,Hindu,50,98,2,0
+Assam,1,2003,Female,Muslim,14,33,0,0
+Assam,1,2003,Female,Others,2,3,0,0
+Assam,1,2003,Female,Sikh,0,0,0,0
+Assam,1,2003,Male,Christian,155,300,0,0
+Assam,1,2003,Male,Hindu,1878,2596,22,3
+Assam,1,2003,Male,Muslim,934,1398,7,0
+Assam,1,2003,Male,Others,37,67,0,0
+Assam,1,2003,Male,Sikh,4,25,0,0
+Assam,1,2004,Female,Christian,6,8,1,0
+Assam,1,2004,Female,Hindu,52,69,38,0
+Assam,1,2004,Female,Muslim,18,54,1,0
+Assam,1,2004,Female,Others,1,3,0,0
+Assam,1,2004,Female,Sikh,0,0,0,0
+Assam,1,2004,Male,Christian,114,323,4,0
+Assam,1,2004,Male,Hindu,2021,2318,193,4
+Assam,1,2004,Male,Muslim,1038,1437,18,3
+Assam,1,2004,Male,Others,13,41,0,0
+Assam,1,2004,Male,Sikh,5,45,0,0
+Assam,1,2005,Female,Christian,8,2,0,0
+Assam,1,2005,Female,Hindu,46,92,3,0
+Assam,1,2005,Female,Muslim,23,38,0,0
+Assam,1,2005,Female,Others,1,1,0,0
+Assam,1,2005,Female,Sikh,0,0,0,0
+Assam,1,2005,Male,Christian,183,338,1,0
+Assam,1,2005,Male,Hindu,1956,2671,28,4
+Assam,1,2005,Male,Muslim,1248,1817,2,0
+Assam,1,2005,Male,Others,2,22,0,0
+Assam,1,2005,Male,Sikh,8,19,0,0
+Assam,1,2006,Female,Christian,10,13,0,0
+Assam,1,2006,Female,Hindu,48,84,0,0
+Assam,1,2006,Female,Muslim,25,58,0,0
+Assam,1,2006,Female,Others,1,3,0,0
+Assam,1,2006,Female,Sikh,0,1,0,0
+Assam,1,2006,Male,Christian,171,405,0,0
+Assam,1,2006,Male,Hindu,2162,2362,25,1
+Assam,1,2006,Male,Muslim,1108,1833,2,1
+Assam,1,2006,Male,Others,17,162,0,0
+Assam,1,2006,Male,Sikh,7,39,0,0
+Assam,1,2007,Female,Christian,7,12,0,0
+Assam,1,2007,Female,Hindu,60,90,5,0
+Assam,1,2007,Female,Muslim,32,44,0,0
+Assam,1,2007,Female,Others,1,0,0,0
+Assam,1,2007,Female,Sikh,0,0,0,0
+Assam,1,2007,Male,Christian,213,395,3,0
+Assam,1,2007,Male,Hindu,1998,2659,22,0
+Assam,1,2007,Male,Muslim,1214,1802,5,0
+Assam,1,2007,Male,Others,33,46,0,0
+Assam,1,2007,Male,Sikh,22,42,0,0
+Assam,1,2008,Female,Christian,6,17,0,0
+Assam,1,2008,Female,Hindu,64,117,0,0
+Assam,1,2008,Female,Muslim,28,81,0,0
+Assam,1,2008,Female,Others,0,0,0,0
+Assam,1,2008,Female,Sikh,0,0,0,0
+Assam,1,2008,Male,Christian,229,320,1,0
+Assam,1,2008,Male,Hindu,1944,2663,6,0
+Assam,1,2008,Male,Muslim,1159,1751,3,0
+Assam,1,2008,Male,Others,36,45,0,0
+Assam,1,2008,Male,Sikh,28,244,0,0
+Assam,1,2009,Female,Christian,6,10,0,0
+Assam,1,2009,Female,Hindu,59,117,0,0
+Assam,1,2009,Female,Muslim,27,78,2,0
+Assam,1,2009,Female,Others,0,0,0,0
+Assam,1,2009,Female,Sikh,0,0,0,0
+Assam,1,2009,Male,Christian,228,384,1,0
+Assam,1,2009,Male,Hindu,1783,2540,4,0
+Assam,1,2009,Male,Muslim,1160,1386,2,0
+Assam,1,2009,Male,Others,38,63,0,0
+Assam,1,2009,Male,Sikh,26,246,0,0
+Assam,1,2010,Female,Christian,9,12,0,0
+Assam,1,2010,Female,Hindu,57,86,0,0
+Assam,1,2010,Female,Muslim,32,74,0,0
+Assam,1,2010,Female,Others,0,3,0,0
+Assam,1,2010,Female,Sikh,0,0,0,0
+Assam,1,2010,Male,Christian,215,303,0,0
+Assam,1,2010,Male,Hindu,1917,2465,2,0
+Assam,1,2010,Male,Muslim,925,1602,1,0
+Assam,1,2010,Male,Others,89,95,0,0
+Assam,1,2010,Male,Sikh,20,15,0,0
+Assam,1,2011,Female,Christian,8,15,0,0
+Assam,1,2011,Female,Hindu,52,102,0,0
+Assam,1,2011,Female,Muslim,31,84,0,0
+Assam,1,2011,Female,Others,0,6,0,0
+Assam,1,2011,Female,Sikh,0,0,0,0
+Assam,1,2011,Male,Christian,206,342,0,0
+Assam,1,2011,Male,Hindu,1847,2595,0,0
+Assam,1,2011,Male,Muslim,895,1762,0,0
+Assam,1,2011,Male,Others,82,135,0,0
+Assam,1,2011,Male,Sikh,16,25,0,0
+Assam,1,2012,Female,Christian,8,16,0,0
+Assam,1,2012,Female,Hindu,62,90,0,0
+Assam,1,2012,Female,Muslim,38,70,0,0
+Assam,1,2012,Female,Others,0,7,0,0
+Assam,1,2012,Female,Sikh,0,0,0,0
+Assam,1,2012,Male,Christian,192,351,0,0
+Assam,1,2012,Male,Hindu,1870,2606,1,0
+Assam,1,2012,Male,Muslim,902,1781,2,0
+Assam,1,2012,Male,Others,72,142,0,0
+Assam,1,2012,Male,Sikh,26,35,0,0
+Assam,1,2013,Female,Christian,10,12,0,0
+Assam,1,2013,Female,Hindu,62,113,0,0
+Assam,1,2013,Female,Muslim,29,75,0,0
+Assam,1,2013,Female,Others,0,5,0,0
+Assam,1,2013,Female,Sikh,0,0,0,0
+Assam,1,2013,Male,Christian,210,321,0,0
+Assam,1,2013,Male,Hindu,1818,2642,2,2
+Assam,1,2013,Male,Muslim,872,1871,3,0
+Assam,1,2013,Male,Others,72,102,0,0
+Assam,1,2013,Male,Sikh,20,22,0,0
+Bihar,1,2001,Female,Christian,0,11,0,0
+Bihar,1,2001,Female,Hindu,55,523,0,0
+Bihar,1,2001,Female,Muslim,23,259,0,0
+Bihar,1,2001,Female,Others,0,0,0,0
+Bihar,1,2001,Female,Sikh,0,0,0,0
+Bihar,1,2001,Male,Christian,30,471,0,0
+Bihar,1,2001,Male,Hindu,3480,18842,11,28
+Bihar,1,2001,Male,Muslim,1475,10606,1,9
+Bihar,1,2001,Male,Others,2,65,0,0
+Bihar,1,2001,Male,Sikh,0,16,0,0
+Bihar,1,2002,Female,Christian,0,2,0,0
+Bihar,1,2002,Female,Hindu,95,686,0,0
+Bihar,1,2002,Female,Muslim,10,251,0,0
+Bihar,1,2002,Female,Others,0,1,0,0
+Bihar,1,2002,Female,Sikh,0,2,0,0
+Bihar,1,2002,Male,Christian,92,186,0,0
+Bihar,1,2002,Male,Hindu,4123,23401,30,88
+Bihar,1,2002,Male,Muslim,666,7297,2,14
+Bihar,1,2002,Male,Others,66,222,1,0
+Bihar,1,2002,Male,Sikh,12,53,0,0
+Bihar,1,2003,Female,Christian,0,2,0,0
+Bihar,1,2003,Female,Hindu,74,753,0,0
+Bihar,1,2003,Female,Muslim,10,176,0,0
+Bihar,1,2003,Female,Others,20,12,0,0
+Bihar,1,2003,Female,Sikh,0,2,0,0
+Bihar,1,2003,Male,Christian,68,53,0,0
+Bihar,1,2003,Male,Hindu,4111,24506,18,70
+Bihar,1,2003,Male,Muslim,722,6038,4,14
+Bihar,1,2003,Male,Others,70,502,0,5
+Bihar,1,2003,Male,Sikh,3,90,0,0
+Bihar,1,2004,Female,Christian,0,0,0,0
+Bihar,1,2004,Female,Hindu,111,628,0,0
+Bihar,1,2004,Female,Muslim,19,115,0,0
+Bihar,1,2004,Female,Others,0,0,0,0
+Bihar,1,2004,Female,Sikh,0,0,0,0
+Bihar,1,2004,Male,Christian,74,86,0,0
+Bihar,1,2004,Male,Hindu,4656,21649,58,103
+Bihar,1,2004,Male,Muslim,622,4862,7,10
+Bihar,1,2004,Male,Others,34,24,0,0
+Bihar,1,2004,Male,Sikh,4,11,0,0
+Bihar,1,2005,Female,Christian,12,23,0,0
+Bihar,1,2005,Female,Hindu,90,957,0,0
+Bihar,1,2005,Female,Muslim,22,213,0,0
+Bihar,1,2005,Female,Others,0,0,0,0
+Bihar,1,2005,Female,Sikh,0,5,0,0
+Bihar,1,2005,Male,Christian,295,217,0,0
+Bihar,1,2005,Male,Hindu,4537,31386,0,140
+Bihar,1,2005,Male,Muslim,637,6858,0,50
+Bihar,1,2005,Male,Others,0,0,0,0
+Bihar,1,2005,Male,Sikh,16,360,0,0
+Bihar,1,2006,Female,Christian,0,2,0,0
+Bihar,1,2006,Female,Hindu,118,1048,0,0
+Bihar,1,2006,Female,Muslim,26,216,0,0
+Bihar,1,2006,Female,Others,5,2,0,0
+Bihar,1,2006,Female,Sikh,0,1,0,0
+Bihar,1,2006,Male,Christian,78,130,0,0
+Bihar,1,2006,Male,Hindu,5724,29221,0,138
+Bihar,1,2006,Male,Muslim,787,6635,0,3
+Bihar,1,2006,Male,Others,10,6,0,0
+Bihar,1,2006,Male,Sikh,17,114,0,0
+Bihar,1,2007,Female,Christian,0,3,0,0
+Bihar,1,2007,Female,Hindu,105,877,0,0
+Bihar,1,2007,Female,Muslim,25,272,0,0
+Bihar,1,2007,Female,Others,6,3,0,0
+Bihar,1,2007,Female,Sikh,0,1,0,0
+Bihar,1,2007,Male,Christian,72,105,0,0
+Bihar,1,2007,Male,Hindu,5147,22619,18,25
+Bihar,1,2007,Male,Muslim,893,9376,6,5
+Bihar,1,2007,Male,Others,11,26,0,2
+Bihar,1,2007,Male,Sikh,7,34,0,0
+Bihar,1,2008,Female,Christian,0,3,0,0
+Bihar,1,2008,Female,Hindu,100,835,0,0
+Bihar,1,2008,Female,Muslim,24,256,0,0
+Bihar,1,2008,Female,Others,7,2,0,0
+Bihar,1,2008,Female,Sikh,0,2,0,0
+Bihar,1,2008,Male,Christian,65,87,0,0
+Bihar,1,2008,Male,Hindu,5038,22295,16,30
+Bihar,1,2008,Male,Muslim,749,8115,8,8
+Bihar,1,2008,Male,Others,10,24,0,1
+Bihar,1,2008,Male,Sikh,6,28,0,0
+Bihar,1,2009,Female,Christian,0,2,0,0
+Bihar,1,2009,Female,Hindu,85,699,0,1
+Bihar,1,2009,Female,Muslim,18,213,0,0
+Bihar,1,2009,Female,Others,5,2,0,0
+Bihar,1,2009,Female,Sikh,0,1,0,0
+Bihar,1,2009,Male,Christian,39,66,0,0
+Bihar,1,2009,Male,Hindu,4673,20158,7,5
+Bihar,1,2009,Male,Muslim,698,6977,3,1
+Bihar,1,2009,Male,Others,8,20,0,0
+Bihar,1,2009,Male,Sikh,5,25,0,0
+Bihar,1,2010,Female,Christian,0,1,0,0
+Bihar,1,2010,Female,Hindu,95,601,0,0
+Bihar,1,2010,Female,Muslim,21,169,0,0
+Bihar,1,2010,Female,Others,3,2,0,0
+Bihar,1,2010,Female,Sikh,0,0,0,0
+Bihar,1,2010,Male,Christian,36,53,0,0
+Bihar,1,2010,Male,Hindu,4465,17690,22,12
+Bihar,1,2010,Male,Muslim,655,5812,12,7
+Bihar,1,2010,Male,Others,7,15,0,0
+Bihar,1,2010,Male,Sikh,3,19,0,0
+Bihar,1,2011,Female,Christian,0,16,0,0
+Bihar,1,2011,Female,Hindu,73,659,0,0
+Bihar,1,2011,Female,Muslim,13,118,0,0
+Bihar,1,2011,Female,Others,0,2,0,0
+Bihar,1,2011,Female,Sikh,0,0,0,0
+Bihar,1,2011,Male,Christian,14,39,0,0
+Bihar,1,2011,Male,Hindu,3700,18178,7,11
+Bihar,1,2011,Male,Muslim,727,3836,1,1
+Bihar,1,2011,Male,Others,61,531,0,1
+Bihar,1,2011,Male,Sikh,6,38,0,0
+Bihar,1,2012,Female,Christian,0,3,0,0
+Bihar,1,2012,Female,Hindu,86,681,0,0
+Bihar,1,2012,Female,Muslim,16,140,0,0
+Bihar,1,2012,Female,Others,0,2,0,0
+Bihar,1,2012,Female,Sikh,0,0,0,0
+Bihar,1,2012,Male,Christian,9,44,0,0
+Bihar,1,2012,Male,Hindu,3338,19401,37,11
+Bihar,1,2012,Male,Muslim,648,4015,3,2
+Bihar,1,2012,Male,Others,7,88,0,0
+Bihar,1,2012,Male,Sikh,4,15,0,0
+Bihar,1,2013,Female,Christian,0,0,0,0
+Bihar,1,2013,Female,Hindu,105,791,0,4
+Bihar,1,2013,Female,Muslim,18,181,0,0
+Bihar,1,2013,Female,Others,0,1,0,0
+Bihar,1,2013,Female,Sikh,0,0,0,0
+Bihar,1,2013,Male,Christian,9,45,0,0
+Bihar,1,2013,Male,Hindu,3636,21230,21,134
+Bihar,1,2013,Male,Muslim,704,4308,5,6
+Bihar,1,2013,Male,Others,4,30,0,0
+Bihar,1,2013,Male,Sikh,4,23,0,0
+Chandigarh,0,2001,Female,Christian,0,0,0,0
+Chandigarh,0,2001,Female,Hindu,3,10,0,0
+Chandigarh,0,2001,Female,Muslim,1,2,0,0
+Chandigarh,0,2001,Female,Others,0,0,0,0
+Chandigarh,0,2001,Female,Sikh,2,6,0,0
+Chandigarh,0,2001,Male,Christian,5,6,0,0
+Chandigarh,0,2001,Male,Hindu,48,155,0,0
+Chandigarh,0,2001,Male,Muslim,10,42,0,0
+Chandigarh,0,2001,Male,Others,0,0,0,0
+Chandigarh,0,2001,Male,Sikh,33,103,0,0
+Chandigarh,0,2002,Female,Christian,0,0,0,0
+Chandigarh,0,2002,Female,Hindu,3,8,0,0
+Chandigarh,0,2002,Female,Muslim,1,3,0,0
+Chandigarh,0,2002,Female,Others,0,0,0,0
+Chandigarh,0,2002,Female,Sikh,3,5,0,0
+Chandigarh,0,2002,Male,Christian,5,14,0,0
+Chandigarh,0,2002,Male,Hindu,56,181,0,0
+Chandigarh,0,2002,Male,Muslim,14,42,0,0
+Chandigarh,0,2002,Male,Others,0,0,0,0
+Chandigarh,0,2002,Male,Sikh,29,92,0,0
+Chandigarh,0,2003,Female,Christian,1,0,0,0
+Chandigarh,0,2003,Female,Hindu,3,8,0,0
+Chandigarh,0,2003,Female,Muslim,1,2,0,0
+Chandigarh,0,2003,Female,Others,0,0,0,0
+Chandigarh,0,2003,Female,Sikh,4,8,0,0
+Chandigarh,0,2003,Male,Christian,5,8,0,0
+Chandigarh,0,2003,Male,Hindu,75,210,0,0
+Chandigarh,0,2003,Male,Muslim,10,35,0,0
+Chandigarh,0,2003,Male,Others,0,0,0,0
+Chandigarh,0,2003,Male,Sikh,45,110,0,0
+Chandigarh,0,2004,Female,Christian,0,2,0,0
+Chandigarh,0,2004,Female,Hindu,5,15,0,0
+Chandigarh,0,2004,Female,Muslim,0,2,0,0
+Chandigarh,0,2004,Female,Others,0,0,0,0
+Chandigarh,0,2004,Female,Sikh,2,5,0,0
+Chandigarh,0,2004,Male,Christian,3,10,0,0
+Chandigarh,0,2004,Male,Hindu,72,209,0,0
+Chandigarh,0,2004,Male,Muslim,5,26,0,0
+Chandigarh,0,2004,Male,Others,0,0,0,0
+Chandigarh,0,2004,Male,Sikh,33,160,0,0
+Chandigarh,0,2005,Female,Christian,0,0,0,0
+Chandigarh,0,2005,Female,Hindu,5,12,0,0
+Chandigarh,0,2005,Female,Muslim,0,3,0,0
+Chandigarh,0,2005,Female,Others,0,0,0,0
+Chandigarh,0,2005,Female,Sikh,1,5,0,0
+Chandigarh,0,2005,Male,Christian,2,7,0,0
+Chandigarh,0,2005,Male,Hindu,43,210,0,0
+Chandigarh,0,2005,Male,Muslim,9,45,0,0
+Chandigarh,0,2005,Male,Others,0,0,0,0
+Chandigarh,0,2005,Male,Sikh,24,89,0,0
+Chandigarh,0,2006,Female,Christian,0,0,0,0
+Chandigarh,0,2006,Female,Hindu,4,13,0,0
+Chandigarh,0,2006,Female,Muslim,1,2,0,0
+Chandigarh,0,2006,Female,Others,0,0,0,0
+Chandigarh,0,2006,Female,Sikh,2,4,0,0
+Chandigarh,0,2006,Male,Christian,3,12,0,0
+Chandigarh,0,2006,Male,Hindu,56,182,0,0
+Chandigarh,0,2006,Male,Muslim,16,36,0,0
+Chandigarh,0,2006,Male,Others,0,0,0,0
+Chandigarh,0,2006,Male,Sikh,25,82,0,0
+Chandigarh,0,2007,Female,Christian,0,0,0,0
+Chandigarh,0,2007,Female,Hindu,4,8,0,0
+Chandigarh,0,2007,Female,Muslim,0,1,0,0
+Chandigarh,0,2007,Female,Others,0,0,0,0
+Chandigarh,0,2007,Female,Sikh,1,4,0,0
+Chandigarh,0,2007,Male,Christian,3,8,0,0
+Chandigarh,0,2007,Male,Hindu,86,199,0,0
+Chandigarh,0,2007,Male,Muslim,14,26,0,0
+Chandigarh,0,2007,Male,Others,0,0,0,0
+Chandigarh,0,2007,Male,Sikh,38,109,0,0
+Chandigarh,0,2008,Female,Christian,0,0,0,0
+Chandigarh,0,2008,Female,Hindu,3,6,0,0
+Chandigarh,0,2008,Female,Muslim,0,1,0,0
+Chandigarh,0,2008,Female,Others,0,0,0,0
+Chandigarh,0,2008,Female,Sikh,2,5,0,0
+Chandigarh,0,2008,Male,Christian,5,14,0,0
+Chandigarh,0,2008,Male,Hindu,118,196,0,0
+Chandigarh,0,2008,Male,Muslim,8,22,0,0
+Chandigarh,0,2008,Male,Others,0,0,0,0
+Chandigarh,0,2008,Male,Sikh,52,94,0,0
+Chandigarh,0,2009,Female,Christian,0,0,0,0
+Chandigarh,0,2009,Female,Hindu,6,12,0,0
+Chandigarh,0,2009,Female,Muslim,0,2,0,0
+Chandigarh,0,2009,Female,Others,0,0,0,0
+Chandigarh,0,2009,Female,Sikh,3,6,0,0
+Chandigarh,0,2009,Male,Christian,8,10,0,0
+Chandigarh,0,2009,Male,Hindu,142,226,0,0
+Chandigarh,0,2009,Male,Muslim,20,41,0,0
+Chandigarh,0,2009,Male,Others,0,0,0,0
+Chandigarh,0,2009,Male,Sikh,65,102,0,0
+Chandigarh,0,2010,Female,Christian,0,0,0,0
+Chandigarh,0,2010,Female,Hindu,5,10,0,0
+Chandigarh,0,2010,Female,Muslim,1,2,0,0
+Chandigarh,0,2010,Female,Others,0,0,0,0
+Chandigarh,0,2010,Female,Sikh,4,7,0,0
+Chandigarh,0,2010,Male,Christian,9,12,0,0
+Chandigarh,0,2010,Male,Hindu,125,237,0,0
+Chandigarh,0,2010,Male,Muslim,21,39,0,0
+Chandigarh,0,2010,Male,Others,0,0,0,0
+Chandigarh,0,2010,Male,Sikh,56,112,0,0
+Chandigarh,0,2011,Female,Christian,0,0,0,0
+Chandigarh,0,2011,Female,Hindu,4,8,0,0
+Chandigarh,0,2011,Female,Muslim,0,2,0,0
+Chandigarh,0,2011,Female,Others,0,0,0,0
+Chandigarh,0,2011,Female,Sikh,2,6,0,0
+Chandigarh,0,2011,Male,Christian,4,9,0,0
+Chandigarh,0,2011,Male,Hindu,158,224,0,0
+Chandigarh,0,2011,Male,Muslim,26,43,0,0
+Chandigarh,0,2011,Male,Others,0,0,0,0
+Chandigarh,0,2011,Male,Sikh,48,92,0,0
+Chandigarh,0,2012,Female,Christian,0,0,0,0
+Chandigarh,0,2012,Female,Hindu,8,18,0,0
+Chandigarh,0,2012,Female,Muslim,1,2,0,0
+Chandigarh,0,2012,Female,Others,0,0,0,0
+Chandigarh,0,2012,Female,Sikh,6,6,0,0
+Chandigarh,0,2012,Male,Christian,11,26,0,0
+Chandigarh,0,2012,Male,Hindu,132,231,0,0
+Chandigarh,0,2012,Male,Muslim,17,47,0,0
+Chandigarh,0,2012,Male,Others,0,0,0,0
+Chandigarh,0,2012,Male,Sikh,86,143,0,0
+Chandigarh,0,2013,Female,Christian,0,0,0,0
+Chandigarh,0,2013,Female,Hindu,6,6,0,0
+Chandigarh,0,2013,Female,Muslim,1,1,0,0
+Chandigarh,0,2013,Female,Others,0,0,0,0
+Chandigarh,0,2013,Female,Sikh,5,5,0,0
+Chandigarh,0,2013,Male,Christian,15,12,0,0
+Chandigarh,0,2013,Male,Hindu,148,192,0,0
+Chandigarh,0,2013,Male,Muslim,29,42,0,0
+Chandigarh,0,2013,Male,Others,0,0,0,0
+Chandigarh,0,2013,Male,Sikh,66,133,0,0
+Chhatisgarh,1,2013,Female,Christian,26,24,0,0
+Chhatisgarh,1,2013,Female,Hindu,265,464,0,0
+Chhatisgarh,1,2013,Female,Muslim,8,24,0,0
+Chhatisgarh,1,2013,Female,Others,6,3,0,0
+Chhatisgarh,1,2013,Female,Sikh,0,1,0,0
+Chhatisgarh,1,2013,Male,Christian,554,339,0,0
+Chhatisgarh,1,2013,Male,Hindu,5296,7635,1,12
+Chhatisgarh,1,2013,Male,Muslim,275,533,0,0
+Chhatisgarh,1,2013,Male,Others,94,139,0,0
+Chhatisgarh,1,2013,Male,Sikh,62,79,0,0
+Chhattisgarh,1,2001,Female,Christian,8,17,0,0
+Chhattisgarh,1,2001,Female,Hindu,165,165,0,1
+Chhattisgarh,1,2001,Female,Muslim,7,11,0,0
+Chhattisgarh,1,2001,Female,Others,3,0,0,0
+Chhattisgarh,1,2001,Female,Sikh,2,11,0,0
+Chhattisgarh,1,2001,Male,Christian,227,318,0,0
+Chhattisgarh,1,2001,Male,Hindu,3782,3921,3,8
+Chhattisgarh,1,2001,Male,Muslim,302,310,1,0
+Chhattisgarh,1,2001,Male,Others,65,48,0,0
+Chhattisgarh,1,2001,Male,Sikh,172,120,0,0
+Chhattisgarh,1,2002,Female,Christian,15,14,0,0
+Chhattisgarh,1,2002,Female,Hindu,162,175,0,0
+Chhattisgarh,1,2002,Female,Muslim,15,19,0,0
+Chhattisgarh,1,2002,Female,Others,6,10,0,0
+Chhattisgarh,1,2002,Female,Sikh,4,7,0,0
+Chhattisgarh,1,2002,Male,Christian,298,375,0,0
+Chhattisgarh,1,2002,Male,Hindu,3867,3409,1,8
+Chhattisgarh,1,2002,Male,Muslim,391,587,0,0
+Chhattisgarh,1,2002,Male,Others,65,74,0,0
+Chhattisgarh,1,2002,Male,Sikh,213,291,0,0
+Chhattisgarh,1,2003,Female,Christian,24,13,0,0
+Chhattisgarh,1,2003,Female,Hindu,152,128,0,0
+Chhattisgarh,1,2003,Female,Muslim,15,17,0,0
+Chhattisgarh,1,2003,Female,Others,6,0,0,0
+Chhattisgarh,1,2003,Female,Sikh,2,2,0,0
+Chhattisgarh,1,2003,Male,Christian,604,302,0,0
+Chhattisgarh,1,2003,Male,Hindu,3444,3292,3,9
+Chhattisgarh,1,2003,Male,Muslim,270,289,0,1
+Chhattisgarh,1,2003,Male,Others,166,34,0,0
+Chhattisgarh,1,2003,Male,Sikh,37,51,0,0
+Chhattisgarh,1,2004,Female,Christian,11,15,0,0
+Chhattisgarh,1,2004,Female,Hindu,162,155,0,0
+Chhattisgarh,1,2004,Female,Muslim,11,11,0,0
+Chhattisgarh,1,2004,Female,Others,16,11,0,0
+Chhattisgarh,1,2004,Female,Sikh,5,2,0,0
+Chhattisgarh,1,2004,Male,Christian,333,284,0,0
+Chhattisgarh,1,2004,Male,Hindu,3347,3030,0,11
+Chhattisgarh,1,2004,Male,Muslim,204,475,0,0
+Chhattisgarh,1,2004,Male,Others,397,176,0,0
+Chhattisgarh,1,2004,Male,Sikh,39,178,0,0
+Chhattisgarh,1,2005,Female,Christian,18,22,0,0
+Chhattisgarh,1,2005,Female,Hindu,154,195,0,0
+Chhattisgarh,1,2005,Female,Muslim,15,5,0,0
+Chhattisgarh,1,2005,Female,Others,3,9,0,0
+Chhattisgarh,1,2005,Female,Sikh,1,1,0,0
+Chhattisgarh,1,2005,Male,Christian,320,434,0,0
+Chhattisgarh,1,2005,Male,Hindu,3110,4297,2,8
+Chhattisgarh,1,2005,Male,Muslim,478,387,0,1
+Chhattisgarh,1,2005,Male,Others,167,108,0,2
+Chhattisgarh,1,2005,Male,Sikh,33,51,0,0
+Chhattisgarh,1,2006,Female,Christian,13,25,0,0
+Chhattisgarh,1,2006,Female,Hindu,148,222,0,0
+Chhattisgarh,1,2006,Female,Muslim,13,21,0,0
+Chhattisgarh,1,2006,Female,Others,11,11,0,0
+Chhattisgarh,1,2006,Female,Sikh,2,5,0,0
+Chhattisgarh,1,2006,Male,Christian,323,461,0,0
+Chhattisgarh,1,2006,Male,Hindu,3189,4455,1,11
+Chhattisgarh,1,2006,Male,Muslim,481,531,0,0
+Chhattisgarh,1,2006,Male,Others,54,177,0,0
+Chhattisgarh,1,2006,Male,Sikh,40,165,0,0
+Chhattisgarh,1,2007,Female,Christian,7,22,0,0
+Chhattisgarh,1,2007,Female,Hindu,168,196,0,0
+Chhattisgarh,1,2007,Female,Muslim,18,20,0,0
+Chhattisgarh,1,2007,Female,Others,12,10,0,0
+Chhattisgarh,1,2007,Female,Sikh,3,5,0,0
+Chhattisgarh,1,2007,Male,Christian,384,487,0,0
+Chhattisgarh,1,2007,Male,Hindu,3309,4048,0,23
+Chhattisgarh,1,2007,Male,Muslim,491,518,0,1
+Chhattisgarh,1,2007,Male,Others,71,192,0,2
+Chhattisgarh,1,2007,Male,Sikh,62,401,0,1
+Chhattisgarh,1,2008,Female,Christian,7,9,0,0
+Chhattisgarh,1,2008,Female,Hindu,175,271,0,0
+Chhattisgarh,1,2008,Female,Muslim,5,12,0,0
+Chhattisgarh,1,2008,Female,Others,5,5,0,0
+Chhattisgarh,1,2008,Female,Sikh,2,5,0,0
+Chhattisgarh,1,2008,Male,Christian,449,463,0,0
+Chhattisgarh,1,2008,Male,Hindu,3592,4916,0,6
+Chhattisgarh,1,2008,Male,Muslim,418,483,0,0
+Chhattisgarh,1,2008,Male,Others,72,197,0,0
+Chhattisgarh,1,2008,Male,Sikh,42,96,0,0
+Chhattisgarh,1,2009,Female,Christian,6,21,0,0
+Chhattisgarh,1,2009,Female,Hindu,203,319,0,0
+Chhattisgarh,1,2009,Female,Muslim,5,18,0,0
+Chhattisgarh,1,2009,Female,Others,0,0,0,0
+Chhattisgarh,1,2009,Female,Sikh,3,1,0,0
+Chhattisgarh,1,2009,Male,Christian,284,271,0,4
+Chhattisgarh,1,2009,Male,Hindu,4064,6004,0,12
+Chhattisgarh,1,2009,Male,Muslim,252,518,0,0
+Chhattisgarh,1,2009,Male,Others,15,29,0,0
+Chhattisgarh,1,2009,Male,Sikh,25,88,0,0
+Chhattisgarh,1,2010,Female,Christian,2,16,0,0
+Chhattisgarh,1,2010,Female,Hindu,199,331,0,0
+Chhattisgarh,1,2010,Female,Muslim,8,16,0,0
+Chhattisgarh,1,2010,Female,Others,0,9,0,0
+Chhattisgarh,1,2010,Female,Sikh,0,3,0,0
+Chhattisgarh,1,2010,Male,Christian,489,599,0,0
+Chhattisgarh,1,2010,Male,Hindu,4112,6083,1,18
+Chhattisgarh,1,2010,Male,Muslim,320,438,0,1
+Chhattisgarh,1,2010,Male,Others,27,149,0,0
+Chhattisgarh,1,2010,Male,Sikh,39,55,0,0
+Chhattisgarh,1,2011,Female,Christian,6,16,0,0
+Chhattisgarh,1,2011,Female,Hindu,229,288,0,0
+Chhattisgarh,1,2011,Female,Muslim,4,75,0,0
+Chhattisgarh,1,2011,Female,Others,3,0,0,0
+Chhattisgarh,1,2011,Female,Sikh,0,13,0,0
+Chhattisgarh,1,2011,Male,Christian,492,308,0,0
+Chhattisgarh,1,2011,Male,Hindu,4580,7039,0,11
+Chhattisgarh,1,2011,Male,Muslim,229,416,0,2
+Chhattisgarh,1,2011,Male,Others,46,58,0,0
+Chhattisgarh,1,2011,Male,Sikh,41,62,0,0
+Chhattisgarh,1,2012,Female,Christian,11,7,0,0
+Chhattisgarh,1,2012,Female,Hindu,224,424,0,0
+Chhattisgarh,1,2012,Female,Muslim,5,22,0,0
+Chhattisgarh,1,2012,Female,Others,4,1,0,0
+Chhattisgarh,1,2012,Female,Sikh,0,1,0,0
+Chhattisgarh,1,2012,Male,Christian,492,321,0,0
+Chhattisgarh,1,2012,Male,Hindu,4905,7478,0,15
+Chhattisgarh,1,2012,Male,Muslim,233,418,0,2
+Chhattisgarh,1,2012,Male,Others,52,49,0,0
+Chhattisgarh,1,2012,Male,Sikh,38,78,0,0
+D & N Haveli,0,2001,Female,Christian,0,0,0,0
+D & N Haveli,0,2001,Female,Hindu,0,4,0,0
+D & N Haveli,0,2001,Female,Muslim,0,1,0,0
+D & N Haveli,0,2001,Female,Others,0,0,0,0
+D & N Haveli,0,2001,Female,Sikh,0,0,0,0
+D & N Haveli,0,2001,Male,Christian,0,2,0,0
+D & N Haveli,0,2001,Male,Hindu,8,144,0,0
+D & N Haveli,0,2001,Male,Muslim,0,5,0,0
+D & N Haveli,0,2001,Male,Others,0,0,0,0
+D & N Haveli,0,2001,Male,Sikh,0,2,0,0
+D & N Haveli,0,2002,Female,Christian,0,0,0,0
+D & N Haveli,0,2002,Female,Hindu,0,1,0,0
+D & N Haveli,0,2002,Female,Muslim,0,0,0,0
+D & N Haveli,0,2002,Female,Others,0,0,0,0
+D & N Haveli,0,2002,Female,Sikh,1,0,0,0
+D & N Haveli,0,2002,Male,Christian,0,0,0,0
+D & N Haveli,0,2002,Male,Hindu,2,124,0,0
+D & N Haveli,0,2002,Male,Muslim,2,30,0,0
+D & N Haveli,0,2002,Male,Others,0,0,0,0
+D & N Haveli,0,2002,Male,Sikh,0,0,0,0
+D & N Haveli,0,2003,Female,Christian,0,0,0,0
+D & N Haveli,0,2003,Female,Hindu,0,0,0,0
+D & N Haveli,0,2003,Female,Muslim,0,0,0,0
+D & N Haveli,0,2003,Female,Others,0,0,0,0
+D & N Haveli,0,2003,Female,Sikh,0,0,0,0
+D & N Haveli,0,2003,Male,Christian,0,1,0,0
+D & N Haveli,0,2003,Male,Hindu,0,155,0,0
+D & N Haveli,0,2003,Male,Muslim,0,15,0,0
+D & N Haveli,0,2003,Male,Others,0,0,0,0
+D & N Haveli,0,2003,Male,Sikh,0,1,0,0
+D & N Haveli,0,2004,Female,Christian,0,0,0,0
+D & N Haveli,0,2004,Female,Hindu,0,0,0,0
+D & N Haveli,0,2004,Female,Muslim,0,0,0,0
+D & N Haveli,0,2004,Female,Others,0,0,0,0
+D & N Haveli,0,2004,Female,Sikh,0,0,0,0
+D & N Haveli,0,2004,Male,Christian,0,0,0,0
+D & N Haveli,0,2004,Male,Hindu,0,30,0,0
+D & N Haveli,0,2004,Male,Muslim,0,3,0,0
+D & N Haveli,0,2004,Male,Others,0,0,0,0
+D & N Haveli,0,2004,Male,Sikh,0,0,0,0
+D & N Haveli,0,2005,Female,Christian,0,0,0,0
+D & N Haveli,0,2005,Female,Hindu,0,0,0,0
+D & N Haveli,0,2005,Female,Muslim,0,0,0,0
+D & N Haveli,0,2005,Female,Others,0,0,0,0
+D & N Haveli,0,2005,Female,Sikh,0,0,0,0
+D & N Haveli,0,2005,Male,Christian,0,0,0,0
+D & N Haveli,0,2005,Male,Hindu,0,27,0,0
+D & N Haveli,0,2005,Male,Muslim,0,2,0,0
+D & N Haveli,0,2005,Male,Others,0,0,0,0
+D & N Haveli,0,2005,Male,Sikh,0,0,0,0
+D & N Haveli,0,2006,Female,Christian,0,0,0,0
+D & N Haveli,0,2006,Female,Hindu,0,0,0,0
+D & N Haveli,0,2006,Female,Muslim,0,0,0,0
+D & N Haveli,0,2006,Female,Others,0,0,0,0
+D & N Haveli,0,2006,Female,Sikh,0,0,0,0
+D & N Haveli,0,2006,Male,Christian,0,0,0,0
+D & N Haveli,0,2006,Male,Hindu,0,32,0,0
+D & N Haveli,0,2006,Male,Muslim,0,1,0,0
+D & N Haveli,0,2006,Male,Others,0,0,0,0
+D & N Haveli,0,2006,Male,Sikh,0,0,0,0
+D & N Haveli,0,2007,Female,Christian,0,0,0,0
+D & N Haveli,0,2007,Female,Hindu,0,0,0,0
+D & N Haveli,0,2007,Female,Muslim,0,0,0,0
+D & N Haveli,0,2007,Female,Others,0,0,0,0
+D & N Haveli,0,2007,Female,Sikh,0,0,0,0
+D & N Haveli,0,2007,Male,Christian,0,0,0,0
+D & N Haveli,0,2007,Male,Hindu,0,26,0,0
+D & N Haveli,0,2007,Male,Muslim,0,2,0,0
+D & N Haveli,0,2007,Male,Others,0,0,0,0
+D & N Haveli,0,2007,Male,Sikh,0,0,0,0
+D & N Haveli,0,2008,Female,Christian,0,0,0,0
+D & N Haveli,0,2008,Female,Hindu,0,2,0,0
+D & N Haveli,0,2008,Female,Muslim,0,1,0,0
+D & N Haveli,0,2008,Female,Others,0,0,0,0
+D & N Haveli,0,2008,Female,Sikh,0,0,0,0
+D & N Haveli,0,2008,Male,Christian,0,1,0,0
+D & N Haveli,0,2008,Male,Hindu,5,20,0,0
+D & N Haveli,0,2008,Male,Muslim,6,9,0,0
+D & N Haveli,0,2008,Male,Others,0,0,0,0
+D & N Haveli,0,2008,Male,Sikh,0,2,0,0
+D & N Haveli,0,2009,Female,Christian,0,0,0,0
+D & N Haveli,0,2009,Female,Hindu,0,2,0,0
+D & N Haveli,0,2009,Female,Muslim,0,0,0,0
+D & N Haveli,0,2009,Female,Others,0,0,0,0
+D & N Haveli,0,2009,Female,Sikh,0,0,0,0
+D & N Haveli,0,2009,Male,Christian,0,1,0,0
+D & N Haveli,0,2009,Male,Hindu,1,47,0,0
+D & N Haveli,0,2009,Male,Muslim,1,4,0,0
+D & N Haveli,0,2009,Male,Others,0,0,0,0
+D & N Haveli,0,2009,Male,Sikh,0,0,0,0
+D & N Haveli,0,2010,Female,Christian,0,0,0,0
+D & N Haveli,0,2010,Female,Hindu,0,0,0,0
+D & N Haveli,0,2010,Female,Muslim,0,0,0,0
+D & N Haveli,0,2010,Female,Others,0,0,0,0
+D & N Haveli,0,2010,Female,Sikh,0,0,0,0
+D & N Haveli,0,2010,Male,Christian,0,0,0,0
+D & N Haveli,0,2010,Male,Hindu,0,21,0,0
+D & N Haveli,0,2010,Male,Muslim,0,8,0,0
+D & N Haveli,0,2010,Male,Others,0,12,0,0
+D & N Haveli,0,2010,Male,Sikh,0,1,0,0
+D & N Haveli,0,2011,Female,Christian,0,0,0,0
+D & N Haveli,0,2011,Female,Hindu,0,2,0,0
+D & N Haveli,0,2011,Female,Muslim,0,0,0,0
+D & N Haveli,0,2011,Female,Others,0,0,0,0
+D & N Haveli,0,2011,Female,Sikh,0,0,0,0
+D & N Haveli,0,2011,Male,Christian,0,1,0,0
+D & N Haveli,0,2011,Male,Hindu,0,18,0,0
+D & N Haveli,0,2011,Male,Muslim,0,4,0,0
+D & N Haveli,0,2011,Male,Others,0,0,0,0
+D & N Haveli,0,2011,Male,Sikh,0,0,0,0
+D & N Haveli,0,2012,Female,Christian,0,0,0,0
+D & N Haveli,0,2012,Female,Hindu,0,2,0,0
+D & N Haveli,0,2012,Female,Muslim,0,0,0,0
+D & N Haveli,0,2012,Female,Others,0,0,0,0
+D & N Haveli,0,2012,Female,Sikh,0,0,0,0
+D & N Haveli,0,2012,Male,Christian,0,2,0,0
+D & N Haveli,0,2012,Male,Hindu,0,22,0,0
+D & N Haveli,0,2012,Male,Muslim,0,9,0,0
+D & N Haveli,0,2012,Male,Others,0,0,0,0
+D & N Haveli,0,2012,Male,Sikh,0,2,0,0
+D & N Haveli,0,2013,Female,Christian,0,0,0,0
+D & N Haveli,0,2013,Female,Hindu,0,0,0,0
+D & N Haveli,0,2013,Female,Muslim,0,0,0,0
+D & N Haveli,0,2013,Female,Others,0,0,0,0
+D & N Haveli,0,2013,Female,Sikh,0,0,0,0
+D & N Haveli,0,2013,Male,Christian,0,2,0,0
+D & N Haveli,0,2013,Male,Hindu,0,24,0,0
+D & N Haveli,0,2013,Male,Muslim,0,9,0,0
+D & N Haveli,0,2013,Male,Others,0,0,0,0
+D & N Haveli,0,2013,Male,Sikh,0,0,0,0
+Daman & Diu,0,2001,Female,Christian,0,0,0,0
+Daman & Diu,0,2001,Female,Hindu,0,1,0,0
+Daman & Diu,0,2001,Female,Muslim,0,0,0,0
+Daman & Diu,0,2001,Female,Others,0,0,0,0
+Daman & Diu,0,2001,Female,Sikh,0,0,0,0
+Daman & Diu,0,2001,Male,Christian,1,2,0,0
+Daman & Diu,0,2001,Male,Hindu,18,11,0,0
+Daman & Diu,0,2001,Male,Muslim,4,4,0,0
+Daman & Diu,0,2001,Male,Others,0,0,0,0
+Daman & Diu,0,2001,Male,Sikh,0,0,0,0
+Daman & Diu,0,2002,Female,Christian,0,0,0,0
+Daman & Diu,0,2002,Female,Hindu,0,0,0,0
+Daman & Diu,0,2002,Female,Muslim,0,0,0,0
+Daman & Diu,0,2002,Female,Others,0,0,0,0
+Daman & Diu,0,2002,Female,Sikh,0,0,0,0
+Daman & Diu,0,2002,Male,Christian,0,0,0,0
+Daman & Diu,0,2002,Male,Hindu,13,19,0,0
+Daman & Diu,0,2002,Male,Muslim,0,0,0,0
+Daman & Diu,0,2002,Male,Others,0,0,0,0
+Daman & Diu,0,2002,Male,Sikh,0,1,0,0
+Daman & Diu,0,2003,Female,Christian,0,0,0,0
+Daman & Diu,0,2003,Female,Hindu,0,0,0,0
+Daman & Diu,0,2003,Female,Muslim,0,0,0,0
+Daman & Diu,0,2003,Female,Others,0,0,0,0
+Daman & Diu,0,2003,Female,Sikh,0,0,0,0
+Daman & Diu,0,2003,Male,Christian,0,0,0,0
+Daman & Diu,0,2003,Male,Hindu,13,17,0,0
+Daman & Diu,0,2003,Male,Muslim,0,1,0,0
+Daman & Diu,0,2003,Male,Others,0,0,0,0
+Daman & Diu,0,2003,Male,Sikh,0,2,0,0
+Daman & Diu,0,2004,Female,Christian,0,1,0,0
+Daman & Diu,0,2004,Female,Hindu,0,0,0,0
+Daman & Diu,0,2004,Female,Muslim,0,0,0,0
+Daman & Diu,0,2004,Female,Others,0,0,0,0
+Daman & Diu,0,2004,Female,Sikh,0,0,0,0
+Daman & Diu,0,2004,Male,Christian,0,2,0,0
+Daman & Diu,0,2004,Male,Hindu,8,16,0,0
+Daman & Diu,0,2004,Male,Muslim,0,0,0,0
+Daman & Diu,0,2004,Male,Others,0,0,0,0
+Daman & Diu,0,2004,Male,Sikh,0,0,0,0
+Daman & Diu,0,2005,Female,Christian,0,1,0,0
+Daman & Diu,0,2005,Female,Hindu,0,0,0,0
+Daman & Diu,0,2005,Female,Muslim,0,0,0,0
+Daman & Diu,0,2005,Female,Others,0,0,0,0
+Daman & Diu,0,2005,Female,Sikh,0,0,0,0
+Daman & Diu,0,2005,Male,Christian,0,0,0,0
+Daman & Diu,0,2005,Male,Hindu,11,19,0,0
+Daman & Diu,0,2005,Male,Muslim,0,4,0,0
+Daman & Diu,0,2005,Male,Others,0,0,0,0
+Daman & Diu,0,2005,Male,Sikh,0,0,0,0
+Daman & Diu,0,2006,Female,Christian,0,1,0,0
+Daman & Diu,0,2006,Female,Hindu,0,0,0,0
+Daman & Diu,0,2006,Female,Muslim,0,0,0,0
+Daman & Diu,0,2006,Female,Others,0,0,0,0
+Daman & Diu,0,2006,Female,Sikh,0,0,0,0
+Daman & Diu,0,2006,Male,Christian,0,0,0,0
+Daman & Diu,0,2006,Male,Hindu,12,34,0,0
+Daman & Diu,0,2006,Male,Muslim,0,7,0,0
+Daman & Diu,0,2006,Male,Others,0,0,0,0
+Daman & Diu,0,2006,Male,Sikh,0,0,0,0
+Daman & Diu,0,2007,Female,Christian,0,0,0,0
+Daman & Diu,0,2007,Female,Hindu,2,3,0,0
+Daman & Diu,0,2007,Female,Muslim,0,1,0,0
+Daman & Diu,0,2007,Female,Others,0,0,0,0
+Daman & Diu,0,2007,Female,Sikh,0,0,0,0
+Daman & Diu,0,2007,Male,Christian,0,0,0,0
+Daman & Diu,0,2007,Male,Hindu,8,46,0,0
+Daman & Diu,0,2007,Male,Muslim,0,6,0,0
+Daman & Diu,0,2007,Male,Others,0,0,0,0
+Daman & Diu,0,2007,Male,Sikh,0,0,0,0
+Daman & Diu,0,2008,Female,Christian,1,0,0,0
+Daman & Diu,0,2008,Female,Hindu,1,1,0,0
+Daman & Diu,0,2008,Female,Muslim,0,0,0,0
+Daman & Diu,0,2008,Female,Others,0,0,0,0
+Daman & Diu,0,2008,Female,Sikh,0,0,0,0
+Daman & Diu,0,2008,Male,Christian,0,0,0,0
+Daman & Diu,0,2008,Male,Hindu,14,20,0,0
+Daman & Diu,0,2008,Male,Muslim,0,6,0,0
+Daman & Diu,0,2008,Male,Others,0,0,0,0
+Daman & Diu,0,2008,Male,Sikh,0,0,0,0
+Daman & Diu,0,2009,Female,Christian,1,0,0,0
+Daman & Diu,0,2009,Female,Hindu,0,0,0,0
+Daman & Diu,0,2009,Female,Muslim,0,0,0,0
+Daman & Diu,0,2009,Female,Others,0,0,0,0
+Daman & Diu,0,2009,Female,Sikh,0,0,0,0
+Daman & Diu,0,2009,Male,Christian,0,0,0,0
+Daman & Diu,0,2009,Male,Hindu,15,21,0,0
+Daman & Diu,0,2009,Male,Muslim,0,3,0,0
+Daman & Diu,0,2009,Male,Others,0,0,0,0
+Daman & Diu,0,2009,Male,Sikh,0,0,0,0
+Daman & Diu,0,2010,Female,Christian,0,0,0,0
+Daman & Diu,0,2010,Female,Hindu,1,0,0,0
+Daman & Diu,0,2010,Female,Muslim,0,0,0,0
+Daman & Diu,0,2010,Female,Others,0,0,0,0
+Daman & Diu,0,2010,Female,Sikh,0,0,0,0
+Daman & Diu,0,2010,Male,Christian,0,0,0,0
+Daman & Diu,0,2010,Male,Hindu,13,11,0,0
+Daman & Diu,0,2010,Male,Muslim,0,5,0,0
+Daman & Diu,0,2010,Male,Others,0,0,0,0
+Daman & Diu,0,2010,Male,Sikh,0,0,0,0
+Daman & Diu,0,2011,Female,Christian,1,0,0,0
+Daman & Diu,0,2011,Female,Hindu,0,0,0,0
+Daman & Diu,0,2011,Female,Muslim,0,0,0,0
+Daman & Diu,0,2011,Female,Others,0,0,0,0
+Daman & Diu,0,2011,Female,Sikh,0,0,0,0
+Daman & Diu,0,2011,Male,Christian,0,0,0,0
+Daman & Diu,0,2011,Male,Hindu,11,17,0,0
+Daman & Diu,0,2011,Male,Muslim,0,0,0,0
+Daman & Diu,0,2011,Male,Others,0,0,0,0
+Daman & Diu,0,2011,Male,Sikh,0,0,0,0
+Daman & Diu,0,2012,Female,Christian,1,0,0,0
+Daman & Diu,0,2012,Female,Hindu,0,1,0,0
+Daman & Diu,0,2012,Female,Muslim,0,0,0,0
+Daman & Diu,0,2012,Female,Others,0,0,0,0
+Daman & Diu,0,2012,Female,Sikh,0,0,0,0
+Daman & Diu,0,2012,Male,Christian,0,0,0,0
+Daman & Diu,0,2012,Male,Hindu,13,7,0,0
+Daman & Diu,0,2012,Male,Muslim,0,3,0,0
+Daman & Diu,0,2012,Male,Others,0,0,0,0
+Daman & Diu,0,2012,Male,Sikh,0,0,0,0
+Daman & Diu,0,2013,Female,Christian,1,0,0,0
+Daman & Diu,0,2013,Female,Hindu,0,0,0,0
+Daman & Diu,0,2013,Female,Muslim,0,0,0,0
+Daman & Diu,0,2013,Female,Others,0,0,0,0
+Daman & Diu,0,2013,Female,Sikh,0,0,0,0
+Daman & Diu,0,2013,Male,Christian,1,1,0,0
+Daman & Diu,0,2013,Male,Hindu,16,34,0,0
+Daman & Diu,0,2013,Male,Muslim,0,3,0,0
+Daman & Diu,0,2013,Male,Others,0,0,0,0
+Daman & Diu,0,2013,Male,Sikh,0,0,0,0
+Delhi,0,2001,Female,Christian,2,21,0,0
+Delhi,0,2001,Female,Hindu,84,176,1,0
+Delhi,0,2001,Female,Muslim,24,150,0,0
+Delhi,0,2001,Female,Others,0,0,0,0
+Delhi,0,2001,Female,Sikh,7,39,0,0
+Delhi,0,2001,Male,Christian,30,95,1,0
+Delhi,0,2001,Male,Hindu,1526,5952,35,0
+Delhi,0,2001,Male,Muslim,489,2149,11,0
+Delhi,0,2001,Male,Others,1,7,1,0
+Delhi,0,2001,Male,Sikh,58,163,1,0
+Delhi,0,2002,Female,Christian,1,8,0,0
+Delhi,0,2002,Female,Hindu,64,163,1,0
+Delhi,0,2002,Female,Muslim,38,153,0,0
+Delhi,0,2002,Female,Others,0,0,0,0
+Delhi,0,2002,Female,Sikh,12,57,0,0
+Delhi,0,2002,Male,Christian,25,77,1,0
+Delhi,0,2002,Male,Hindu,1583,6662,27,0
+Delhi,0,2002,Male,Muslim,515,2329,21,0
+Delhi,0,2002,Male,Others,42,28,0,0
+Delhi,0,2002,Male,Sikh,53,179,2,0
+Delhi,0,2003,Female,Christian,3,9,1,0
+Delhi,0,2003,Female,Hindu,99,338,0,0
+Delhi,0,2003,Female,Muslim,10,67,0,0
+Delhi,0,2003,Female,Others,0,0,0,0
+Delhi,0,2003,Female,Sikh,2,21,0,0
+Delhi,0,2003,Male,Christian,27,109,5,0
+Delhi,0,2003,Male,Hindu,1497,6335,13,0
+Delhi,0,2003,Male,Muslim,582,2769,15,0
+Delhi,0,2003,Male,Others,4,49,2,0
+Delhi,0,2003,Male,Sikh,42,169,4,0
+Delhi,0,2004,Female,Christian,6,21,0,0
+Delhi,0,2004,Female,Hindu,94,263,0,0
+Delhi,0,2004,Female,Muslim,24,74,0,0
+Delhi,0,2004,Female,Others,0,3,0,0
+Delhi,0,2004,Female,Sikh,8,38,0,0
+Delhi,0,2004,Male,Christian,31,84,0,0
+Delhi,0,2004,Male,Hindu,1637,6826,2,0
+Delhi,0,2004,Male,Muslim,638,2572,13,0
+Delhi,0,2004,Male,Others,4,84,0,0
+Delhi,0,2004,Male,Sikh,66,122,0,0
+Delhi,0,2005,Female,Christian,6,19,0,0
+Delhi,0,2005,Female,Hindu,82,258,0,0
+Delhi,0,2005,Female,Muslim,22,56,0,0
+Delhi,0,2005,Female,Others,0,2,0,0
+Delhi,0,2005,Female,Sikh,7,35,0,0
+Delhi,0,2005,Male,Christian,48,114,0,0
+Delhi,0,2005,Male,Hindu,1581,6274,6,0
+Delhi,0,2005,Male,Muslim,692,2661,10,0
+Delhi,0,2005,Male,Others,5,64,0,0
+Delhi,0,2005,Male,Sikh,67,308,0,0
+Delhi,0,2006,Female,Christian,3,30,1,0
+Delhi,0,2006,Female,Hindu,55,272,0,0
+Delhi,0,2006,Female,Muslim,11,61,0,0
+Delhi,0,2006,Female,Others,0,3,0,0
+Delhi,0,2006,Female,Sikh,10,17,0,0
+Delhi,0,2006,Male,Christian,54,118,2,0
+Delhi,0,2006,Male,Hindu,1670,6868,3,0
+Delhi,0,2006,Male,Muslim,587,3192,11,0
+Delhi,0,2006,Male,Others,2,78,0,0
+Delhi,0,2006,Male,Sikh,57,295,0,0
+Delhi,0,2007,Female,Christian,1,50,0,0
+Delhi,0,2007,Female,Hindu,54,253,0,0
+Delhi,0,2007,Female,Muslim,7,92,0,0
+Delhi,0,2007,Female,Others,0,0,0,0
+Delhi,0,2007,Female,Sikh,1,27,0,0
+Delhi,0,2007,Male,Christian,20,145,1,0
+Delhi,0,2007,Male,Hindu,1620,5892,2,0
+Delhi,0,2007,Male,Muslim,522,2638,20,0
+Delhi,0,2007,Male,Others,9,28,0,0
+Delhi,0,2007,Male,Sikh,34,189,0,0
+Delhi,0,2008,Female,Christian,1,33,0,0
+Delhi,0,2008,Female,Hindu,50,239,0,0
+Delhi,0,2008,Female,Muslim,5,115,0,0
+Delhi,0,2008,Female,Others,0,19,0,0
+Delhi,0,2008,Female,Sikh,0,8,0,0
+Delhi,0,2008,Male,Christian,13,139,0,0
+Delhi,0,2008,Male,Hindu,1449,6210,5,4
+Delhi,0,2008,Male,Muslim,428,2579,14,0
+Delhi,0,2008,Male,Others,4,50,0,0
+Delhi,0,2008,Male,Sikh,28,160,0,0
+Delhi,0,2009,Female,Christian,1,30,0,0
+Delhi,0,2009,Female,Hindu,69,224,0,0
+Delhi,0,2009,Female,Muslim,10,96,0,0
+Delhi,0,2009,Female,Others,2,6,0,0
+Delhi,0,2009,Female,Sikh,1,8,0,0
+Delhi,0,2009,Male,Christian,27,119,0,0
+Delhi,0,2009,Male,Hindu,1624,6225,4,4
+Delhi,0,2009,Male,Muslim,507,2094,11,1
+Delhi,0,2009,Male,Others,9,26,0,0
+Delhi,0,2009,Male,Sikh,45,103,0,0
+Delhi,0,2010,Female,Christian,4,24,0,0
+Delhi,0,2010,Female,Hindu,84,310,0,0
+Delhi,0,2010,Female,Muslim,12,59,0,0
+Delhi,0,2010,Female,Others,0,3,0,0
+Delhi,0,2010,Female,Sikh,4,5,0,0
+Delhi,0,2010,Male,Christian,23,122,0,0
+Delhi,0,2010,Male,Hindu,2048,5449,3,3
+Delhi,0,2010,Male,Muslim,520,1970,10,2
+Delhi,0,2010,Male,Others,13,17,0,0
+Delhi,0,2010,Male,Sikh,43,128,0,0
+Delhi,0,2011,Female,Christian,8,17,0,0
+Delhi,0,2011,Female,Hindu,92,316,0,0
+Delhi,0,2011,Female,Muslim,12,64,0,0
+Delhi,0,2011,Female,Others,0,4,0,0
+Delhi,0,2011,Female,Sikh,4,9,0,0
+Delhi,0,2011,Male,Christian,30,195,0,0
+Delhi,0,2011,Male,Hindu,2366,6125,0,0
+Delhi,0,2011,Male,Muslim,638,2038,6,0
+Delhi,0,2011,Male,Others,1,9,0,0
+Delhi,0,2011,Male,Sikh,56,134,0,0
+Delhi,0,2012,Female,Christian,9,26,0,0
+Delhi,0,2012,Female,Hindu,103,312,0,0
+Delhi,0,2012,Female,Muslim,9,64,0,0
+Delhi,0,2012,Female,Others,0,1,0,0
+Delhi,0,2012,Female,Sikh,4,12,0,0
+Delhi,0,2012,Male,Christian,31,200,0,0
+Delhi,0,2012,Male,Hindu,2331,6208,1,2
+Delhi,0,2012,Male,Muslim,662,1888,3,0
+Delhi,0,2012,Male,Others,2,7,0,0
+Delhi,0,2012,Male,Sikh,68,169,1,0
+Delhi,0,2013,Female,Christian,7,33,0,0
+Delhi,0,2013,Female,Hindu,114,352,0,0
+Delhi,0,2013,Female,Muslim,12,74,0,0
+Delhi,0,2013,Female,Others,3,1,0,0
+Delhi,0,2013,Female,Sikh,5,14,0,0
+Delhi,0,2013,Male,Christian,34,213,0,0
+Delhi,0,2013,Male,Hindu,2521,7185,2,4
+Delhi,0,2013,Male,Muslim,631,2125,3,0
+Delhi,0,2013,Male,Others,2,12,0,0
+Delhi,0,2013,Male,Sikh,59,145,1,0
+Goa,1,2001,Female,Christian,2,1,0,0
+Goa,1,2001,Female,Hindu,2,3,0,0
+Goa,1,2001,Female,Muslim,0,3,0,0
+Goa,1,2001,Female,Others,0,0,0,0
+Goa,1,2001,Female,Sikh,0,0,0,0
+Goa,1,2001,Male,Christian,44,53,0,0
+Goa,1,2001,Male,Hindu,79,191,0,0
+Goa,1,2001,Male,Muslim,28,43,0,0
+Goa,1,2001,Male,Others,0,0,0,0
+Goa,1,2001,Male,Sikh,3,0,0,0
+Goa,1,2002,Female,Christian,1,0,0,0
+Goa,1,2002,Female,Hindu,3,2,0,0
+Goa,1,2002,Female,Muslim,0,3,0,0
+Goa,1,2002,Female,Others,0,0,0,0
+Goa,1,2002,Female,Sikh,0,0,0,0
+Goa,1,2002,Male,Christian,36,38,0,0
+Goa,1,2002,Male,Hindu,96,135,0,0
+Goa,1,2002,Male,Muslim,13,23,0,0
+Goa,1,2002,Male,Others,0,2,0,0
+Goa,1,2002,Male,Sikh,0,0,0,0
+Goa,1,2003,Female,Christian,1,2,0,0
+Goa,1,2003,Female,Hindu,2,6,0,0
+Goa,1,2003,Female,Muslim,0,1,0,0
+Goa,1,2003,Female,Others,0,0,0,0
+Goa,1,2003,Female,Sikh,0,0,0,0
+Goa,1,2003,Male,Christian,39,102,0,0
+Goa,1,2003,Male,Hindu,88,227,1,0
+Goa,1,2003,Male,Muslim,10,45,0,0
+Goa,1,2003,Male,Others,3,3,0,0
+Goa,1,2003,Male,Sikh,0,2,0,0
+Goa,1,2004,Female,Christian,0,5,0,0
+Goa,1,2004,Female,Hindu,2,4,0,0
+Goa,1,2004,Female,Muslim,0,0,0,0
+Goa,1,2004,Female,Others,0,0,0,0
+Goa,1,2004,Female,Sikh,0,0,0,0
+Goa,1,2004,Male,Christian,37,48,0,0
+Goa,1,2004,Male,Hindu,100,164,0,0
+Goa,1,2004,Male,Muslim,11,35,0,0
+Goa,1,2004,Male,Others,0,21,0,0
+Goa,1,2004,Male,Sikh,0,0,0,0
+Goa,1,2005,Female,Christian,0,2,0,0
+Goa,1,2005,Female,Hindu,3,9,0,0
+Goa,1,2005,Female,Muslim,0,5,0,0
+Goa,1,2005,Female,Others,0,1,0,0
+Goa,1,2005,Female,Sikh,0,0,0,0
+Goa,1,2005,Male,Christian,33,39,0,0
+Goa,1,2005,Male,Hindu,87,142,0,0
+Goa,1,2005,Male,Muslim,13,36,0,0
+Goa,1,2005,Male,Others,2,7,0,0
+Goa,1,2005,Male,Sikh,0,5,0,0
+Goa,1,2006,Female,Christian,0,2,0,0
+Goa,1,2006,Female,Hindu,2,10,0,0
+Goa,1,2006,Female,Muslim,0,3,0,0
+Goa,1,2006,Female,Others,0,3,0,0
+Goa,1,2006,Female,Sikh,0,0,0,0
+Goa,1,2006,Male,Christian,26,46,0,0
+Goa,1,2006,Male,Hindu,101,129,0,0
+Goa,1,2006,Male,Muslim,14,38,0,0
+Goa,1,2006,Male,Others,1,4,0,0
+Goa,1,2006,Male,Sikh,0,1,0,0
+Goa,1,2007,Female,Christian,0,4,0,0
+Goa,1,2007,Female,Hindu,2,8,0,0
+Goa,1,2007,Female,Muslim,0,6,0,0
+Goa,1,2007,Female,Others,0,0,0,0
+Goa,1,2007,Female,Sikh,0,0,0,0
+Goa,1,2007,Male,Christian,33,29,0,0
+Goa,1,2007,Male,Hindu,96,132,0,0
+Goa,1,2007,Male,Muslim,16,28,0,0
+Goa,1,2007,Male,Others,0,7,0,0
+Goa,1,2007,Male,Sikh,0,5,0,0
+Goa,1,2008,Female,Christian,1,2,0,0
+Goa,1,2008,Female,Hindu,5,10,0,0
+Goa,1,2008,Female,Muslim,2,3,0,0
+Goa,1,2008,Female,Others,1,1,0,0
+Goa,1,2008,Female,Sikh,0,0,0,0
+Goa,1,2008,Male,Christian,31,39,0,0
+Goa,1,2008,Male,Hindu,100,152,0,0
+Goa,1,2008,Male,Muslim,8,40,0,0
+Goa,1,2008,Male,Others,2,4,0,0
+Goa,1,2008,Male,Sikh,0,2,0,0
+Goa,1,2009,Female,Christian,2,8,0,0
+Goa,1,2009,Female,Hindu,5,8,0,0
+Goa,1,2009,Female,Muslim,0,8,0,0
+Goa,1,2009,Female,Others,0,0,0,0
+Goa,1,2009,Female,Sikh,0,0,0,0
+Goa,1,2009,Male,Christian,33,45,0,0
+Goa,1,2009,Male,Hindu,117,117,0,0
+Goa,1,2009,Male,Muslim,29,46,0,0
+Goa,1,2009,Male,Others,2,9,0,0
+Goa,1,2009,Male,Sikh,0,3,0,0
+Goa,1,2010,Female,Christian,3,9,0,0
+Goa,1,2010,Female,Hindu,4,9,0,0
+Goa,1,2010,Female,Muslim,1,9,0,0
+Goa,1,2010,Female,Others,0,0,0,0
+Goa,1,2010,Female,Sikh,0,0,0,0
+Goa,1,2010,Male,Christian,33,59,0,0
+Goa,1,2010,Male,Hindu,125,126,0,0
+Goa,1,2010,Male,Muslim,11,57,0,0
+Goa,1,2010,Male,Others,0,10,0,0
+Goa,1,2010,Male,Sikh,0,0,0,0
+Goa,1,2011,Female,Christian,2,6,0,0
+Goa,1,2011,Female,Hindu,4,20,0,0
+Goa,1,2011,Female,Muslim,0,2,0,0
+Goa,1,2011,Female,Others,0,0,0,0
+Goa,1,2011,Female,Sikh,0,0,0,0
+Goa,1,2011,Male,Christian,30,48,0,0
+Goa,1,2011,Male,Hindu,92,178,0,0
+Goa,1,2011,Male,Muslim,16,91,0,0
+Goa,1,2011,Male,Others,0,0,0,0
+Goa,1,2011,Male,Sikh,0,0,0,0
+Goa,1,2012,Female,Christian,1,2,0,0
+Goa,1,2012,Female,Hindu,3,19,0,0
+Goa,1,2012,Female,Muslim,0,3,0,0
+Goa,1,2012,Female,Others,0,0,0,0
+Goa,1,2012,Female,Sikh,0,0,0,0
+Goa,1,2012,Male,Christian,30,62,0,0
+Goa,1,2012,Male,Hindu,88,175,0,0
+Goa,1,2012,Male,Muslim,14,75,0,0
+Goa,1,2012,Male,Others,0,0,0,0
+Goa,1,2012,Male,Sikh,0,0,0,0
+Goa,1,2013,Female,Christian,2,5,0,0
+Goa,1,2013,Female,Hindu,4,10,0,0
+Goa,1,2013,Female,Muslim,1,6,0,0
+Goa,1,2013,Female,Others,0,0,0,0
+Goa,1,2013,Female,Sikh,0,0,0,0
+Goa,1,2013,Male,Christian,22,64,0,0
+Goa,1,2013,Male,Hindu,82,248,0,0
+Goa,1,2013,Male,Muslim,16,60,0,0
+Goa,1,2013,Male,Others,0,0,0,0
+Goa,1,2013,Male,Sikh,0,3,0,0
+Gujarat,1,2001,Female,Christian,3,1,1,0
+Gujarat,1,2001,Female,Hindu,38,109,22,0
+Gujarat,1,2001,Female,Muslim,8,28,5,0
+Gujarat,1,2001,Female,Others,7,1,2,0
+Gujarat,1,2001,Female,Sikh,2,0,0,0
+Gujarat,1,2001,Male,Christian,20,53,6,0
+Gujarat,1,2001,Male,Hindu,2020,3983,239,0
+Gujarat,1,2001,Male,Muslim,677,1198,160,0
+Gujarat,1,2001,Male,Others,134,120,13,0
+Gujarat,1,2001,Male,Sikh,7,64,2,0
+Gujarat,1,2002,Female,Christian,0,4,1,0
+Gujarat,1,2002,Female,Hindu,69,110,27,0
+Gujarat,1,2002,Female,Muslim,20,70,16,0
+Gujarat,1,2002,Female,Others,3,2,1,0
+Gujarat,1,2002,Female,Sikh,0,1,0,0
+Gujarat,1,2002,Male,Christian,11,40,10,0
+Gujarat,1,2002,Male,Hindu,2016,3995,305,0
+Gujarat,1,2002,Male,Muslim,1070,2042,209,0
+Gujarat,1,2002,Male,Others,93,35,5,0
+Gujarat,1,2002,Male,Sikh,4,70,18,0
+Gujarat,1,2003,Female,Christian,1,7,0,0
+Gujarat,1,2003,Female,Hindu,90,173,50,0
+Gujarat,1,2003,Female,Muslim,24,50,2,0
+Gujarat,1,2003,Female,Others,2,2,0,0
+Gujarat,1,2003,Female,Sikh,0,2,0,0
+Gujarat,1,2003,Male,Christian,76,47,1,0
+Gujarat,1,2003,Male,Hindu,2225,4245,216,0
+Gujarat,1,2003,Male,Muslim,693,1809,105,0
+Gujarat,1,2003,Male,Others,271,36,1,0
+Gujarat,1,2003,Male,Sikh,46,50,2,0
+Gujarat,1,2004,Female,Christian,0,7,0,0
+Gujarat,1,2004,Female,Hindu,118,231,46,0
+Gujarat,1,2004,Female,Muslim,24,57,10,0
+Gujarat,1,2004,Female,Others,0,2,0,0
+Gujarat,1,2004,Female,Sikh,0,0,0,0
+Gujarat,1,2004,Male,Christian,66,64,1,0
+Gujarat,1,2004,Male,Hindu,2695,4668,304,0
+Gujarat,1,2004,Male,Muslim,956,2068,124,0
+Gujarat,1,2004,Male,Others,9,42,1,0
+Gujarat,1,2004,Male,Sikh,13,63,1,0
+Gujarat,1,2005,Female,Christian,0,0,0,0
+Gujarat,1,2005,Female,Hindu,114,183,14,0
+Gujarat,1,2005,Female,Muslim,33,61,3,0
+Gujarat,1,2005,Female,Others,0,2,0,0
+Gujarat,1,2005,Female,Sikh,0,0,0,0
+Gujarat,1,2005,Male,Christian,13,46,1,0
+Gujarat,1,2005,Male,Hindu,2996,4294,199,0
+Gujarat,1,2005,Male,Muslim,1262,1798,91,0
+Gujarat,1,2005,Male,Others,15,25,3,0
+Gujarat,1,2005,Male,Sikh,12,42,9,0
+Gujarat,1,2006,Female,Christian,0,0,0,0
+Gujarat,1,2006,Female,Hindu,140,224,40,0
+Gujarat,1,2006,Female,Muslim,20,63,9,0
+Gujarat,1,2006,Female,Others,0,2,0,0
+Gujarat,1,2006,Female,Sikh,0,0,0,0
+Gujarat,1,2006,Male,Christian,14,46,4,0
+Gujarat,1,2006,Male,Hindu,3437,4157,203,0
+Gujarat,1,2006,Male,Muslim,1315,1797,105,0
+Gujarat,1,2006,Male,Others,74,19,13,0
+Gujarat,1,2006,Male,Sikh,28,79,4,0
+Gujarat,1,2007,Female,Christian,0,0,0,0
+Gujarat,1,2007,Female,Hindu,161,263,153,0
+Gujarat,1,2007,Female,Muslim,32,32,22,0
+Gujarat,1,2007,Female,Others,0,0,0,0
+Gujarat,1,2007,Female,Sikh,0,2,0,0
+Gujarat,1,2007,Male,Christian,36,34,9,0
+Gujarat,1,2007,Male,Hindu,3851,4169,522,0
+Gujarat,1,2007,Male,Muslim,943,1311,159,0
+Gujarat,1,2007,Male,Others,6,20,13,0
+Gujarat,1,2007,Male,Sikh,40,55,9,0
+Gujarat,1,2008,Female,Christian,0,2,0,0
+Gujarat,1,2008,Female,Hindu,163,236,41,0
+Gujarat,1,2008,Female,Muslim,44,51,5,0
+Gujarat,1,2008,Female,Others,0,0,0,0
+Gujarat,1,2008,Female,Sikh,1,2,0,0
+Gujarat,1,2008,Male,Christian,50,40,1,0
+Gujarat,1,2008,Male,Hindu,3312,5314,247,0
+Gujarat,1,2008,Male,Muslim,1214,1281,84,0
+Gujarat,1,2008,Male,Others,0,1,0,0
+Gujarat,1,2008,Male,Sikh,143,44,3,0
+Gujarat,1,2009,Female,Christian,0,0,0,0
+Gujarat,1,2009,Female,Hindu,149,262,51,0
+Gujarat,1,2009,Female,Muslim,34,77,7,0
+Gujarat,1,2009,Female,Others,0,0,0,0
+Gujarat,1,2009,Female,Sikh,1,2,1,0
+Gujarat,1,2009,Male,Christian,45,46,4,0
+Gujarat,1,2009,Male,Hindu,2829,4742,194,0
+Gujarat,1,2009,Male,Muslim,1190,2030,96,0
+Gujarat,1,2009,Male,Others,3,2,0,0
+Gujarat,1,2009,Male,Sikh,129,45,3,0
+Gujarat,1,2010,Female,Christian,1,3,0,0
+Gujarat,1,2010,Female,Hindu,153,306,30,0
+Gujarat,1,2010,Female,Muslim,36,39,4,0
+Gujarat,1,2010,Female,Others,0,1,0,0
+Gujarat,1,2010,Female,Sikh,1,2,0,0
+Gujarat,1,2010,Male,Christian,27,26,0,0
+Gujarat,1,2010,Male,Hindu,3119,5175,159,0
+Gujarat,1,2010,Male,Muslim,814,1231,50,0
+Gujarat,1,2010,Male,Others,165,81,0,0
+Gujarat,1,2010,Male,Sikh,58,46,1,0
+Gujarat,1,2011,Female,Christian,0,5,0,0
+Gujarat,1,2011,Female,Hindu,142,273,37,0
+Gujarat,1,2011,Female,Muslim,34,46,9,0
+Gujarat,1,2011,Female,Others,0,3,0,0
+Gujarat,1,2011,Female,Sikh,0,1,0,0
+Gujarat,1,2011,Male,Christian,53,53,0,0
+Gujarat,1,2011,Male,Hindu,3257,4709,254,0
+Gujarat,1,2011,Male,Muslim,937,1455,101,0
+Gujarat,1,2011,Male,Others,26,72,0,0
+Gujarat,1,2011,Male,Sikh,55,79,0,0
+Gujarat,1,2012,Female,Christian,4,5,0,0
+Gujarat,1,2012,Female,Hindu,144,250,38,0
+Gujarat,1,2012,Female,Muslim,34,62,13,0
+Gujarat,1,2012,Female,Others,0,4,0,0
+Gujarat,1,2012,Female,Sikh,2,6,0,0
+Gujarat,1,2012,Male,Christian,22,79,7,0
+Gujarat,1,2012,Male,Hindu,3302,4569,312,0
+Gujarat,1,2012,Male,Muslim,898,1521,138,0
+Gujarat,1,2012,Male,Others,16,46,4,0
+Gujarat,1,2012,Male,Sikh,31,71,7,0
+Gujarat,1,2013,Female,Christian,1,1,0,0
+Gujarat,1,2013,Female,Hindu,132,292,26,0
+Gujarat,1,2013,Female,Muslim,32,75,6,0
+Gujarat,1,2013,Female,Others,0,6,0,0
+Gujarat,1,2013,Female,Sikh,1,5,0,0
+Gujarat,1,2013,Male,Christian,16,30,3,0
+Gujarat,1,2013,Male,Hindu,2753,5350,381,0
+Gujarat,1,2013,Male,Muslim,854,1721,221,0
+Gujarat,1,2013,Male,Others,5,78,6,0
+Gujarat,1,2013,Male,Sikh,14,46,3,0
+Haryana,1,2001,Female,Christian,0,2,0,0
+Haryana,1,2001,Female,Hindu,91,268,0,0
+Haryana,1,2001,Female,Muslim,4,20,0,0
+Haryana,1,2001,Female,Others,0,4,0,0
+Haryana,1,2001,Female,Sikh,13,29,0,0
+Haryana,1,2001,Male,Christian,30,47,0,0
+Haryana,1,2001,Male,Hindu,2093,5554,0,41
+Haryana,1,2001,Male,Muslim,335,1084,0,1
+Haryana,1,2001,Male,Others,11,74,0,1
+Haryana,1,2001,Male,Sikh,515,1130,0,1
+Haryana,1,2002,Female,Christian,1,3,0,0
+Haryana,1,2002,Female,Hindu,107,253,0,0
+Haryana,1,2002,Female,Muslim,4,20,0,0
+Haryana,1,2002,Female,Others,3,3,0,0
+Haryana,1,2002,Female,Sikh,15,42,0,0
+Haryana,1,2002,Male,Christian,22,30,0,0
+Haryana,1,2002,Male,Hindu,2733,5685,0,8
+Haryana,1,2002,Male,Muslim,301,685,0,0
+Haryana,1,2002,Male,Others,22,29,0,0
+Haryana,1,2002,Male,Sikh,425,967,0,0
+Haryana,1,2003,Female,Christian,1,2,0,0
+Haryana,1,2003,Female,Hindu,129,246,0,0
+Haryana,1,2003,Female,Muslim,21,47,0,0
+Haryana,1,2003,Female,Others,0,0,0,0
+Haryana,1,2003,Female,Sikh,16,42,0,0
+Haryana,1,2003,Male,Christian,31,51,0,0
+Haryana,1,2003,Male,Hindu,3209,5245,0,139
+Haryana,1,2003,Male,Muslim,553,1057,0,5
+Haryana,1,2003,Male,Others,15,8,0,0
+Haryana,1,2003,Male,Sikh,468,806,0,8
+Haryana,1,2004,Female,Christian,1,2,0,0
+Haryana,1,2004,Female,Hindu,163,234,0,0
+Haryana,1,2004,Female,Muslim,14,46,0,0
+Haryana,1,2004,Female,Others,0,2,0,0
+Haryana,1,2004,Female,Sikh,12,22,0,0
+Haryana,1,2004,Male,Christian,21,108,0,0
+Haryana,1,2004,Male,Hindu,3159,5189,0,11
+Haryana,1,2004,Male,Muslim,411,991,0,0
+Haryana,1,2004,Male,Others,55,27,0,0
+Haryana,1,2004,Male,Sikh,765,775,0,2
+Haryana,1,2005,Female,Christian,0,2,0,0
+Haryana,1,2005,Female,Hindu,149,215,0,1
+Haryana,1,2005,Female,Muslim,0,67,0,0
+Haryana,1,2005,Female,Others,0,9,0,0
+Haryana,1,2005,Female,Sikh,39,33,0,0
+Haryana,1,2005,Male,Christian,38,54,0,0
+Haryana,1,2005,Male,Hindu,3457,5537,0,33
+Haryana,1,2005,Male,Muslim,530,1041,0,0
+Haryana,1,2005,Male,Others,0,118,0,0
+Haryana,1,2005,Male,Sikh,580,641,0,3
+Haryana,1,2006,Female,Christian,1,2,0,0
+Haryana,1,2006,Female,Hindu,170,260,0,0
+Haryana,1,2006,Female,Muslim,6,37,0,0
+Haryana,1,2006,Female,Others,1,2,0,0
+Haryana,1,2006,Female,Sikh,22,32,0,0
+Haryana,1,2006,Male,Christian,18,31,0,0
+Haryana,1,2006,Male,Hindu,3745,5629,0,13
+Haryana,1,2006,Male,Muslim,512,915,0,0
+Haryana,1,2006,Male,Others,28,47,0,0
+Haryana,1,2006,Male,Sikh,485,731,0,0
+Haryana,1,2007,Female,Christian,1,1,0,0
+Haryana,1,2007,Female,Hindu,169,279,0,0
+Haryana,1,2007,Female,Muslim,10,47,0,0
+Haryana,1,2007,Female,Others,3,0,0,0
+Haryana,1,2007,Female,Sikh,18,33,0,0
+Haryana,1,2007,Male,Christian,23,27,0,0
+Haryana,1,2007,Male,Hindu,3703,5576,0,0
+Haryana,1,2007,Male,Muslim,546,1408,0,0
+Haryana,1,2007,Male,Others,25,24,0,0
+Haryana,1,2007,Male,Sikh,478,722,0,0
+Haryana,1,2008,Female,Christian,1,2,0,0
+Haryana,1,2008,Female,Hindu,216,303,0,0
+Haryana,1,2008,Female,Muslim,7,27,0,0
+Haryana,1,2008,Female,Others,2,6,0,0
+Haryana,1,2008,Female,Sikh,29,64,0,0
+Haryana,1,2008,Male,Christian,22,23,0,0
+Haryana,1,2008,Male,Hindu,3666,6169,0,0
+Haryana,1,2008,Male,Muslim,658,1199,0,0
+Haryana,1,2008,Male,Others,19,93,0,0
+Haryana,1,2008,Male,Sikh,767,776,0,0
+Haryana,1,2009,Female,Christian,0,0,0,0
+Haryana,1,2009,Female,Hindu,241,254,0,0
+Haryana,1,2009,Female,Muslim,8,12,0,0
+Haryana,1,2009,Female,Others,0,8,0,0
+Haryana,1,2009,Female,Sikh,15,80,0,0
+Haryana,1,2009,Male,Christian,12,7,0,0
+Haryana,1,2009,Male,Hindu,4571,5352,0,4
+Haryana,1,2009,Male,Muslim,431,447,0,0
+Haryana,1,2009,Male,Others,16,354,0,0
+Haryana,1,2009,Male,Sikh,498,1527,0,0
+Haryana,1,2010,Female,Christian,0,0,0,0
+Haryana,1,2010,Female,Hindu,206,274,0,0
+Haryana,1,2010,Female,Muslim,10,35,0,0
+Haryana,1,2010,Female,Others,2,1,0,0
+Haryana,1,2010,Female,Sikh,27,40,0,0
+Haryana,1,2010,Male,Christian,17,15,0,0
+Haryana,1,2010,Male,Hindu,5016,6088,0,0
+Haryana,1,2010,Male,Muslim,385,993,0,0
+Haryana,1,2010,Male,Others,14,53,0,0
+Haryana,1,2010,Male,Sikh,534,509,0,0
+Haryana,1,2011,Female,Christian,1,0,0,0
+Haryana,1,2011,Female,Hindu,243,337,0,0
+Haryana,1,2011,Female,Muslim,13,26,0,0
+Haryana,1,2011,Female,Others,0,1,0,0
+Haryana,1,2011,Female,Sikh,28,21,0,0
+Haryana,1,2011,Male,Christian,11,20,0,0
+Haryana,1,2011,Male,Hindu,5218,6667,0,1
+Haryana,1,2011,Male,Muslim,462,880,0,0
+Haryana,1,2011,Male,Others,2,28,0,0
+Haryana,1,2011,Male,Sikh,551,523,0,0
+Haryana,1,2012,Female,Christian,0,2,0,0
+Haryana,1,2012,Female,Hindu,244,364,0,0
+Haryana,1,2012,Female,Muslim,22,26,0,0
+Haryana,1,2012,Female,Others,0,22,0,0
+Haryana,1,2012,Female,Sikh,24,46,0,0
+Haryana,1,2012,Male,Christian,23,19,0,0
+Haryana,1,2012,Male,Hindu,5279,7960,0,0
+Haryana,1,2012,Male,Muslim,523,1110,0,0
+Haryana,1,2012,Male,Others,26,144,0,0
+Haryana,1,2012,Male,Sikh,560,558,0,0
+Haryana,1,2013,Female,Christian,1,1,0,0
+Haryana,1,2013,Female,Hindu,306,399,0,0
+Haryana,1,2013,Female,Muslim,22,27,0,0
+Haryana,1,2013,Female,Others,0,4,0,0
+Haryana,1,2013,Female,Sikh,26,44,0,0
+Haryana,1,2013,Male,Christian,17,18,0,0
+Haryana,1,2013,Male,Hindu,5579,8160,0,1
+Haryana,1,2013,Male,Muslim,484,1111,0,0
+Haryana,1,2013,Male,Others,22,93,0,0
+Haryana,1,2013,Male,Sikh,563,766,0,0
+Himachal Pradesh,1,2001,Female,Christian,0,0,0,0
+Himachal Pradesh,1,2001,Female,Hindu,10,9,0,0
+Himachal Pradesh,1,2001,Female,Muslim,0,0,0,0
+Himachal Pradesh,1,2001,Female,Others,1,6,0,0
+Himachal Pradesh,1,2001,Female,Sikh,0,0,0,0
+Himachal Pradesh,1,2001,Male,Christian,0,0,0,0
+Himachal Pradesh,1,2001,Male,Hindu,250,315,0,0
+Himachal Pradesh,1,2001,Male,Muslim,26,32,0,0
+Himachal Pradesh,1,2001,Male,Others,80,125,0,0
+Himachal Pradesh,1,2001,Male,Sikh,28,25,0,0
+Himachal Pradesh,1,2002,Female,Christian,0,2,0,0
+Himachal Pradesh,1,2002,Female,Hindu,6,18,0,0
+Himachal Pradesh,1,2002,Female,Muslim,0,0,0,0
+Himachal Pradesh,1,2002,Female,Others,0,0,0,0
+Himachal Pradesh,1,2002,Female,Sikh,1,0,0,0
+Himachal Pradesh,1,2002,Male,Christian,6,14,0,0
+Himachal Pradesh,1,2002,Male,Hindu,374,418,0,0
+Himachal Pradesh,1,2002,Male,Muslim,18,19,0,0
+Himachal Pradesh,1,2002,Male,Others,0,0,0,0
+Himachal Pradesh,1,2002,Male,Sikh,14,7,0,0
+Himachal Pradesh,1,2003,Female,Christian,0,0,0,0
+Himachal Pradesh,1,2003,Female,Hindu,11,19,0,0
+Himachal Pradesh,1,2003,Female,Muslim,0,0,0,0
+Himachal Pradesh,1,2003,Female,Others,0,0,0,0
+Himachal Pradesh,1,2003,Female,Sikh,1,0,0,0
+Himachal Pradesh,1,2003,Male,Christian,4,11,0,0
+Himachal Pradesh,1,2003,Male,Hindu,427,439,0,0
+Himachal Pradesh,1,2003,Male,Muslim,21,16,0,0
+Himachal Pradesh,1,2003,Male,Others,0,0,0,0
+Himachal Pradesh,1,2003,Male,Sikh,12,17,0,0
+Himachal Pradesh,1,2004,Female,Christian,0,0,0,0
+Himachal Pradesh,1,2004,Female,Hindu,17,16,0,0
+Himachal Pradesh,1,2004,Female,Muslim,0,1,0,0
+Himachal Pradesh,1,2004,Female,Others,0,0,0,0
+Himachal Pradesh,1,2004,Female,Sikh,0,2,0,0
+Himachal Pradesh,1,2004,Male,Christian,3,1,0,0
+Himachal Pradesh,1,2004,Male,Hindu,514,413,0,0
+Himachal Pradesh,1,2004,Male,Muslim,22,48,0,0
+Himachal Pradesh,1,2004,Male,Others,0,0,0,0
+Himachal Pradesh,1,2004,Male,Sikh,1,6,0,0
+Himachal Pradesh,1,2005,Female,Christian,0,0,0,0
+Himachal Pradesh,1,2005,Female,Hindu,17,14,0,0
+Himachal Pradesh,1,2005,Female,Muslim,0,2,0,0
+Himachal Pradesh,1,2005,Female,Others,0,0,0,0
+Himachal Pradesh,1,2005,Female,Sikh,1,0,0,0
+Himachal Pradesh,1,2005,Male,Christian,3,0,0,0
+Himachal Pradesh,1,2005,Male,Hindu,559,423,0,0
+Himachal Pradesh,1,2005,Male,Muslim,45,91,0,0
+Himachal Pradesh,1,2005,Male,Others,0,0,0,0
+Himachal Pradesh,1,2005,Male,Sikh,7,6,0,0
+Himachal Pradesh,1,2006,Female,Christian,0,0,0,0
+Himachal Pradesh,1,2006,Female,Hindu,23,18,0,0
+Himachal Pradesh,1,2006,Female,Muslim,0,2,0,0
+Himachal Pradesh,1,2006,Female,Others,0,0,0,0
+Himachal Pradesh,1,2006,Female,Sikh,1,1,0,0
+Himachal Pradesh,1,2006,Male,Christian,4,5,0,0
+Himachal Pradesh,1,2006,Male,Hindu,666,493,0,0
+Himachal Pradesh,1,2006,Male,Muslim,30,31,0,0
+Himachal Pradesh,1,2006,Male,Others,16,5,0,0
+Himachal Pradesh,1,2006,Male,Sikh,24,17,0,0
+Himachal Pradesh,1,2007,Female,Christian,0,0,0,0
+Himachal Pradesh,1,2007,Female,Hindu,32,24,0,0
+Himachal Pradesh,1,2007,Female,Muslim,2,0,0,0
+Himachal Pradesh,1,2007,Female,Others,0,0,0,0
+Himachal Pradesh,1,2007,Female,Sikh,3,0,0,0
+Himachal Pradesh,1,2007,Male,Christian,13,6,0,0
+Himachal Pradesh,1,2007,Male,Hindu,741,489,0,0
+Himachal Pradesh,1,2007,Male,Muslim,44,31,0,0
+Himachal Pradesh,1,2007,Male,Others,9,6,0,0
+Himachal Pradesh,1,2007,Male,Sikh,31,4,0,0
+Himachal Pradesh,1,2008,Female,Christian,1,1,0,0
+Himachal Pradesh,1,2008,Female,Hindu,27,22,0,0
+Himachal Pradesh,1,2008,Female,Muslim,2,2,0,0
+Himachal Pradesh,1,2008,Female,Others,0,0,0,0
+Himachal Pradesh,1,2008,Female,Sikh,2,1,0,0
+Himachal Pradesh,1,2008,Male,Christian,14,9,0,0
+Himachal Pradesh,1,2008,Male,Hindu,790,512,0,0
+Himachal Pradesh,1,2008,Male,Muslim,25,20,0,0
+Himachal Pradesh,1,2008,Male,Others,5,3,0,0
+Himachal Pradesh,1,2008,Male,Sikh,24,8,0,0
+Himachal Pradesh,1,2009,Female,Christian,0,0,0,0
+Himachal Pradesh,1,2009,Female,Hindu,33,16,0,0
+Himachal Pradesh,1,2009,Female,Muslim,0,0,0,0
+Himachal Pradesh,1,2009,Female,Others,0,0,0,0
+Himachal Pradesh,1,2009,Female,Sikh,2,1,0,0
+Himachal Pradesh,1,2009,Male,Christian,2,6,0,0
+Himachal Pradesh,1,2009,Male,Hindu,770,636,0,0
+Himachal Pradesh,1,2009,Male,Muslim,21,37,0,0
+Himachal Pradesh,1,2009,Male,Others,3,1,0,0
+Himachal Pradesh,1,2009,Male,Sikh,11,15,0,0
+Himachal Pradesh,1,2010,Female,Christian,0,0,0,0
+Himachal Pradesh,1,2010,Female,Hindu,24,23,0,0
+Himachal Pradesh,1,2010,Female,Muslim,0,0,0,0
+Himachal Pradesh,1,2010,Female,Others,0,0,0,0
+Himachal Pradesh,1,2010,Female,Sikh,3,0,0,0
+Himachal Pradesh,1,2010,Male,Christian,4,6,0,0
+Himachal Pradesh,1,2010,Male,Hindu,868,562,0,0
+Himachal Pradesh,1,2010,Male,Muslim,25,24,0,0
+Himachal Pradesh,1,2010,Male,Others,6,2,0,0
+Himachal Pradesh,1,2010,Male,Sikh,32,6,0,0
+Himachal Pradesh,1,2011,Female,Christian,0,0,0,0
+Himachal Pradesh,1,2011,Female,Hindu,27,30,0,0
+Himachal Pradesh,1,2011,Female,Muslim,0,1,0,0
+Himachal Pradesh,1,2011,Female,Others,0,0,0,0
+Himachal Pradesh,1,2011,Female,Sikh,2,2,0,0
+Himachal Pradesh,1,2011,Male,Christian,4,3,0,0
+Himachal Pradesh,1,2011,Male,Hindu,857,573,0,0
+Himachal Pradesh,1,2011,Male,Muslim,32,34,0,0
+Himachal Pradesh,1,2011,Male,Others,2,4,0,0
+Himachal Pradesh,1,2011,Male,Sikh,18,18,0,0
+Himachal Pradesh,1,2012,Female,Christian,0,0,0,0
+Himachal Pradesh,1,2012,Female,Hindu,33,35,0,0
+Himachal Pradesh,1,2012,Female,Muslim,0,2,0,0
+Himachal Pradesh,1,2012,Female,Others,0,0,0,0
+Himachal Pradesh,1,2012,Female,Sikh,3,0,0,0
+Himachal Pradesh,1,2012,Male,Christian,10,9,0,0
+Himachal Pradesh,1,2012,Male,Hindu,825,634,0,0
+Himachal Pradesh,1,2012,Male,Muslim,34,58,0,0
+Himachal Pradesh,1,2012,Male,Others,17,10,0,0
+Himachal Pradesh,1,2012,Male,Sikh,30,16,0,0
+Himachal Pradesh,1,2013,Female,Christian,0,0,0,0
+Himachal Pradesh,1,2013,Female,Hindu,37,53,0,0
+Himachal Pradesh,1,2013,Female,Muslim,0,1,0,0
+Himachal Pradesh,1,2013,Female,Others,0,2,0,0
+Himachal Pradesh,1,2013,Female,Sikh,1,2,0,0
+Himachal Pradesh,1,2013,Male,Christian,6,4,0,0
+Himachal Pradesh,1,2013,Male,Hindu,880,869,0,0
+Himachal Pradesh,1,2013,Male,Muslim,30,35,0,0
+Himachal Pradesh,1,2013,Male,Others,16,7,0,0
+Himachal Pradesh,1,2013,Male,Sikh,31,25,0,0
+Jammu & Kashmir,1,2001,Female,Christian,0,0,0,0
+Jammu & Kashmir,1,2001,Female,Hindu,3,19,0,0
+Jammu & Kashmir,1,2001,Female,Muslim,1,13,2,0
+Jammu & Kashmir,1,2001,Female,Others,0,0,0,0
+Jammu & Kashmir,1,2001,Female,Sikh,1,1,0,0
+Jammu & Kashmir,1,2001,Male,Christian,1,1,0,0
+Jammu & Kashmir,1,2001,Male,Hindu,72,368,9,0
+Jammu & Kashmir,1,2001,Male,Muslim,37,659,395,3
+Jammu & Kashmir,1,2001,Male,Others,2,0,0,0
+Jammu & Kashmir,1,2001,Male,Sikh,6,44,10,0
+Jammu & Kashmir,1,2002,Female,Christian,0,0,0,0
+Jammu & Kashmir,1,2002,Female,Hindu,2,19,0,0
+Jammu & Kashmir,1,2002,Female,Muslim,0,27,1,0
+Jammu & Kashmir,1,2002,Female,Others,0,0,0,0
+Jammu & Kashmir,1,2002,Female,Sikh,1,0,0,0
+Jammu & Kashmir,1,2002,Male,Christian,1,11,1,0
+Jammu & Kashmir,1,2002,Male,Hindu,68,345,5,0
+Jammu & Kashmir,1,2002,Male,Muslim,46,780,432,1
+Jammu & Kashmir,1,2002,Male,Others,6,0,0,0
+Jammu & Kashmir,1,2002,Male,Sikh,5,47,5,0
+Jammu & Kashmir,1,2003,Female,Christian,0,0,0,0
+Jammu & Kashmir,1,2003,Female,Hindu,1,23,0,0
+Jammu & Kashmir,1,2003,Female,Muslim,0,28,0,0
+Jammu & Kashmir,1,2003,Female,Others,0,0,0,0
+Jammu & Kashmir,1,2003,Female,Sikh,0,13,0,0
+Jammu & Kashmir,1,2003,Male,Christian,0,10,0,0
+Jammu & Kashmir,1,2003,Male,Hindu,87,471,7,0
+Jammu & Kashmir,1,2003,Male,Muslim,71,654,386,0
+Jammu & Kashmir,1,2003,Male,Others,0,0,0,0
+Jammu & Kashmir,1,2003,Male,Sikh,9,131,4,0
+Jammu & Kashmir,1,2004,Female,Christian,0,0,0,0
+Jammu & Kashmir,1,2004,Female,Hindu,5,25,0,0
+Jammu & Kashmir,1,2004,Female,Muslim,0,27,2,0
+Jammu & Kashmir,1,2004,Female,Others,0,0,0,0
+Jammu & Kashmir,1,2004,Female,Sikh,0,1,0,0
+Jammu & Kashmir,1,2004,Male,Christian,8,15,0,0
+Jammu & Kashmir,1,2004,Male,Hindu,105,538,5,0
+Jammu & Kashmir,1,2004,Male,Muslim,71,723,441,0
+Jammu & Kashmir,1,2004,Male,Others,3,1,0,1
+Jammu & Kashmir,1,2004,Male,Sikh,8,57,3,0
+Jammu & Kashmir,1,2005,Female,Christian,0,4,0,0
+Jammu & Kashmir,1,2005,Female,Hindu,8,30,0,0
+Jammu & Kashmir,1,2005,Female,Muslim,2,22,4,0
+Jammu & Kashmir,1,2005,Female,Others,0,0,0,0
+Jammu & Kashmir,1,2005,Female,Sikh,0,1,0,0
+Jammu & Kashmir,1,2005,Male,Christian,3,13,6,0
+Jammu & Kashmir,1,2005,Male,Hindu,125,487,21,0
+Jammu & Kashmir,1,2005,Male,Muslim,80,919,343,0
+Jammu & Kashmir,1,2005,Male,Others,0,2,0,0
+Jammu & Kashmir,1,2005,Male,Sikh,3,61,3,0
+Jammu & Kashmir,1,2006,Female,Christian,0,0,0,0
+Jammu & Kashmir,1,2006,Female,Hindu,9,20,0,0
+Jammu & Kashmir,1,2006,Female,Muslim,0,25,1,0
+Jammu & Kashmir,1,2006,Female,Others,0,0,0,0
+Jammu & Kashmir,1,2006,Female,Sikh,0,4,0,0
+Jammu & Kashmir,1,2006,Male,Christian,3,6,0,0
+Jammu & Kashmir,1,2006,Male,Hindu,142,597,7,1
+Jammu & Kashmir,1,2006,Male,Muslim,103,924,360,2
+Jammu & Kashmir,1,2006,Male,Others,0,0,0,0
+Jammu & Kashmir,1,2006,Male,Sikh,7,58,1,0
+Jammu & Kashmir,1,2007,Female,Christian,0,0,0,0
+Jammu & Kashmir,1,2007,Female,Hindu,7,40,0,0
+Jammu & Kashmir,1,2007,Female,Muslim,0,29,3,0
+Jammu & Kashmir,1,2007,Female,Others,0,0,0,0
+Jammu & Kashmir,1,2007,Female,Sikh,0,3,0,0
+Jammu & Kashmir,1,2007,Male,Christian,0,12,0,0
+Jammu & Kashmir,1,2007,Male,Hindu,141,546,2,0
+Jammu & Kashmir,1,2007,Male,Muslim,130,1024,270,0
+Jammu & Kashmir,1,2007,Male,Others,4,8,0,0
+Jammu & Kashmir,1,2007,Male,Sikh,10,70,0,0
+Jammu & Kashmir,1,2008,Female,Christian,0,0,0,0
+Jammu & Kashmir,1,2008,Female,Hindu,7,31,0,0
+Jammu & Kashmir,1,2008,Female,Muslim,2,37,1,0
+Jammu & Kashmir,1,2008,Female,Others,0,0,0,0
+Jammu & Kashmir,1,2008,Female,Sikh,0,7,0,0
+Jammu & Kashmir,1,2008,Male,Christian,4,16,0,0
+Jammu & Kashmir,1,2008,Male,Hindu,141,708,8,0
+Jammu & Kashmir,1,2008,Male,Muslim,154,767,124,0
+Jammu & Kashmir,1,2008,Male,Others,6,23,0,0
+Jammu & Kashmir,1,2008,Male,Sikh,24,117,133,0
+Jammu & Kashmir,1,2009,Female,Christian,0,0,0,0
+Jammu & Kashmir,1,2009,Female,Hindu,6,35,0,0
+Jammu & Kashmir,1,2009,Female,Muslim,5,43,1,0
+Jammu & Kashmir,1,2009,Female,Others,0,0,0,0
+Jammu & Kashmir,1,2009,Female,Sikh,1,7,0,0
+Jammu & Kashmir,1,2009,Male,Christian,0,8,0,0
+Jammu & Kashmir,1,2009,Male,Hindu,146,710,1,0
+Jammu & Kashmir,1,2009,Male,Muslim,190,944,180,1
+Jammu & Kashmir,1,2009,Male,Others,2,9,0,0
+Jammu & Kashmir,1,2009,Male,Sikh,8,65,0,0
+Jammu & Kashmir,1,2010,Female,Christian,0,0,0,0
+Jammu & Kashmir,1,2010,Female,Hindu,7,36,6,0
+Jammu & Kashmir,1,2010,Female,Muslim,0,42,9,0
+Jammu & Kashmir,1,2010,Female,Others,0,0,0,0
+Jammu & Kashmir,1,2010,Female,Sikh,0,6,0,0
+Jammu & Kashmir,1,2010,Male,Christian,0,17,1,0
+Jammu & Kashmir,1,2010,Male,Hindu,121,562,62,0
+Jammu & Kashmir,1,2010,Male,Muslim,121,1163,330,2
+Jammu & Kashmir,1,2010,Male,Others,0,0,0,0
+Jammu & Kashmir,1,2010,Male,Sikh,10,81,1,0
+Jammu & Kashmir,1,2011,Female,Christian,0,2,0,0
+Jammu & Kashmir,1,2011,Female,Hindu,9,24,0,0
+Jammu & Kashmir,1,2011,Female,Muslim,1,51,5,0
+Jammu & Kashmir,1,2011,Female,Others,0,0,0,0
+Jammu & Kashmir,1,2011,Female,Sikh,0,11,0,0
+Jammu & Kashmir,1,2011,Male,Christian,5,41,3,0
+Jammu & Kashmir,1,2011,Male,Hindu,135,835,35,10
+Jammu & Kashmir,1,2011,Male,Muslim,121,960,153,0
+Jammu & Kashmir,1,2011,Male,Others,0,5,0,0
+Jammu & Kashmir,1,2011,Male,Sikh,30,184,43,0
+Jammu & Kashmir,1,2012,Female,Christian,0,0,0,0
+Jammu & Kashmir,1,2012,Female,Hindu,7,23,0,0
+Jammu & Kashmir,1,2012,Female,Muslim,3,52,0,0
+Jammu & Kashmir,1,2012,Female,Others,0,0,0,0
+Jammu & Kashmir,1,2012,Female,Sikh,3,5,0,0
+Jammu & Kashmir,1,2012,Male,Christian,4,14,0,0
+Jammu & Kashmir,1,2012,Male,Hindu,191,627,4,0
+Jammu & Kashmir,1,2012,Male,Muslim,152,1203,140,0
+Jammu & Kashmir,1,2012,Male,Others,7,7,0,0
+Jammu & Kashmir,1,2012,Male,Sikh,22,76,0,0
+Jammu & Kashmir,1,2013,Female,Christian,0,0,0,0
+Jammu & Kashmir,1,2013,Female,Hindu,7,20,0,0
+Jammu & Kashmir,1,2013,Female,Muslim,2,51,1,0
+Jammu & Kashmir,1,2013,Female,Others,0,0,0,0
+Jammu & Kashmir,1,2013,Female,Sikh,1,5,0,0
+Jammu & Kashmir,1,2013,Male,Christian,3,18,0,0
+Jammu & Kashmir,1,2013,Male,Hindu,191,625,11,0
+Jammu & Kashmir,1,2013,Male,Muslim,164,1099,60,0
+Jammu & Kashmir,1,2013,Male,Others,0,0,0,0
+Jammu & Kashmir,1,2013,Male,Sikh,12,82,0,0
+Jharkhand,1,2001,Female,Christian,3,23,0,0
+Jharkhand,1,2001,Female,Hindu,33,302,0,0
+Jharkhand,1,2001,Female,Muslim,13,59,0,0
+Jharkhand,1,2001,Female,Others,0,3,0,0
+Jharkhand,1,2001,Female,Sikh,0,5,0,0
+Jharkhand,1,2001,Male,Christian,309,1344,0,0
+Jharkhand,1,2001,Male,Hindu,1207,9420,6,8
+Jharkhand,1,2001,Male,Muslim,700,2598,3,2
+Jharkhand,1,2001,Male,Others,129,228,0,0
+Jharkhand,1,2001,Male,Sikh,26,96,0,0
+Jharkhand,1,2002,Female,Christian,8,37,0,0
+Jharkhand,1,2002,Female,Hindu,55,314,0,0
+Jharkhand,1,2002,Female,Muslim,8,52,0,0
+Jharkhand,1,2002,Female,Others,0,1,0,0
+Jharkhand,1,2002,Female,Sikh,0,1,0,0
+Jharkhand,1,2002,Male,Christian,316,1245,0,0
+Jharkhand,1,2002,Male,Hindu,2127,7972,1,3
+Jharkhand,1,2002,Male,Muslim,475,2327,17,0
+Jharkhand,1,2002,Male,Others,9,121,0,0
+Jharkhand,1,2002,Male,Sikh,15,24,0,0
+Jharkhand,1,2003,Female,Christian,14,22,0,0
+Jharkhand,1,2003,Female,Hindu,75,313,0,0
+Jharkhand,1,2003,Female,Muslim,33,69,0,0
+Jharkhand,1,2003,Female,Others,5,6,0,0
+Jharkhand,1,2003,Female,Sikh,0,4,0,0
+Jharkhand,1,2003,Male,Christian,600,1115,0,0
+Jharkhand,1,2003,Male,Hindu,2692,7659,2,6
+Jharkhand,1,2003,Male,Muslim,698,2459,11,2
+Jharkhand,1,2003,Male,Others,111,388,0,3
+Jharkhand,1,2003,Male,Sikh,29,99,0,0
+Jharkhand,1,2004,Female,Christian,15,29,0,0
+Jharkhand,1,2004,Female,Hindu,79,406,0,0
+Jharkhand,1,2004,Female,Muslim,37,51,0,0
+Jharkhand,1,2004,Female,Others,6,6,0,0
+Jharkhand,1,2004,Female,Sikh,1,1,0,0
+Jharkhand,1,2004,Male,Christian,599,1103,0,0
+Jharkhand,1,2004,Male,Hindu,2921,8259,0,0
+Jharkhand,1,2004,Male,Muslim,1120,2309,10,0
+Jharkhand,1,2004,Male,Others,192,223,0,0
+Jharkhand,1,2004,Male,Sikh,70,60,0,0
+Jharkhand,1,2005,Female,Christian,19,25,0,0
+Jharkhand,1,2005,Female,Hindu,103,428,0,0
+Jharkhand,1,2005,Female,Muslim,28,87,0,0
+Jharkhand,1,2005,Female,Others,0,3,0,0
+Jharkhand,1,2005,Female,Sikh,2,3,0,0
+Jharkhand,1,2005,Male,Christian,439,1204,0,0
+Jharkhand,1,2005,Male,Hindu,3382,9059,0,0
+Jharkhand,1,2005,Male,Muslim,767,2797,0,0
+Jharkhand,1,2005,Male,Others,470,284,0,0
+Jharkhand,1,2005,Male,Sikh,84,49,0,0
+Jharkhand,1,2006,Female,Christian,32,32,0,0
+Jharkhand,1,2006,Female,Hindu,162,406,0,0
+Jharkhand,1,2006,Female,Muslim,44,75,0,0
+Jharkhand,1,2006,Female,Others,0,6,0,0
+Jharkhand,1,2006,Female,Sikh,8,14,0,0
+Jharkhand,1,2006,Male,Christian,434,653,0,0
+Jharkhand,1,2006,Male,Hindu,5328,8798,1,0
+Jharkhand,1,2006,Male,Muslim,1137,2822,0,0
+Jharkhand,1,2006,Male,Others,75,286,0,0
+Jharkhand,1,2006,Male,Sikh,149,247,0,0
+Jharkhand,1,2007,Female,Christian,19,39,0,0
+Jharkhand,1,2007,Female,Hindu,134,374,0,0
+Jharkhand,1,2007,Female,Muslim,25,56,0,0
+Jharkhand,1,2007,Female,Others,0,0,0,0
+Jharkhand,1,2007,Female,Sikh,6,4,0,0
+Jharkhand,1,2007,Male,Christian,305,812,0,0
+Jharkhand,1,2007,Male,Hindu,4623,8088,6,2
+Jharkhand,1,2007,Male,Muslim,646,2456,0,0
+Jharkhand,1,2007,Male,Others,25,147,0,0
+Jharkhand,1,2007,Male,Sikh,82,87,0,0
+Jharkhand,1,2008,Female,Christian,23,27,0,0
+Jharkhand,1,2008,Female,Hindu,114,387,0,0
+Jharkhand,1,2008,Female,Muslim,33,60,0,0
+Jharkhand,1,2008,Female,Others,0,8,0,0
+Jharkhand,1,2008,Female,Sikh,0,0,0,0
+Jharkhand,1,2008,Male,Christian,453,789,0,1
+Jharkhand,1,2008,Male,Hindu,4159,9031,5,1
+Jharkhand,1,2008,Male,Muslim,972,2098,1,0
+Jharkhand,1,2008,Male,Others,3,157,0,1
+Jharkhand,1,2008,Male,Sikh,27,53,0,0
+Jharkhand,1,2009,Female,Christian,27,28,0,0
+Jharkhand,1,2009,Female,Hindu,119,384,0,0
+Jharkhand,1,2009,Female,Muslim,21,66,0,0
+Jharkhand,1,2009,Female,Others,0,5,0,0
+Jharkhand,1,2009,Female,Sikh,0,1,0,0
+Jharkhand,1,2009,Male,Christian,486,888,0,0
+Jharkhand,1,2009,Male,Hindu,3884,7946,5,0
+Jharkhand,1,2009,Male,Muslim,921,2046,0,0
+Jharkhand,1,2009,Male,Others,22,264,0,0
+Jharkhand,1,2009,Male,Sikh,29,54,0,0
+Jharkhand,1,2010,Female,Christian,11,46,0,0
+Jharkhand,1,2010,Female,Hindu,125,405,0,0
+Jharkhand,1,2010,Female,Muslim,31,72,0,0
+Jharkhand,1,2010,Female,Others,1,13,0,0
+Jharkhand,1,2010,Female,Sikh,0,3,0,0
+Jharkhand,1,2010,Male,Christian,451,1090,0,0
+Jharkhand,1,2010,Male,Hindu,3693,8169,15,0
+Jharkhand,1,2010,Male,Muslim,826,2105,1,0
+Jharkhand,1,2010,Male,Others,90,799,0,0
+Jharkhand,1,2010,Male,Sikh,33,63,0,0
+Jharkhand,1,2011,Female,Christian,10,47,0,0
+Jharkhand,1,2011,Female,Hindu,110,418,1,0
+Jharkhand,1,2011,Female,Muslim,17,83,0,0
+Jharkhand,1,2011,Female,Others,2,29,0,0
+Jharkhand,1,2011,Female,Sikh,0,1,0,0
+Jharkhand,1,2011,Male,Christian,255,718,0,0
+Jharkhand,1,2011,Male,Hindu,3261,7846,16,2
+Jharkhand,1,2011,Male,Muslim,695,1934,1,0
+Jharkhand,1,2011,Male,Others,75,945,0,0
+Jharkhand,1,2011,Male,Sikh,68,52,0,0
+Jharkhand,1,2012,Female,Christian,21,73,0,0
+Jharkhand,1,2012,Female,Hindu,97,376,0,0
+Jharkhand,1,2012,Female,Muslim,23,119,0,0
+Jharkhand,1,2012,Female,Others,3,32,0,0
+Jharkhand,1,2012,Female,Sikh,0,0,0,0
+Jharkhand,1,2012,Male,Christian,413,1143,3,0
+Jharkhand,1,2012,Male,Hindu,2648,7876,13,1
+Jharkhand,1,2012,Male,Muslim,937,2543,0,0
+Jharkhand,1,2012,Male,Others,112,832,0,0
+Jharkhand,1,2012,Male,Sikh,25,41,0,0
+Jharkhand,1,2013,Female,Christian,22,100,0,0
+Jharkhand,1,2013,Female,Hindu,99,409,0,0
+Jharkhand,1,2013,Female,Muslim,31,142,0,0
+Jharkhand,1,2013,Female,Others,6,39,0,0
+Jharkhand,1,2013,Female,Sikh,0,2,0,0
+Jharkhand,1,2013,Male,Christian,460,1374,0,0
+Jharkhand,1,2013,Male,Hindu,2281,7980,9,0
+Jharkhand,1,2013,Male,Muslim,926,2999,1,0
+Jharkhand,1,2013,Male,Others,313,945,0,0
+Jharkhand,1,2013,Male,Sikh,24,58,0,0
+Karnataka,1,2001,Female,Christian,1,1,0,0
+Karnataka,1,2001,Female,Hindu,47,189,0,0
+Karnataka,1,2001,Female,Muslim,6,9,0,0
+Karnataka,1,2001,Female,Others,0,0,0,0
+Karnataka,1,2001,Female,Sikh,0,0,0,0
+Karnataka,1,2001,Male,Christian,34,126,1,0
+Karnataka,1,2001,Male,Hindu,1572,6690,113,5
+Karnataka,1,2001,Male,Muslim,241,701,8,0
+Karnataka,1,2001,Male,Others,2,0,0,0
+Karnataka,1,2001,Male,Sikh,0,0,0,0
+Karnataka,1,2002,Female,Christian,3,6,1,0
+Karnataka,1,2002,Female,Hindu,71,236,2,0
+Karnataka,1,2002,Female,Muslim,9,21,1,0
+Karnataka,1,2002,Female,Others,0,0,0,0
+Karnataka,1,2002,Female,Sikh,0,0,0,0
+Karnataka,1,2002,Male,Christian,55,105,8,0
+Karnataka,1,2002,Male,Hindu,1883,6863,98,15
+Karnataka,1,2002,Male,Muslim,274,741,14,3
+Karnataka,1,2002,Male,Others,3,0,0,0
+Karnataka,1,2002,Male,Sikh,0,0,0,0
+Karnataka,1,2004,Female,Christian,3,6,0,0
+Karnataka,1,2004,Female,Hindu,94,260,2,0
+Karnataka,1,2004,Female,Muslim,29,41,1,0
+Karnataka,1,2004,Female,Others,0,0,0,0
+Karnataka,1,2004,Female,Sikh,0,0,0,0
+Karnataka,1,2004,Male,Christian,58,97,8,0
+Karnataka,1,2004,Male,Hindu,2529,6801,98,8
+Karnataka,1,2004,Male,Muslim,729,741,13,3
+Karnataka,1,2004,Male,Others,3,7,0,0
+Karnataka,1,2004,Male,Sikh,2,9,0,0
+Karnataka,1,2005,Female,Christian,6,2,1,0
+Karnataka,1,2005,Female,Hindu,104,253,5,0
+Karnataka,1,2005,Female,Muslim,32,39,2,0
+Karnataka,1,2005,Female,Others,2,2,0,0
+Karnataka,1,2005,Female,Sikh,0,0,0,0
+Karnataka,1,2005,Male,Christian,77,94,11,2
+Karnataka,1,2005,Male,Hindu,3013,6816,122,29
+Karnataka,1,2005,Male,Muslim,801,749,17,9
+Karnataka,1,2005,Male,Others,8,13,0,1
+Karnataka,1,2005,Male,Sikh,6,11,0,0
+Karnataka,1,2006,Female,Christian,21,6,1,0
+Karnataka,1,2006,Female,Hindu,133,272,6,0
+Karnataka,1,2006,Female,Muslim,27,31,2,0
+Karnataka,1,2006,Female,Others,4,2,1,0
+Karnataka,1,2006,Female,Sikh,0,0,0,0
+Karnataka,1,2006,Male,Christian,81,191,8,1
+Karnataka,1,2006,Male,Hindu,2731,7191,132,18
+Karnataka,1,2006,Male,Muslim,843,932,23,3
+Karnataka,1,2006,Male,Others,6,21,2,0
+Karnataka,1,2006,Male,Sikh,6,3,0,2
+Karnataka,1,2007,Female,Christian,16,6,0,0
+Karnataka,1,2007,Female,Hindu,127,301,0,5
+Karnataka,1,2007,Female,Muslim,23,42,0,1
+Karnataka,1,2007,Female,Others,4,3,0,0
+Karnataka,1,2007,Female,Sikh,0,0,0,0
+Karnataka,1,2007,Male,Christian,79,239,1,1
+Karnataka,1,2007,Male,Hindu,2712,7495,6,93
+Karnataka,1,2007,Male,Muslim,861,937,3,61
+Karnataka,1,2007,Male,Others,4,20,0,1
+Karnataka,1,2007,Male,Sikh,4,3,0,4
+Karnataka,1,2008,Female,Christian,16,6,0,0
+Karnataka,1,2008,Female,Hindu,136,303,1,12
+Karnataka,1,2008,Female,Muslim,23,42,0,2
+Karnataka,1,2008,Female,Others,4,3,0,0
+Karnataka,1,2008,Female,Sikh,0,0,0,0
+Karnataka,1,2008,Male,Christian,87,252,0,1
+Karnataka,1,2008,Male,Hindu,2783,7801,0,93
+Karnataka,1,2008,Male,Muslim,898,981,0,57
+Karnataka,1,2008,Male,Others,6,17,0,1
+Karnataka,1,2008,Male,Sikh,6,3,0,4
+Karnataka,1,2009,Female,Christian,14,6,0,0
+Karnataka,1,2009,Female,Hindu,114,310,1,9
+Karnataka,1,2009,Female,Muslim,19,42,0,2
+Karnataka,1,2009,Female,Others,4,3,0,0
+Karnataka,1,2009,Female,Sikh,0,0,0,0
+Karnataka,1,2009,Male,Christian,89,252,2,1
+Karnataka,1,2009,Male,Hindu,2595,7727,9,111
+Karnataka,1,2009,Male,Muslim,871,961,4,57
+Karnataka,1,2009,Male,Others,7,17,1,1
+Karnataka,1,2009,Male,Sikh,5,3,0,4
+Karnataka,1,2010,Female,Christian,17,6,0,0
+Karnataka,1,2010,Female,Hindu,123,261,2,2
+Karnataka,1,2010,Female,Muslim,21,32,0,0
+Karnataka,1,2010,Female,Others,4,1,0,0
+Karnataka,1,2010,Female,Sikh,0,0,0,0
+Karnataka,1,2010,Male,Christian,139,236,1,1
+Karnataka,1,2010,Male,Hindu,2691,7212,8,113
+Karnataka,1,2010,Male,Muslim,914,1011,1,57
+Karnataka,1,2010,Male,Others,8,14,0,1
+Karnataka,1,2010,Male,Sikh,6,3,0,4
+Karnataka,1,2011,Female,Christian,16,7,0,0
+Karnataka,1,2011,Female,Hindu,142,279,0,7
+Karnataka,1,2011,Female,Muslim,26,39,0,2
+Karnataka,1,2011,Female,Others,4,1,0,0
+Karnataka,1,2011,Female,Sikh,0,0,0,0
+Karnataka,1,2011,Male,Christian,144,241,0,1
+Karnataka,1,2011,Male,Hindu,2943,6709,5,91
+Karnataka,1,2011,Male,Muslim,932,993,1,47
+Karnataka,1,2011,Male,Others,9,14,0,0
+Karnataka,1,2011,Male,Sikh,5,3,0,5
+Karnataka,1,2012,Female,Christian,14,16,0,0
+Karnataka,1,2012,Female,Hindu,147,303,3,0
+Karnataka,1,2012,Female,Muslim,24,47,0,0
+Karnataka,1,2012,Female,Others,2,2,0,0
+Karnataka,1,2012,Female,Sikh,0,0,0,0
+Karnataka,1,2012,Male,Christian,138,294,3,0
+Karnataka,1,2012,Male,Hindu,2803,7178,83,0
+Karnataka,1,2012,Male,Muslim,955,1077,8,0
+Karnataka,1,2012,Male,Others,11,17,0,0
+Karnataka,1,2012,Male,Sikh,6,6,0,0
+Karnataka,1,2013,Female,Christian,16,12,0,0
+Karnataka,1,2013,Female,Hindu,153,321,9,0
+Karnataka,1,2013,Female,Muslim,27,41,3,0
+Karnataka,1,2013,Female,Others,2,0,0,0
+Karnataka,1,2013,Female,Sikh,0,0,0,0
+Karnataka,1,2013,Male,Christian,231,381,9,0
+Karnataka,1,2013,Male,Hindu,2957,7469,131,5
+Karnataka,1,2013,Male,Muslim,1003,1213,27,1
+Karnataka,1,2013,Male,Others,18,63,8,1
+Karnataka,1,2013,Male,Sikh,11,6,0,0
+Kerala,1,2001,Female,Christian,18,20,0,0
+Kerala,1,2001,Female,Hindu,31,65,0,0
+Kerala,1,2001,Female,Muslim,12,21,0,0
+Kerala,1,2001,Female,Others,6,5,0,0
+Kerala,1,2001,Female,Sikh,0,0,0,0
+Kerala,1,2001,Male,Christian,505,659,3,2
+Kerala,1,2001,Male,Hindu,785,1922,2,4
+Kerala,1,2001,Male,Muslim,430,795,14,5
+Kerala,1,2001,Male,Others,30,40,0,2
+Kerala,1,2001,Male,Sikh,0,0,0,0
+Kerala,1,2002,Female,Christian,5,49,0,0
+Kerala,1,2002,Female,Hindu,35,70,0,0
+Kerala,1,2002,Female,Muslim,10,18,0,0
+Kerala,1,2002,Female,Others,0,0,0,0
+Kerala,1,2002,Female,Sikh,0,0,0,0
+Kerala,1,2002,Male,Christian,483,620,0,0
+Kerala,1,2002,Male,Hindu,710,1610,7,7
+Kerala,1,2002,Male,Muslim,450,1083,5,0
+Kerala,1,2002,Male,Others,18,8,0,0
+Kerala,1,2002,Male,Sikh,0,0,0,0
+Kerala,1,2003,Female,Christian,9,42,0,0
+Kerala,1,2003,Female,Hindu,45,73,0,0
+Kerala,1,2003,Female,Muslim,13,21,0,0
+Kerala,1,2003,Female,Others,0,0,0,0
+Kerala,1,2003,Female,Sikh,0,0,0,0
+Kerala,1,2003,Male,Christian,583,846,0,1
+Kerala,1,2003,Male,Hindu,963,1993,0,3
+Kerala,1,2003,Male,Muslim,558,1268,8,2
+Kerala,1,2003,Male,Others,21,15,0,0
+Kerala,1,2003,Male,Sikh,0,0,0,0
+Kerala,1,2004,Female,Christian,9,47,0,0
+Kerala,1,2004,Female,Hindu,55,79,0,0
+Kerala,1,2004,Female,Muslim,20,28,0,0
+Kerala,1,2004,Female,Others,0,0,0,0
+Kerala,1,2004,Female,Sikh,0,0,0,0
+Kerala,1,2004,Male,Christian,783,737,0,1
+Kerala,1,2004,Male,Hindu,980,2008,0,3
+Kerala,1,2004,Male,Muslim,898,1486,8,2
+Kerala,1,2004,Male,Others,35,15,0,0
+Kerala,1,2004,Male,Sikh,0,0,0,0
+Kerala,1,2005,Female,Christian,12,33,0,0
+Kerala,1,2005,Female,Hindu,48,62,0,0
+Kerala,1,2005,Female,Muslim,17,29,0,0
+Kerala,1,2005,Female,Others,0,0,0,0
+Kerala,1,2005,Female,Sikh,0,0,0,0
+Kerala,1,2005,Male,Christian,785,640,0,0
+Kerala,1,2005,Male,Hindu,1009,1946,0,2
+Kerala,1,2005,Male,Muslim,899,1318,13,0
+Kerala,1,2005,Male,Others,36,14,0,0
+Kerala,1,2005,Male,Sikh,0,0,0,0
+Kerala,1,2006,Female,Christian,8,21,0,0
+Kerala,1,2006,Female,Hindu,49,82,0,0
+Kerala,1,2006,Female,Muslim,6,21,0,0
+Kerala,1,2006,Female,Others,1,1,0,0
+Kerala,1,2006,Female,Sikh,0,0,0,0
+Kerala,1,2006,Male,Christian,831,624,1,1
+Kerala,1,2006,Male,Hindu,1178,1722,1,1
+Kerala,1,2006,Male,Muslim,775,1130,3,2
+Kerala,1,2006,Male,Others,28,18,0,0
+Kerala,1,2006,Male,Sikh,0,0,0,0
+Kerala,1,2007,Female,Christian,7,21,0,0
+Kerala,1,2007,Female,Hindu,43,28,0,0
+Kerala,1,2007,Female,Muslim,8,76,0,0
+Kerala,1,2007,Female,Others,0,0,0,0
+Kerala,1,2007,Female,Sikh,0,0,0,0
+Kerala,1,2007,Male,Christian,834,893,10,1
+Kerala,1,2007,Male,Hindu,1165,1635,10,4
+Kerala,1,2007,Male,Muslim,844,1121,12,2
+Kerala,1,2007,Male,Others,15,13,0,0
+Kerala,1,2007,Male,Sikh,0,0,0,0
+Kerala,1,2008,Female,Christian,7,21,0,0
+Kerala,1,2008,Female,Hindu,35,41,0,0
+Kerala,1,2008,Female,Muslim,9,66,0,0
+Kerala,1,2008,Female,Others,1,0,0,0
+Kerala,1,2008,Female,Sikh,2,0,0,0
+Kerala,1,2008,Male,Christian,667,935,9,1
+Kerala,1,2008,Male,Hindu,1096,1618,15,4
+Kerala,1,2008,Male,Muslim,896,1221,17,2
+Kerala,1,2008,Male,Others,34,32,0,0
+Kerala,1,2008,Male,Sikh,3,0,0,0
+Kerala,1,2009,Female,Christian,8,24,0,0
+Kerala,1,2009,Female,Hindu,36,96,0,0
+Kerala,1,2009,Female,Muslim,9,31,0,0
+Kerala,1,2009,Female,Others,0,2,0,0
+Kerala,1,2009,Female,Sikh,0,0,0,0
+Kerala,1,2009,Male,Christian,686,995,9,0
+Kerala,1,2009,Male,Hindu,1263,1836,32,2
+Kerala,1,2009,Male,Muslim,803,1074,28,1
+Kerala,1,2009,Male,Others,14,20,1,0
+Kerala,1,2009,Male,Sikh,1,0,0,0
+Kerala,1,2010,Female,Christian,8,31,0,0
+Kerala,1,2010,Female,Hindu,30,91,0,0
+Kerala,1,2010,Female,Muslim,12,40,0,0
+Kerala,1,2010,Female,Others,0,0,0,0
+Kerala,1,2010,Female,Sikh,0,0,0,0
+Kerala,1,2010,Male,Christian,651,793,0,0
+Kerala,1,2010,Male,Hindu,1267,1884,6,3
+Kerala,1,2010,Male,Muslim,815,1060,0,0
+Kerala,1,2010,Male,Others,0,0,0,0
+Kerala,1,2010,Male,Sikh,1,0,0,0
+Kerala,1,2011,Female,Christian,9,22,0,0
+Kerala,1,2011,Female,Hindu,33,61,0,0
+Kerala,1,2011,Female,Muslim,13,32,0,0
+Kerala,1,2011,Female,Others,0,0,0,2
+Kerala,1,2011,Female,Sikh,0,0,0,0
+Kerala,1,2011,Male,Christian,609,817,2,1
+Kerala,1,2011,Male,Hindu,1020,1783,3,2
+Kerala,1,2011,Male,Muslim,757,1060,1,0
+Kerala,1,2011,Male,Others,0,0,2,0
+Kerala,1,2011,Male,Sikh,0,0,0,0
+Kerala,1,2012,Female,Christian,12,39,0,0
+Kerala,1,2012,Female,Hindu,25,55,0,0
+Kerala,1,2012,Female,Muslim,19,51,0,0
+Kerala,1,2012,Female,Others,0,0,0,3
+Kerala,1,2012,Female,Sikh,0,0,0,0
+Kerala,1,2012,Male,Christian,725,1110,4,0
+Kerala,1,2012,Male,Hindu,1128,1555,3,0
+Kerala,1,2012,Male,Muslim,857,1355,2,0
+Kerala,1,2012,Male,Others,0,0,0,4
+Kerala,1,2012,Male,Sikh,0,0,0,0
+Kerala,1,2013,Female,Christian,8,22,0,0
+Kerala,1,2013,Female,Hindu,28,83,0,2
+Kerala,1,2013,Female,Muslim,12,35,0,0
+Kerala,1,2013,Female,Others,0,0,0,0
+Kerala,1,2013,Female,Sikh,0,0,0,0
+Kerala,1,2013,Male,Christian,463,716,0,0
+Kerala,1,2013,Male,Hindu,1580,2644,0,0
+Kerala,1,2013,Male,Muslim,681,1121,0,0
+Kerala,1,2013,Male,Others,0,0,0,0
+Kerala,1,2013,Male,Sikh,0,0,0,0
+Lakshadweep,0,2001,Female,Christian,0,0,0,0
+Lakshadweep,0,2001,Female,Hindu,0,0,0,0
+Lakshadweep,0,2001,Female,Muslim,0,0,0,0
+Lakshadweep,0,2001,Female,Others,0,0,0,0
+Lakshadweep,0,2001,Female,Sikh,0,0,0,0
+Lakshadweep,0,2001,Male,Christian,0,0,0,0
+Lakshadweep,0,2001,Male,Hindu,0,0,0,0
+Lakshadweep,0,2001,Male,Muslim,0,1,0,0
+Lakshadweep,0,2001,Male,Others,0,0,0,0
+Lakshadweep,0,2001,Male,Sikh,0,0,0,0
+Lakshadweep,0,2002,Female,Christian,0,0,0,0
+Lakshadweep,0,2002,Female,Hindu,0,0,0,0
+Lakshadweep,0,2002,Female,Muslim,0,0,0,0
+Lakshadweep,0,2002,Female,Others,0,0,0,0
+Lakshadweep,0,2002,Female,Sikh,0,0,0,0
+Lakshadweep,0,2002,Male,Christian,0,1,0,0
+Lakshadweep,0,2002,Male,Hindu,0,5,0,0
+Lakshadweep,0,2002,Male,Muslim,2,8,0,0
+Lakshadweep,0,2002,Male,Others,0,0,0,0
+Lakshadweep,0,2002,Male,Sikh,0,0,0,0
+Lakshadweep,0,2003,Female,Christian,0,0,0,0
+Lakshadweep,0,2003,Female,Hindu,0,0,0,0
+Lakshadweep,0,2003,Female,Muslim,0,0,0,0
+Lakshadweep,0,2003,Female,Others,0,0,0,0
+Lakshadweep,0,2003,Female,Sikh,0,0,0,0
+Lakshadweep,0,2003,Male,Christian,0,0,0,0
+Lakshadweep,0,2003,Male,Hindu,0,0,0,0
+Lakshadweep,0,2003,Male,Muslim,0,4,0,0
+Lakshadweep,0,2003,Male,Others,0,0,0,0
+Lakshadweep,0,2003,Male,Sikh,0,0,0,0
+Lakshadweep,0,2004,Female,Christian,0,0,0,0
+Lakshadweep,0,2004,Female,Hindu,0,0,0,0
+Lakshadweep,0,2004,Female,Muslim,0,0,0,0
+Lakshadweep,0,2004,Female,Others,0,0,0,0
+Lakshadweep,0,2004,Female,Sikh,0,0,0,0
+Lakshadweep,0,2004,Male,Christian,0,0,0,0
+Lakshadweep,0,2004,Male,Hindu,0,0,0,0
+Lakshadweep,0,2004,Male,Muslim,0,0,0,0
+Lakshadweep,0,2004,Male,Others,0,0,0,0
+Lakshadweep,0,2004,Male,Sikh,0,0,0,0
+Lakshadweep,0,2005,Female,Christian,0,0,0,0
+Lakshadweep,0,2005,Female,Hindu,0,0,0,0
+Lakshadweep,0,2005,Female,Muslim,0,0,0,0
+Lakshadweep,0,2005,Female,Others,0,0,0,0
+Lakshadweep,0,2005,Female,Sikh,0,0,0,0
+Lakshadweep,0,2005,Male,Christian,0,0,0,0
+Lakshadweep,0,2005,Male,Hindu,0,2,0,0
+Lakshadweep,0,2005,Male,Muslim,0,4,0,0
+Lakshadweep,0,2005,Male,Others,0,0,0,0
+Lakshadweep,0,2005,Male,Sikh,0,0,0,0
+Lakshadweep,0,2006,Female,Christian,0,0,0,0
+Lakshadweep,0,2006,Female,Hindu,0,0,0,0
+Lakshadweep,0,2006,Female,Muslim,0,0,0,0
+Lakshadweep,0,2006,Female,Others,0,0,0,0
+Lakshadweep,0,2006,Female,Sikh,0,0,0,0
+Lakshadweep,0,2006,Male,Christian,0,0,0,0
+Lakshadweep,0,2006,Male,Hindu,0,0,0,0
+Lakshadweep,0,2006,Male,Muslim,0,0,0,0
+Lakshadweep,0,2006,Male,Others,0,0,0,0
+Lakshadweep,0,2006,Male,Sikh,0,0,0,0
+Lakshadweep,0,2007,Female,Christian,0,0,0,0
+Lakshadweep,0,2007,Female,Hindu,0,0,0,0
+Lakshadweep,0,2007,Female,Muslim,0,0,0,0
+Lakshadweep,0,2007,Female,Others,0,0,0,0
+Lakshadweep,0,2007,Female,Sikh,0,0,0,0
+Lakshadweep,0,2007,Male,Christian,0,0,0,0
+Lakshadweep,0,2007,Male,Hindu,0,1,0,0
+Lakshadweep,0,2007,Male,Muslim,3,10,0,8
+Lakshadweep,0,2007,Male,Others,0,0,0,0
+Lakshadweep,0,2007,Male,Sikh,0,0,0,0
+Lakshadweep,0,2008,Female,Christian,0,0,0,0
+Lakshadweep,0,2008,Female,Hindu,0,0,0,0
+Lakshadweep,0,2008,Female,Muslim,0,0,0,0
+Lakshadweep,0,2008,Female,Others,0,0,0,0
+Lakshadweep,0,2008,Female,Sikh,0,0,0,0
+Lakshadweep,0,2008,Male,Christian,0,11,0,0
+Lakshadweep,0,2008,Male,Hindu,0,4,0,0
+Lakshadweep,0,2008,Male,Muslim,0,4,0,0
+Lakshadweep,0,2008,Male,Others,0,0,0,0
+Lakshadweep,0,2008,Male,Sikh,0,0,0,0
+Lakshadweep,0,2009,Female,Christian,0,0,0,0
+Lakshadweep,0,2009,Female,Hindu,0,0,0,0
+Lakshadweep,0,2009,Female,Muslim,0,0,0,0
+Lakshadweep,0,2009,Female,Others,0,0,0,0
+Lakshadweep,0,2009,Female,Sikh,0,0,0,0
+Lakshadweep,0,2009,Male,Christian,0,0,0,0
+Lakshadweep,0,2009,Male,Hindu,0,1,0,0
+Lakshadweep,0,2009,Male,Muslim,1,42,0,0
+Lakshadweep,0,2009,Male,Others,0,0,0,0
+Lakshadweep,0,2009,Male,Sikh,0,0,0,0
+Lakshadweep,0,2010,Female,Christian,0,0,0,0
+Lakshadweep,0,2010,Female,Hindu,0,0,0,0
+Lakshadweep,0,2010,Female,Muslim,0,0,0,0
+Lakshadweep,0,2010,Female,Others,0,0,0,0
+Lakshadweep,0,2010,Female,Sikh,0,0,0,0
+Lakshadweep,0,2010,Male,Christian,0,0,0,0
+Lakshadweep,0,2010,Male,Hindu,0,0,0,0
+Lakshadweep,0,2010,Male,Muslim,0,27,0,0
+Lakshadweep,0,2010,Male,Others,0,0,0,0
+Lakshadweep,0,2010,Male,Sikh,0,0,0,0
+Lakshadweep,0,2011,Female,Christian,0,0,0,0
+Lakshadweep,0,2011,Female,Hindu,0,0,0,0
+Lakshadweep,0,2011,Female,Muslim,0,1,0,0
+Lakshadweep,0,2011,Female,Others,0,0,0,0
+Lakshadweep,0,2011,Female,Sikh,0,0,0,0
+Lakshadweep,0,2011,Male,Christian,0,0,0,0
+Lakshadweep,0,2011,Male,Hindu,0,0,0,0
+Lakshadweep,0,2011,Male,Muslim,0,29,50,0
+Lakshadweep,0,2011,Male,Others,0,0,0,0
+Lakshadweep,0,2011,Male,Sikh,0,0,0,0
+Lakshadweep,0,2012,Female,Christian,0,0,0,0
+Lakshadweep,0,2012,Female,Hindu,0,0,0,0
+Lakshadweep,0,2012,Female,Muslim,0,0,0,0
+Lakshadweep,0,2012,Female,Others,0,0,0,0
+Lakshadweep,0,2012,Female,Sikh,0,0,0,0
+Lakshadweep,0,2012,Male,Christian,0,0,0,0
+Lakshadweep,0,2012,Male,Hindu,0,0,0,0
+Lakshadweep,0,2012,Male,Muslim,0,0,0,0
+Lakshadweep,0,2012,Male,Others,0,0,0,0
+Lakshadweep,0,2012,Male,Sikh,0,0,0,0
+Lakshadweep,0,2013,Female,Christian,0,0,0,0
+Lakshadweep,0,2013,Female,Hindu,0,0,0,0
+Lakshadweep,0,2013,Female,Muslim,0,0,0,0
+Lakshadweep,0,2013,Female,Others,0,0,0,0
+Lakshadweep,0,2013,Female,Sikh,0,0,0,0
+Lakshadweep,0,2013,Male,Christian,0,0,0,0
+Lakshadweep,0,2013,Male,Hindu,0,0,0,0
+Lakshadweep,0,2013,Male,Muslim,0,0,0,0
+Lakshadweep,0,2013,Male,Others,0,0,0,0
+Lakshadweep,0,2013,Male,Sikh,0,0,0,0
+Madhya Pradesh,1,2001,Female,Christian,0,0,0,0
+Madhya Pradesh,1,2001,Female,Hindu,185,362,0,0
+Madhya Pradesh,1,2001,Female,Muslim,39,56,0,0
+Madhya Pradesh,1,2001,Female,Others,38,35,0,0
+Madhya Pradesh,1,2001,Female,Sikh,0,2,0,0
+Madhya Pradesh,1,2001,Male,Christian,60,111,0,0
+Madhya Pradesh,1,2001,Male,Hindu,9817,13272,14,25
+Madhya Pradesh,1,2001,Male,Muslim,1333,1909,2,14
+Madhya Pradesh,1,2001,Male,Others,634,954,0,0
+Madhya Pradesh,1,2001,Male,Sikh,89,136,0,0
+Madhya Pradesh,1,2002,Female,Christian,1,1,0,0
+Madhya Pradesh,1,2002,Female,Hindu,229,380,0,1
+Madhya Pradesh,1,2002,Female,Muslim,30,76,0,0
+Madhya Pradesh,1,2002,Female,Others,0,0,0,0
+Madhya Pradesh,1,2002,Female,Sikh,0,2,0,0
+Madhya Pradesh,1,2002,Male,Christian,33,90,0,0
+Madhya Pradesh,1,2002,Male,Hindu,10218,12108,10,49
+Madhya Pradesh,1,2002,Male,Muslim,1436,2801,6,6
+Madhya Pradesh,1,2002,Male,Others,32,14,0,1
+Madhya Pradesh,1,2002,Male,Sikh,78,163,0,2
+Madhya Pradesh,1,2003,Female,Christian,1,0,0,0
+Madhya Pradesh,1,2003,Female,Hindu,343,309,0,0
+Madhya Pradesh,1,2003,Female,Muslim,193,120,0,0
+Madhya Pradesh,1,2003,Female,Others,8,9,0,0
+Madhya Pradesh,1,2003,Female,Sikh,0,17,0,0
+Madhya Pradesh,1,2003,Male,Christian,15,88,0,0
+Madhya Pradesh,1,2003,Male,Hindu,10590,11607,7,39
+Madhya Pradesh,1,2003,Male,Muslim,1544,1568,5,7
+Madhya Pradesh,1,2003,Male,Others,37,54,0,0
+Madhya Pradesh,1,2003,Male,Sikh,49,221,1,0
+Madhya Pradesh,1,2004,Female,Christian,1,1,0,0
+Madhya Pradesh,1,2004,Female,Hindu,215,377,0,0
+Madhya Pradesh,1,2004,Female,Muslim,51,69,0,0
+Madhya Pradesh,1,2004,Female,Others,1,7,0,0
+Madhya Pradesh,1,2004,Female,Sikh,1,7,0,0
+Madhya Pradesh,1,2004,Male,Christian,44,54,0,0
+Madhya Pradesh,1,2004,Male,Hindu,11396,12853,2,67
+Madhya Pradesh,1,2004,Male,Muslim,1251,2180,3,14
+Madhya Pradesh,1,2004,Male,Others,34,83,0,2
+Madhya Pradesh,1,2004,Male,Sikh,72,146,0,1
+Madhya Pradesh,1,2005,Female,Christian,3,2,0,0
+Madhya Pradesh,1,2005,Female,Hindu,255,449,0,0
+Madhya Pradesh,1,2005,Female,Muslim,35,62,0,0
+Madhya Pradesh,1,2005,Female,Others,2,3,0,0
+Madhya Pradesh,1,2005,Female,Sikh,2,4,0,0
+Madhya Pradesh,1,2005,Male,Christian,63,67,0,0
+Madhya Pradesh,1,2005,Male,Hindu,12349,14114,16,61
+Madhya Pradesh,1,2005,Male,Muslim,1518,2052,5,14
+Madhya Pradesh,1,2005,Male,Others,62,142,0,2
+Madhya Pradesh,1,2005,Male,Sikh,102,96,0,0
+Madhya Pradesh,1,2006,Female,Christian,2,3,0,0
+Madhya Pradesh,1,2006,Female,Hindu,285,351,0,3
+Madhya Pradesh,1,2006,Female,Muslim,43,50,0,0
+Madhya Pradesh,1,2006,Female,Others,18,20,0,0
+Madhya Pradesh,1,2006,Female,Sikh,1,3,0,0
+Madhya Pradesh,1,2006,Male,Christian,51,60,0,1
+Madhya Pradesh,1,2006,Male,Hindu,12907,13980,12,50
+Madhya Pradesh,1,2006,Male,Muslim,1702,1999,9,17
+Madhya Pradesh,1,2006,Male,Others,135,138,0,4
+Madhya Pradesh,1,2006,Male,Sikh,71,82,0,3
+Madhya Pradesh,1,2007,Female,Christian,3,4,0,0
+Madhya Pradesh,1,2007,Female,Hindu,303,391,0,0
+Madhya Pradesh,1,2007,Female,Muslim,54,61,0,0
+Madhya Pradesh,1,2007,Female,Others,10,23,0,0
+Madhya Pradesh,1,2007,Female,Sikh,3,2,0,0
+Madhya Pradesh,1,2007,Male,Christian,49,68,0,0
+Madhya Pradesh,1,2007,Male,Hindu,13798,12910,23,44
+Madhya Pradesh,1,2007,Male,Muslim,1839,2527,10,16
+Madhya Pradesh,1,2007,Male,Others,174,169,0,2
+Madhya Pradesh,1,2007,Male,Sikh,80,145,1,3
+Madhya Pradesh,1,2008,Female,Christian,3,4,0,0
+Madhya Pradesh,1,2008,Female,Hindu,318,492,0,0
+Madhya Pradesh,1,2008,Female,Muslim,57,68,0,0
+Madhya Pradesh,1,2008,Female,Others,12,19,0,0
+Madhya Pradesh,1,2008,Female,Sikh,6,3,0,0
+Madhya Pradesh,1,2008,Male,Christian,36,127,2,1
+Madhya Pradesh,1,2008,Male,Hindu,13764,14984,77,39
+Madhya Pradesh,1,2008,Male,Muslim,1733,2439,20,14
+Madhya Pradesh,1,2008,Male,Others,93,215,3,6
+Madhya Pradesh,1,2008,Male,Sikh,80,137,1,2
+Madhya Pradesh,1,2009,Female,Christian,3,8,0,0
+Madhya Pradesh,1,2009,Female,Hindu,331,432,0,0
+Madhya Pradesh,1,2009,Female,Muslim,46,66,0,0
+Madhya Pradesh,1,2009,Female,Others,16,20,0,0
+Madhya Pradesh,1,2009,Female,Sikh,4,5,0,0
+Madhya Pradesh,1,2009,Male,Christian,42,125,0,1
+Madhya Pradesh,1,2009,Male,Hindu,12593,13482,34,51
+Madhya Pradesh,1,2009,Male,Muslim,2126,2778,14,17
+Madhya Pradesh,1,2009,Male,Others,129,206,2,5
+Madhya Pradesh,1,2009,Male,Sikh,77,189,1,3
+Madhya Pradesh,1,2010,Female,Christian,2,5,0,1
+Madhya Pradesh,1,2010,Female,Hindu,349,467,0,4
+Madhya Pradesh,1,2010,Female,Muslim,46,71,0,2
+Madhya Pradesh,1,2010,Female,Others,11,27,0,1
+Madhya Pradesh,1,2010,Female,Sikh,4,4,0,1
+Madhya Pradesh,1,2010,Male,Christian,32,106,0,2
+Madhya Pradesh,1,2010,Male,Hindu,11866,12967,68,73
+Madhya Pradesh,1,2010,Male,Muslim,2088,2495,17,27
+Madhya Pradesh,1,2010,Male,Others,118,248,0,16
+Madhya Pradesh,1,2010,Male,Sikh,63,132,1,4
+Madhya Pradesh,1,2011,Female,Christian,9,2,0,0
+Madhya Pradesh,1,2011,Female,Hindu,358,528,0,0
+Madhya Pradesh,1,2011,Female,Muslim,57,56,0,0
+Madhya Pradesh,1,2011,Female,Others,25,43,0,1
+Madhya Pradesh,1,2011,Female,Sikh,5,1,0,0
+Madhya Pradesh,1,2011,Male,Christian,24,104,1,1
+Madhya Pradesh,1,2011,Male,Hindu,13226,13476,106,96
+Madhya Pradesh,1,2011,Male,Muslim,1966,2106,25,19
+Madhya Pradesh,1,2011,Male,Others,228,208,0,8
+Madhya Pradesh,1,2011,Male,Sikh,58,177,0,2
+Madhya Pradesh,1,2012,Female,Christian,0,1,0,0
+Madhya Pradesh,1,2012,Female,Hindu,439,624,0,0
+Madhya Pradesh,1,2012,Female,Muslim,50,59,1,0
+Madhya Pradesh,1,2012,Female,Others,4,0,0,0
+Madhya Pradesh,1,2012,Female,Sikh,1,2,0,0
+Madhya Pradesh,1,2012,Male,Christian,21,25,2,0
+Madhya Pradesh,1,2012,Male,Hindu,13801,14741,97,63
+Madhya Pradesh,1,2012,Male,Muslim,1676,2000,38,13
+Madhya Pradesh,1,2012,Male,Others,69,99,0,0
+Madhya Pradesh,1,2012,Male,Sikh,64,68,1,0
+Madhya Pradesh,1,2013,Female,Christian,2,2,0,0
+Madhya Pradesh,1,2013,Female,Hindu,454,496,0,3
+Madhya Pradesh,1,2013,Female,Muslim,52,61,0,0
+Madhya Pradesh,1,2013,Female,Others,5,4,0,0
+Madhya Pradesh,1,2013,Female,Sikh,3,4,0,0
+Madhya Pradesh,1,2013,Male,Christian,43,62,1,2
+Madhya Pradesh,1,2013,Male,Hindu,14530,14551,86,123
+Madhya Pradesh,1,2013,Male,Muslim,1615,2217,37,19
+Madhya Pradesh,1,2013,Male,Others,95,80,0,0
+Madhya Pradesh,1,2013,Male,Sikh,70,91,0,0
+Maharashtra,1,2001,Female,Christian,5,13,0,0
+Maharashtra,1,2001,Female,Hindu,181,413,0,0
+Maharashtra,1,2001,Female,Muslim,68,125,1,0
+Maharashtra,1,2001,Female,Others,22,24,0,0
+Maharashtra,1,2001,Female,Sikh,3,8,0,0
+Maharashtra,1,2001,Male,Christian,140,244,12,0
+Maharashtra,1,2001,Male,Hindu,4428,9448,170,4
+Maharashtra,1,2001,Male,Muslim,1573,4739,148,0
+Maharashtra,1,2001,Male,Others,249,282,32,0
+Maharashtra,1,2001,Male,Sikh,43,150,2,0
+Maharashtra,1,2002,Female,Christian,11,25,2,0
+Maharashtra,1,2002,Female,Hindu,240,431,0,0
+Maharashtra,1,2002,Female,Muslim,23,135,6,0
+Maharashtra,1,2002,Female,Others,33,50,0,0
+Maharashtra,1,2002,Female,Sikh,4,7,0,0
+Maharashtra,1,2002,Male,Christian,263,287,35,0
+Maharashtra,1,2002,Male,Hindu,4639,8297,123,0
+Maharashtra,1,2002,Male,Muslim,1378,4056,102,0
+Maharashtra,1,2002,Male,Others,580,1027,35,0
+Maharashtra,1,2002,Male,Sikh,27,202,4,0
+Maharashtra,1,2003,Female,Christian,17,12,0,0
+Maharashtra,1,2003,Female,Hindu,282,412,0,0
+Maharashtra,1,2003,Female,Muslim,85,230,1,0
+Maharashtra,1,2003,Female,Others,3,68,0,0
+Maharashtra,1,2003,Female,Sikh,3,6,0,0
+Maharashtra,1,2003,Male,Christian,205,251,3,0
+Maharashtra,1,2003,Male,Hindu,4974,9088,85,17
+Maharashtra,1,2003,Male,Muslim,2161,4520,89,4
+Maharashtra,1,2003,Male,Others,403,747,8,0
+Maharashtra,1,2003,Male,Sikh,82,170,3,0
+Maharashtra,1,2004,Female,Christian,23,28,0,0
+Maharashtra,1,2004,Female,Hindu,312,448,0,0
+Maharashtra,1,2004,Female,Muslim,139,271,0,0
+Maharashtra,1,2004,Female,Others,8,20,0,0
+Maharashtra,1,2004,Female,Sikh,2,5,0,0
+Maharashtra,1,2004,Male,Christian,183,195,5,2
+Maharashtra,1,2004,Male,Hindu,5749,9283,82,29
+Maharashtra,1,2004,Male,Muslim,2197,4955,71,5
+Maharashtra,1,2004,Male,Others,242,421,8,1
+Maharashtra,1,2004,Male,Sikh,76,158,4,0
+Maharashtra,1,2005,Female,Christian,32,14,1,0
+Maharashtra,1,2005,Female,Hindu,339,532,0,0
+Maharashtra,1,2005,Female,Muslim,84,256,0,0
+Maharashtra,1,2005,Female,Others,5,57,0,0
+Maharashtra,1,2005,Female,Sikh,3,3,0,0
+Maharashtra,1,2005,Male,Christian,123,319,4,0
+Maharashtra,1,2005,Male,Hindu,6253,10272,113,19
+Maharashtra,1,2005,Male,Muslim,2089,3915,98,2
+Maharashtra,1,2005,Male,Others,242,457,16,0
+Maharashtra,1,2005,Male,Sikh,59,121,3,0
+Maharashtra,1,2006,Female,Christian,18,16,1,0
+Maharashtra,1,2006,Female,Hindu,372,474,0,0
+Maharashtra,1,2006,Female,Muslim,57,141,0,0
+Maharashtra,1,2006,Female,Others,0,275,0,0
+Maharashtra,1,2006,Female,Sikh,2,5,0,0
+Maharashtra,1,2006,Male,Christian,118,256,3,0
+Maharashtra,1,2006,Male,Hindu,6164,10038,174,1
+Maharashtra,1,2006,Male,Muslim,2106,4319,88,0
+Maharashtra,1,2006,Male,Others,236,630,5,0
+Maharashtra,1,2006,Male,Sikh,76,211,3,0
+Maharashtra,1,2007,Female,Christian,7,9,0,0
+Maharashtra,1,2007,Female,Hindu,383,566,1,0
+Maharashtra,1,2007,Female,Muslim,102,177,0,0
+Maharashtra,1,2007,Female,Others,17,83,0,0
+Maharashtra,1,2007,Female,Sikh,2,6,0,0
+Maharashtra,1,2007,Male,Christian,206,180,8,0
+Maharashtra,1,2007,Male,Hindu,6381,10187,82,0
+Maharashtra,1,2007,Male,Muslim,1801,4508,55,0
+Maharashtra,1,2007,Male,Others,234,694,5,0
+Maharashtra,1,2007,Male,Sikh,70,127,1,0
+Maharashtra,1,2008,Female,Christian,4,7,0,0
+Maharashtra,1,2008,Female,Hindu,406,610,1,0
+Maharashtra,1,2008,Female,Muslim,84,266,1,0
+Maharashtra,1,2008,Female,Others,3,47,0,0
+Maharashtra,1,2008,Female,Sikh,2,6,0,0
+Maharashtra,1,2008,Male,Christian,103,209,3,0
+Maharashtra,1,2008,Male,Hindu,6478,9693,67,0
+Maharashtra,1,2008,Male,Muslim,1876,4962,32,0
+Maharashtra,1,2008,Male,Others,141,590,8,0
+Maharashtra,1,2008,Male,Sikh,67,164,1,0
+Maharashtra,1,2009,Female,Christian,2,6,0,0
+Maharashtra,1,2009,Female,Hindu,422,561,0,0
+Maharashtra,1,2009,Female,Muslim,88,307,0,0
+Maharashtra,1,2009,Female,Others,15,71,0,0
+Maharashtra,1,2009,Female,Sikh,2,8,0,0
+Maharashtra,1,2009,Male,Christian,116,187,2,0
+Maharashtra,1,2009,Male,Hindu,5428,9450,59,0
+Maharashtra,1,2009,Male,Muslim,2005,4534,21,0
+Maharashtra,1,2009,Male,Others,488,838,0,0
+Maharashtra,1,2009,Male,Sikh,56,218,0,0
+Maharashtra,1,2010,Female,Christian,17,9,1,0
+Maharashtra,1,2010,Female,Hindu,325,587,1,0
+Maharashtra,1,2010,Female,Muslim,67,200,0,0
+Maharashtra,1,2010,Female,Others,10,40,0,0
+Maharashtra,1,2010,Female,Sikh,30,10,0,0
+Maharashtra,1,2010,Male,Christian,123,149,2,0
+Maharashtra,1,2010,Male,Hindu,4829,9448,60,0
+Maharashtra,1,2010,Male,Muslim,2436,4947,13,0
+Maharashtra,1,2010,Male,Others,201,411,0,0
+Maharashtra,1,2010,Male,Sikh,101,264,0,0
+Maharashtra,1,2011,Female,Christian,21,6,0,0
+Maharashtra,1,2011,Female,Hindu,280,513,0,0
+Maharashtra,1,2011,Female,Muslim,127,364,0,0
+Maharashtra,1,2011,Female,Others,4,22,0,0
+Maharashtra,1,2011,Female,Sikh,29,10,0,0
+Maharashtra,1,2011,Male,Christian,117,295,1,0
+Maharashtra,1,2011,Male,Hindu,4675,8957,51,0
+Maharashtra,1,2011,Male,Muslim,2386,5236,13,0
+Maharashtra,1,2011,Male,Others,224,468,0,0
+Maharashtra,1,2011,Male,Sikh,89,193,1,0
+Maharashtra,1,2012,Female,Christian,0,1,0,0
+Maharashtra,1,2012,Female,Hindu,300,550,0,0
+Maharashtra,1,2012,Female,Muslim,139,285,0,0
+Maharashtra,1,2012,Female,Others,17,45,0,0
+Maharashtra,1,2012,Female,Sikh,1,0,0,0
+Maharashtra,1,2012,Male,Christian,129,262,0,0
+Maharashtra,1,2012,Male,Hindu,4913,8523,25,10
+Maharashtra,1,2012,Male,Muslim,2163,5714,14,1
+Maharashtra,1,2012,Male,Others,227,888,3,4
+Maharashtra,1,2012,Male,Sikh,137,158,0,0
+Maharashtra,1,2013,Female,Christian,14,25,0,0
+Maharashtra,1,2013,Female,Hindu,234,664,1,0
+Maharashtra,1,2013,Female,Muslim,90,356,0,0
+Maharashtra,1,2013,Female,Others,73,63,0,0
+Maharashtra,1,2013,Female,Sikh,26,13,0,0
+Maharashtra,1,2013,Male,Christian,102,433,1,0
+Maharashtra,1,2013,Male,Hindu,4774,10138,13,0
+Maharashtra,1,2013,Male,Muslim,2241,5826,12,0
+Maharashtra,1,2013,Male,Others,331,1510,1,0
+Maharashtra,1,2013,Male,Sikh,156,303,0,0
+Manipur,1,2001,Female,Christian,0,3,0,0
+Manipur,1,2001,Female,Hindu,0,8,11,0
+Manipur,1,2001,Female,Muslim,0,2,0,0
+Manipur,1,2001,Female,Others,0,0,0,0
+Manipur,1,2001,Female,Sikh,0,0,0,0
+Manipur,1,2001,Male,Christian,4,115,18,0
+Manipur,1,2001,Male,Hindu,14,183,65,0
+Manipur,1,2001,Male,Muslim,1,31,2,0
+Manipur,1,2001,Male,Others,3,2,0,0
+Manipur,1,2001,Male,Sikh,0,0,0,0
+Manipur,1,2002,Female,Christian,0,5,1,0
+Manipur,1,2002,Female,Hindu,1,14,5,0
+Manipur,1,2002,Female,Muslim,0,2,0,0
+Manipur,1,2002,Female,Others,0,0,0,0
+Manipur,1,2002,Female,Sikh,0,0,0,0
+Manipur,1,2002,Male,Christian,6,111,20,0
+Manipur,1,2002,Male,Hindu,26,197,92,0
+Manipur,1,2002,Male,Muslim,1,29,1,0
+Manipur,1,2002,Male,Others,3,2,0,0
+Manipur,1,2002,Male,Sikh,0,0,0,0
+Manipur,1,2003,Female,Christian,0,5,0,0
+Manipur,1,2003,Female,Hindu,1,11,8,0
+Manipur,1,2003,Female,Muslim,0,2,0,0
+Manipur,1,2003,Female,Others,0,0,0,0
+Manipur,1,2003,Female,Sikh,0,0,0,0
+Manipur,1,2003,Male,Christian,6,128,14,0
+Manipur,1,2003,Male,Hindu,24,168,88,0
+Manipur,1,2003,Male,Muslim,0,39,3,0
+Manipur,1,2003,Male,Others,2,8,25,0
+Manipur,1,2003,Male,Sikh,0,0,0,0
+Manipur,1,2004,Female,Christian,0,6,0,0
+Manipur,1,2004,Female,Hindu,0,15,2,0
+Manipur,1,2004,Female,Muslim,0,0,0,0
+Manipur,1,2004,Female,Others,0,0,0,0
+Manipur,1,2004,Female,Sikh,0,0,0,0
+Manipur,1,2004,Male,Christian,7,99,6,0
+Manipur,1,2004,Male,Hindu,25,199,65,0
+Manipur,1,2004,Male,Muslim,0,40,1,0
+Manipur,1,2004,Male,Others,0,0,0,0
+Manipur,1,2004,Male,Sikh,0,0,0,0
+Manipur,1,2005,Female,Christian,0,3,0,0
+Manipur,1,2005,Female,Hindu,0,16,7,0
+Manipur,1,2005,Female,Muslim,0,0,0,0
+Manipur,1,2005,Female,Others,0,0,0,0
+Manipur,1,2005,Female,Sikh,0,0,0,0
+Manipur,1,2005,Male,Christian,5,83,17,0
+Manipur,1,2005,Male,Hindu,24,226,59,0
+Manipur,1,2005,Male,Muslim,1,35,1,0
+Manipur,1,2005,Male,Others,1,32,19,0
+Manipur,1,2005,Male,Sikh,0,0,0,0
+Manipur,1,2006,Female,Christian,0,2,0,0
+Manipur,1,2006,Female,Hindu,0,12,0,0
+Manipur,1,2006,Female,Muslim,0,1,0,0
+Manipur,1,2006,Female,Others,0,0,0,0
+Manipur,1,2006,Female,Sikh,0,0,0,0
+Manipur,1,2006,Male,Christian,6,66,9,0
+Manipur,1,2006,Male,Hindu,26,179,24,0
+Manipur,1,2006,Male,Muslim,1,32,2,0
+Manipur,1,2006,Male,Others,0,31,7,0
+Manipur,1,2006,Male,Sikh,0,0,0,0
+Manipur,1,2007,Female,Christian,0,2,1,0
+Manipur,1,2007,Female,Hindu,0,4,3,0
+Manipur,1,2007,Female,Muslim,0,0,0,0
+Manipur,1,2007,Female,Others,0,0,0,0
+Manipur,1,2007,Female,Sikh,0,0,0,0
+Manipur,1,2007,Male,Christian,7,45,18,0
+Manipur,1,2007,Male,Hindu,32,163,84,0
+Manipur,1,2007,Male,Muslim,16,32,12,0
+Manipur,1,2007,Male,Others,1,6,18,0
+Manipur,1,2007,Male,Sikh,0,0,0,0
+Manipur,1,2008,Female,Christian,0,4,1,0
+Manipur,1,2008,Female,Hindu,0,11,9,0
+Manipur,1,2008,Female,Muslim,0,2,0,0
+Manipur,1,2008,Female,Others,0,0,0,0
+Manipur,1,2008,Female,Sikh,0,0,0,0
+Manipur,1,2008,Male,Christian,0,52,10,0
+Manipur,1,2008,Male,Hindu,28,148,112,0
+Manipur,1,2008,Male,Muslim,1,43,20,0
+Manipur,1,2008,Male,Others,1,9,8,0
+Manipur,1,2008,Male,Sikh,6,0,0,0
+Manipur,1,2009,Female,Christian,0,4,1,0
+Manipur,1,2009,Female,Hindu,0,24,11,0
+Manipur,1,2009,Female,Muslim,0,0,2,0
+Manipur,1,2009,Female,Others,0,4,2,0
+Manipur,1,2009,Female,Sikh,0,0,0,0
+Manipur,1,2009,Male,Christian,3,90,3,0
+Manipur,1,2009,Male,Hindu,26,178,105,0
+Manipur,1,2009,Male,Muslim,3,53,19,0
+Manipur,1,2009,Male,Others,2,2,0,0
+Manipur,1,2009,Male,Sikh,0,0,0,0
+Manipur,1,2010,Female,Christian,1,2,0,0
+Manipur,1,2010,Female,Hindu,0,5,23,0
+Manipur,1,2010,Female,Muslim,0,1,0,0
+Manipur,1,2010,Female,Others,0,2,5,0
+Manipur,1,2010,Female,Sikh,0,0,0,0
+Manipur,1,2010,Male,Christian,6,83,4,0
+Manipur,1,2010,Male,Hindu,21,238,166,0
+Manipur,1,2010,Male,Muslim,4,41,15,0
+Manipur,1,2010,Male,Others,0,1,0,0
+Manipur,1,2010,Male,Sikh,0,0,0,0
+Manipur,1,2011,Female,Christian,1,6,0,0
+Manipur,1,2011,Female,Hindu,0,12,8,0
+Manipur,1,2011,Female,Muslim,0,1,0,0
+Manipur,1,2011,Female,Others,0,7,4,0
+Manipur,1,2011,Female,Sikh,0,0,0,0
+Manipur,1,2011,Male,Christian,7,90,9,0
+Manipur,1,2011,Male,Hindu,16,257,133,0
+Manipur,1,2011,Male,Muslim,7,73,6,0
+Manipur,1,2011,Male,Others,1,8,1,0
+Manipur,1,2011,Male,Sikh,0,0,0,0
+Manipur,1,2012,Female,Christian,1,4,0,0
+Manipur,1,2012,Female,Hindu,0,13,11,0
+Manipur,1,2012,Female,Muslim,0,4,0,0
+Manipur,1,2012,Female,Others,0,0,0,0
+Manipur,1,2012,Female,Sikh,0,0,0,0
+Manipur,1,2012,Male,Christian,7,140,21,0
+Manipur,1,2012,Male,Hindu,19,263,92,0
+Manipur,1,2012,Male,Muslim,37,103,8,0
+Manipur,1,2012,Male,Others,0,0,0,0
+Manipur,1,2012,Male,Sikh,0,0,0,0
+Manipur,1,2013,Female,Christian,1,5,0,0
+Manipur,1,2013,Female,Hindu,1,20,3,0
+Manipur,1,2013,Female,Muslim,0,1,0,0
+Manipur,1,2013,Female,Others,0,4,0,0
+Manipur,1,2013,Female,Sikh,0,0,0,0
+Manipur,1,2013,Male,Christian,8,152,7,0
+Manipur,1,2013,Male,Hindu,29,266,27,0
+Manipur,1,2013,Male,Muslim,39,82,6,0
+Manipur,1,2013,Male,Others,1,8,0,0
+Manipur,1,2013,Male,Sikh,0,0,0,0
+Meghalaya,1,2001,Female,Christian,0,8,0,0
+Meghalaya,1,2001,Female,Hindu,0,0,0,0
+Meghalaya,1,2001,Female,Muslim,0,0,0,0
+Meghalaya,1,2001,Female,Others,0,0,0,0
+Meghalaya,1,2001,Female,Sikh,0,0,0,0
+Meghalaya,1,2001,Male,Christian,7,238,6,0
+Meghalaya,1,2001,Male,Hindu,5,136,1,0
+Meghalaya,1,2001,Male,Muslim,2,112,0,0
+Meghalaya,1,2001,Male,Others,0,11,0,0
+Meghalaya,1,2001,Male,Sikh,0,0,0,0
+Meghalaya,1,2002,Female,Christian,0,9,0,0
+Meghalaya,1,2002,Female,Hindu,0,1,0,0
+Meghalaya,1,2002,Female,Muslim,0,1,0,0
+Meghalaya,1,2002,Female,Others,0,0,0,0
+Meghalaya,1,2002,Female,Sikh,0,0,0,0
+Meghalaya,1,2002,Male,Christian,9,279,6,0
+Meghalaya,1,2002,Male,Hindu,5,112,0,0
+Meghalaya,1,2002,Male,Muslim,6,75,0,0
+Meghalaya,1,2002,Male,Others,0,29,0,0
+Meghalaya,1,2002,Male,Sikh,0,0,0,0
+Meghalaya,1,2003,Female,Christian,0,8,0,0
+Meghalaya,1,2003,Female,Hindu,0,0,0,0
+Meghalaya,1,2003,Female,Muslim,0,0,0,0
+Meghalaya,1,2003,Female,Others,0,0,0,0
+Meghalaya,1,2003,Female,Sikh,0,0,0,0
+Meghalaya,1,2003,Male,Christian,15,246,8,0
+Meghalaya,1,2003,Male,Hindu,15,130,0,0
+Meghalaya,1,2003,Male,Muslim,7,64,0,0
+Meghalaya,1,2003,Male,Others,2,60,0,0
+Meghalaya,1,2003,Male,Sikh,0,0,0,0
+Meghalaya,1,2004,Female,Christian,0,8,0,0
+Meghalaya,1,2004,Female,Hindu,0,2,0,0
+Meghalaya,1,2004,Female,Muslim,0,0,0,0
+Meghalaya,1,2004,Female,Others,0,0,0,0
+Meghalaya,1,2004,Female,Sikh,0,0,0,0
+Meghalaya,1,2004,Male,Christian,24,203,20,0
+Meghalaya,1,2004,Male,Hindu,11,142,2,0
+Meghalaya,1,2004,Male,Muslim,4,59,0,0
+Meghalaya,1,2004,Male,Others,0,16,0,0
+Meghalaya,1,2004,Male,Sikh,2,0,0,0
+Meghalaya,1,2005,Female,Christian,4,4,0,0
+Meghalaya,1,2005,Female,Hindu,0,3,0,0
+Meghalaya,1,2005,Female,Muslim,0,2,0,0
+Meghalaya,1,2005,Female,Others,0,0,0,0
+Meghalaya,1,2005,Female,Sikh,0,0,0,0
+Meghalaya,1,2005,Male,Christian,21,223,20,0
+Meghalaya,1,2005,Male,Hindu,17,120,2,0
+Meghalaya,1,2005,Male,Muslim,4,110,0,0
+Meghalaya,1,2005,Male,Others,0,23,0,0
+Meghalaya,1,2005,Male,Sikh,0,2,0,0
+Meghalaya,1,2006,Female,Christian,2,4,0,0
+Meghalaya,1,2006,Female,Hindu,0,3,0,0
+Meghalaya,1,2006,Female,Muslim,0,0,0,0
+Meghalaya,1,2006,Female,Others,0,0,0,0
+Meghalaya,1,2006,Female,Sikh,0,0,0,0
+Meghalaya,1,2006,Male,Christian,22,278,22,0
+Meghalaya,1,2006,Male,Hindu,23,151,2,0
+Meghalaya,1,2006,Male,Muslim,11,81,0,0
+Meghalaya,1,2006,Male,Others,0,20,0,0
+Meghalaya,1,2006,Male,Sikh,0,2,0,0
+Meghalaya,1,2007,Female,Christian,2,3,0,0
+Meghalaya,1,2007,Female,Hindu,0,0,0,0
+Meghalaya,1,2007,Female,Muslim,0,1,0,0
+Meghalaya,1,2007,Female,Others,0,0,0,0
+Meghalaya,1,2007,Female,Sikh,0,0,0,0
+Meghalaya,1,2007,Male,Christian,36,241,32,0
+Meghalaya,1,2007,Male,Hindu,29,202,4,0
+Meghalaya,1,2007,Male,Muslim,5,77,0,0
+Meghalaya,1,2007,Male,Others,0,29,0,0
+Meghalaya,1,2007,Male,Sikh,0,4,0,0
+Meghalaya,1,2008,Female,Christian,2,2,0,0
+Meghalaya,1,2008,Female,Hindu,0,2,0,0
+Meghalaya,1,2008,Female,Muslim,0,0,0,0
+Meghalaya,1,2008,Female,Others,0,0,0,0
+Meghalaya,1,2008,Female,Sikh,0,0,0,0
+Meghalaya,1,2008,Male,Christian,40,235,43,0
+Meghalaya,1,2008,Male,Hindu,29,143,4,0
+Meghalaya,1,2008,Male,Muslim,21,66,0,0
+Meghalaya,1,2008,Male,Others,0,28,0,0
+Meghalaya,1,2008,Male,Sikh,0,4,0,0
+Meghalaya,1,2009,Female,Christian,0,4,0,0
+Meghalaya,1,2009,Female,Hindu,0,2,0,0
+Meghalaya,1,2009,Female,Muslim,0,1,0,0
+Meghalaya,1,2009,Female,Others,1,0,0,0
+Meghalaya,1,2009,Female,Sikh,0,0,0,0
+Meghalaya,1,2009,Male,Christian,60,254,31,0
+Meghalaya,1,2009,Male,Hindu,19,158,7,0
+Meghalaya,1,2009,Male,Muslim,11,89,0,0
+Meghalaya,1,2009,Male,Others,7,12,0,0
+Meghalaya,1,2009,Male,Sikh,0,0,0,0
+Meghalaya,1,2010,Female,Christian,0,3,0,0
+Meghalaya,1,2010,Female,Hindu,0,2,0,0
+Meghalaya,1,2010,Female,Muslim,0,1,0,0
+Meghalaya,1,2010,Female,Others,0,0,0,0
+Meghalaya,1,2010,Female,Sikh,0,0,0,0
+Meghalaya,1,2010,Male,Christian,38,247,41,0
+Meghalaya,1,2010,Male,Hindu,16,173,2,0
+Meghalaya,1,2010,Male,Muslim,16,87,0,0
+Meghalaya,1,2010,Male,Others,0,0,0,0
+Meghalaya,1,2010,Male,Sikh,0,0,0,0
+Meghalaya,1,2011,Female,Christian,0,8,0,0
+Meghalaya,1,2011,Female,Hindu,0,2,0,0
+Meghalaya,1,2011,Female,Muslim,0,2,0,0
+Meghalaya,1,2011,Female,Others,0,0,0,0
+Meghalaya,1,2011,Female,Sikh,0,0,0,0
+Meghalaya,1,2011,Male,Christian,45,256,25,0
+Meghalaya,1,2011,Male,Hindu,3,134,2,0
+Meghalaya,1,2011,Male,Muslim,17,76,0,0
+Meghalaya,1,2011,Male,Others,0,0,0,0
+Meghalaya,1,2011,Male,Sikh,0,0,0,0
+Meghalaya,1,2012,Female,Christian,0,6,0,0
+Meghalaya,1,2012,Female,Hindu,0,3,0,0
+Meghalaya,1,2012,Female,Muslim,0,3,0,0
+Meghalaya,1,2012,Female,Others,0,0,0,0
+Meghalaya,1,2012,Female,Sikh,0,0,0,0
+Meghalaya,1,2012,Male,Christian,46,400,19,0
+Meghalaya,1,2012,Male,Hindu,18,118,2,0
+Meghalaya,1,2012,Male,Muslim,3,70,0,0
+Meghalaya,1,2012,Male,Others,3,5,0,0
+Meghalaya,1,2012,Male,Sikh,0,0,0,0
+Meghalaya,1,2013,Female,Christian,0,9,0,0
+Meghalaya,1,2013,Female,Hindu,0,2,0,0
+Meghalaya,1,2013,Female,Muslim,0,0,0,0
+Meghalaya,1,2013,Female,Others,0,0,0,0
+Meghalaya,1,2013,Female,Sikh,0,0,0,0
+Meghalaya,1,2013,Male,Christian,47,502,30,0
+Meghalaya,1,2013,Male,Hindu,8,133,2,0
+Meghalaya,1,2013,Male,Muslim,13,90,0,0
+Meghalaya,1,2013,Male,Others,4,9,1,0
+Meghalaya,1,2013,Male,Sikh,0,0,0,0
+Mizoram,1,2001,Female,Christian,11,71,0,0
+Mizoram,1,2001,Female,Hindu,0,1,0,0
+Mizoram,1,2001,Female,Muslim,0,0,0,0
+Mizoram,1,2001,Female,Others,0,0,0,0
+Mizoram,1,2001,Female,Sikh,0,0,0,0
+Mizoram,1,2001,Male,Christian,134,556,0,0
+Mizoram,1,2001,Male,Hindu,5,43,0,0
+Mizoram,1,2001,Male,Muslim,4,30,0,0
+Mizoram,1,2001,Male,Others,0,0,0,0
+Mizoram,1,2001,Male,Sikh,0,3,0,0
+Mizoram,1,2002,Female,Christian,21,64,0,0
+Mizoram,1,2002,Female,Hindu,0,0,0,0
+Mizoram,1,2002,Female,Muslim,0,1,0,0
+Mizoram,1,2002,Female,Others,0,0,0,0
+Mizoram,1,2002,Female,Sikh,0,0,0,0
+Mizoram,1,2002,Male,Christian,244,454,0,0
+Mizoram,1,2002,Male,Hindu,3,17,0,0
+Mizoram,1,2002,Male,Muslim,9,45,0,0
+Mizoram,1,2002,Male,Others,0,0,0,0
+Mizoram,1,2002,Male,Sikh,0,0,0,0
+Mizoram,1,2003,Female,Christian,7,66,0,0
+Mizoram,1,2003,Female,Hindu,1,0,0,0
+Mizoram,1,2003,Female,Muslim,0,0,0,0
+Mizoram,1,2003,Female,Others,0,2,0,0
+Mizoram,1,2003,Female,Sikh,0,0,0,0
+Mizoram,1,2003,Male,Christian,171,508,0,0
+Mizoram,1,2003,Male,Hindu,9,23,0,0
+Mizoram,1,2003,Male,Muslim,12,31,0,0
+Mizoram,1,2003,Male,Others,2,5,0,0
+Mizoram,1,2003,Male,Sikh,0,0,0,0
+Mizoram,1,2004,Female,Christian,9,84,0,0
+Mizoram,1,2004,Female,Hindu,0,2,0,0
+Mizoram,1,2004,Female,Muslim,0,0,0,0
+Mizoram,1,2004,Female,Others,0,0,0,0
+Mizoram,1,2004,Female,Sikh,0,0,0,0
+Mizoram,1,2004,Male,Christian,182,586,0,0
+Mizoram,1,2004,Male,Hindu,10,29,0,0
+Mizoram,1,2004,Male,Muslim,16,41,0,0
+Mizoram,1,2004,Male,Others,0,0,0,0
+Mizoram,1,2004,Male,Sikh,0,0,0,0
+Mizoram,1,2005,Female,Christian,20,59,0,0
+Mizoram,1,2005,Female,Hindu,0,0,0,0
+Mizoram,1,2005,Female,Muslim,0,0,0,0
+Mizoram,1,2005,Female,Others,0,0,0,0
+Mizoram,1,2005,Female,Sikh,0,0,0,0
+Mizoram,1,2005,Male,Christian,133,442,0,0
+Mizoram,1,2005,Male,Hindu,7,18,0,0
+Mizoram,1,2005,Male,Muslim,6,20,0,0
+Mizoram,1,2005,Male,Others,5,3,0,0
+Mizoram,1,2005,Male,Sikh,0,0,0,0
+Mizoram,1,2006,Female,Christian,15,63,0,0
+Mizoram,1,2006,Female,Hindu,2,0,0,0
+Mizoram,1,2006,Female,Muslim,0,0,0,0
+Mizoram,1,2006,Female,Others,0,0,0,0
+Mizoram,1,2006,Female,Sikh,0,0,0,0
+Mizoram,1,2006,Male,Christian,173,380,0,0
+Mizoram,1,2006,Male,Hindu,13,35,0,0
+Mizoram,1,2006,Male,Muslim,10,38,0,0
+Mizoram,1,2006,Male,Others,0,0,0,0
+Mizoram,1,2006,Male,Sikh,0,0,0,0
+Mizoram,1,2007,Female,Christian,22,73,0,0
+Mizoram,1,2007,Female,Hindu,0,0,0,0
+Mizoram,1,2007,Female,Muslim,0,0,0,0
+Mizoram,1,2007,Female,Others,0,0,0,0
+Mizoram,1,2007,Female,Sikh,0,0,0,0
+Mizoram,1,2007,Male,Christian,283,540,0,0
+Mizoram,1,2007,Male,Hindu,0,7,0,0
+Mizoram,1,2007,Male,Muslim,0,13,0,0
+Mizoram,1,2007,Male,Others,1,2,0,0
+Mizoram,1,2007,Male,Sikh,0,0,0,0
+Mizoram,1,2008,Female,Christian,15,47,0,0
+Mizoram,1,2008,Female,Hindu,0,0,0,0
+Mizoram,1,2008,Female,Muslim,0,0,0,0
+Mizoram,1,2008,Female,Others,0,0,0,0
+Mizoram,1,2008,Female,Sikh,0,0,0,0
+Mizoram,1,2008,Male,Christian,297,371,0,0
+Mizoram,1,2008,Male,Hindu,4,16,0,0
+Mizoram,1,2008,Male,Muslim,7,23,0,0
+Mizoram,1,2008,Male,Others,6,4,0,0
+Mizoram,1,2008,Male,Sikh,0,0,0,0
+Mizoram,1,2009,Female,Christian,11,45,0,0
+Mizoram,1,2009,Female,Hindu,0,0,0,0
+Mizoram,1,2009,Female,Muslim,0,0,0,0
+Mizoram,1,2009,Female,Others,0,0,0,0
+Mizoram,1,2009,Female,Sikh,0,0,0,0
+Mizoram,1,2009,Male,Christian,329,345,0,0
+Mizoram,1,2009,Male,Hindu,4,8,0,0
+Mizoram,1,2009,Male,Muslim,9,12,0,0
+Mizoram,1,2009,Male,Others,0,2,0,0
+Mizoram,1,2009,Male,Sikh,0,0,0,0
+Mizoram,1,2010,Female,Christian,21,60,0,0
+Mizoram,1,2010,Female,Hindu,0,0,0,0
+Mizoram,1,2010,Female,Muslim,0,0,0,0
+Mizoram,1,2010,Female,Others,0,0,0,0
+Mizoram,1,2010,Female,Sikh,0,0,0,0
+Mizoram,1,2010,Male,Christian,397,450,0,0
+Mizoram,1,2010,Male,Hindu,15,21,0,0
+Mizoram,1,2010,Male,Muslim,18,10,0,0
+Mizoram,1,2010,Male,Others,0,0,0,0
+Mizoram,1,2010,Male,Sikh,0,0,0,0
+Mizoram,1,2011,Female,Christian,18,45,0,0
+Mizoram,1,2011,Female,Hindu,1,5,0,0
+Mizoram,1,2011,Female,Muslim,1,2,0,0
+Mizoram,1,2011,Female,Others,0,0,0,0
+Mizoram,1,2011,Female,Sikh,0,0,0,0
+Mizoram,1,2011,Male,Christian,325,407,0,0
+Mizoram,1,2011,Male,Hindu,19,21,0,0
+Mizoram,1,2011,Male,Muslim,18,19,0,0
+Mizoram,1,2011,Male,Others,0,0,0,0
+Mizoram,1,2011,Male,Sikh,0,0,0,0
+Mizoram,1,2012,Female,Christian,9,53,0,0
+Mizoram,1,2012,Female,Hindu,0,0,0,0
+Mizoram,1,2012,Female,Muslim,0,0,0,0
+Mizoram,1,2012,Female,Others,0,0,0,0
+Mizoram,1,2012,Female,Sikh,0,0,0,0
+Mizoram,1,2012,Male,Christian,292,434,0,0
+Mizoram,1,2012,Male,Hindu,12,19,0,0
+Mizoram,1,2012,Male,Muslim,6,20,0,0
+Mizoram,1,2012,Male,Others,0,2,0,0
+Mizoram,1,2012,Male,Sikh,0,0,0,0
+Mizoram,1,2013,Female,Christian,8,58,0,0
+Mizoram,1,2013,Female,Hindu,0,0,0,0
+Mizoram,1,2013,Female,Muslim,0,0,0,0
+Mizoram,1,2013,Female,Others,0,0,0,0
+Mizoram,1,2013,Female,Sikh,0,0,0,0
+Mizoram,1,2013,Male,Christian,382,366,0,0
+Mizoram,1,2013,Male,Hindu,11,12,0,0
+Mizoram,1,2013,Male,Muslim,7,24,0,0
+Mizoram,1,2013,Male,Others,2,0,0,0
+Mizoram,1,2013,Male,Sikh,0,0,0,0
+Nagaland,1,2001,Female,Christian,2,13,0,0
+Nagaland,1,2001,Female,Hindu,0,1,0,0
+Nagaland,1,2001,Female,Muslim,0,4,0,0
+Nagaland,1,2001,Female,Others,0,0,0,0
+Nagaland,1,2001,Female,Sikh,0,0,0,0
+Nagaland,1,2001,Male,Christian,36,450,48,0
+Nagaland,1,2001,Male,Hindu,10,26,1,0
+Nagaland,1,2001,Male,Muslim,15,40,3,0
+Nagaland,1,2001,Male,Others,0,4,0,0
+Nagaland,1,2001,Male,Sikh,5,7,0,0
+Nagaland,1,2002,Female,Christian,1,8,0,0
+Nagaland,1,2002,Female,Hindu,0,1,0,0
+Nagaland,1,2002,Female,Muslim,0,2,0,0
+Nagaland,1,2002,Female,Others,0,0,0,0
+Nagaland,1,2002,Female,Sikh,0,0,0,0
+Nagaland,1,2002,Male,Christian,21,438,45,0
+Nagaland,1,2002,Male,Hindu,2,31,3,0
+Nagaland,1,2002,Male,Muslim,6,47,7,0
+Nagaland,1,2002,Male,Others,0,0,0,0
+Nagaland,1,2002,Male,Sikh,0,17,2,0
+Nagaland,1,2003,Female,Christian,0,8,0,0
+Nagaland,1,2003,Female,Hindu,0,0,0,0
+Nagaland,1,2003,Female,Muslim,1,5,0,0
+Nagaland,1,2003,Female,Others,0,0,0,0
+Nagaland,1,2003,Female,Sikh,0,0,0,0
+Nagaland,1,2003,Male,Christian,55,289,60,0
+Nagaland,1,2003,Male,Hindu,10,37,3,0
+Nagaland,1,2003,Male,Muslim,22,59,8,0
+Nagaland,1,2003,Male,Others,0,0,0,0
+Nagaland,1,2003,Male,Sikh,1,9,1,0
+Nagaland,1,2004,Female,Christian,0,12,0,0
+Nagaland,1,2004,Female,Hindu,0,0,0,0
+Nagaland,1,2004,Female,Muslim,1,4,0,0
+Nagaland,1,2004,Female,Others,0,0,0,0
+Nagaland,1,2004,Female,Sikh,0,0,0,0
+Nagaland,1,2004,Male,Christian,112,269,30,0
+Nagaland,1,2004,Male,Hindu,10,27,0,0
+Nagaland,1,2004,Male,Muslim,30,73,5,0
+Nagaland,1,2004,Male,Others,8,3,3,0
+Nagaland,1,2004,Male,Sikh,0,2,0,0
+Nagaland,1,2005,Female,Christian,4,10,0,0
+Nagaland,1,2005,Female,Hindu,0,2,0,0
+Nagaland,1,2005,Female,Muslim,0,4,0,0
+Nagaland,1,2005,Female,Others,0,0,0,0
+Nagaland,1,2005,Female,Sikh,0,0,0,0
+Nagaland,1,2005,Male,Christian,89,303,21,0
+Nagaland,1,2005,Male,Hindu,3,34,0,0
+Nagaland,1,2005,Male,Muslim,21,131,3,0
+Nagaland,1,2005,Male,Others,0,0,0,0
+Nagaland,1,2005,Male,Sikh,0,0,0,0
+Nagaland,1,2006,Female,Christian,4,10,2,0
+Nagaland,1,2006,Female,Hindu,0,2,0,0
+Nagaland,1,2006,Female,Muslim,2,7,1,0
+Nagaland,1,2006,Female,Others,0,0,0,0
+Nagaland,1,2006,Female,Sikh,0,0,0,0
+Nagaland,1,2006,Male,Christian,80,324,19,0
+Nagaland,1,2006,Male,Hindu,8,37,0,0
+Nagaland,1,2006,Male,Muslim,39,135,2,0
+Nagaland,1,2006,Male,Others,0,0,0,0
+Nagaland,1,2006,Male,Sikh,0,2,0,0
+Nagaland,1,2007,Female,Christian,5,10,0,0
+Nagaland,1,2007,Female,Hindu,0,0,0,0
+Nagaland,1,2007,Female,Muslim,1,2,0,0
+Nagaland,1,2007,Female,Others,0,0,0,0
+Nagaland,1,2007,Female,Sikh,0,0,0,0
+Nagaland,1,2007,Male,Christian,65,270,6,0
+Nagaland,1,2007,Male,Hindu,5,17,0,0
+Nagaland,1,2007,Male,Muslim,23,86,0,0
+Nagaland,1,2007,Male,Others,0,9,0,0
+Nagaland,1,2007,Male,Sikh,2,0,0,0
+Nagaland,1,2008,Female,Christian,3,6,0,0
+Nagaland,1,2008,Female,Hindu,0,0,0,0
+Nagaland,1,2008,Female,Muslim,2,2,0,0
+Nagaland,1,2008,Female,Others,1,2,0,0
+Nagaland,1,2008,Female,Sikh,0,0,0,0
+Nagaland,1,2008,Male,Christian,73,217,49,0
+Nagaland,1,2008,Male,Hindu,11,21,0,0
+Nagaland,1,2008,Male,Muslim,57,83,3,0
+Nagaland,1,2008,Male,Others,13,65,11,0
+Nagaland,1,2008,Male,Sikh,0,0,0,0
+Nagaland,1,2009,Female,Christian,2,8,0,0
+Nagaland,1,2009,Female,Hindu,0,2,0,0
+Nagaland,1,2009,Female,Muslim,0,5,0,0
+Nagaland,1,2009,Female,Others,0,0,0,0
+Nagaland,1,2009,Female,Sikh,0,0,0,0
+Nagaland,1,2009,Male,Christian,88,231,42,0
+Nagaland,1,2009,Male,Hindu,38,53,0,0
+Nagaland,1,2009,Male,Muslim,21,121,0,0
+Nagaland,1,2009,Male,Others,3,7,0,0
+Nagaland,1,2009,Male,Sikh,2,0,0,0
+Nagaland,1,2010,Female,Christian,3,14,0,0
+Nagaland,1,2010,Female,Hindu,0,0,0,0
+Nagaland,1,2010,Female,Muslim,1,0,0,0
+Nagaland,1,2010,Female,Others,0,0,0,0
+Nagaland,1,2010,Female,Sikh,0,0,0,0
+Nagaland,1,2010,Male,Christian,116,253,33,0
+Nagaland,1,2010,Male,Hindu,13,17,0,0
+Nagaland,1,2010,Male,Muslim,25,30,0,0
+Nagaland,1,2010,Male,Others,2,7,0,0
+Nagaland,1,2010,Male,Sikh,3,4,0,0
+Nagaland,1,2011,Female,Christian,5,5,0,0
+Nagaland,1,2011,Female,Hindu,2,3,1,0
+Nagaland,1,2011,Female,Muslim,0,0,0,0
+Nagaland,1,2011,Female,Others,0,0,0,0
+Nagaland,1,2011,Female,Sikh,0,0,0,0
+Nagaland,1,2011,Male,Christian,80,207,59,0
+Nagaland,1,2011,Male,Hindu,21,44,6,0
+Nagaland,1,2011,Male,Muslim,22,40,7,0
+Nagaland,1,2011,Male,Others,0,0,0,0
+Nagaland,1,2011,Male,Sikh,0,0,0,0
+Nagaland,1,2012,Female,Christian,4,6,1,0
+Nagaland,1,2012,Female,Hindu,1,4,0,0
+Nagaland,1,2012,Female,Muslim,0,0,0,0
+Nagaland,1,2012,Female,Others,0,0,0,0
+Nagaland,1,2012,Female,Sikh,0,0,0,0
+Nagaland,1,2012,Male,Christian,77,182,12,0
+Nagaland,1,2012,Male,Hindu,25,34,6,0
+Nagaland,1,2012,Male,Muslim,15,27,0,1
+Nagaland,1,2012,Male,Others,3,0,0,0
+Nagaland,1,2012,Male,Sikh,0,0,0,0
+Nagaland,1,2013,Female,Christian,4,6,0,0
+Nagaland,1,2013,Female,Hindu,0,0,0,0
+Nagaland,1,2013,Female,Muslim,0,2,0,0
+Nagaland,1,2013,Female,Others,0,0,0,0
+Nagaland,1,2013,Female,Sikh,0,0,0,0
+Nagaland,1,2013,Male,Christian,55,239,44,0
+Nagaland,1,2013,Male,Hindu,15,58,4,0
+Nagaland,1,2013,Male,Muslim,20,36,2,1
+Nagaland,1,2013,Male,Others,0,0,0,0
+Nagaland,1,2013,Male,Sikh,1,0,0,0
+Orissa,1,2001,Female,Christian,1,7,0,0
+Orissa,1,2001,Female,Hindu,48,231,0,0
+Orissa,1,2001,Female,Muslim,3,11,0,0
+Orissa,1,2001,Female,Others,0,0,0,0
+Orissa,1,2001,Female,Sikh,0,0,0,0
+Orissa,1,2001,Male,Christian,66,494,2,0
+Orissa,1,2001,Male,Hindu,2602,7537,30,46
+Orissa,1,2001,Male,Muslim,59,434,1,0
+Orissa,1,2001,Male,Others,4,11,12,0
+Orissa,1,2001,Male,Sikh,33,43,0,0
+Orissa,1,2002,Female,Christian,1,28,0,0
+Orissa,1,2002,Female,Hindu,45,141,0,0
+Orissa,1,2002,Female,Muslim,3,91,0,0
+Orissa,1,2002,Female,Others,0,18,0,0
+Orissa,1,2002,Female,Sikh,0,14,0,0
+Orissa,1,2002,Male,Christian,117,122,0,0
+Orissa,1,2002,Male,Hindu,2575,7011,0,28
+Orissa,1,2002,Male,Muslim,195,1853,0,18
+Orissa,1,2002,Male,Others,2,207,0,0
+Orissa,1,2002,Male,Sikh,37,131,0,0
+Orissa,1,2003,Female,Christian,2,13,0,0
+Orissa,1,2003,Female,Hindu,58,169,0,0
+Orissa,1,2003,Female,Muslim,6,105,0,0
+Orissa,1,2003,Female,Others,0,0,0,0
+Orissa,1,2003,Female,Sikh,0,3,0,0
+Orissa,1,2003,Male,Christian,141,161,0,0
+Orissa,1,2003,Male,Hindu,2816,6774,0,32
+Orissa,1,2003,Male,Muslim,213,2103,0,3
+Orissa,1,2003,Male,Others,3,183,0,0
+Orissa,1,2003,Male,Sikh,53,129,0,0
+Orissa,1,2004,Female,Christian,3,9,0,0
+Orissa,1,2004,Female,Hindu,61,277,0,1
+Orissa,1,2004,Female,Muslim,1,7,0,0
+Orissa,1,2004,Female,Others,0,0,0,0
+Orissa,1,2004,Female,Sikh,0,2,0,0
+Orissa,1,2004,Male,Christian,94,362,0,0
+Orissa,1,2004,Male,Hindu,3399,8267,9,18
+Orissa,1,2004,Male,Muslim,86,433,0,0
+Orissa,1,2004,Male,Others,17,13,0,6
+Orissa,1,2004,Male,Sikh,19,74,0,0
+Orissa,1,2005,Female,Christian,2,7,0,0
+Orissa,1,2005,Female,Hindu,85,322,0,0
+Orissa,1,2005,Female,Muslim,1,13,0,0
+Orissa,1,2005,Female,Others,0,0,0,0
+Orissa,1,2005,Female,Sikh,0,0,0,0
+Orissa,1,2005,Male,Christian,103,406,0,0
+Orissa,1,2005,Male,Hindu,3892,8611,15,27
+Orissa,1,2005,Male,Muslim,60,326,0,0
+Orissa,1,2005,Male,Others,52,32,0,0
+Orissa,1,2005,Male,Sikh,1,3,0,0
+Orissa,1,2006,Female,Christian,6,9,0,0
+Orissa,1,2006,Female,Hindu,85,368,0,1
+Orissa,1,2006,Female,Muslim,0,8,0,0
+Orissa,1,2006,Female,Others,0,1,0,0
+Orissa,1,2006,Female,Sikh,0,0,0,0
+Orissa,1,2006,Male,Christian,124,482,0,0
+Orissa,1,2006,Male,Hindu,3995,8982,0,30
+Orissa,1,2006,Male,Muslim,83,348,0,0
+Orissa,1,2006,Male,Others,69,42,0,1
+Orissa,1,2006,Male,Sikh,3,7,0,0
+Orissa,1,2007,Female,Christian,8,26,0,0
+Orissa,1,2007,Female,Hindu,92,472,0,0
+Orissa,1,2007,Female,Muslim,0,18,0,0
+Orissa,1,2007,Female,Others,3,1,0,0
+Orissa,1,2007,Female,Sikh,0,0,0,0
+Orissa,1,2007,Male,Christian,111,732,0,0
+Orissa,1,2007,Male,Hindu,4012,9285,3,0
+Orissa,1,2007,Male,Muslim,83,412,0,0
+Orissa,1,2007,Male,Others,32,64,0,0
+Orissa,1,2007,Male,Sikh,4,10,0,0
+Orissa,1,2008,Female,Christian,16,8,0,0
+Orissa,1,2008,Female,Hindu,102,368,0,0
+Orissa,1,2008,Female,Muslim,3,23,0,0
+Orissa,1,2008,Female,Others,1,2,0,0
+Orissa,1,2008,Female,Sikh,0,0,0,0
+Orissa,1,2008,Male,Christian,184,697,2,0
+Orissa,1,2008,Male,Hindu,3759,8511,10,0
+Orissa,1,2008,Male,Muslim,126,352,0,0
+Orissa,1,2008,Male,Others,102,88,0,0
+Orissa,1,2008,Male,Sikh,7,12,0,0
+Orissa,1,2009,Female,Christian,12,24,0,0
+Orissa,1,2009,Female,Hindu,93,342,0,0
+Orissa,1,2009,Female,Muslim,2,21,0,0
+Orissa,1,2009,Female,Others,1,4,0,0
+Orissa,1,2009,Female,Sikh,0,0,0,0
+Orissa,1,2009,Male,Christian,78,546,0,0
+Orissa,1,2009,Male,Hindu,3611,8229,0,0
+Orissa,1,2009,Male,Muslim,119,301,0,0
+Orissa,1,2009,Male,Others,102,35,0,0
+Orissa,1,2009,Male,Sikh,5,9,0,0
+Orissa,1,2010,Female,Christian,14,21,0,0
+Orissa,1,2010,Female,Hindu,95,331,0,0
+Orissa,1,2010,Female,Muslim,3,20,0,0
+Orissa,1,2010,Female,Others,2,4,0,0
+Orissa,1,2010,Female,Sikh,0,0,0,0
+Orissa,1,2010,Male,Christian,71,501,0,0
+Orissa,1,2010,Male,Hindu,3572,7291,0,0
+Orissa,1,2010,Male,Muslim,107,283,0,0
+Orissa,1,2010,Male,Others,83,21,0,0
+Orissa,1,2010,Male,Sikh,4,6,0,0
+Orissa,1,2011,Female,Christian,14,21,0,0
+Orissa,1,2011,Female,Hindu,93,286,0,0
+Orissa,1,2011,Female,Muslim,3,20,0,0
+Orissa,1,2011,Female,Others,2,4,0,0
+Orissa,1,2011,Female,Sikh,0,0,0,0
+Orissa,1,2011,Male,Christian,312,707,0,0
+Orissa,1,2011,Male,Hindu,3090,7544,0,0
+Orissa,1,2011,Male,Muslim,93,418,0,0
+Orissa,1,2011,Male,Others,93,31,0,0
+Orissa,1,2011,Male,Sikh,1,21,0,0
+Orissa,1,2012,Female,Christian,11,21,0,0
+Orissa,1,2012,Female,Hindu,89,326,0,0
+Orissa,1,2012,Female,Muslim,3,20,0,0
+Orissa,1,2012,Female,Others,2,4,0,0
+Orissa,1,2012,Female,Sikh,0,0,0,0
+Orissa,1,2012,Male,Christian,296,747,0,0
+Orissa,1,2012,Male,Hindu,3074,7644,0,0
+Orissa,1,2012,Male,Muslim,77,423,0,0
+Orissa,1,2012,Male,Others,77,31,0,0
+Orissa,1,2012,Male,Sikh,1,21,0,0
+Orissa,1,2013,Female,Christian,16,32,0,0
+Orissa,1,2013,Female,Hindu,99,434,0,0
+Orissa,1,2013,Female,Muslim,4,30,0,0
+Orissa,1,2013,Female,Others,3,13,0,0
+Orissa,1,2013,Female,Sikh,0,10,0,0
+Orissa,1,2013,Male,Christian,206,1077,0,0
+Orissa,1,2013,Male,Hindu,3033,8434,0,0
+Orissa,1,2013,Male,Muslim,70,723,0,0
+Orissa,1,2013,Male,Others,75,160,0,0
+Orissa,1,2013,Male,Sikh,2,52,0,0
+Pondicherry,0,2001,Female,Christian,0,0,0,0
+Pondicherry,0,2001,Female,Hindu,1,5,0,0
+Pondicherry,0,2001,Female,Muslim,0,0,0,0
+Pondicherry,0,2001,Female,Others,0,0,0,0
+Pondicherry,0,2001,Female,Sikh,0,0,0,0
+Pondicherry,0,2001,Male,Christian,14,27,0,0
+Pondicherry,0,2001,Male,Hindu,83,110,0,0
+Pondicherry,0,2001,Male,Muslim,10,12,0,0
+Pondicherry,0,2001,Male,Others,0,0,0,0
+Pondicherry,0,2001,Male,Sikh,0,0,0,0
+Pondicherry,0,2002,Female,Christian,0,1,0,0
+Pondicherry,0,2002,Female,Hindu,1,10,0,0
+Pondicherry,0,2002,Female,Muslim,0,1,0,0
+Pondicherry,0,2002,Female,Others,0,0,0,0
+Pondicherry,0,2002,Female,Sikh,0,0,0,0
+Pondicherry,0,2002,Male,Christian,9,19,0,0
+Pondicherry,0,2002,Male,Hindu,118,76,0,0
+Pondicherry,0,2002,Male,Muslim,6,5,0,0
+Pondicherry,0,2002,Male,Others,0,0,0,0
+Pondicherry,0,2002,Male,Sikh,0,0,0,0
+Pondicherry,0,2003,Female,Christian,0,0,0,0
+Pondicherry,0,2003,Female,Hindu,2,4,0,0
+Pondicherry,0,2003,Female,Muslim,0,0,0,0
+Pondicherry,0,2003,Female,Others,0,0,0,0
+Pondicherry,0,2003,Female,Sikh,0,0,0,0
+Pondicherry,0,2003,Male,Christian,10,15,0,0
+Pondicherry,0,2003,Male,Hindu,123,113,0,0
+Pondicherry,0,2003,Male,Muslim,4,7,0,0
+Pondicherry,0,2003,Male,Others,0,0,0,0
+Pondicherry,0,2003,Male,Sikh,0,0,0,0
+Pondicherry,0,2004,Female,Christian,0,0,0,0
+Pondicherry,0,2004,Female,Hindu,2,1,0,0
+Pondicherry,0,2004,Female,Muslim,0,0,0,0
+Pondicherry,0,2004,Female,Others,0,0,0,0
+Pondicherry,0,2004,Female,Sikh,0,0,0,0
+Pondicherry,0,2004,Male,Christian,6,14,0,0
+Pondicherry,0,2004,Male,Hindu,99,162,0,0
+Pondicherry,0,2004,Male,Muslim,2,15,0,0
+Pondicherry,0,2004,Male,Others,0,0,0,0
+Pondicherry,0,2004,Male,Sikh,0,0,0,0
+Pondicherry,0,2005,Female,Christian,0,0,0,0
+Pondicherry,0,2005,Female,Hindu,5,1,0,0
+Pondicherry,0,2005,Female,Muslim,0,0,0,0
+Pondicherry,0,2005,Female,Others,0,0,0,0
+Pondicherry,0,2005,Female,Sikh,0,0,0,0
+Pondicherry,0,2005,Male,Christian,15,13,0,0
+Pondicherry,0,2005,Male,Hindu,97,151,0,0
+Pondicherry,0,2005,Male,Muslim,2,4,0,0
+Pondicherry,0,2005,Male,Others,0,0,0,0
+Pondicherry,0,2005,Male,Sikh,0,0,0,0
+Pondicherry,0,2006,Female,Christian,0,0,0,0
+Pondicherry,0,2006,Female,Hindu,3,1,0,0
+Pondicherry,0,2006,Female,Muslim,0,0,0,0
+Pondicherry,0,2006,Female,Others,0,0,0,0
+Pondicherry,0,2006,Female,Sikh,0,0,0,0
+Pondicherry,0,2006,Male,Christian,11,18,0,0
+Pondicherry,0,2006,Male,Hindu,94,171,0,0
+Pondicherry,0,2006,Male,Muslim,1,13,0,0
+Pondicherry,0,2006,Male,Others,0,0,0,0
+Pondicherry,0,2006,Male,Sikh,0,0,0,0
+Pondicherry,0,2007,Female,Christian,1,1,0,0
+Pondicherry,0,2007,Female,Hindu,1,1,0,0
+Pondicherry,0,2007,Female,Muslim,0,0,0,0
+Pondicherry,0,2007,Female,Others,0,0,0,0
+Pondicherry,0,2007,Female,Sikh,0,0,0,0
+Pondicherry,0,2007,Male,Christian,9,17,0,0
+Pondicherry,0,2007,Male,Hindu,97,203,0,0
+Pondicherry,0,2007,Male,Muslim,4,12,0,0
+Pondicherry,0,2007,Male,Others,0,0,0,0
+Pondicherry,0,2007,Male,Sikh,0,0,0,0
+Pondicherry,0,2008,Female,Christian,0,0,0,0
+Pondicherry,0,2008,Female,Hindu,1,5,0,0
+Pondicherry,0,2008,Female,Muslim,0,0,0,0
+Pondicherry,0,2008,Female,Others,0,0,0,0
+Pondicherry,0,2008,Female,Sikh,0,0,0,0
+Pondicherry,0,2008,Male,Christian,4,21,0,0
+Pondicherry,0,2008,Male,Hindu,87,162,0,0
+Pondicherry,0,2008,Male,Muslim,2,6,0,0
+Pondicherry,0,2008,Male,Others,3,9,0,0
+Pondicherry,0,2008,Male,Sikh,0,0,0,0
+Pondicherry,0,2009,Female,Christian,0,0,0,0
+Pondicherry,0,2009,Female,Hindu,2,1,0,0
+Pondicherry,0,2009,Female,Muslim,0,0,0,0
+Pondicherry,0,2009,Female,Others,0,0,0,0
+Pondicherry,0,2009,Female,Sikh,0,0,0,0
+Pondicherry,0,2009,Male,Christian,15,17,0,0
+Pondicherry,0,2009,Male,Hindu,102,106,0,0
+Pondicherry,0,2009,Male,Muslim,0,25,0,0
+Pondicherry,0,2009,Male,Others,0,1,0,0
+Pondicherry,0,2009,Male,Sikh,0,0,0,0
+Pondicherry,0,2010,Female,Christian,0,0,0,0
+Pondicherry,0,2010,Female,Hindu,2,4,0,0
+Pondicherry,0,2010,Female,Muslim,0,0,0,0
+Pondicherry,0,2010,Female,Others,0,0,0,0
+Pondicherry,0,2010,Female,Sikh,0,0,0,0
+Pondicherry,0,2010,Male,Christian,12,6,0,0
+Pondicherry,0,2010,Male,Hindu,113,114,3,0
+Pondicherry,0,2010,Male,Muslim,3,4,0,0
+Pondicherry,0,2010,Male,Others,0,0,0,0
+Pondicherry,0,2010,Male,Sikh,0,0,0,0
+Pondicherry,0,2011,Female,Christian,0,0,0,0
+Pondicherry,0,2011,Female,Hindu,3,2,0,0
+Pondicherry,0,2011,Female,Muslim,0,0,0,0
+Pondicherry,0,2011,Female,Others,0,0,0,0
+Pondicherry,0,2011,Female,Sikh,0,0,0,0
+Pondicherry,0,2011,Male,Christian,15,17,0,0
+Pondicherry,0,2011,Male,Hindu,111,83,0,0
+Pondicherry,0,2011,Male,Muslim,1,10,0,0
+Pondicherry,0,2011,Male,Others,0,0,0,0
+Pondicherry,0,2011,Male,Sikh,0,0,0,0
+Pondicherry,0,2012,Female,Christian,0,0,0,0
+Pondicherry,0,2012,Female,Hindu,2,1,0,0
+Pondicherry,0,2012,Female,Muslim,0,0,0,0
+Pondicherry,0,2012,Female,Others,0,0,0,0
+Pondicherry,0,2012,Female,Sikh,0,0,0,0
+Pondicherry,0,2012,Male,Christian,10,42,0,0
+Pondicherry,0,2012,Male,Hindu,94,117,0,0
+Pondicherry,0,2012,Male,Muslim,3,16,0,0
+Pondicherry,0,2012,Male,Others,0,0,0,0
+Pondicherry,0,2012,Male,Sikh,0,0,0,0
+Pondicherry,0,2013,Female,Christian,0,1,0,0
+Pondicherry,0,2013,Female,Hindu,2,4,0,0
+Pondicherry,0,2013,Female,Muslim,0,0,0,0
+Pondicherry,0,2013,Female,Others,0,0,0,0
+Pondicherry,0,2013,Female,Sikh,0,0,0,0
+Pondicherry,0,2013,Male,Christian,10,34,0,0
+Pondicherry,0,2013,Male,Hindu,73,131,0,0
+Pondicherry,0,2013,Male,Muslim,6,19,0,0
+Pondicherry,0,2013,Male,Others,0,0,0,0
+Pondicherry,0,2013,Male,Sikh,0,0,0,0
+Punjab,1,2001,Female,Christian,0,0,0,0
+Punjab,1,2001,Female,Hindu,25,206,0,2
+Punjab,1,2001,Female,Muslim,8,4,0,0
+Punjab,1,2001,Female,Others,89,69,0,0
+Punjab,1,2001,Female,Sikh,48,174,0,3
+Punjab,1,2001,Male,Christian,8,7,0,0
+Punjab,1,2001,Male,Hindu,688,3035,3,65
+Punjab,1,2001,Male,Muslim,80,48,2,4
+Punjab,1,2001,Male,Others,1083,1209,3,6
+Punjab,1,2001,Male,Sikh,1665,3456,4,60
+Punjab,1,2002,Female,Christian,0,0,0,0
+Punjab,1,2002,Female,Hindu,83,181,0,0
+Punjab,1,2002,Female,Muslim,62,36,0,0
+Punjab,1,2002,Female,Others,24,13,0,0
+Punjab,1,2002,Female,Sikh,90,241,0,0
+Punjab,1,2002,Male,Christian,0,0,0,0
+Punjab,1,2002,Male,Hindu,1453,2324,0,0
+Punjab,1,2002,Male,Muslim,246,909,0,0
+Punjab,1,2002,Male,Others,200,755,12,0
+Punjab,1,2002,Male,Sikh,1826,3654,0,0
+Punjab,1,2003,Female,Christian,17,87,0,0
+Punjab,1,2003,Female,Hindu,31,118,0,0
+Punjab,1,2003,Female,Muslim,66,90,0,0
+Punjab,1,2003,Female,Others,0,0,0,0
+Punjab,1,2003,Female,Sikh,150,243,0,0
+Punjab,1,2003,Male,Christian,199,216,0,0
+Punjab,1,2003,Male,Hindu,1788,2997,2,31
+Punjab,1,2003,Male,Muslim,224,870,0,0
+Punjab,1,2003,Male,Others,0,0,0,0
+Punjab,1,2003,Male,Sikh,1942,4161,0,0
+Punjab,1,2004,Female,Christian,20,71,0,0
+Punjab,1,2004,Female,Hindu,47,99,0,0
+Punjab,1,2004,Female,Muslim,62,81,0,0
+Punjab,1,2004,Female,Others,0,0,0,0
+Punjab,1,2004,Female,Sikh,145,250,0,0
+Punjab,1,2004,Male,Christian,257,287,0,0
+Punjab,1,2004,Male,Hindu,1923,3500,23,15
+Punjab,1,2004,Male,Muslim,389,1058,0,0
+Punjab,1,2004,Male,Others,0,0,0,0
+Punjab,1,2004,Male,Sikh,2182,4655,0,0
+Punjab,1,2005,Female,Christian,24,52,0,0
+Punjab,1,2005,Female,Hindu,35,135,0,0
+Punjab,1,2005,Female,Muslim,26,80,0,0
+Punjab,1,2005,Female,Others,30,60,0,0
+Punjab,1,2005,Female,Sikh,122,216,0,0
+Punjab,1,2005,Male,Christian,206,186,0,0
+Punjab,1,2005,Male,Hindu,1845,3258,23,11
+Punjab,1,2005,Male,Muslim,296,860,0,0
+Punjab,1,2005,Male,Others,120,170,0,0
+Punjab,1,2005,Male,Sikh,2368,4555,0,0
+Punjab,1,2006,Female,Christian,25,51,0,0
+Punjab,1,2006,Female,Hindu,38,131,0,0
+Punjab,1,2006,Female,Muslim,28,73,0,0
+Punjab,1,2006,Female,Others,34,57,0,0
+Punjab,1,2006,Female,Sikh,132,207,0,0
+Punjab,1,2006,Male,Christian,213,196,0,0
+Punjab,1,2006,Male,Hindu,1895,3328,20,4
+Punjab,1,2006,Male,Muslim,349,880,0,0
+Punjab,1,2006,Male,Others,129,179,0,0
+Punjab,1,2006,Male,Sikh,2497,4649,0,0
+Punjab,1,2007,Female,Christian,12,71,0,0
+Punjab,1,2007,Female,Hindu,29,151,0,0
+Punjab,1,2007,Female,Muslim,21,93,0,0
+Punjab,1,2007,Female,Others,29,79,0,0
+Punjab,1,2007,Female,Sikh,123,227,0,0
+Punjab,1,2007,Male,Christian,93,231,0,0
+Punjab,1,2007,Male,Hindu,1831,4354,0,0
+Punjab,1,2007,Male,Muslim,289,304,16,0
+Punjab,1,2007,Male,Others,102,595,0,16
+Punjab,1,2007,Male,Sikh,2430,4876,0,0
+Punjab,1,2008,Female,Christian,7,59,0,0
+Punjab,1,2008,Female,Hindu,39,136,0,0
+Punjab,1,2008,Female,Muslim,14,81,0,0
+Punjab,1,2008,Female,Others,33,67,0,0
+Punjab,1,2008,Female,Sikh,171,215,0,0
+Punjab,1,2008,Male,Christian,19,174,0,0
+Punjab,1,2008,Male,Hindu,2348,4293,0,0
+Punjab,1,2008,Male,Muslim,104,247,13,2
+Punjab,1,2008,Male,Others,217,538,0,0
+Punjab,1,2008,Male,Sikh,2519,4819,0,0
+Punjab,1,2009,Female,Christian,9,52,0,0
+Punjab,1,2009,Female,Hindu,51,127,0,0
+Punjab,1,2009,Female,Muslim,22,92,0,0
+Punjab,1,2009,Female,Others,39,63,0,0
+Punjab,1,2009,Female,Sikh,231,295,0,0
+Punjab,1,2009,Male,Christian,21,32,0,0
+Punjab,1,2009,Male,Hindu,2705,4682,2,0
+Punjab,1,2009,Male,Muslim,219,469,11,3
+Punjab,1,2009,Male,Others,223,319,0,0
+Punjab,1,2009,Male,Sikh,2918,5260,0,9
+Punjab,1,2010,Female,Christian,4,20,0,0
+Punjab,1,2010,Female,Hindu,49,139,0,0
+Punjab,1,2010,Female,Muslim,19,81,0,0
+Punjab,1,2010,Female,Others,27,24,0,0
+Punjab,1,2010,Female,Sikh,257,398,0,0
+Punjab,1,2010,Male,Christian,19,22,0,0
+Punjab,1,2010,Male,Hindu,2765,4223,0,0
+Punjab,1,2010,Male,Muslim,242,449,0,0
+Punjab,1,2010,Male,Others,222,294,0,0
+Punjab,1,2010,Male,Sikh,3045,5345,0,0
+Punjab,1,2011,Female,Christian,5,17,0,0
+Punjab,1,2011,Female,Hindu,57,120,0,0
+Punjab,1,2011,Female,Muslim,18,70,0,0
+Punjab,1,2011,Female,Others,40,26,0,0
+Punjab,1,2011,Female,Sikh,334,350,0,0
+Punjab,1,2011,Male,Christian,27,12,0,0
+Punjab,1,2011,Male,Hindu,2865,4023,0,0
+Punjab,1,2011,Male,Muslim,290,356,0,0
+Punjab,1,2011,Male,Others,246,311,0,0
+Punjab,1,2011,Male,Sikh,3644,5010,0,0
+Punjab,1,2012,Female,Christian,13,39,0,0
+Punjab,1,2012,Female,Hindu,116,227,0,0
+Punjab,1,2012,Female,Muslim,17,31,0,0
+Punjab,1,2012,Female,Others,71,165,0,0
+Punjab,1,2012,Female,Sikh,190,403,1,2
+Punjab,1,2012,Male,Christian,382,921,0,0
+Punjab,1,2012,Male,Hindu,2673,5527,0,0
+Punjab,1,2012,Male,Muslim,516,1016,3,0
+Punjab,1,2012,Male,Others,176,387,0,0
+Punjab,1,2012,Male,Sikh,3677,6657,4,5
+Punjab,1,2013,Female,Christian,49,79,0,0
+Punjab,1,2013,Female,Hindu,179,338,0,0
+Punjab,1,2013,Female,Muslim,29,44,0,0
+Punjab,1,2013,Female,Others,26,69,0,0
+Punjab,1,2013,Female,Sikh,205,446,0,0
+Punjab,1,2013,Male,Christian,390,1149,0,0
+Punjab,1,2013,Male,Hindu,2732,7813,1,0
+Punjab,1,2013,Male,Muslim,233,178,3,0
+Punjab,1,2013,Male,Others,96,154,0,3
+Punjab,1,2013,Male,Sikh,4997,8236,0,0
+Rajasthan,1,2001,Female,Christian,0,0,0,0
+Rajasthan,1,2001,Female,Hindu,92,230,0,0
+Rajasthan,1,2001,Female,Muslim,9,24,0,0
+Rajasthan,1,2001,Female,Others,0,0,0,0
+Rajasthan,1,2001,Female,Sikh,2,14,0,0
+Rajasthan,1,2001,Male,Christian,14,23,0,0
+Rajasthan,1,2001,Male,Hindu,3030,6492,3,24
+Rajasthan,1,2001,Male,Muslim,826,1470,43,3
+Rajasthan,1,2001,Male,Others,4,44,0,0
+Rajasthan,1,2001,Male,Sikh,206,440,1,1
+Rajasthan,1,2002,Female,Christian,1,1,0,0
+Rajasthan,1,2002,Female,Hindu,156,161,0,0
+Rajasthan,1,2002,Female,Muslim,25,30,0,0
+Rajasthan,1,2002,Female,Others,0,4,0,0
+Rajasthan,1,2002,Female,Sikh,4,11,0,0
+Rajasthan,1,2002,Male,Christian,30,29,0,0
+Rajasthan,1,2002,Male,Hindu,3704,5517,2,39
+Rajasthan,1,2002,Male,Muslim,764,1151,36,10
+Rajasthan,1,2002,Male,Others,21,70,0,0
+Rajasthan,1,2002,Male,Sikh,271,348,0,1
+Rajasthan,1,2003,Female,Christian,2,0,0,0
+Rajasthan,1,2003,Female,Hindu,168,174,0,0
+Rajasthan,1,2003,Female,Muslim,19,29,0,0
+Rajasthan,1,2003,Female,Others,0,2,0,0
+Rajasthan,1,2003,Female,Sikh,3,13,0,0
+Rajasthan,1,2003,Male,Christian,18,13,0,0
+Rajasthan,1,2003,Male,Hindu,4433,4873,3,16
+Rajasthan,1,2003,Male,Muslim,1108,1187,29,8
+Rajasthan,1,2003,Male,Others,12,29,0,1
+Rajasthan,1,2003,Male,Sikh,290,264,0,1
+Rajasthan,1,2004,Female,Christian,2,1,0,0
+Rajasthan,1,2004,Female,Hindu,140,201,0,0
+Rajasthan,1,2004,Female,Muslim,27,36,0,0
+Rajasthan,1,2004,Female,Others,1,2,0,0
+Rajasthan,1,2004,Female,Sikh,9,15,0,0
+Rajasthan,1,2004,Male,Christian,15,24,0,0
+Rajasthan,1,2004,Male,Hindu,4266,5312,0,17
+Rajasthan,1,2004,Male,Muslim,1106,1380,29,4
+Rajasthan,1,2004,Male,Others,35,39,0,0
+Rajasthan,1,2004,Male,Sikh,237,273,0,0
+Rajasthan,1,2005,Female,Christian,0,1,0,0
+Rajasthan,1,2005,Female,Hindu,158,195,0,0
+Rajasthan,1,2005,Female,Muslim,17,42,0,0
+Rajasthan,1,2005,Female,Others,0,1,0,0
+Rajasthan,1,2005,Female,Sikh,6,8,0,0
+Rajasthan,1,2005,Male,Christian,17,15,0,0
+Rajasthan,1,2005,Male,Hindu,3973,5372,1,22
+Rajasthan,1,2005,Male,Muslim,1162,1382,31,4
+Rajasthan,1,2005,Male,Others,4,7,0,0
+Rajasthan,1,2005,Male,Sikh,235,340,0,0
+Rajasthan,1,2006,Female,Christian,0,0,0,0
+Rajasthan,1,2006,Female,Hindu,166,233,0,0
+Rajasthan,1,2006,Female,Muslim,16,34,0,0
+Rajasthan,1,2006,Female,Others,0,1,0,0
+Rajasthan,1,2006,Female,Sikh,5,16,0,0
+Rajasthan,1,2006,Male,Christian,16,14,0,0
+Rajasthan,1,2006,Male,Hindu,4011,5989,1,54
+Rajasthan,1,2006,Male,Muslim,1125,1672,33,9
+Rajasthan,1,2006,Male,Others,47,23,0,0
+Rajasthan,1,2006,Male,Sikh,207,306,1,4
+Rajasthan,1,2007,Female,Christian,1,0,0,0
+Rajasthan,1,2007,Female,Hindu,170,286,0,0
+Rajasthan,1,2007,Female,Muslim,21,51,0,0
+Rajasthan,1,2007,Female,Others,0,0,0,0
+Rajasthan,1,2007,Female,Sikh,0,5,0,0
+Rajasthan,1,2007,Male,Christian,15,21,1,0
+Rajasthan,1,2007,Male,Hindu,4544,6453,2,16
+Rajasthan,1,2007,Male,Muslim,917,1538,23,8
+Rajasthan,1,2007,Male,Others,14,36,0,1
+Rajasthan,1,2007,Male,Sikh,188,375,0,1
+Rajasthan,1,2008,Female,Christian,2,0,0,0
+Rajasthan,1,2008,Female,Hindu,178,285,0,0
+Rajasthan,1,2008,Female,Muslim,26,42,0,0
+Rajasthan,1,2008,Female,Others,0,0,0,0
+Rajasthan,1,2008,Female,Sikh,11,3,0,0
+Rajasthan,1,2008,Male,Christian,13,24,0,0
+Rajasthan,1,2008,Male,Hindu,4720,6734,17,52
+Rajasthan,1,2008,Male,Muslim,1050,1610,37,9
+Rajasthan,1,2008,Male,Others,35,19,0,0
+Rajasthan,1,2008,Male,Sikh,245,403,1,4
+Rajasthan,1,2009,Female,Christian,3,0,0,0
+Rajasthan,1,2009,Female,Hindu,185,329,0,0
+Rajasthan,1,2009,Female,Muslim,39,49,0,0
+Rajasthan,1,2009,Female,Others,7,10,0,0
+Rajasthan,1,2009,Female,Sikh,11,23,0,0
+Rajasthan,1,2009,Male,Christian,17,22,1,0
+Rajasthan,1,2009,Male,Hindu,4876,8200,2,29
+Rajasthan,1,2009,Male,Muslim,1131,2200,24,9
+Rajasthan,1,2009,Male,Others,7,18,0,0
+Rajasthan,1,2009,Male,Sikh,276,462,0,2
+Rajasthan,1,2010,Female,Christian,0,0,0,0
+Rajasthan,1,2010,Female,Hindu,172,324,0,0
+Rajasthan,1,2010,Female,Muslim,36,49,0,0
+Rajasthan,1,2010,Female,Others,1,0,0,0
+Rajasthan,1,2010,Female,Sikh,13,12,0,0
+Rajasthan,1,2010,Male,Christian,12,20,0,0
+Rajasthan,1,2010,Male,Hindu,4621,7909,15,3
+Rajasthan,1,2010,Male,Muslim,1141,2155,15,1
+Rajasthan,1,2010,Male,Others,17,66,0,0
+Rajasthan,1,2010,Male,Sikh,219,393,0,0
+Rajasthan,1,2011,Female,Christian,1,1,0,0
+Rajasthan,1,2011,Female,Hindu,181,368,0,0
+Rajasthan,1,2011,Female,Muslim,38,46,0,0
+Rajasthan,1,2011,Female,Others,3,0,0,0
+Rajasthan,1,2011,Female,Sikh,8,4,0,0
+Rajasthan,1,2011,Male,Christian,10,21,0,0
+Rajasthan,1,2011,Male,Hindu,4627,8723,35,5
+Rajasthan,1,2011,Male,Muslim,969,2203,4,1
+Rajasthan,1,2011,Male,Others,85,88,0,0
+Rajasthan,1,2011,Male,Sikh,237,445,1,0
+Rajasthan,1,2012,Female,Christian,1,0,0,0
+Rajasthan,1,2012,Female,Hindu,187,382,0,0
+Rajasthan,1,2012,Female,Muslim,43,56,0,0
+Rajasthan,1,2012,Female,Others,2,5,0,0
+Rajasthan,1,2012,Female,Sikh,7,12,0,0
+Rajasthan,1,2012,Male,Christian,16,24,0,0
+Rajasthan,1,2012,Male,Hindu,4649,9880,1,59
+Rajasthan,1,2012,Male,Muslim,930,2262,0,37
+Rajasthan,1,2012,Male,Others,40,152,0,0
+Rajasthan,1,2012,Male,Sikh,208,397,0,1
+Rajasthan,1,2013,Female,Christian,1,0,0,0
+Rajasthan,1,2013,Female,Hindu,168,390,0,0
+Rajasthan,1,2013,Female,Muslim,43,40,0,0
+Rajasthan,1,2013,Female,Others,0,1,0,0
+Rajasthan,1,2013,Female,Sikh,7,12,0,0
+Rajasthan,1,2013,Male,Christian,9,19,0,0
+Rajasthan,1,2013,Male,Hindu,4480,10062,0,3
+Rajasthan,1,2013,Male,Muslim,1074,2154,0,0
+Rajasthan,1,2013,Male,Others,18,67,0,0
+Rajasthan,1,2013,Male,Sikh,244,501,0,0
+Sikkim,1,2001,Female,Christian,0,0,0,0
+Sikkim,1,2001,Female,Hindu,0,0,0,0
+Sikkim,1,2001,Female,Muslim,0,0,0,0
+Sikkim,1,2001,Female,Others,0,0,0,0
+Sikkim,1,2001,Female,Sikh,0,0,0,0
+Sikkim,1,2001,Male,Christian,15,26,0,0
+Sikkim,1,2001,Male,Hindu,36,58,0,0
+Sikkim,1,2001,Male,Muslim,2,1,0,0
+Sikkim,1,2001,Male,Others,24,23,0,0
+Sikkim,1,2001,Male,Sikh,0,1,0,0
+Sikkim,1,2002,Female,Christian,0,1,0,0
+Sikkim,1,2002,Female,Hindu,0,1,0,0
+Sikkim,1,2002,Female,Muslim,0,0,0,0
+Sikkim,1,2002,Female,Others,0,0,0,0
+Sikkim,1,2002,Female,Sikh,0,0,0,0
+Sikkim,1,2002,Male,Christian,15,6,0,0
+Sikkim,1,2002,Male,Hindu,30,35,0,0
+Sikkim,1,2002,Male,Muslim,2,5,0,0
+Sikkim,1,2002,Male,Others,34,43,0,0
+Sikkim,1,2002,Male,Sikh,0,0,0,0
+Sikkim,1,2003,Female,Christian,1,0,0,0
+Sikkim,1,2003,Female,Hindu,1,0,0,0
+Sikkim,1,2003,Female,Muslim,0,0,0,0
+Sikkim,1,2003,Female,Others,0,2,0,0
+Sikkim,1,2003,Female,Sikh,0,0,0,0
+Sikkim,1,2003,Male,Christian,17,15,0,0
+Sikkim,1,2003,Male,Hindu,24,31,0,0
+Sikkim,1,2003,Male,Muslim,2,4,0,0
+Sikkim,1,2003,Male,Others,36,37,0,0
+Sikkim,1,2003,Male,Sikh,1,0,0,0
+Sikkim,1,2004,Female,Christian,0,0,0,0
+Sikkim,1,2004,Female,Hindu,2,0,0,0
+Sikkim,1,2004,Female,Muslim,0,0,0,0
+Sikkim,1,2004,Female,Others,0,0,0,0
+Sikkim,1,2004,Female,Sikh,0,0,0,0
+Sikkim,1,2004,Male,Christian,2,16,0,0
+Sikkim,1,2004,Male,Hindu,46,55,0,0
+Sikkim,1,2004,Male,Muslim,2,4,0,0
+Sikkim,1,2004,Male,Others,10,24,0,0
+Sikkim,1,2004,Male,Sikh,1,0,0,0
+Sikkim,1,2005,Female,Christian,0,1,0,0
+Sikkim,1,2005,Female,Hindu,2,4,0,0
+Sikkim,1,2005,Female,Muslim,0,0,0,0
+Sikkim,1,2005,Female,Others,0,0,0,0
+Sikkim,1,2005,Female,Sikh,0,0,0,0
+Sikkim,1,2005,Male,Christian,2,17,0,0
+Sikkim,1,2005,Male,Hindu,51,70,0,0
+Sikkim,1,2005,Male,Muslim,4,4,0,0
+Sikkim,1,2005,Male,Others,13,26,0,0
+Sikkim,1,2005,Male,Sikh,1,0,0,0
+Sikkim,1,2006,Female,Christian,0,0,0,0
+Sikkim,1,2006,Female,Hindu,1,2,0,0
+Sikkim,1,2006,Female,Muslim,0,0,0,0
+Sikkim,1,2006,Female,Others,0,0,0,0
+Sikkim,1,2006,Female,Sikh,0,0,0,0
+Sikkim,1,2006,Male,Christian,3,18,0,0
+Sikkim,1,2006,Male,Hindu,67,86,0,0
+Sikkim,1,2006,Male,Muslim,5,1,0,0
+Sikkim,1,2006,Male,Others,14,27,0,0
+Sikkim,1,2006,Male,Sikh,1,0,0,0
+Sikkim,1,2007,Female,Christian,0,0,0,0
+Sikkim,1,2007,Female,Hindu,1,3,0,0
+Sikkim,1,2007,Female,Muslim,0,0,0,0
+Sikkim,1,2007,Female,Others,0,0,0,0
+Sikkim,1,2007,Female,Sikh,0,0,0,0
+Sikkim,1,2007,Male,Christian,9,26,0,0
+Sikkim,1,2007,Male,Hindu,54,79,0,0
+Sikkim,1,2007,Male,Muslim,4,3,0,0
+Sikkim,1,2007,Male,Others,14,33,0,0
+Sikkim,1,2007,Male,Sikh,0,0,0,0
+Sikkim,1,2008,Female,Christian,0,2,0,0
+Sikkim,1,2008,Female,Hindu,1,4,0,0
+Sikkim,1,2008,Female,Muslim,0,0,0,0
+Sikkim,1,2008,Female,Others,0,2,0,0
+Sikkim,1,2008,Female,Sikh,0,0,0,0
+Sikkim,1,2008,Male,Christian,2,30,0,0
+Sikkim,1,2008,Male,Hindu,46,105,0,0
+Sikkim,1,2008,Male,Muslim,6,4,0,0
+Sikkim,1,2008,Male,Others,13,45,0,0
+Sikkim,1,2008,Male,Sikh,0,0,0,0
+Sikkim,1,2009,Female,Christian,0,1,0,0
+Sikkim,1,2009,Female,Hindu,1,2,0,0
+Sikkim,1,2009,Female,Muslim,0,0,0,0
+Sikkim,1,2009,Female,Others,0,3,0,0
+Sikkim,1,2009,Female,Sikh,0,0,0,0
+Sikkim,1,2009,Male,Christian,6,18,0,0
+Sikkim,1,2009,Male,Hindu,47,77,0,0
+Sikkim,1,2009,Male,Muslim,2,1,0,0
+Sikkim,1,2009,Male,Others,13,22,0,0
+Sikkim,1,2009,Male,Sikh,0,0,0,0
+Sikkim,1,2010,Female,Christian,0,1,0,0
+Sikkim,1,2010,Female,Hindu,1,3,0,0
+Sikkim,1,2010,Female,Muslim,0,0,0,0
+Sikkim,1,2010,Female,Others,1,1,0,0
+Sikkim,1,2010,Female,Sikh,0,0,0,0
+Sikkim,1,2010,Male,Christian,12,18,0,0
+Sikkim,1,2010,Male,Hindu,44,86,0,0
+Sikkim,1,2010,Male,Muslim,1,2,0,0
+Sikkim,1,2010,Male,Others,17,20,0,0
+Sikkim,1,2010,Male,Sikh,0,0,0,0
+Sikkim,1,2011,Female,Christian,0,0,0,0
+Sikkim,1,2011,Female,Hindu,1,1,0,0
+Sikkim,1,2011,Female,Muslim,0,0,0,0
+Sikkim,1,2011,Female,Others,0,0,0,0
+Sikkim,1,2011,Female,Sikh,0,0,0,0
+Sikkim,1,2011,Male,Christian,5,15,0,0
+Sikkim,1,2011,Male,Hindu,49,83,0,0
+Sikkim,1,2011,Male,Muslim,0,1,0,0
+Sikkim,1,2011,Male,Others,15,20,0,0
+Sikkim,1,2011,Male,Sikh,0,0,0,0
+Sikkim,1,2012,Female,Christian,0,0,0,0
+Sikkim,1,2012,Female,Hindu,1,4,0,0
+Sikkim,1,2012,Female,Muslim,0,0,0,0
+Sikkim,1,2012,Female,Others,0,1,0,0
+Sikkim,1,2012,Female,Sikh,0,0,0,0
+Sikkim,1,2012,Male,Christian,21,26,0,0
+Sikkim,1,2012,Male,Hindu,54,83,0,0
+Sikkim,1,2012,Male,Muslim,2,5,0,0
+Sikkim,1,2012,Male,Others,10,29,0,0
+Sikkim,1,2012,Male,Sikh,0,0,0,0
+Sikkim,1,2013,Female,Christian,0,0,0,0
+Sikkim,1,2013,Female,Hindu,1,4,0,0
+Sikkim,1,2013,Female,Muslim,0,0,0,0
+Sikkim,1,2013,Female,Others,1,2,0,0
+Sikkim,1,2013,Female,Sikh,0,0,0,0
+Sikkim,1,2013,Male,Christian,17,20,0,0
+Sikkim,1,2013,Male,Hindu,74,74,0,0
+Sikkim,1,2013,Male,Muslim,3,5,0,0
+Sikkim,1,2013,Male,Others,8,21,0,0
+Sikkim,1,2013,Male,Sikh,0,0,0,0
+Tamilnadu,1,2001,Female,Christian,9,21,58,84
+Tamilnadu,1,2001,Female,Hindu,143,97,142,1135
+Tamilnadu,1,2001,Female,Muslim,7,22,19,118
+Tamilnadu,1,2001,Female,Others,0,1,0,104
+Tamilnadu,1,2001,Female,Sikh,0,0,0,0
+Tamilnadu,1,2001,Male,Christian,603,306,99,1207
+Tamilnadu,1,2001,Male,Hindu,3439,1567,793,8943
+Tamilnadu,1,2001,Male,Muslim,654,338,88,963
+Tamilnadu,1,2001,Male,Others,2,11,34,251
+Tamilnadu,1,2001,Male,Sikh,0,2,0,0
+Tamilnadu,1,2002,Female,Christian,16,1,16,64
+Tamilnadu,1,2002,Female,Hindu,156,56,150,1193
+Tamilnadu,1,2002,Female,Muslim,8,2,18,74
+Tamilnadu,1,2002,Female,Others,0,0,0,0
+Tamilnadu,1,2002,Female,Sikh,0,0,0,35
+Tamilnadu,1,2002,Male,Christian,726,394,86,421
+Tamilnadu,1,2002,Male,Hindu,3901,1675,1386,9320
+Tamilnadu,1,2002,Male,Muslim,775,439,244,739
+Tamilnadu,1,2002,Male,Others,0,0,0,0
+Tamilnadu,1,2002,Male,Sikh,0,0,0,0
+Tamilnadu,1,2003,Female,Christian,45,5,20,498
+Tamilnadu,1,2003,Female,Hindu,101,42,40,719
+Tamilnadu,1,2003,Female,Muslim,46,7,21,312
+Tamilnadu,1,2003,Female,Others,0,0,0,0
+Tamilnadu,1,2003,Female,Sikh,0,0,0,0
+Tamilnadu,1,2003,Male,Christian,1134,511,140,2201
+Tamilnadu,1,2003,Male,Hindu,3117,2008,703,7177
+Tamilnadu,1,2003,Male,Muslim,1718,496,160,1432
+Tamilnadu,1,2003,Male,Others,0,0,0,0
+Tamilnadu,1,2003,Male,Sikh,0,0,0,0
+Tamilnadu,1,2004,Female,Christian,45,9,3,316
+Tamilnadu,1,2004,Female,Hindu,108,41,12,817
+Tamilnadu,1,2004,Female,Muslim,48,9,4,418
+Tamilnadu,1,2004,Female,Others,0,0,0,0
+Tamilnadu,1,2004,Female,Sikh,0,0,0,0
+Tamilnadu,1,2004,Male,Christian,967,345,95,1183
+Tamilnadu,1,2004,Male,Hindu,3717,2016,417,6217
+Tamilnadu,1,2004,Male,Muslim,1918,498,81,1818
+Tamilnadu,1,2004,Male,Others,0,0,0,0
+Tamilnadu,1,2004,Male,Sikh,0,0,0,0
+Tamilnadu,1,2005,Female,Christian,16,3,1,94
+Tamilnadu,1,2005,Female,Hindu,114,49,36,997
+Tamilnadu,1,2005,Female,Muslim,97,7,3,153
+Tamilnadu,1,2005,Female,Others,19,1,0,19
+Tamilnadu,1,2005,Female,Sikh,0,0,0,0
+Tamilnadu,1,2005,Male,Christian,651,70,29,405
+Tamilnadu,1,2005,Male,Hindu,5733,2320,547,6460
+Tamilnadu,1,2005,Male,Muslim,725,531,199,829
+Tamilnadu,1,2005,Male,Others,108,27,12,426
+Tamilnadu,1,2005,Male,Sikh,0,0,0,0
+Tamilnadu,1,2006,Female,Christian,19,3,6,97
+Tamilnadu,1,2006,Female,Hindu,63,37,14,899
+Tamilnadu,1,2006,Female,Muslim,99,9,9,161
+Tamilnadu,1,2006,Female,Others,16,1,0,21
+Tamilnadu,1,2006,Female,Sikh,0,0,0,0
+Tamilnadu,1,2006,Male,Christian,428,71,27,417
+Tamilnadu,1,2006,Male,Hindu,5159,2227,384,5583
+Tamilnadu,1,2006,Male,Muslim,815,513,197,817
+Tamilnadu,1,2006,Male,Others,107,24,14,419
+Tamilnadu,1,2006,Male,Sikh,0,0,0,0
+Tamilnadu,1,2007,Female,Christian,33,62,5,0
+Tamilnadu,1,2007,Female,Hindu,147,919,23,0
+Tamilnadu,1,2007,Female,Muslim,12,13,1,0
+Tamilnadu,1,2007,Female,Others,0,0,0,0
+Tamilnadu,1,2007,Female,Sikh,0,0,0,0
+Tamilnadu,1,2007,Male,Christian,888,641,57,0
+Tamilnadu,1,2007,Male,Hindu,4736,7079,380,8
+Tamilnadu,1,2007,Male,Muslim,566,828,201,0
+Tamilnadu,1,2007,Male,Others,0,0,0,0
+Tamilnadu,1,2007,Male,Sikh,0,0,0,0
+Tamilnadu,1,2008,Female,Christian,17,123,3,0
+Tamilnadu,1,2008,Female,Hindu,149,633,28,0
+Tamilnadu,1,2008,Female,Muslim,8,100,1,0
+Tamilnadu,1,2008,Female,Others,0,9,0,0
+Tamilnadu,1,2008,Female,Sikh,0,0,0,0
+Tamilnadu,1,2008,Male,Christian,559,1028,159,2
+Tamilnadu,1,2008,Male,Hindu,4233,6874,708,2
+Tamilnadu,1,2008,Male,Muslim,444,848,118,0
+Tamilnadu,1,2008,Male,Others,9,131,18,0
+Tamilnadu,1,2008,Male,Sikh,0,0,0,0
+Tamilnadu,1,2009,Female,Christian,10,55,0,0
+Tamilnadu,1,2009,Female,Hindu,158,450,14,1
+Tamilnadu,1,2009,Female,Muslim,10,47,1,0
+Tamilnadu,1,2009,Female,Others,0,23,0,0
+Tamilnadu,1,2009,Female,Sikh,0,0,1,0
+Tamilnadu,1,2009,Male,Christian,816,1185,174,3
+Tamilnadu,1,2009,Male,Hindu,3688,5231,510,1
+Tamilnadu,1,2009,Male,Muslim,657,1068,129,0
+Tamilnadu,1,2009,Male,Others,22,89,2,0
+Tamilnadu,1,2009,Male,Sikh,0,11,4,0
+Tamilnadu,1,2010,Female,Christian,6,41,2,0
+Tamilnadu,1,2010,Female,Hindu,155,467,17,0
+Tamilnadu,1,2010,Female,Muslim,7,35,4,0
+Tamilnadu,1,2010,Female,Others,0,0,0,0
+Tamilnadu,1,2010,Female,Sikh,0,0,0,0
+Tamilnadu,1,2010,Male,Christian,613,834,155,0
+Tamilnadu,1,2010,Male,Hindu,3812,5473,540,3
+Tamilnadu,1,2010,Male,Muslim,740,833,114,0
+Tamilnadu,1,2010,Male,Others,0,0,0,0
+Tamilnadu,1,2010,Male,Sikh,0,14,1,0
+Tamilnadu,1,2011,Female,Christian,21,82,3,0
+Tamilnadu,1,2011,Female,Hindu,138,461,17,0
+Tamilnadu,1,2011,Female,Muslim,13,31,1,0
+Tamilnadu,1,2011,Female,Others,3,0,0,0
+Tamilnadu,1,2011,Female,Sikh,0,0,0,0
+Tamilnadu,1,2011,Male,Christian,978,1131,149,0
+Tamilnadu,1,2011,Male,Hindu,3361,5007,650,4
+Tamilnadu,1,2011,Male,Muslim,658,912,163,0
+Tamilnadu,1,2011,Male,Others,18,58,0,0
+Tamilnadu,1,2011,Male,Sikh,10,0,0,0
+Tamilnadu,1,2012,Female,Christian,11,58,0,0
+Tamilnadu,1,2012,Female,Hindu,150,458,17,0
+Tamilnadu,1,2012,Female,Muslim,7,41,0,0
+Tamilnadu,1,2012,Female,Others,0,1,4,0
+Tamilnadu,1,2012,Female,Sikh,0,0,0,0
+Tamilnadu,1,2012,Male,Christian,662,579,43,0
+Tamilnadu,1,2012,Male,Hindu,2917,6059,354,0
+Tamilnadu,1,2012,Male,Muslim,635,622,77,0
+Tamilnadu,1,2012,Male,Others,14,111,12,0
+Tamilnadu,1,2012,Male,Sikh,282,65,16,0
+Tamilnadu,1,2013,Female,Christian,8,32,1,0
+Tamilnadu,1,2013,Female,Hindu,147,358,47,0
+Tamilnadu,1,2013,Female,Muslim,7,107,0,0
+Tamilnadu,1,2013,Female,Others,0,0,0,0
+Tamilnadu,1,2013,Female,Sikh,0,0,0,0
+Tamilnadu,1,2013,Male,Christian,714,3065,152,0
+Tamilnadu,1,2013,Male,Hindu,2782,3168,1294,0
+Tamilnadu,1,2013,Male,Muslim,984,1547,200,0
+Tamilnadu,1,2013,Male,Others,0,15,12,0
+Tamilnadu,1,2013,Male,Sikh,6,0,75,0
+Tripura,1,2001,Female,Christian,0,0,0,0
+Tripura,1,2001,Female,Hindu,4,8,0,0
+Tripura,1,2001,Female,Muslim,0,4,0,0
+Tripura,1,2001,Female,Others,0,0,0,0
+Tripura,1,2001,Female,Sikh,0,0,0,0
+Tripura,1,2001,Male,Christian,19,51,0,0
+Tripura,1,2001,Male,Hindu,246,422,1,0
+Tripura,1,2001,Male,Muslim,76,125,1,0
+Tripura,1,2001,Male,Others,16,66,0,0
+Tripura,1,2001,Male,Sikh,1,0,0,0
+Tripura,1,2002,Female,Christian,0,0,0,0
+Tripura,1,2002,Female,Hindu,4,5,0,0
+Tripura,1,2002,Female,Muslim,2,2,0,0
+Tripura,1,2002,Female,Others,0,0,0,0
+Tripura,1,2002,Female,Sikh,0,1,0,0
+Tripura,1,2002,Male,Christian,28,33,0,0
+Tripura,1,2002,Male,Hindu,350,352,2,0
+Tripura,1,2002,Male,Muslim,83,100,0,0
+Tripura,1,2002,Male,Others,18,58,0,0
+Tripura,1,2002,Male,Sikh,3,0,0,0
+Tripura,1,2003,Female,Christian,0,0,0,0
+Tripura,1,2003,Female,Hindu,7,5,0,0
+Tripura,1,2003,Female,Muslim,0,6,0,0
+Tripura,1,2003,Female,Others,0,0,0,0
+Tripura,1,2003,Female,Sikh,0,0,0,0
+Tripura,1,2003,Male,Christian,25,76,0,0
+Tripura,1,2003,Male,Hindu,350,630,0,1
+Tripura,1,2003,Male,Muslim,56,156,2,0
+Tripura,1,2003,Male,Others,53,18,0,0
+Tripura,1,2003,Male,Sikh,9,7,0,0
+Tripura,1,2004,Female,Christian,0,0,0,0
+Tripura,1,2004,Female,Hindu,14,9,0,0
+Tripura,1,2004,Female,Muslim,0,0,0,0
+Tripura,1,2004,Female,Others,0,1,0,0
+Tripura,1,2004,Female,Sikh,0,0,0,0
+Tripura,1,2004,Male,Christian,16,100,0,0
+Tripura,1,2004,Male,Hindu,470,450,0,2
+Tripura,1,2004,Male,Muslim,41,90,0,1
+Tripura,1,2004,Male,Others,8,40,0,0
+Tripura,1,2004,Male,Sikh,5,18,0,0
+Tripura,1,2005,Female,Christian,0,0,0,0
+Tripura,1,2005,Female,Hindu,14,20,0,0
+Tripura,1,2005,Female,Muslim,1,1,0,0
+Tripura,1,2005,Female,Others,0,0,0,0
+Tripura,1,2005,Female,Sikh,0,0,0,0
+Tripura,1,2005,Male,Christian,21,56,0,0
+Tripura,1,2005,Male,Hindu,593,441,1,1
+Tripura,1,2005,Male,Muslim,94,119,0,0
+Tripura,1,2005,Male,Others,16,13,0,0
+Tripura,1,2005,Male,Sikh,13,6,0,0
+Tripura,1,2006,Female,Christian,0,0,0,0
+Tripura,1,2006,Female,Hindu,15,9,0,0
+Tripura,1,2006,Female,Muslim,3,0,0,0
+Tripura,1,2006,Female,Others,0,6,0,0
+Tripura,1,2006,Female,Sikh,0,0,0,0
+Tripura,1,2006,Male,Christian,37,30,0,0
+Tripura,1,2006,Male,Hindu,633,415,0,0
+Tripura,1,2006,Male,Muslim,81,95,0,0
+Tripura,1,2006,Male,Others,20,26,0,0
+Tripura,1,2006,Male,Sikh,0,0,0,0
+Tripura,1,2007,Female,Christian,0,0,0,0
+Tripura,1,2007,Female,Hindu,20,13,0,0
+Tripura,1,2007,Female,Muslim,3,1,0,0
+Tripura,1,2007,Female,Others,0,0,0,0
+Tripura,1,2007,Female,Sikh,0,0,0,0
+Tripura,1,2007,Male,Christian,75,51,1,0
+Tripura,1,2007,Male,Hindu,573,331,0,0
+Tripura,1,2007,Male,Muslim,113,98,0,0
+Tripura,1,2007,Male,Others,20,6,0,0
+Tripura,1,2007,Male,Sikh,9,3,0,0
+Tripura,1,2008,Female,Christian,0,0,0,0
+Tripura,1,2008,Female,Hindu,19,7,0,0
+Tripura,1,2008,Female,Muslim,0,1,0,0
+Tripura,1,2008,Female,Others,0,0,0,0
+Tripura,1,2008,Female,Sikh,0,0,0,0
+Tripura,1,2008,Male,Christian,25,13,0,0
+Tripura,1,2008,Male,Hindu,577,305,0,0
+Tripura,1,2008,Male,Muslim,161,107,0,0
+Tripura,1,2008,Male,Others,45,18,0,0
+Tripura,1,2008,Male,Sikh,0,0,0,0
+Tripura,1,2009,Female,Christian,0,0,0,0
+Tripura,1,2009,Female,Hindu,10,15,0,0
+Tripura,1,2009,Female,Muslim,4,1,0,0
+Tripura,1,2009,Female,Others,0,0,0,0
+Tripura,1,2009,Female,Sikh,0,0,0,0
+Tripura,1,2009,Male,Christian,32,4,0,0
+Tripura,1,2009,Male,Hindu,541,239,0,0
+Tripura,1,2009,Male,Muslim,62,75,0,0
+Tripura,1,2009,Male,Others,4,1,0,0
+Tripura,1,2009,Male,Sikh,0,0,0,0
+Tripura,1,2010,Female,Christian,0,0,0,0
+Tripura,1,2010,Female,Hindu,11,8,0,0
+Tripura,1,2010,Female,Muslim,1,2,0,0
+Tripura,1,2010,Female,Others,0,0,0,0
+Tripura,1,2010,Female,Sikh,0,0,0,0
+Tripura,1,2010,Male,Christian,46,19,0,0
+Tripura,1,2010,Male,Hindu,465,237,0,0
+Tripura,1,2010,Male,Muslim,68,74,0,0
+Tripura,1,2010,Male,Others,11,8,0,0
+Tripura,1,2010,Male,Sikh,1,0,0,0
+Tripura,1,2011,Female,Christian,0,0,0,0
+Tripura,1,2011,Female,Hindu,15,9,0,0
+Tripura,1,2011,Female,Muslim,0,11,0,0
+Tripura,1,2011,Female,Others,0,0,0,0
+Tripura,1,2011,Female,Sikh,0,0,0,0
+Tripura,1,2011,Male,Christian,38,8,0,0
+Tripura,1,2011,Male,Hindu,427,205,0,0
+Tripura,1,2011,Male,Muslim,72,90,0,0
+Tripura,1,2011,Male,Others,10,7,0,0
+Tripura,1,2011,Male,Sikh,7,0,0,0
+Tripura,1,2012,Female,Christian,0,0,0,0
+Tripura,1,2012,Female,Hindu,14,11,0,0
+Tripura,1,2012,Female,Muslim,0,3,0,0
+Tripura,1,2012,Female,Others,0,0,0,0
+Tripura,1,2012,Female,Sikh,0,0,0,0
+Tripura,1,2012,Male,Christian,35,15,0,0
+Tripura,1,2012,Male,Hindu,430,248,0,0
+Tripura,1,2012,Male,Muslim,57,60,0,0
+Tripura,1,2012,Male,Others,13,15,0,0
+Tripura,1,2012,Male,Sikh,0,0,0,0
+Tripura,1,2013,Female,Christian,0,0,0,0
+Tripura,1,2013,Female,Hindu,11,9,0,0
+Tripura,1,2013,Female,Muslim,3,2,0,0
+Tripura,1,2013,Female,Others,0,0,0,0
+Tripura,1,2013,Female,Sikh,0,0,0,0
+Tripura,1,2013,Male,Christian,30,25,0,0
+Tripura,1,2013,Male,Hindu,403,263,0,0
+Tripura,1,2013,Male,Muslim,40,80,0,0
+Tripura,1,2013,Male,Others,15,20,0,0
+Tripura,1,2013,Male,Sikh,0,0,0,0
+Uttar Pradesh,1,2001,Female,Christian,2,5,0,0
+Uttar Pradesh,1,2001,Female,Hindu,105,812,2,3
+Uttar Pradesh,1,2001,Female,Muslim,15,285,1,1
+Uttar Pradesh,1,2001,Female,Others,17,58,3,0
+Uttar Pradesh,1,2001,Female,Sikh,4,17,0,0
+Uttar Pradesh,1,2001,Male,Christian,21,229,0,0
+Uttar Pradesh,1,2001,Male,Hindu,4224,29003,192,262
+Uttar Pradesh,1,2001,Male,Muslim,990,14376,45,76
+Uttar Pradesh,1,2001,Male,Others,123,1254,264,0
+Uttar Pradesh,1,2001,Male,Sikh,67,836,3,1
+Uttar Pradesh,1,2002,Female,Christian,2,11,0,0
+Uttar Pradesh,1,2002,Female,Hindu,126,800,4,0
+Uttar Pradesh,1,2002,Female,Muslim,27,260,1,0
+Uttar Pradesh,1,2002,Female,Others,1,17,2,0
+Uttar Pradesh,1,2002,Female,Sikh,1,12,0,0
+Uttar Pradesh,1,2002,Male,Christian,27,414,94,0
+Uttar Pradesh,1,2002,Male,Hindu,4319,29160,573,41
+Uttar Pradesh,1,2002,Male,Muslim,1428,12618,372,18
+Uttar Pradesh,1,2002,Male,Others,48,853,19,64
+Uttar Pradesh,1,2002,Male,Sikh,94,806,13,0
+Uttar Pradesh,1,2003,Female,Christian,0,4,0,0
+Uttar Pradesh,1,2003,Female,Hindu,140,695,12,0
+Uttar Pradesh,1,2003,Female,Muslim,34,189,5,0
+Uttar Pradesh,1,2003,Female,Others,0,22,2,0
+Uttar Pradesh,1,2003,Female,Sikh,2,16,0,0
+Uttar Pradesh,1,2003,Male,Christian,36,337,90,0
+Uttar Pradesh,1,2003,Male,Hindu,5115,28700,601,139
+Uttar Pradesh,1,2003,Male,Muslim,1582,9636,425,36
+Uttar Pradesh,1,2003,Male,Others,156,1240,270,35
+Uttar Pradesh,1,2003,Male,Sikh,124,871,12,5
+Uttar Pradesh,1,2004,Female,Christian,1,0,0,1
+Uttar Pradesh,1,2004,Female,Hindu,148,668,55,0
+Uttar Pradesh,1,2004,Female,Muslim,46,203,18,0
+Uttar Pradesh,1,2004,Female,Others,0,0,0,0
+Uttar Pradesh,1,2004,Female,Sikh,2,10,0,0
+Uttar Pradesh,1,2004,Male,Christian,20,158,10,0
+Uttar Pradesh,1,2004,Male,Hindu,5893,29311,1065,79
+Uttar Pradesh,1,2004,Male,Muslim,2071,10251,407,4
+Uttar Pradesh,1,2004,Male,Others,4,51,492,34
+Uttar Pradesh,1,2004,Male,Sikh,126,572,6,0
+Uttar Pradesh,1,2005,Female,Christian,6,6,0,0
+Uttar Pradesh,1,2005,Female,Hindu,190,787,0,0
+Uttar Pradesh,1,2005,Female,Muslim,80,216,1,0
+Uttar Pradesh,1,2005,Female,Others,1,22,0,0
+Uttar Pradesh,1,2005,Female,Sikh,16,18,0,0
+Uttar Pradesh,1,2005,Male,Christian,45,149,3,5
+Uttar Pradesh,1,2005,Male,Hindu,9677,29815,106,81
+Uttar Pradesh,1,2005,Male,Muslim,2818,10543,117,14
+Uttar Pradesh,1,2005,Male,Others,180,1042,3,0
+Uttar Pradesh,1,2005,Male,Sikh,271,480,19,7
+Uttar Pradesh,1,2006,Female,Christian,0,6,0,0
+Uttar Pradesh,1,2006,Female,Hindu,367,1101,1,0
+Uttar Pradesh,1,2006,Female,Muslim,109,346,0,0
+Uttar Pradesh,1,2006,Female,Others,0,6,0,0
+Uttar Pradesh,1,2006,Female,Sikh,1,10,0,0
+Uttar Pradesh,1,2006,Male,Christian,31,131,13,0
+Uttar Pradesh,1,2006,Male,Hindu,12331,34360,73,14
+Uttar Pradesh,1,2006,Male,Muslim,3221,13579,59,10
+Uttar Pradesh,1,2006,Male,Others,11,58,13,0
+Uttar Pradesh,1,2006,Male,Sikh,218,566,34,0
+Uttar Pradesh,1,2007,Female,Christian,2,4,0,0
+Uttar Pradesh,1,2007,Female,Hindu,425,1332,33,1
+Uttar Pradesh,1,2007,Female,Muslim,134,303,20,0
+Uttar Pradesh,1,2007,Female,Others,11,40,0,0
+Uttar Pradesh,1,2007,Female,Sikh,7,17,0,0
+Uttar Pradesh,1,2007,Male,Christian,49,179,21,14
+Uttar Pradesh,1,2007,Male,Hindu,15713,37389,1555,95
+Uttar Pradesh,1,2007,Male,Muslim,2945,12253,600,66
+Uttar Pradesh,1,2007,Male,Others,206,1648,17,0
+Uttar Pradesh,1,2007,Male,Sikh,201,827,51,22
+Uttar Pradesh,1,2008,Female,Christian,1,2,0,0
+Uttar Pradesh,1,2008,Female,Hindu,563,1541,0,1
+Uttar Pradesh,1,2008,Female,Muslim,99,448,0,0
+Uttar Pradesh,1,2008,Female,Others,6,18,0,0
+Uttar Pradesh,1,2008,Female,Sikh,4,11,0,0
+Uttar Pradesh,1,2008,Male,Christian,25,147,3,0
+Uttar Pradesh,1,2008,Male,Hindu,16594,38922,351,14
+Uttar Pradesh,1,2008,Male,Muslim,3933,16463,231,4
+Uttar Pradesh,1,2008,Male,Others,128,476,8,9
+Uttar Pradesh,1,2008,Male,Sikh,322,470,15,0
+Uttar Pradesh,1,2009,Female,Christian,1,0,0,0
+Uttar Pradesh,1,2009,Female,Hindu,590,1629,2,0
+Uttar Pradesh,1,2009,Female,Muslim,115,386,0,0
+Uttar Pradesh,1,2009,Female,Others,8,14,0,0
+Uttar Pradesh,1,2009,Female,Sikh,2,12,0,0
+Uttar Pradesh,1,2009,Male,Christian,36,73,3,0
+Uttar Pradesh,1,2009,Male,Hindu,18239,39474,158,16
+Uttar Pradesh,1,2009,Male,Muslim,4802,16685,120,7
+Uttar Pradesh,1,2009,Male,Others,313,133,7,0
+Uttar Pradesh,1,2009,Male,Sikh,324,652,4,0
+Uttar Pradesh,1,2010,Female,Christian,2,0,0,0
+Uttar Pradesh,1,2010,Female,Hindu,640,1529,0,0
+Uttar Pradesh,1,2010,Female,Muslim,145,280,0,0
+Uttar Pradesh,1,2010,Female,Others,8,14,0,0
+Uttar Pradesh,1,2010,Female,Sikh,4,9,0,0
+Uttar Pradesh,1,2010,Male,Christian,36,75,3,0
+Uttar Pradesh,1,2010,Male,Hindu,19539,37904,104,19
+Uttar Pradesh,1,2010,Male,Muslim,5322,15230,120,11
+Uttar Pradesh,1,2010,Male,Others,313,133,7,0
+Uttar Pradesh,1,2010,Male,Sikh,524,698,4,0
+Uttar Pradesh,1,2011,Female,Christian,6,0,0,0
+Uttar Pradesh,1,2011,Female,Hindu,701,1805,0,0
+Uttar Pradesh,1,2011,Female,Muslim,175,356,0,0
+Uttar Pradesh,1,2011,Female,Others,14,46,0,0
+Uttar Pradesh,1,2011,Female,Sikh,9,27,0,0
+Uttar Pradesh,1,2011,Male,Christian,54,64,2,0
+Uttar Pradesh,1,2011,Male,Hindu,20036,36606,104,30
+Uttar Pradesh,1,2011,Male,Muslim,5702,14422,98,27
+Uttar Pradesh,1,2011,Male,Others,720,83,6,0
+Uttar Pradesh,1,2011,Male,Sikh,634,653,3,0
+Uttar Pradesh,1,2012,Female,Christian,5,0,0,0
+Uttar Pradesh,1,2012,Female,Hindu,671,1855,0,0
+Uttar Pradesh,1,2012,Female,Muslim,152,386,0,0
+Uttar Pradesh,1,2012,Female,Others,8,49,0,0
+Uttar Pradesh,1,2012,Female,Sikh,8,29,0,0
+Uttar Pradesh,1,2012,Male,Christian,48,59,1,0
+Uttar Pradesh,1,2012,Male,Hindu,19025,36403,96,23
+Uttar Pradesh,1,2012,Male,Muslim,5213,14321,93,20
+Uttar Pradesh,1,2012,Male,Others,610,71,5,0
+Uttar Pradesh,1,2012,Male,Sikh,510,648,2,0
+Uttar Pradesh,1,2013,Female,Christian,1,3,0,0
+Uttar Pradesh,1,2013,Female,Hindu,748,1894,0,0
+Uttar Pradesh,1,2013,Female,Muslim,208,442,0,0
+Uttar Pradesh,1,2013,Female,Others,1,0,0,0
+Uttar Pradesh,1,2013,Female,Sikh,5,10,0,0
+Uttar Pradesh,1,2013,Male,Christian,17,67,0,0
+Uttar Pradesh,1,2013,Male,Hindu,19384,40278,66,11
+Uttar Pradesh,1,2013,Male,Muslim,4803,15035,23,7
+Uttar Pradesh,1,2013,Male,Others,5,42,1,0
+Uttar Pradesh,1,2013,Male,Sikh,138,329,0,0
+Uttaranchal,1,2001,Female,Christian,0,0,0,0
+Uttaranchal,1,2001,Female,Hindu,3,51,0,0
+Uttaranchal,1,2001,Female,Muslim,0,7,0,0
+Uttaranchal,1,2001,Female,Others,0,1,0,0
+Uttaranchal,1,2001,Female,Sikh,0,4,0,0
+Uttaranchal,1,2001,Male,Christian,5,30,0,0
+Uttaranchal,1,2001,Male,Hindu,363,1105,0,0
+Uttaranchal,1,2001,Male,Muslim,99,444,0,0
+Uttaranchal,1,2001,Male,Others,4,44,0,0
+Uttaranchal,1,2001,Male,Sikh,35,95,0,0
+Uttaranchal,1,2002,Female,Christian,0,2,0,0
+Uttaranchal,1,2002,Female,Hindu,6,22,0,0
+Uttaranchal,1,2002,Female,Muslim,4,18,0,0
+Uttaranchal,1,2002,Female,Others,0,4,0,0
+Uttaranchal,1,2002,Female,Sikh,2,4,0,0
+Uttaranchal,1,2002,Male,Christian,6,30,0,0
+Uttaranchal,1,2002,Male,Hindu,500,858,0,0
+Uttaranchal,1,2002,Male,Muslim,84,620,0,0
+Uttaranchal,1,2002,Male,Others,5,24,0,0
+Uttaranchal,1,2002,Male,Sikh,50,120,0,0
+Uttaranchal,1,2003,Female,Christian,0,4,0,0
+Uttaranchal,1,2003,Female,Hindu,10,25,0,0
+Uttaranchal,1,2003,Female,Muslim,1,8,0,0
+Uttaranchal,1,2003,Female,Others,0,0,0,0
+Uttaranchal,1,2003,Female,Sikh,1,10,0,0
+Uttaranchal,1,2003,Male,Christian,9,21,0,0
+Uttaranchal,1,2003,Male,Hindu,473,886,1,2
+Uttaranchal,1,2003,Male,Muslim,152,585,4,0
+Uttaranchal,1,2003,Male,Others,2,37,0,0
+Uttaranchal,1,2003,Male,Sikh,57,143,0,0
+Uttaranchal,1,2004,Female,Christian,2,0,0,0
+Uttaranchal,1,2004,Female,Hindu,10,60,0,0
+Uttaranchal,1,2004,Female,Muslim,6,16,0,0
+Uttaranchal,1,2004,Female,Others,0,0,0,0
+Uttaranchal,1,2004,Female,Sikh,3,7,0,0
+Uttaranchal,1,2004,Male,Christian,24,72,0,0
+Uttaranchal,1,2004,Male,Hindu,362,490,4,0
+Uttaranchal,1,2004,Male,Muslim,165,465,1,0
+Uttaranchal,1,2004,Male,Others,8,140,0,0
+Uttaranchal,1,2004,Male,Sikh,170,360,0,0
+Uttaranchal,1,2005,Female,Christian,0,0,0,0
+Uttaranchal,1,2005,Female,Hindu,9,25,0,0
+Uttaranchal,1,2005,Female,Muslim,4,6,0,0
+Uttaranchal,1,2005,Female,Others,0,2,0,0
+Uttaranchal,1,2005,Female,Sikh,1,1,0,0
+Uttaranchal,1,2005,Male,Christian,4,8,0,0
+Uttaranchal,1,2005,Male,Hindu,579,910,1,5
+Uttaranchal,1,2005,Male,Muslim,105,489,0,0
+Uttaranchal,1,2005,Male,Others,28,8,0,0
+Uttaranchal,1,2005,Male,Sikh,35,129,1,0
+Uttaranchal,1,2006,Female,Christian,0,3,0,0
+Uttaranchal,1,2006,Female,Hindu,15,26,0,0
+Uttaranchal,1,2006,Female,Muslim,1,18,0,0
+Uttaranchal,1,2006,Female,Others,0,0,0,0
+Uttaranchal,1,2006,Female,Sikh,1,5,0,0
+Uttaranchal,1,2006,Male,Christian,25,113,0,0
+Uttaranchal,1,2006,Male,Hindu,464,806,0,0
+Uttaranchal,1,2006,Male,Muslim,288,570,0,0
+Uttaranchal,1,2006,Male,Others,14,58,0,0
+Uttaranchal,1,2006,Male,Sikh,99,138,0,0
+Uttaranchal,1,2007,Female,Christian,0,1,0,0
+Uttaranchal,1,2007,Female,Hindu,24,38,0,0
+Uttaranchal,1,2007,Female,Muslim,3,7,0,0
+Uttaranchal,1,2007,Female,Others,0,0,0,0
+Uttaranchal,1,2007,Female,Sikh,1,8,0,0
+Uttaranchal,1,2007,Male,Christian,6,21,0,0
+Uttaranchal,1,2007,Male,Hindu,457,863,0,0
+Uttaranchal,1,2007,Male,Muslim,342,625,0,0
+Uttaranchal,1,2007,Male,Others,44,0,0,0
+Uttaranchal,1,2007,Male,Sikh,171,98,0,0
+Uttaranchal,1,2008,Female,Christian,0,0,0,0
+Uttaranchal,1,2008,Female,Hindu,28,44,0,0
+Uttaranchal,1,2008,Female,Muslim,6,32,0,0
+Uttaranchal,1,2008,Female,Others,0,2,0,0
+Uttaranchal,1,2008,Female,Sikh,1,7,0,0
+Uttaranchal,1,2008,Male,Christian,19,42,0,0
+Uttaranchal,1,2008,Male,Hindu,638,894,0,0
+Uttaranchal,1,2008,Male,Muslim,302,660,0,0
+Uttaranchal,1,2008,Male,Others,75,16,0,0
+Uttaranchal,1,2008,Male,Sikh,153,315,0,0
+Uttaranchal,1,2009,Female,Christian,0,1,0,0
+Uttaranchal,1,2009,Female,Hindu,33,58,0,0
+Uttaranchal,1,2009,Female,Muslim,7,11,0,0
+Uttaranchal,1,2009,Female,Others,0,0,0,0
+Uttaranchal,1,2009,Female,Sikh,4,6,0,0
+Uttaranchal,1,2009,Male,Christian,25,34,0,0
+Uttaranchal,1,2009,Male,Hindu,569,980,0,0
+Uttaranchal,1,2009,Male,Muslim,348,839,0,0
+Uttaranchal,1,2009,Male,Others,79,3,0,0
+Uttaranchal,1,2009,Male,Sikh,218,292,0,0
+Uttaranchal,1,2010,Female,Christian,0,1,0,0
+Uttaranchal,1,2010,Female,Hindu,38,39,0,0
+Uttaranchal,1,2010,Female,Muslim,11,12,0,0
+Uttaranchal,1,2010,Female,Others,1,0,0,0
+Uttaranchal,1,2010,Female,Sikh,6,6,0,0
+Uttaranchal,1,2010,Male,Christian,17,33,0,0
+Uttaranchal,1,2010,Male,Hindu,704,1106,0,0
+Uttaranchal,1,2010,Male,Muslim,324,611,0,0
+Uttaranchal,1,2010,Male,Others,83,50,0,0
+Uttaranchal,1,2010,Male,Sikh,272,229,0,0
+Uttaranchal,1,2011,Female,Christian,0,5,0,0
+Uttaranchal,1,2011,Female,Hindu,23,42,0,0
+Uttaranchal,1,2011,Female,Muslim,37,18,0,0
+Uttaranchal,1,2011,Female,Others,1,1,0,0
+Uttaranchal,1,2011,Female,Sikh,6,2,0,0
+Uttaranchal,1,2011,Male,Christian,16,42,0,0
+Uttaranchal,1,2011,Male,Hindu,705,758,0,0
+Uttaranchal,1,2011,Male,Muslim,416,427,0,0
+Uttaranchal,1,2011,Male,Others,85,94,0,0
+Uttaranchal,1,2011,Male,Sikh,264,319,0,0
+Uttaranchal,1,2012,Female,Christian,0,5,0,0
+Uttaranchal,1,2012,Female,Hindu,29,48,0,0
+Uttaranchal,1,2012,Female,Muslim,32,22,0,0
+Uttaranchal,1,2012,Female,Others,3,3,0,0
+Uttaranchal,1,2012,Female,Sikh,4,3,0,0
+Uttaranchal,1,2012,Male,Christian,16,43,0,0
+Uttaranchal,1,2012,Male,Hindu,795,883,0,0
+Uttaranchal,1,2012,Male,Muslim,436,432,0,0
+Uttaranchal,1,2012,Male,Others,93,99,0,0
+Uttaranchal,1,2012,Male,Sikh,265,324,0,0
+Uttaranchal,1,2013,Female,Christian,0,0,0,0
+Uttaranchal,1,2013,Female,Hindu,55,35,0,0
+Uttaranchal,1,2013,Female,Muslim,20,39,0,0
+Uttaranchal,1,2013,Female,Others,9,15,0,0
+Uttaranchal,1,2013,Female,Sikh,1,8,0,0
+Uttaranchal,1,2013,Male,Christian,3,12,0,0
+Uttaranchal,1,2013,Male,Hindu,1105,998,0,0
+Uttaranchal,1,2013,Male,Muslim,530,635,0,0
+Uttaranchal,1,2013,Male,Others,148,59,0,0
+Uttaranchal,1,2013,Male,Sikh,50,123,0,0
+West Bengal,1,2001,Female,Christian,0,7,0,0
+West Bengal,1,2001,Female,Hindu,60,227,1,0
+West Bengal,1,2001,Female,Muslim,46,194,0,0
+West Bengal,1,2001,Female,Others,0,0,0,0
+West Bengal,1,2001,Female,Sikh,0,1,0,0
+West Bengal,1,2001,Male,Christian,75,248,0,0
+West Bengal,1,2001,Male,Hindu,1080,4317,20,77
+West Bengal,1,2001,Male,Muslim,1231,4653,1,19
+West Bengal,1,2001,Male,Others,10,56,0,0
+West Bengal,1,2001,Male,Sikh,5,19,0,0
+West Bengal,1,2002,Female,Christian,1,11,0,0
+West Bengal,1,2002,Female,Hindu,58,383,0,0
+West Bengal,1,2002,Female,Muslim,80,324,0,1
+West Bengal,1,2002,Female,Others,0,3,0,0
+West Bengal,1,2002,Female,Sikh,0,1,0,0
+West Bengal,1,2002,Male,Christian,85,400,0,0
+West Bengal,1,2002,Male,Hindu,1128,6742,1,73
+West Bengal,1,2002,Male,Muslim,1244,7868,0,21
+West Bengal,1,2002,Male,Others,7,264,0,0
+West Bengal,1,2002,Male,Sikh,8,40,0,0
+West Bengal,1,2003,Female,Christian,0,32,0,0
+West Bengal,1,2003,Female,Hindu,108,230,0,0
+West Bengal,1,2003,Female,Muslim,160,360,0,0
+West Bengal,1,2003,Female,Others,0,0,0,0
+West Bengal,1,2003,Female,Sikh,0,1,0,0
+West Bengal,1,2003,Male,Christian,62,429,0,0
+West Bengal,1,2003,Male,Hindu,1459,5522,3,72
+West Bengal,1,2003,Male,Muslim,1656,6148,0,7
+West Bengal,1,2003,Male,Others,1,18,0,0
+West Bengal,1,2003,Male,Sikh,4,17,0,0
+West Bengal,1,2004,Female,Christian,2,5,0,3
+West Bengal,1,2004,Female,Hindu,95,321,0,0
+West Bengal,1,2004,Female,Muslim,89,359,0,0
+West Bengal,1,2004,Female,Others,0,2,0,0
+West Bengal,1,2004,Female,Sikh,0,1,0,0
+West Bengal,1,2004,Male,Christian,78,296,0,1
+West Bengal,1,2004,Male,Hindu,1491,5144,0,0
+West Bengal,1,2004,Male,Muslim,1753,6612,0,5
+West Bengal,1,2004,Male,Others,4,30,0,0
+West Bengal,1,2004,Male,Sikh,8,20,0,0
+West Bengal,1,2005,Female,Christian,2,0,0,0
+West Bengal,1,2005,Female,Hindu,72,216,0,6
+West Bengal,1,2005,Female,Muslim,146,796,0,20
+West Bengal,1,2005,Female,Others,0,0,0,0
+West Bengal,1,2005,Female,Sikh,0,0,2,0
+West Bengal,1,2005,Male,Christian,98,168,0,0
+West Bengal,1,2005,Male,Hindu,1533,5835,3,51
+West Bengal,1,2005,Male,Muslim,1975,6981,0,158
+West Bengal,1,2005,Male,Others,6,13,0,0
+West Bengal,1,2005,Male,Sikh,16,8,53,0
+West Bengal,1,2006,Female,Christian,4,5,0,0
+West Bengal,1,2006,Female,Hindu,109,429,0,3
+West Bengal,1,2006,Female,Muslim,115,366,0,17
+West Bengal,1,2006,Female,Others,1,2,0,0
+West Bengal,1,2006,Female,Sikh,0,1,0,0
+West Bengal,1,2006,Male,Christian,91,256,0,0
+West Bengal,1,2006,Male,Hindu,1631,6530,0,34
+West Bengal,1,2006,Male,Muslim,1910,6397,0,171
+West Bengal,1,2006,Male,Others,3,66,0,0
+West Bengal,1,2006,Male,Sikh,12,40,0,0
+West Bengal,1,2007,Female,Christian,3,6,0,0
+West Bengal,1,2007,Female,Hindu,108,521,0,34
+West Bengal,1,2007,Female,Muslim,100,473,0,19
+West Bengal,1,2007,Female,Others,0,1,0,0
+West Bengal,1,2007,Female,Sikh,0,1,0,0
+West Bengal,1,2007,Male,Christian,82,187,0,0
+West Bengal,1,2007,Male,Hindu,1863,6429,0,74
+West Bengal,1,2007,Male,Muslim,2126,6259,0,165
+West Bengal,1,2007,Male,Others,53,51,0,0
+West Bengal,1,2007,Male,Sikh,10,33,0,0
+West Bengal,1,2008,Female,Christian,0,10,0,0
+West Bengal,1,2008,Female,Hindu,189,553,0,4
+West Bengal,1,2008,Female,Muslim,155,484,0,23
+West Bengal,1,2008,Female,Others,0,1,0,0
+West Bengal,1,2008,Female,Sikh,0,4,0,0
+West Bengal,1,2008,Male,Christian,114,240,0,0
+West Bengal,1,2008,Male,Hindu,2502,6440,0,28
+West Bengal,1,2008,Male,Muslim,3003,6329,0,83
+West Bengal,1,2008,Male,Others,12,17,0,0
+West Bengal,1,2008,Male,Sikh,6,33,0,0
+West Bengal,1,2009,Female,Christian,5,11,0,0
+West Bengal,1,2009,Female,Hindu,202,408,1,4
+West Bengal,1,2009,Female,Muslim,193,269,1,13
+West Bengal,1,2009,Female,Others,5,3,0,0
+West Bengal,1,2009,Female,Sikh,0,0,0,0
+West Bengal,1,2009,Male,Christian,55,103,0,0
+West Bengal,1,2009,Male,Hindu,2557,5582,1,22
+West Bengal,1,2009,Male,Muslim,2841,4971,0,160
+West Bengal,1,2009,Male,Others,42,69,0,0
+West Bengal,1,2009,Male,Sikh,19,49,0,0
+West Bengal,1,2010,Female,Christian,4,5,0,0
+West Bengal,1,2010,Female,Hindu,187,394,0,15
+West Bengal,1,2010,Female,Muslim,190,334,0,21
+West Bengal,1,2010,Female,Others,0,0,0,0
+West Bengal,1,2010,Female,Sikh,0,3,0,0
+West Bengal,1,2010,Male,Christian,131,261,0,0
+West Bengal,1,2010,Male,Hindu,2588,5819,0,125
+West Bengal,1,2010,Male,Muslim,2575,5388,1,218
+West Bengal,1,2010,Male,Others,31,125,0,0
+West Bengal,1,2010,Male,Sikh,72,32,0,0
+West Bengal,1,2011,Female,Christian,4,18,0,2
+West Bengal,1,2011,Female,Hindu,189,387,0,15
+West Bengal,1,2011,Female,Muslim,168,357,0,15
+West Bengal,1,2011,Female,Others,0,1,0,0
+West Bengal,1,2011,Female,Sikh,1,0,0,0
+West Bengal,1,2011,Male,Christian,122,301,0,9
+West Bengal,1,2011,Male,Hindu,2730,6630,2,95
+West Bengal,1,2011,Male,Muslim,2427,5817,3,140
+West Bengal,1,2011,Male,Others,14,39,0,0
+West Bengal,1,2011,Male,Sikh,5,17,0,0
+West Bengal,1,2012,Female,Christian,4,9,0,0
+West Bengal,1,2012,Female,Hindu,242,476,0,20
+West Bengal,1,2012,Female,Muslim,156,378,0,19
+West Bengal,1,2012,Female,Others,0,6,0,0
+West Bengal,1,2012,Female,Sikh,2,2,0,1
+West Bengal,1,2012,Male,Christian,124,348,0,0
+West Bengal,1,2012,Male,Hindu,3037,6504,3,104
+West Bengal,1,2012,Male,Muslim,2585,6142,0,131
+West Bengal,1,2012,Male,Others,12,92,0,4
+West Bengal,1,2012,Male,Sikh,9,20,0,1
+West Bengal,1,2013,Female,Christian,5,6,0,0
+West Bengal,1,2013,Female,Hindu,217,528,0,10
+West Bengal,1,2013,Female,Muslim,143,440,0,38
+West Bengal,1,2013,Female,Others,2,4,0,0
+West Bengal,1,2013,Female,Sikh,0,0,0,0
+West Bengal,1,2013,Male,Christian,154,564,0,2
+West Bengal,1,2013,Male,Hindu,3021,7408,0,47
+West Bengal,1,2013,Male,Muslim,2330,7290,0,320
+West Bengal,1,2013,Male,Others,12,209,0,0
+West Bengal,1,2013,Male,Sikh,6,22,0,0
