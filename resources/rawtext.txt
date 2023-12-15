@@ -3,7 +3,7 @@ THIS IS THE END OF ONE PAGE
 ANDHRA PRADESH MPI: PROGRESS REVIEW 2023
 Andhra Pradesh: Overview of Districts
 Headcount Ratio, Intensity and MPI
-NFHS-4 (2015–16) NFHS-5 (2019–21)
+NFHS-4 (2015â€“16) NFHS-5 (2019â€“21)
 District
 Headcount Ratio Intensity MPI Headcount Ratio Intensity MPI
 Anantapur 12.47% 42.00% 0.052 6.74% 40.56% 0.027
@@ -24,7 +24,7 @@ THIS IS THE END OF ONE PAGE
 ARUNACHAL PRADESH MPI: PROGRESS REVIEW 2023
 Arunachal Pradesh: Overview of Districts
 Headcount Ratio, Intensity and MPI
-NFHS-4 (2015–16) NFHS-5 (2019–21)
+NFHS-4 (2015â€“16) NFHS-5 (2019â€“21)
 District
 Headcount Ratio Intensity MPI Headcount Ratio Intensity MPI
 Anjaw 22.86% 42.92% 0.098 13.09% 43.24% 0.057
@@ -32,16 +32,16 @@ Changlang 26.47% 48.08% 0.127 14.39% 43.49% 0.063
 Dibang Valley 16.95% 41.31% 0.070 10.11% 42.72% 0.043
 East Kameng 44.03% 48.87% 0.215 22.05% 43.20% 0.095
 East Siang 8.84% 41.61% 0.037 8.11% 40.69% 0.033
-– – –
+â€“ â€“ â€“
 Kra Daadi 18.91% 44.13% 0.083
 Kurung Kumey 39.55% 47.44% 0.188 11.14% 40.52% 0.045
 Lohit 31.97% 51.28% 0.164 12.39% 42.69% 0.053
-Longding – – – 20.97% 43.73% 0.092
+Longding â€“ â€“ â€“ 20.97% 43.73% 0.092
 Lower Dibang Valley 23.56% 45.96% 0.108 9.08% 41.21% 0.037
 Lower Subansiri 15.80% 43.96% 0.069 6.39% 39.83% 0.025
-Namsai – – – 22.11% 45.76% 0.101
+Namsai â€“ â€“ â€“ 22.11% 45.76% 0.101
 Papum Pare 12.85% 45.91% 0.059 13.76% 43.55% 0.060
-Siang – – – 9.15% 38.97% 0.036
+Siang â€“ â€“ â€“ 9.15% 38.97% 0.036
 Tawang 31.25% 45.60% 0.143 8.46% 41.95% 0.035
 Tirap 28.30% 48.12% 0.136 14.78% 45.08% 0.067
 Upper Siang 15.88% 41.39% 0.066 8.74% 39.75% 0.035
@@ -53,15 +53,15 @@ THIS IS THE END OF ONE PAGE
 ASSAM MPI: PROGRESS REVIEW 2023
 Assam: Overview of Districts
 Headcount Ratio, Intensity and MPI
-NFHS-4 (2015–16) NFHS-5 (2019–21)
+NFHS-4 (2015â€“16) NFHS-5 (2019â€“21)
 District
 Headcount Ratio Intensity MPI Headcount Ratio Intensity MPI
 Baksa 23.59% 43.42% 0.102 15.60% 41.10% 0.064
 Barpeta 39.41% 46.50% 0.183 19.12% 43.38% 0.083
-Biswanath – – – 22.09% 46.03% 0.102
+Biswanath â€“ â€“ â€“ 22.09% 46.03% 0.102
 Bongaigaon 33.77% 45.80% 0.155 17.39% 42.99% 0.075
 Cachar 42.29% 49.49% 0.209 30.58% 45.63% 0.140
-Charaideo – – – 20.10% 47.03% 0.095
+Charaideo â€“ â€“ â€“ 20.10% 47.03% 0.095
 Chirang 36.20% 45.71% 0.165 16.79% 42.48% 0.071
 Darrang 38.22% 49.49% 0.189 23.65% 42.20% 0.100
 Dhemaji 27.71% 45.03% 0.125 13.73% 40.72% 0.056
@@ -71,7 +71,7 @@ Dima Hasao 31.07% 49.97% 0.155 13.62% 44.47% 0.061
 Goalpara 40.15% 50.62% 0.203 18.34% 44.23% 0.081
 Golaghat 20.60% 45.64% 0.094 14.60% 44.22% 0.065
 Hailakandi 51.07% 49.21% 0.251 36.22% 45.30% 0.164
-Hojai – – – 14.13% 41.83% 0.059
+Hojai â€“ â€“ â€“ 14.13% 41.83% 0.059
 Jorhat 20.24% 43.62% 0.088 11.49% 44.49% 0.051
 Kamrup 26.22% 45.03% 0.118 12.71% 41.89% 0.053
 Kamrup Metro 10.93% 46.95% 0.051 5.63% 43.08% 0.024
@@ -79,22 +79,22 @@ Karbi Anglong 37.59% 48.10% 0.181 16.20% 42.24% 0.068
 Karimganj 46.02% 48.45% 0.223 32.93% 46.54% 0.153
 Kokrajhar 32.14% 46.11% 0.148 18.92% 43.99% 0.083
 Lakhimpur 24.23% 46.80% 0.113 14.06% 43.10% 0.061
-Majuli – – – 14.41% 39.18% 0.056
+Majuli â€“ â€“ â€“ 14.41% 39.18% 0.056
 Marigaon 36.75% 47.71% 0.175 22.46% 44.63% 0.100
 Nagaon 30.51% 47.10% 0.144 20.84% 44.61% 0.093
 Nalbari 16.94% 44.69% 0.076 11.24% 43.47% 0.049
 Sivasagar 25.55% 48.95% 0.125 10.28% 42.94% 0.044
 Sonitpur 25.32% 46.55% 0.118 19.94% 44.95% 0.090
-South Salmara Mancachar – – – 28.24% 46.45% 0.131
+South Salmara Mancachar â€“ â€“ â€“ 28.24% 46.45% 0.131
 Tinsukia 36.70% 52.07% 0.191 17.66% 46.04% 0.081
 Udalguri 29.46% 44.74% 0.132 19.16% 42.99% 0.082
-West Karbi Anglong – – – 24.09% 44.40% 0.107
+West Karbi Anglong â€“ â€“ â€“ 24.09% 44.40% 0.107
 72
 THIS IS THE END OF ONE PAGE
 BIHAR MPI: PROGRESS REVIEW 2023
 Bihar: Overview of Districts
 Headcount Ratio, Intensity and MPI
-NNFFHHSS--44 ((22001155––116)6) NNFFHHSS--55 ((22001199––221)1)
+NNFFHHSS--44 ((22001155â€“â€“116)6) NNFFHHSS--55 ((22001199â€“â€“221)1)
 District
 HHeeaaddccoouunntt RRaattiioo IInntteennssiittyy MMPPII HHeeaaddccoouunntt RRaattiioo IInntteennssiittyy MMPPII
 BaAkrsaaria 6243..5695%% 4553..4122%% 00..130562 1552..6007%% 5411..0104%% 00..026664
@@ -158,35 +158,35 @@ THIS IS THE END OF ONE PAGE
 CHHATTISGARH MPI: PROGRESS REVIEW 2023
 Chhattisgarh: Overview of Districts
 Headcount Ratio, Intensity and MPI
-NFHS-4 (2015–16) NFHS-5 (2019–21)
+NFHS-4 (2015â€“16) NFHS-5 (2019â€“21)
 District
 Headcount Ratio Intensity MPI Headcount Ratio Intensity MPI
-– – –
+â€“ â€“ â€“
 Balod 5.77% 38.81% 0.022
-Baloda Bazar – – – 15.61% 42.60% 0.066
-Balrampur – – – 32.45% 43.92% 0.143
+Baloda Bazar â€“ â€“ â€“ 15.61% 42.60% 0.066
+Balrampur â€“ â€“ â€“ 32.45% 43.92% 0.143
 Bastar 46.95% 48.22% 0.226 34.69% 45.94% 0.159
-Bemetara – – – 17.26% 40.61% 0.070
+Bemetara â€“ â€“ â€“ 17.26% 40.61% 0.070
 Bijapur 41.20% 44.52% 0.183 49.72% 52.79% 0.262
 Bilaspur 25.66% 43.23% 0.111 16.74% 40.66% 0.068
 Dantewada 54.35% 53.00% 0.288 29.53% 45.88% 0.135
 Dhamtari 18.59% 40.74% 0.076 5.81% 40.17% 0.023
 Durg 19.98% 41.93% 0.084 3.55% 40.53% 0.014
-Gariyaband – – – 17.14% 41.99% 0.072
+Gariyaband â€“ â€“ â€“ 17.14% 41.99% 0.072
 Janjgir-Champa 23.16% 41.55% 0.096 11.68% 39.80% 0.046
 Jashpur 45.85% 46.09% 0.211 25.41% 41.94% 0.107
 Kabirdham 39.56% 46.50% 0.184 13.78% 41.72% 0.057
-Kondagaon – – – 26.79% 43.72% 0.117
+Kondagaon â€“ â€“ â€“ 26.79% 43.72% 0.117
 Korba 31.85% 45.86% 0.146 18.11% 42.32% 0.077
 Korea 38.24% 44.88% 0.172 20.03% 42.45% 0.085
 Mahasamund 29.85% 42.03% 0.125 12.50% 41.11% 0.051
-Mungeli – – – 15.31% 42.79% 0.066
+Mungeli â€“ â€“ â€“ 15.31% 42.79% 0.066
 Narayanpur 51.52% 49.42% 0.255 36.65% 49.96% 0.183
 Raigarh 30.82% 43.48% 0.134 19.08% 41.86% 0.080
 Raipur 21.82% 43.49% 0.095 8.73% 41.08% 0.036
 Rajnandgaon 23.14% 40.37% 0.093 10.77% 39.68% 0.043
-Sukma – – – 42.34% 48.36% 0.205
-Surajpur – – – 22.41% 42.42% 0.095
+Sukma â€“ â€“ â€“ 42.34% 48.36% 0.205
+Surajpur â€“ â€“ â€“ 22.41% 42.42% 0.095
 Surguja 47.37% 46.60% 0.221 24.33% 44.06% 0.107
 Uttar Bastar Kanker
 27.03% 43.47% 0.117 13.90% 39.85% 0.055
@@ -231,24 +231,24 @@ Headcount Ratio Intensity MPI Headcount Ratio Intensity MPI
 Ahmedabad 5.85% 40.47% 0.024 5.49% 40.40% 0.022
 Amreli 11.95% 42.61% 0.051 7.47% 39.86% 0.030
 Anand 14.81% 41.91% 0.062 10.47% 41.66% 0.044
-Arvalli – – – 19.19% 41.63% 0.080
+Arvalli â€“ â€“ â€“ 19.19% 41.63% 0.080
 Banas Kantha 31.24% 46.14% 0.144 23.83% 46.13% 0.110
 Bharuch 17.38% 43.81% 0.076 12.28% 41.55% 0.051
 Bhavnagar 17.90% 41.85% 0.075 12.12% 44.00% 0.053
-Botad – – – 9.77% 43.90% 0.043
-Chhotaudepur – – – 25.24% 45.85% 0.116
+Botad â€“ â€“ â€“ 9.77% 43.90% 0.043
+Chhotaudepur â€“ â€“ â€“ 25.24% 45.85% 0.116
 Dang 57.33% 48.54% 0.278 26.61% 42.40% 0.113
-Devbhumi Dwarka – – – 17.93% 43.73% 0.078
+Devbhumi Dwarka â€“ â€“ â€“ 17.93% 43.73% 0.078
 Dohad 54.93% 46.92% 0.258 38.27% 45.39% 0.174
 Gandhinagar 16.57% 47.19% 0.078 5.66% 41.11% 0.023
-Gir Somnath – – – 9.41% 39.71% 0.037
+Gir Somnath â€“ â€“ â€“ 9.41% 39.71% 0.037
 Jamnagar 13.05% 46.24% 0.060 7.16% 43.54% 0.031
 Junagadh 10.08% 43.64% 0.044 7.02% 42.84% 0.030
 Kachchh 28.30% 49.69% 0.141 10.52% 45.10% 0.047
 Kheda 25.50% 42.50% 0.108 17.06% 40.86% 0.070
 Mahesana 10.43% 43.74% 0.046 9.11% 44.32% 0.040
-Mahisagar – – – 16.72% 40.97% 0.068
-Morbi – – – 8.60% 41.86% 0.036
+Mahisagar â€“ â€“ â€“ 16.72% 40.97% 0.068
+Morbi â€“ â€“ â€“ 8.60% 41.86% 0.036
 Narmada 37.11% 43.31% 0.161 22.62% 43.83% 0.099
 Navsari 9.75% 42.32% 0.041 4.84% 41.34% 0.020
 Panch Mahals 41.52% 45.50% 0.189 18.11% 42.18% 0.076
@@ -266,12 +266,12 @@ THIS IS THE END OF ONE PAGE
 HARYANA MPI: PROGRESS REVIEW 2023
 Haryana: Overview of Districts
 Headcount Ratio, Intensity and MPI
-NFHS-4 (2015–16) NFHS-5 (2019–21)
+NFHS-4 (2015â€“16) NFHS-5 (2019â€“21)
 District
 Headcount Ratio Intensity MPI Headcount Ratio Intensity MPI
 Ambala 1.99% 39.52% 0.008 3.83% 42.86% 0.016
 Bhiwani 12.78% 39.54% 0.051 6.62% 39.78% 0.026
-Charki Dadri – – – 2.85% 41.54% 0.012
+Charki Dadri â€“ â€“ â€“ 2.85% 41.54% 0.012
 Faridabad 10.70% 44.28% 0.047 7.42% 42.91% 0.032
 Fatehabad 11.02% 41.37% 0.046 7.51% 41.25% 0.031
 Gurugram 10.39% 42.07% 0.044 3.29% 40.19% 0.013
@@ -296,7 +296,7 @@ THIS IS THE END OF ONE PAGE
 HIMACHAL PRADESH MPI: PROGRESS REVIEW 2023
 Himachal Pradesh: Overview of Districts
 Headcount Ratio, Intensity and MPI
-NFHS-4 (2015–16) NFHS-5 (2019–21)
+NFHS-4 (2015â€“16) NFHS-5 (2019â€“21)
 District
 Headcount Ratio Intensity MPI Headcount Ratio Intensity MPI
 Bilaspur 7.54% 36.62% 0.028 5.15% 39.63% 0.020
@@ -316,7 +316,7 @@ THIS IS THE END OF ONE PAGE
 JHARKHAND MPI: PROGRESS REVIEW 2023
 Jharkhand: Overview of Districts
 Headcount Ratio, Intensity and MPI
-NFHS-4 (2015–16) NFHS-5 (2019–21)
+NFHS-4 (2015â€“16) NFHS-5 (2019â€“21)
 District
 Headcount Ratio Intensity MPI Headcount Ratio Intensity MPI
 Bokaro 29.33% 44.19% 0.130 15.28% 43.63% 0.067
@@ -394,16 +394,16 @@ THIS IS THE END OF ONE PAGE
 KERALA MPI: PROGRESS REVIEW 2023
 Kerala: Overview of Districts
 Headcount Ratio, Intensity and MPI
-NFHS-4 (2015–16) NFHS-5 (2019–21)
+NFHS-4 (2015â€“16) NFHS-5 (2019â€“21)
 District
 Headcount Ratio Intensity MPI Headcount Ratio Intensity MPI
 Alappuzha 0.71% 37.34% 0.003 0.10% 34.52% 0.000
-Ernakulam 0.10% 38.10% 0.000 0.00% – 0.000
+Ernakulam 0.10% 38.10% 0.000 0.00% â€“ 0.000
 Idukki 1.65% 37.53% 0.006 1.11% 39.29% 0.004
 Kannur 0.44% 36.04% 0.002 0.03% 35.71% 0.000
 Kasaragod 0.94% 52.30% 0.005 1.70% 37.88% 0.006
 Kollam 0.72% 42.76% 0.003 0.04% 40.48% 0.000
-Kottayam 0.00% – 0.000 0.14% 38.61% 0.001
+Kottayam 0.00% â€“ 0.000 0.14% 38.61% 0.001
 Kozhikode 0.26% 37.31% 0.001 0.68% 35.66% 0.002
 Malappuram 1.11% 36.64% 0.004 0.85% 34.70% 0.003
 Palakkad 0.62% 37.04% 0.002 1.34% 36.76% 0.005
@@ -443,7 +443,7 @@ Nandurbar
 52.12% 53.76% 0.280 33.17% 46.22% 0.153
 Nashik 18.31% 45.39% 0.083 13.46% 42.06% 0.057
 Osmanabad 17.75% 41.66% 0.074 5.34% 39.46% 0.021
-Palghar – – – 13.30% 46.91% 0.062
+Palghar â€“ â€“ â€“ 13.30% 46.91% 0.062
 Parbhani 23.28% 40.35% 0.094 14.92% 41.08% 0.061
 Pune 5.29% 39.45% 0.021 2.92% 40.05% 0.012
 Raigad 10.04% 45.58% 0.046 8.38% 45.22% 0.038
@@ -461,7 +461,7 @@ THIS IS THE END OF ONE PAGE
 MANIPUR MPI: PROGRESS REVIEW 2023
 Manipur: Overview of Districts
 Headcount Ratio, Intensity and MPI
-NFHS-4 (2015–16) NFHS-5 (2019–21)
+NFHS-4 (2015â€“16) NFHS-5 (2019â€“21)
 District
 Headcoun t Ratio Intensity MPI Headcoun t Ratio Intensity MPI
 Bishnupur 13.72% 41.02% 0.056 6.91% 42.98% 0.030
@@ -484,21 +484,21 @@ Headcount Ratio Intensity MPI Headcount Ratio Intensity MPI
 East Garo Hills 41.78% 47.83% 0.200 14.96% 44.72% 0.067
 East Jaintia Hills 46.07% 52.24% 0.241 43.79% 50.20% 0.220
 East Khasi Hills 23.39% 46.28% 0.108 24.10% 46.34% 0.112
-North Garo Hills – – – 13.26% 43.81% 0.058
+North Garo Hills â€“ â€“ â€“ 13.26% 43.81% 0.058
 Ri Bhoi 46.31% 49.83% 0.231 31.67% 47.93% 0.152
 South Garo Hills 11.27% 42.05% 0.047 9.77% 41.69% 0.041
-– – –
+â€“ â€“ â€“
 South West Garo Hills 18.27% 44.40% 0.081
-South West Khasi Hills – – – 40.98% 44.62% 0.183
+South West Khasi Hills â€“ â€“ â€“ 40.98% 44.62% 0.183
 West Garo Hills 27.29% 46.74% 0.128 8.00% 42.28% 0.034
-West Jaintia Hills – – – 52.08% 53.97% 0.281
+West Jaintia Hills â€“ â€“ â€“ 52.08% 53.97% 0.281
 West Khasi Hills 39.59% 46.67% 0.185 52.48% 48.07% 0.252
 174
 THIS IS THE END OF ONE PAGE
 MIZORAM MPI: PROGRESS REVIEW 2023
 Mizoram: Overview of Districts
 Headcount Ratio, Intensity and MPI
-NFHS-4 (2015–16) NFHS-5 (2019–21)
+NFHS-4 (2015â€“16) NFHS-5 (2019â€“21)
 District
 Headcount Ratio Intensity MPI Headcount Ratio Intensity MPI
 Aizawl 1.76% 39.01% 0.007 0.87% 42.85% 0.004
@@ -579,7 +579,7 @@ Barnala 5.81% 43.39% 0.025 5.49% 42.66% 0.023
 Bathinda 5.62% 43.77% 0.025 8.03% 40.59% 0.033
 Faridkot 2.96% 42.66% 0.013 6.04% 41.93% 0.025
 Fatehgarh Sahib 3.49% 43.61% 0.015 3.10% 38.90% 0.012
-Fazilka – – – 8.45% 42.80% 0.036
+Fazilka â€“ â€“ â€“ 8.45% 42.80% 0.036
 Ferozepur 9.42% 43.22% 0.041 8.42% 43.38% 0.037
 Gurdaspur 5.11% 43.68% 0.022 5.08% 43.35% 0.022
 Hoshiarpur 4.49% 44.97% 0.020 1.50% 40.33% 0.006
@@ -591,7 +591,7 @@ Moga 8.01% 42.41% 0.034 5.65% 39.43% 0.022
 Muktsar
 7.71% 44.55% 0.034 7.57% 42.61% 0.032
 (Sri Muktsar Sahib)
-Pathankot – – – 2.35% 37.21% 0.009
+Pathankot â€“ â€“ â€“ 2.35% 37.21% 0.009
 Patiala 3.75% 41.82% 0.016 2.95% 40.18% 0.012
 Rupnagar 2.01% 42.76% 0.009 2.88% 42.49% 0.012
 Sahibzada Ajit Singh
@@ -703,37 +703,37 @@ NFHS-4 (2015-16) NFHS-5 (2019-21)
 District
 Headcount Ratio Intensity MPI Headcount Ratio Intensity MPI
 Adilabad 27.12% 46.01% 0.125 14.24% 44.82% 0.064
-Bhadradri Kothagudem – – – 4.33% 39.79% 0.017
+Bhadradri Kothagudem â€“ â€“ â€“ 4.33% 39.79% 0.017
 Hyderabad 4.21% 40.98% 0.017 2.52% 36.17% 0.009
-Jagitial – – – 4.77% 44.58% 0.021
-Jangoan – – – 2.91% 37.82% 0.011
-Jayashankar Bhupalapally – – – 6.33% 42.01% 0.027
-Jogulamba Gadwal – – – 15.37% 41.24% 0.063
-Kamareddy – – – 11.90% 41.48% 0.049
+Jagitial â€“ â€“ â€“ 4.77% 44.58% 0.021
+Jangoan â€“ â€“ â€“ 2.91% 37.82% 0.011
+Jayashankar Bhupalapally â€“ â€“ â€“ 6.33% 42.01% 0.027
+Jogulamba Gadwal â€“ â€“ â€“ 15.37% 41.24% 0.063
+Kamareddy â€“ â€“ â€“ 11.90% 41.48% 0.049
 Karimnagar 8.65% 41.20% 0.036 2.50% 39.98% 0.010
 Khammam 13.75% 42.23% 0.058 3.18% 43.80% 0.014
-Kumuram Bheem Asifabad – – – 16.59% 42.97% 0.071
-Mahabubabad – – – 6.45% 38.39% 0.025
+Kumuram Bheem Asifabad â€“ â€“ â€“ 16.59% 42.97% 0.071
+Mahabubabad â€“ â€“ â€“ 6.45% 38.39% 0.025
 Mahabubnagar 24.72% 43.83% 0.108 10.27% 40.35% 0.041
-Mancherial – – – 4.43% 40.12% 0.018
+Mancherial â€“ â€“ â€“ 4.43% 40.12% 0.018
 Medak 17.87% 42.46% 0.076 9.34% 39.49% 0.037
-Medchal-Malkajgiri – – – 3.06% 38.56% 0.012
-Nagarkurnool – – – 5.95% 41.11% 0.024
+Medchal-Malkajgiri â€“ â€“ â€“ 3.06% 38.56% 0.012
+Nagarkurnool â€“ â€“ â€“ 5.95% 41.11% 0.024
 Nalgonda 13.35% 44.31% 0.059 4.40% 39.48% 0.017
-Nirmal – – – 7.14% 41.69% 0.030
+Nirmal â€“ â€“ â€“ 7.14% 41.69% 0.030
 Nizamabad 21.06% 44.51% 0.094 6.76% 40.96% 0.028
-Peddapalli – – – 2.17% 37.36% 0.008
-Rajanna Sircilla – – – 3.68% 39.57% 0.015
+Peddapalli â€“ â€“ â€“ 2.17% 37.36% 0.008
+Rajanna Sircilla â€“ â€“ â€“ 3.68% 39.57% 0.015
 Ranga Reddy 5.31% 41.94% 0.022 3.83% 41.66% 0.016
-Sangareddy – – – 7.09% 42.48% 0.030
-Siddipet – – – 3.39% 38.29% 0.013
-Suryapet – – – 3.89% 39.35% 0.015
-Vikarabad – – – 12.50% 39.75% 0.050
-Wanaparthy – – – 8.86% 43.06% 0.038
-Warangal 12.12% 40.49% 0.049 – – –
-Warangal Rural – – – 6.45% 38.95% 0.025
-Warangal Urban – – – 2.41% 39.40% 0.010
-Yadadri Bhuvanagiri – – – 4.24% 37.19% 0.016
+Sangareddy â€“ â€“ â€“ 7.09% 42.48% 0.030
+Siddipet â€“ â€“ â€“ 3.39% 38.29% 0.013
+Suryapet â€“ â€“ â€“ 3.89% 39.35% 0.015
+Vikarabad â€“ â€“ â€“ 12.50% 39.75% 0.050
+Wanaparthy â€“ â€“ â€“ 8.86% 43.06% 0.038
+Warangal 12.12% 40.49% 0.049 â€“ â€“ â€“
+Warangal Rural â€“ â€“ â€“ 6.45% 38.95% 0.025
+Warangal Urban â€“ â€“ â€“ 2.41% 39.40% 0.010
+Yadadri Bhuvanagiri â€“ â€“ â€“ 4.24% 37.19% 0.016
 235
 THIS IS THE END OF ONE PAGE
 MPI: PROGRESS REVIEW 2023 TRIPURA
@@ -748,12 +748,12 @@ NFHS-4 (2015-16) NFHS-5 (2019-21)
 District
 Headcount Ratio Intensity MPI Headcount Ratio Intensity MPI
 Dhalai 26.23% 47.29% 0.124 21.89% 44.04% 0.096
-Gomati – – – 9.06% 41.18% 0.037
-Khowai – – – 17.27% 42.12% 0.073
+Gomati â€“ â€“ â€“ 9.06% 41.18% 0.037
+Khowai â€“ â€“ â€“ 17.27% 42.12% 0.073
 North Tripura 30.65% 47.49% 0.146 17.85% 43.64% 0.078
-Sepahijala – – – 12.27% 39.81% 0.049
+Sepahijala â€“ â€“ â€“ 12.27% 39.81% 0.049
 South Tripura 17.03% 42.02% 0.072 11.89% 45.43% 0.054
-Unakoti – – – 24.92% 43.77% 0.109
+Unakoti â€“ â€“ â€“ 24.92% 43.77% 0.109
 West Tripura 8.97% 43.26% 0.039 6.00% 40.09% 0.024
 241
 tcirtsiD
@@ -768,7 +768,7 @@ Agra 32.83% 46.83% 0.154 18.20% 44.16% 0.080
 Aligarh 37.26% 46.55% 0.173 22.00% 43.25% 0.095
 Allahabad (Prayagraj) 32.77% 46.56% 0.153 21.21% 44.48% 0.094
 Ambedkar Nagar 34.03% 43.55% 0.148 21.00% 40.42% 0.085
-Amethi – – – 28.96% 45.06% 0.131
+Amethi â€“ â€“ â€“ 28.96% 45.06% 0.131
 Auraiya 29.82% 44.92% 0.134 19.28% 43.61% 0.084
 Azamgarh 32.77% 43.44% 0.142 17.14% 41.68% 0.071
 Baghpat 21.08% 47.03% 0.099 13.64% 43.96% 0.060
@@ -797,7 +797,7 @@ Ghazipur 41.04% 44.95% 0.184 18.22% 40.17% 0.073
 Gonda 59.26% 50.81% 0.301 29.71% 45.54% 0.135
 Gorakhpur 26.17% 46.08% 0.121 15.83% 43.63% 0.069
 Hamirpur 30.92% 44.09% 0.136 17.29% 41.32% 0.071
-Hapur – – – 12.60% 42.44% 0.053
+Hapur â€“ â€“ â€“ 12.60% 42.44% 0.053
 Hardoi 51.16% 48.14% 0.246 34.14% 45.50% 0.155
 Jalaun 27.64% 43.79% 0.121 18.12% 42.41% 0.077
 Jaunpur 40.78% 44.01% 0.179 16.13% 39.91% 0.064
@@ -827,11 +827,11 @@ Pratapgarh 36.94% 45.00% 0.166 21.29% 43.34% 0.092
 Rae Bareli 34.10% 46.87% 0.160 22.37% 43.53% 0.097
 Rampur 38.89% 49.64% 0.193 23.03% 44.89% 0.103
 Saharanpur 28.52% 48.89% 0.139 17.86% 43.90% 0.078
-Sambhal – – – 35.06% 46.63% 0.164
+Sambhal â€“ â€“ â€“ 35.06% 46.63% 0.164
 Sant Kabeer Nagar 43.79% 46.77% 0.205 22.57% 44.81% 0.101
 Sant Ravidas Nagar (Bhadohi) 42.19% 45.53% 0.192 22.04% 42.71% 0.094
 Shahjahanpur 50.52% 48.90% 0.247 32.57% 44.84% 0.146
-Shamli – – – 22.45% 45.51% 0.102
+Shamli â€“ â€“ â€“ 22.45% 45.51% 0.102
 Shravasti 74.35% 55.35% 0.412 49.62% 50.18% 0.249
 Siddharth Nagar 57.24% 50.01% 0.286 37.67% 47.64% 0.179
 Sitapur 56.71% 49.63% 0.281 40.15% 47.10% 0.189
@@ -869,7 +869,7 @@ NFHS-4 (2015-16) NFHS-5 (2019-21)
 District
 Headcount Ratio Intensity MPI Headcount Ratio Intensity MPI
 Bankura 26.99% 44.74% 0.121 18.49% 42.07% 0.078
-Barddhaman 20.33% 47.06% 0.096 – – –
+Barddhaman 20.33% 47.06% 0.096 â€“ â€“ â€“
 Birbhum 27.35% 45.69% 0.125 18.27% 44.67% 0.082
 Dakshin Dinajpur
 22.48% 44.18% 0.099 13.37% 42.70% 0.057
@@ -884,11 +884,11 @@ Maldah 34.48% 45.74% 0.158 15.57% 42.91% 0.067
 Murshidabad 27.23% 45.94% 0.125 16.55% 43.18% 0.071
 Nadia 11.07% 42.79% 0.047 8.20% 40.00% 0.033
 North 24 Parganas 9.80% 41.37% 0.041 4.37% 40.11% 0.018
-Paschim Bardhaman – – – 11.20% 42.89% 0.048
+Paschim Bardhaman â€“ â€“ â€“ 11.20% 42.89% 0.048
 Paschim Medinipur
 23.82% 43.50% 0.104 18.14% 42.31% 0.077
 (Medinipur West)
-Purba Bardhaman – – – 14.32% 41.18% 0.059
+Purba Bardhaman â€“ â€“ â€“ 14.32% 41.18% 0.059
 Purba Medinipur
 14.19% 42.68% 0.061 12.48% 41.16% 0.051
 (Medinipur East)
@@ -994,9 +994,9 @@ New Delhi 4.16% 42.99% 0.018 4.83% 39.61% 0.019
 North 2.41% 41.65% 0.010 6.26% 41.64% 0.026
 North East 7.35% 42.70% 0.031 3.69% 41.39% 0.015
 North West 6.84% 46.38% 0.032 2.05% 40.50% 0.008
-Shahdara – – – 1.52% 41.84% 0.006
+Shahdara â€“ â€“ â€“ 1.52% 41.84% 0.006
 South 4.69% 41.64% 0.020 1.29% 51.36% 0.007
-South East – – – 2.69% 39.10% 0.011
+South East â€“ â€“ â€“ 2.69% 39.10% 0.011
 South West 2.17% 45.16% 0.010 3.45% 43.71% 0.015
 West 2.29% 44.66% 0.010 4.68% 42.43% 0.020
 289
