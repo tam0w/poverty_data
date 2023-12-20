@@ -53,16 +53,19 @@ app.layout = html.Div(children=[
 
     html.Hr(),
 
-    dcc.Graph(id='line-plot'),
+    html.H1('Districts with the most poverty:', className='card-body text-white bg-primary text-center py-4'),
+
+    dcc.Graph(id='line-plot', className='py-2 px-3'),
 
     dbc.Row([
         dbc.Col([
+            html.H1('Correlation b/w Literacy & Poverty', className='card-body text-white bg-primary text-center pt-4 pb-3'),
             dcc.Graph(
                 id='scatter-plot',
                 figure={
                     'data': [],
                     'layout': dict(
-                        xaxis={'type': 'log', 'title': 'Total Population'},
+                        xaxis={'type': 'log', 'title': 'Literate Population'},
                         yaxis={'title': 'MPI HCR'},
                         margin={'l': 40, 'b': 40, 't': 10, 'r': 10},
                         hovermode='closest',
@@ -73,9 +76,11 @@ app.layout = html.Div(children=[
                 },
                 className='p-3 dark-bg'
             ),
-        ], width=6),
+        ], width=6, className='py-0'),
 
         dbc.Col([
+
+            html.H1('Population groups in the state', className='card-body text-white bg-primary text-center pt-4 pb-3'),
             dcc.Graph(
                 id='bar-chart',
                 figure={
@@ -93,7 +98,7 @@ app.layout = html.Div(children=[
                 },
                 className='p-3 dark-bg'
             ),
-        ], width=6),
+        ], width=6, className='py-0'),
     ]),
 
     # Modal
@@ -116,9 +121,13 @@ app.layout = html.Div(children=[
         centered=True,
         size='lg',
         backdrop="static")
-])
-
-# Define callback to open the modal when the app loads
+], style={'background-color': '#fdfdfd',
+# 'opacity': '1',
+# 'background-image':  'radial-gradient(#8f8f8f 2px, transparent 2px), radial-gradient(#8f8f8f 2px, #fdfdfd 2px)',
+# 'background-size': '80px 80px',
+# 'background-position': '0 0,40px 40px'
+}
+)# Define callback to open the modal when the app loads
 @app.callback(
     dash.dependencies.Output("intro-modal", "is_open"),
     [dash.dependencies.Input("intro-modal-close", "n_clicks")],
@@ -146,7 +155,7 @@ def update_plots(selected_state):
     scatter_plot_figure = {
         'data': [
             dict(
-                x=filtered_df['Total Population'],
+                x=filtered_df['Literate Population'],
                 y=filtered_df['MPI HCR'],
                 text=filtered_df['District'],
                 mode='markers',
@@ -163,8 +172,8 @@ def update_plots(selected_state):
             yaxis={'title': 'MPI HCR'},
             margin={'l': 40, 'b': 40, 't': 10, 'r': 10},
             hovermode='closest',
-            plot_bgcolor='#333',  # Dark grey background
-            paper_bgcolor='#333',  # Dark grey background
+            plot_bgcolor='#111111',  # Dark grey background
+            paper_bgcolor='#111111',  # Dark grey background
             font={'color': 'white'},  # White text
         )
     }
@@ -198,8 +207,8 @@ def update_plots(selected_state):
         yaxis={'title': 'Population'},
         margin={'l': 40, 'b': 40, 't': 10, 'r': 10},
         hovermode='closest',
-        plot_bgcolor='#333',  # Dark grey background
-        paper_bgcolor='#333',  # Dark grey background
+        plot_bgcolor='#111111',  # Dark grey background
+        paper_bgcolor='#111111',  # Dark grey background
         font={'color': 'white'},  # White text
     )
 
