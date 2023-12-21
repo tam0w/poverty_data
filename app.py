@@ -9,12 +9,12 @@ app = dash.Dash(external_stylesheets=[dbc.themes.LUX])
 
 df = pd.read_csv('datasets/final_dataset.csv')
 
-# Layout with Modal
-app.layout = html.Div(children=[
+
+app.layout = html.Div(style= {'background-image': f'url("/assets/5.png")', 'background-size': 'contain'}, children=[
     html.Div(children=[
         html.Div(children=[
             html.H1(id='state_name', className='card-title')
-        ], className='card-body text-white bg-primary pb-4 pt-4 px-5 text-center'),
+        ], className='card-body text-white bg-primary pb-4 pt-4 text-center'),
     ]),
 
     dbc.Row(
@@ -53,13 +53,13 @@ app.layout = html.Div(children=[
 
     html.Hr(),
 
-    html.H1('Districts with the most poverty:', className='card-body text-white bg-primary text-center py-4'),
+    html.H1('Districts with the most poverty:', className='card-body fw-bold shadow-lg text-white bg-primary text-center py-4'),
 
-    dcc.Graph(id='line-plot', className='py-2 px-3'),
+    dcc.Graph(id='line-plot', className='pb-5 pt-3 px-3'),
 
     dbc.Row([
         dbc.Col([
-            html.H1('Correlation b/w Literacy & Poverty', className='card-body text-white bg-primary text-center pt-4 pb-3'),
+            html.H1('Correlation b/w Literacy & Poverty', className='card-body fw-bold shadow-lg text-white bg-primary text-center pt-4 pb-3'),
             dcc.Graph(
                 id='scatter-plot',
                 figure={
@@ -80,7 +80,7 @@ app.layout = html.Div(children=[
 
         dbc.Col([
 
-            html.H1('Population groups in the state', className='card-body text-white bg-primary text-center pt-4 pb-3'),
+            html.H1('Population groups in the state', className='card-body fw-bold shadow-lg text-white bg-primary text-center pt-4 pb-3'),
             dcc.Graph(
                 id='bar-chart',
                 figure={
@@ -104,8 +104,8 @@ app.layout = html.Div(children=[
     # Modal
     dbc.Modal(
         [
-            dbc.ModalHeader(children=[html.H3('Indian Poverty Dynamics Dashboard')], className='text-center pt-4'),
-            dbc.ModalBody(children=[
+            dbc.ModalHeader(children=[html.H3('Indian Poverty Dynamics Dashboard')], className='text-center pt-5 px-5'),
+            dbc.ModalBody(className='mx-4', children=[
                 html.P("""This dashboard provides an analysis of district-wise poverty data 
                 based on NFHS Survey data in the NITI Aayog Multipoverty Index report.
                 \n\nExplore the data by selecting a state from the dropdown.
@@ -121,13 +121,8 @@ app.layout = html.Div(children=[
         centered=True,
         size='lg',
         backdrop="static")
-], style={'background-color': '#fdfdfd',
-# 'opacity': '1',
-# 'background-image':  'radial-gradient(#8f8f8f 2px, transparent 2px), radial-gradient(#8f8f8f 2px, #fdfdfd 2px)',
-# 'background-size': '80px 80px',
-# 'background-position': '0 0,40px 40px'
-}
-)# Define callback to open the modal when the app loads
+])
+
 @app.callback(
     dash.dependencies.Output("intro-modal", "is_open"),
     [dash.dependencies.Input("intro-modal-close", "n_clicks")],
