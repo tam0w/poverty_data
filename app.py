@@ -6,21 +6,21 @@ import plotly.graph_objects as go
 import plotly.express as px
 
 app = dash.Dash(external_stylesheets=[dbc.themes.LUX])
-
+app.config.suppress_callback_exceptions=True
 df = pd.read_csv('datasets/final_dataset.csv')
 
 def home_layout():
     return html.Div([
         html.H1("Indian Poverty Dynamics Dashboard", className='text-center pt-5 px-5'),
-        html.Div(className='mx-4', children=[
+        html.Div(className='mx-4 row', children=[html.Col(className='col-4'),
             html.P("""This dashboard provides an analysis of district-wise poverty data 
-                  based on NFHS Survey data in the NITI Aayog Multipoverty Index report.
+                  based on NFHS Survey data in the NITI Aayog Multi-dimensional Poverty Index report.
                   \n\nExplore the data by selecting a state from the dropdown.
                   The dataset can be found at: """
-                   , className='', style={'justify':'center'}),
-            html.A("- CSV file.",
-                   href='https://github.com/tam0w/poverty_data/blob/master/datasets/final_dataset.csv')]),
-        html.P("Select a state from the dropdown to begin."),
+                   , className='col-4', style={'justify':'center'}),
+            html.A("Poverty Dataset CSV file.",
+                   href='https://github.com/tam0w/poverty_data/blob/master/datasets/final_dataset.csv', className='my-0')]),
+            html.Hr(),
         dcc.Link("Go to Dashboard", href="/dashboard", className='btn btn-primary mt-3')
     ], className='mx-4 my-4 text-center')
 
