@@ -11,18 +11,18 @@ df = pd.read_csv('datasets/final_dataset.csv')
 
 def home_layout():
     return html.Div([
-        html.H1("Indian Poverty Dynamics Dashboard", className='text-center pt-5 px-5'),
-        html.Div(className='mx-4 row', children=[html.Col(className='col-4'),
+        html.H1("Indian Poverty Dynamics Dashboard", className='text-center pt-5 px-5 text-white'),
+        html.Div(className='mx-4 row text-white', children=[html.Col(className='col-4'),
             html.P("""This dashboard provides an analysis of district-wise poverty data 
                   based on NFHS Survey data in the NITI Aayog Multi-dimensional Poverty Index report.
                   \n\nExplore the data by selecting a state from the dropdown.
                   The dataset can be found at: """
-                   , className='col-4', style={'justify':'center'}),
+                   , className='col-4 text-white', style={'justify':'center'}),
             html.A("Poverty Dataset CSV file.",
-                   href='https://github.com/tam0w/poverty_data/blob/master/datasets/final_dataset.csv', className='my-0')]),
+                   href='https://github.com/tam0w/poverty_data/blob/master/datasets/final_dataset.csv', className='my-0 text-white')]),
             html.Hr(),
         dcc.Link("Go to Dashboard", href="/dashboard", className='btn btn-primary mt-3')
-    ], className='mx-4 my-4 text-center')
+    ], className='text-center vh-100 vw-100', style={'background-image': f'url("/assets/5.png")', 'background-size': 'contain'})
 
 # Define dashboard layout
 def dashboard_layout():
@@ -44,9 +44,9 @@ def dashboard_layout():
                     placeholder="Select a State",
                     multi=False
                 ),
-                width={'size': 6, 'offset': 3, 'align': 'center'},  # Center the dropdown
-                className='m-3'
-            ), justify='center'
+                width={'size': 6, 'offset': 3, 'align': 'center'},
+                className='justify-content-center'
+            ), className='px-0 mx-0 pt-2'
         ),
 
         html.Hr(),
@@ -92,7 +92,7 @@ def dashboard_layout():
                     },
                     className='p-3 dark-bg'
                 ),
-            ], width=6, className='py-0'),
+            ], width=6, className='px-0 py-0'),
 
             dbc.Col([
 
@@ -114,10 +114,11 @@ def dashboard_layout():
                     },
                     className='p-3 dark-bg'
                 ),
-            ], width=6, className='py-0'),
+            ], width=6, className='px-0 py-0'),
         ]),
 
-    ])
+    ], className='px-0')
+
 
 app.layout = html.Div([
     dcc.Location(id='url', refresh=False),

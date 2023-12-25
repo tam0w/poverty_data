@@ -24,6 +24,13 @@
             </Attribute>
           </value>
         </entry>
+        <entry key="\datasets\Literacy Data 2011.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
         <entry key="\datasets\NDAP_REPORT_7150.csv">
           <value>
             <Attribute>
@@ -39,6 +46,20 @@
           </value>
         </entry>
         <entry key="\datasets\final_dataset.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="\datasets\marital_status_2011.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="\datasets\pca-total.csv">
           <value>
             <Attribute>
               <option name="separator" value="," />
