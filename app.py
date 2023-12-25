@@ -6,123 +6,136 @@ import plotly.graph_objects as go
 import plotly.express as px
 
 app = dash.Dash(external_stylesheets=[dbc.themes.LUX])
-
+app.config.suppress_callback_exceptions=True
 df = pd.read_csv('datasets/final_dataset.csv')
 
+def home_layout():
+    return html.Div([
+        html.H1("Indian Poverty Dynamics Dashboard", className='text-center pt-5 px-5'),
+        html.Div(className='mx-4 row', children=[html.Col(className='col-4'),
+            html.P("""This dashboard provides an analysis of district-wise poverty data 
+                  based on NFHS Survey data in the NITI Aayog Multi-dimensional Poverty Index report.
+                  \n\nExplore the data by selecting a state from the dropdown.
+                  The dataset can be found at: """
+                   , className='col-4', style={'justify':'center'}),
+            html.A("Poverty Dataset CSV file.",
+                   href='https://github.com/tam0w/poverty_data/blob/master/datasets/final_dataset.csv', className='my-0')]),
+            html.Hr(),
+        dcc.Link("Go to Dashboard", href="/dashboard", className='btn btn-primary mt-3')
+    ], className='mx-4 my-4 text-center')
 
-app.layout = html.Div(style= {'background-image': f'url("/assets/5.png")', 'background-size': 'contain'}, children=[
-    html.Div(children=[
+# Define dashboard layout
+def dashboard_layout():
+    return html.Div(style={'background-image': f'url("/assets/5.png")', 'background-size': 'contain'}, children=[
         html.Div(children=[
-            html.H1(id='state_name', className='card-title')
-        ], className='card-body text-white bg-primary pb-4 pt-4 text-center'),
-    ]),
+            html.Div(children=[
+                html.H1(id='state_name', className='card-title')
+            ], className='card-body text-white bg-primary pb-4 pt-4 text-center'),
+        ]),
 
-    dbc.Row(
-        dbc.Col(
-            dcc.Dropdown(
-                id='state-dropdown',
-                options=[
-                    {'label': state, 'value': state} for state in df['State'].unique()
-                ],
-                value='Andhra Pradesh',
-                placeholder="Select a State",
-                multi=False
-            ),
-            width={'size': 6, 'offset': 3, 'align': 'center'},  # Center the dropdown
-            className='m-3'
-        ), justify='center'
-    ),
+        dbc.Row(
+            dbc.Col(
+                dcc.Dropdown(
+                    id='state-dropdown',
+                    options=[
+                        {'label': state, 'value': state} for state in df['State'].unique()
+                    ],
+                    value='Andhra Pradesh',
+                    placeholder="Select a State",
+                    multi=False
+                ),
+                width={'size': 6, 'offset': 3, 'align': 'center'},  # Center the dropdown
+                className='m-3'
+            ), justify='center'
+        ),
 
-    html.Hr(),
+        html.Hr(),
 
-    dash_table.DataTable(
-        id='table',
-        columns=[
-            {'name': col, 'id': col} for col in ['District', 'Area (sq km)', 'Total Population', 'Literate Population', 'Total Working Population', 'MPI HCR']
-        ],
-        style_table={'height': '440px', 'overflow': 'auto', 'padding-left': '15px', 'padding-right': '15px'},
-        page_size=11,
-        style_cell={'textAlign': 'center', 'padding': '7px'},
-        style_header={'backgroundColor': 'rgb(30, 30, 30)', 'color': 'white'},
-        style_data={'backgroundColor': 'rgb(50, 50, 50)', 'color': 'white'},
-        style_as_list_view=True,
-        selected_rows=[],
-        virtualization=False,
+        dash_table.DataTable(
+            id='table',
+            columns=[
+                {'name': col, 'id': col} for col in ['District', 'Area (sq km)', 'Total Population', 'Literate Population', 'Total Working Population', 'MPI HCR']
+            ],
+            style_table={'height': '440px', 'overflow': 'auto', 'padding-left': '15px', 'padding-right': '15px'},
+            page_size=11,
+            style_cell={'textAlign': 'center', 'padding': '7px'},
+            style_header={'backgroundColor': 'rgb(30, 30, 30)', 'color': 'white'},
+            style_data={'backgroundColor': 'rgb(50, 50, 50)', 'color': 'white'},
+            style_as_list_view=True,
+            selected_rows=[],
+            virtualization=False,
 
-    ),
+        ),
 
-    html.Hr(),
+        html.Hr(),
 
-    html.H1('Districts with the most poverty:', className='card-body fw-bold shadow-lg text-white bg-primary text-center py-4'),
+        html.H1('Districts with the most poverty:', className='card-body fw-bold shadow-lg text-white bg-primary text-center py-4'),
 
-    dcc.Graph(id='line-plot', className='pb-5 pt-3 px-3'),
+        dcc.Graph(id='line-plot', className='pb-5 pt-3 px-3'),
 
-    dbc.Row([
-        dbc.Col([
-            html.H1('Correlation b/w Literacy & Poverty', className='card-body fw-bold shadow-lg text-white bg-primary text-center pt-4 pb-3'),
-            dcc.Graph(
-                id='scatter-plot',
-                figure={
-                    'data': [],
-                    'layout': dict(
-                        xaxis={'type': 'log', 'title': 'Literate Population'},
-                        yaxis={'title': 'MPI HCR'},
-                        margin={'l': 40, 'b': 40, 't': 10, 'r': 10},
-                        hovermode='closest',
-                        plot_bgcolor='#333',  # Dark grey background
-                        paper_bgcolor='#333',  # Dark grey background
-                        font={'color': 'white'},  # White text
-                    )
-                },
-                className='p-3 dark-bg'
-            ),
-        ], width=6, className='py-0'),
+        dbc.Row([
+            dbc.Col([
+                html.H1('Correlation b/w Literacy & Poverty', className='card-body fw-bold shadow-lg text-white bg-primary text-center pt-4 pb-3'),
+                dcc.Graph(
+                    id='scatter-plot',
+                    figure={
+                        'data': [],
+                        'layout': dict(
+                            xaxis={'type': 'log', 'title': 'Literate Population'},
+                            yaxis={'title': 'MPI HCR'},
+                            margin={'l': 40, 'b': 40, 't': 10, 'r': 10},
+                            hovermode='closest',
+                            plot_bgcolor='#333',  # Dark grey background
+                            paper_bgcolor='#333',  # Dark grey background
+                            font={'color': 'white'},  # White text
+                        )
+                    },
+                    className='p-3 dark-bg'
+                ),
+            ], width=6, className='py-0'),
 
-        dbc.Col([
+            dbc.Col([
 
-            html.H1('Population groups in the state', className='card-body fw-bold shadow-lg text-white bg-primary text-center pt-4 pb-3'),
-            dcc.Graph(
-                id='bar-chart',
-                figure={
-                    'data': [],
-                    'layout': dict(
-                        barmode='group',
-                        xaxis={'title': 'Categories'},
-                        yaxis={'title': 'Population'},
-                        margin={'l': 40, 'b': 40, 't': 10, 'r': 10},
-                        hovermode='closest',
-                        plot_bgcolor='#333',  # Dark grey background
-                        paper_bgcolor='#333',  # Dark grey background
-                        font={'color': 'white'},  # White text
-                    )
-                },
-                className='p-3 dark-bg'
-            ),
-        ], width=6, className='py-0'),
-    ]),
+                html.H1('Population groups in the state', className='card-body fw-bold shadow-lg text-white bg-primary text-center pt-4 pb-3'),
+                dcc.Graph(
+                    id='bar-chart',
+                    figure={
+                        'data': [],
+                        'layout': dict(
+                            barmode='group',
+                            xaxis={'title': 'Categories'},
+                            yaxis={'title': 'Population'},
+                            margin={'l': 40, 'b': 40, 't': 10, 'r': 10},
+                            hovermode='closest',
+                            plot_bgcolor='#333',  # Dark grey background
+                            paper_bgcolor='#333',  # Dark grey background
+                            font={'color': 'white'},  # White text
+                        )
+                    },
+                    className='p-3 dark-bg'
+                ),
+            ], width=6, className='py-0'),
+        ]),
 
-    # Modal
-    dbc.Modal(
-        [
-            dbc.ModalHeader(children=[html.H3('Indian Poverty Dynamics Dashboard')], className='text-center pt-5 px-5'),
-            dbc.ModalBody(className='mx-4', children=[
-                html.P("""This dashboard provides an analysis of district-wise poverty data 
-                based on NFHS Survey data in the NITI Aayog Multipoverty Index report.
-                \n\nExplore the data by selecting a state from the dropdown.
-                The dataset can be found at: """
-            ),
-            html.A("- CSV file.",
-                    href='https://github.com/tam0w/poverty_data/blob/master/datasets/final_dataset.csv'),
-            dbc.ModalFooter(
-                dbc.Button("Close", id="intro-modal-close", className="ml-auto")
-            ),
-        ])
-], id="intro-modal",
-        centered=True,
-        size='lg',
-        backdrop="static")
+    ])
+
+app.layout = html.Div([
+    dcc.Location(id='url', refresh=False),
+    html.Div(id='page-content')
 ])
 
+# Callback to switch between home and dashboard layouts
+@app.callback(
+    dash.dependencies.Output('page-content', 'children'),
+    [dash.dependencies.Input('url', 'pathname')]
+)
+def display_page(pathname):
+    if pathname == '/dashboard':
+        return dashboard_layout()
+    else:
+        return home_layout()
+
+# Callback to open the modal
 @app.callback(
     dash.dependencies.Output("intro-modal", "is_open"),
     [dash.dependencies.Input("intro-modal-close", "n_clicks")],
