@@ -14,15 +14,48 @@ def home_layout():
         html.H1("Indian Poverty Dynamics Dashboard", className='text-center pt-5 px-5 text-white'),
         html.Div(className='mx-4 row text-white', children=[html.Col(className='col-4'),
             html.P("""This dashboard provides an analysis of district-wise poverty data 
-                  based on NFHS Survey data in the NITI Aayog Multi-dimensional Poverty Index report.
-                  \n\nExplore the data by selecting a state from the dropdown.
-                  The dataset can be found at: """
-                   , className='col-4 text-white', style={'justify':'center'}),
-            html.A("Poverty Dataset CSV file.",
-                   href='https://github.com/tam0w/poverty_data/blob/master/datasets/final_dataset.csv', className='my-0 text-white')]),
+                  based on NFHS Survey data in the NITI Aayog Multi-dimensional Poverty Index report."""
+                ,className='col-4 text-white', style={'justify':'center'})]),
             html.Hr(),
-        dcc.Link("Go to Dashboard", href="/dashboard", className='btn btn-primary mt-3')
+        dcc.Link("Go to Dashboard", href="/dashboard", className='btn btn-primary mt-3 px-5'),
+        dcc.Link("Info", href="/info", className='btn btn-primary mt-3 px-5'),
+        dbc.CardImg(src="/assets/Image.webp", className='img-fluid mt-3', style={'width': '800px', 'height': '700px'}),
     ], className='text-center vh-100 vw-100', style={'background-image': f'url("/assets/5.png")', 'background-size': 'contain'})
+
+
+def info_layout():
+    return html.Div([
+        html.H1("About", className='text-center pt-5 px-5 text-white'),
+        html.Hr(), html.Div(className='mx-4 row text-white', children=[html.Col(className='col-3'),
+            html.P("""\n
+            We consider various parameters from the 2011 census data that may be relevant to the estimation of poverty in a district.
+
+At the time of the 2011 census, there were a recorded 640 districts. The HCR values will be considered for only these districts. There is no available data for a poverty indicator at the district level in the year 2011.
+
+To estimate and mesaure poverty we use the multi-dimensional poverty index (MPI) based on the 2023 NITI Aayog report which has the headcount of persons under the MPI line for the years 2014 and 2019. We will be using the head-count of the 2014 MPI for each district. This data will be scraped out of the report PDF file (resources/NITI_2023.pdf), and be stored in resources/dataset.csv""", className='col-6 text-white', style={'justify':'center'})
+                   ,
+            html.P("""Modules used: Plotly, Plotly-Dash, Dash-Bootstrap-Components, Pandas, Flask, pdfplumber.. etc""", className='text-white pb-4', style={'justify':'center'}),
+
+                 ]),
+        dash_table.DataTable(
+            columns=[
+                {'name': col, 'id': col} for col in
+                ['District', 'State', 'Area (sq km)', 'Total Population', 'Literate Population',
+                 'Total Working Population', 'Urban_Households', 'Households_with_Internet', 'MPI HCR']
+            ],
+            data=df.to_dict('records'),
+            style_table={'height': '440px', 'overflow': 'auto', 'padding-left': '30px', 'padding-right': '30px'},
+            page_size=11,
+            style_cell={'textAlign': 'center', 'padding': '7px'},
+            style_header={'backgroundColor': 'rgb(30, 30, 30)', 'color': 'white'},
+            style_data={'backgroundColor': 'rgb(50, 50, 50)', 'color': 'white'},
+            style_as_list_view=True,
+            selected_rows=[],
+            virtualization=False,
+
+        ),
+    ], className='text-center vh-100 vw-100',
+        style={'background-image': f'url("/assets/5.png")', 'background-size': 'contain'})
 
 # Define dashboard layout
 def dashboard_layout():
@@ -133,6 +166,8 @@ app.layout = html.Div([
 def display_page(pathname):
     if pathname == '/dashboard':
         return dashboard_layout()
+    if pathname == '/info':
+        return info_layout()
     else:
         return home_layout()
 
