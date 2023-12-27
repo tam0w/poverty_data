@@ -10,6 +10,13 @@
             </Attribute>
           </value>
         </entry>
+        <entry key="\assets\cloro.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="&#9;" />
+            </Attribute>
+          </value>
+        </entry>
         <entry key="\assets\mapdata.csv">
           <value>
             <Attribute>

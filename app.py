@@ -78,7 +78,7 @@ def dashboard_layout():
                     multi=False
                 ),
                 width={'size': 6, 'offset': 3, 'align': 'center'},
-                className='justify-content-center'
+                className='justify-content-center pt-2'
             ), className='px-0 mx-0 pt-2'
         ),
 
@@ -125,7 +125,7 @@ def dashboard_layout():
                     },
                     className='p-3 dark-bg'
                 ),
-            ], width=6, className='px-0 py-0'),
+            ], width=6, className='px-3 py-0'),
 
             dbc.Col([
 
@@ -147,10 +147,10 @@ def dashboard_layout():
                     },
                     className='p-3 dark-bg'
                 ),
-            ], width=6, className='px-0 py-0'),
+            ], width=6, className='px-3 py-0'),
         ]),
 
-    ], className='px-0')
+    ], className='px-3')
 
 
 app.layout = html.Div([
