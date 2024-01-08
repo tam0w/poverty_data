@@ -19,7 +19,6 @@ def home_layout():
             html.Hr(),
         dcc.Link("Go to Dashboard", href="/dashboard", className='btn btn-primary mt-3 px-5'),
         dcc.Link("Info", href="/info", className='btn btn-primary mt-3 px-5'),
-        dbc.CardImg(src="/assets/Image.webp", className='img-fluid mt-3', style={'width': '800px', 'height': '700px'}),
     ], className='text-center vh-100 vw-100', style={'background-image': f'url("/assets/5.png")', 'background-size': 'contain'})
 
 
