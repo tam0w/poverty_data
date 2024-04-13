@@ -7,3 +7,11 @@ At the time of the 2011 census, there were a recorded 640 districts. The HCR val
 To estimate and mesaure poverty we use the multi-dimensional poverty index (MPI) based on the 2023 NITI Aayog report which has the headcount of persons under the MPI line for the years 2014 and 2019. We will be using the head-count of the 2014 MPI for each district. This data will be scraped out of the report PDF file (resources/NITI_2023.pdf), and be stored in resources/dataset.csv 
 
 
+
+![](D:\PROJECTS\poverty_data\assets\use2.png)
+
+The plotly-based dashboard created looks like that. It provides 3 crucial graphs that give us crucial insights on to how the demographics of that state look, both aggregated and over the different districts.
+
+![](D:\PROJECTS\poverty_data\assets\use1.png)
+
+You can choose any of the administrative states or union territories as of census data of 2011.
