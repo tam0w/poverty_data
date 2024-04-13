@@ -1,6 +1,6 @@
 # Estimation of National Poverty using Data Analysis
 
-This notebook attempts to analyse and estimate poverty indicators at the Indian district level. We consider various parameters from the 2011 census data that may be relevant to the estimation of poverty in a district. 
+This project attempts to analyse and estimate poverty indicators at the Indian district level. We consider various parameters from the 2011 census data that may be relevant to the estimation of poverty in a district, and join them with their relevant poverty indicators. 
 
 To estimate and mesaure poverty we use the multi-dimensional poverty index (MPI) based on the 2023 NITI Aayog report which has the headcount of persons under the MPI line for the years 2014 and 2019. We will be using the head-count of the 2014 MPI for each district. This data will be scraped out of the report PDF file (resources/NITI_2023.pdf), and be stored in resources/dataset.csv
 
