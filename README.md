@@ -1,8 +1,14 @@
 # Dataset
 
-Final Dataset is stored as DATASET.csv in the root folder. Feel free to use in your projects. 
+Final Dataset is stored as [DATASET.csv](https://github.com/tam0w/poverty_data/blob/master/DATESET.csv) in the root folder. Feel free to use in your projects. 
 
-Preview:
+Example:
+
+|State         |District|Area (sq km)|Households|Total Population|Total Males|Total Females|Literate Population|Literate Males|Literate Females|Illiterate Population|Males Illiterates|Female Illiterates|Total Working Population|Total Working Males|Total Working Females|Unemployed Population|Unemployed Males|Unemployed Females|ST    |SC    |Hindus |Muslims|Sikhs|Buddhists|Jains|Others_Religions|Religion_Not_Stated|Households.1|Rural_Households|Urban_Households|Households_with_Internet|MPI HCR|
+|--------------|--------|------------|----------|----------------|-----------|-------------|-------------------|--------------|----------------|---------------------|-----------------|------------------|------------------------|-------------------|---------------------|---------------------|----------------|------------------|------|------|-------|-------|-----|---------|-----|----------------|-------------------|------------|----------------|----------------|------------------------|-------|
+|ANDHRA PRADESH|Adilabad|16105.0     |649849    |2741239         |1369597    |1371642      |1483347            |856350        |156831          |1257892              |513247           |744645            |1323667                 |748939             |574728               |1417572              |620658          |796914            |495794|488596|2399901|275970 |1377 |25510    |617  |322             |22120              |817714      |597466          |220248          |5512                    |27.12% |
+|UTTAR PRADESH |Agra    |4041.0      |710566    |4418797         |2364953    |2053844      |2680510            |1614594       |127908          |1738287              |750359           |987928            |1389844                 |1119701            |270143               |3028953              |1245252         |1783701           |7255  |991325|3922718|411313 |12057|4049     |21508|384             |36692              |903823      |496971          |406852          |27183                   |32.83% |
+
 
 # Estimation of National Poverty using Data Analysis
 
